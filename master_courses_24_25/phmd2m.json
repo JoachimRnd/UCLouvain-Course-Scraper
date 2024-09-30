@@ -1,0 +1,581 @@
+[
+    {
+        "url": "https://uclouvain.be/cours-2024-wrdth2331b",
+        "title": "Radiobiology - (partim radiobiology)",
+        "credits": "2.00",
+        "hours": "22.5 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "topics_covered": "Radiobiologie. 1. Effets physiques initiaux de l'irradiation. 2. Chimie sous rayonnement. (H. Menzel, B. Tilquin) 3. Effets des rayonnements sur les molécules d'ADN. 4. Effets du rayonnement sur les chromosomes. (transfert RPR 2110) 5. Effets cellulaires des rayonnements ionisants. 6. Effets des radiations sur les tissus de mammifères. 7. Les modifications chimiques de la radiosensibilité. 8. Les neutrons et autres particules lourdes. 9. Effets des radiations sur l'organisme humain. La radiopathologie. (transfert RPR 2110) Radiogénétique Intoduction générale: les radiations ionisantes, notions de radiobiologie, Rappel de biologie cellulaire et moléculaire: le génome, le cycle cellulaire, la communication intra-cellulaire Effet des radiations ionisantes sur l'intégrité du génome: spectre et distribution des lésions, mécanismes de réparation Effet des radiations ionisantes sur le cycle cellulaire: rôle des points de transition dans l'homéostasie cellulaire Radiations ionisantes et apoptose: implication en cancérogenèse et en thérapie Les \"syndromes d'hypersensibilité\" aux radiations ionisantes: implication en cancérogenèse et en thérapie La dosimétrie biologique: techniques, utilité et limitation (avec assistance de N).",
+        "responsible_entity": "MED"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgbio1111",
+        "title": "Biologie et physiologie cellulaire",
+        "credits": "5.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "De Smet Charles",
+            "Jacques Laurent",
+            "Kienlen-Campard Pascal"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Aucun",
+        "topics_covered": "Ce cours introductif sur la cytologie et la physiologie cellulaire et moléculaire souligne les démarches expérimentales utilisées pour la compréhension de l'organisation structurale et fonctionnelle de la cellule animale. La propagation de l'influx nerveux, la contraction musculaire, l'électrophysiologie cellulaire sont également abordées afin d'illustrer la spécialisation cellulaire, ses effets sur les adaptations de structure et de fonction et les outils mesurant ces processus. Le choix de processus cellulaires faisant partie des domaines de l'investigation de l'ingénieur contribuera à développer les bases nécessaires en vue de leur modélisation et de l'analyse et/ou acquisition de mesures biologique, y compris par microscopie.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA du programme « Bachelier ingénieur civil », ce cours contribue au développement, à l'acquisition et à l'évaluation des acquis d'apprentissage suivants : AA1.1, AA1.2,  AA5.1 À l'issue de ce cours, l'étudiant sera en mesure de : Comprendre le fonctionnement des organismes vivants à l'échelle de la cellule; Décrire les structures observées dans une cellule et leurs fonctions; Intégrer le concept d'unité de vie (la cellule) malgré la diversité d'organisations, de formes et de fonctions des êtres vivants; Décrire les concepts de la base de la génétique classique et moléculaire, menant au développement du génie génétique; Expliquer des processus cellulaires (transport membranaire, biosignalisation, communication extracellulaire, influx nerveux, contraction musculaire) en termes d'interactions physico-chimiques et moléculaires entre composants cellulaires; Connaître les techniques de base pour l'expérimentation cellulaire (multiplication du matériel biologique, mesures d'activité, interprétations); Appréhender les principes de base permettant d'observer les cellules et leurs composants sous un microscope; Restaurer des images altérées par l'ajout de bruit ou par un floutage; Appliquer des opérations de filtrage et de seuillage pour détecter des structures d'intérêt dans des images de cellules.",
+        "content": "Organisation des cellules Les molécules du vivant Organisation fonctionnelle, communication et division cellulaires Du gène à la protéine Polymorphisme génétique et hérédité Mécanismes cellulaires et moléculaires des fonctions cellulaires spécialisées Influx nerveux et contraction musculaire, en relation avec les processus physiologiques Introduction aux techniques expérimentales basées sur les propriétés cellulaires spécialisées (électrophysiologie) Introduction aux techniques d'imagerie cellulaire : microscopes optiques et électroniques ; traitement d'images digitales : déconvolution, segmentation des composants cellulaires, et analyse statistique de la structure cellulaire.",
+        "teaching_methods": "Exposés magistraux, et séances de travaux dirigés comprenant des exercices de génétique et hérédité, ainsi que l'introduction à des techniques expérimentales en biologie moléculaire et cellulaire. La partie dédiée à la visualisation des cellules et de leurs molécules est organisée autour de trois cours théoriques, traitant des problématiques communément rencontrées en microscopie cellulaire (photon vs. électron, fluorescence, microscopie confocale, débruitage et analyse quantitative des images).",
+        "assessment_methods": "Un examen écrit portera sur les matières abordées dans le cours. L'évaluation des travaux réalisés pendant les séances pratiques ou dirigées sera intégrée dans la note final.",
+        "online_resources": "Moodle http://Moodle : http://moodleucl.uclouvain.be/course/view.php?id=9006",
+        "bibliography": "Un ouvrage de référence en Biologie sera recommandé aux étudiants Les supports et documents sont disponibles sur Moodle",
+        "course_materials": "Les diaporamas du cours (disponible via moodle) Des documents de travail pour les travaux dirigés (moodle)",
+        "responsible_entity": "GBIO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphmd2366",
+        "title": "Internship 1",
+        "credits": "9.00",
+        "hours": "",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2392",
+        "title": "Radiopharmacy",
+        "credits": "3.00",
+        "hours": "9.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> G0T92A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-wfsp2108",
+        "title": "Bioéthique",
+        "credits": "4.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Cobbaut Jean-Philippe",
+            "Loute Alain"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "cours d'introduction à l'ethique clinique",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 être capable d'identifier un dilemme éthique,  d'utiliser une boîte à outils de principes éthiques,  et de les contextualiser être sensible à de nouvelles questions anthropologiques et sociales émergeant des avancées des biotechnologies. Analyse de la différence normative  entre éthique clinique et éthique de la santé publique",
+        "content": "Ce cours entend introduire les étudiants à la bioéthique à partir d’une triple approche. Une approche théorique de la bioéthique Ce cours visera à fournir des repères conceptuels et théoriques aux étudiants. Les différents courants qui jalonnent l’histoire de la bioéthique seront présentés : principlism , éthique clinique, médecine narrative, éthique du care , éthique des vertus, utilitarisme, philosophie du soin, etc. Une approche institutionnelle de la bioéthique Cette approche théorique s’articulera avec une approche « institutionnelle » de la bioéthique. L’histoire de cette dernière n’est en effet pas seulement une histoire de théories, mais également des formes institutionnelles, pratiques et méthodologiques que l’éthique a pris pour s’effectuer dans le réel. Une approche contextuelle de la bioéthique Cette traversée de la bioéthique prendra aussi la forme d’une histoire des problèmes éthiques qui ont suscité la réflexion éthique. De nombreux cas et dilemmes seront présentés au fil du cours. Ils seront sélectionnés pour la place qu’ils ont occupée dans l’histoire de la bioéthique ou, dans le contexte actuel, pour les questions éthiques inédites qu’ils soulèvent.",
+        "teaching_methods": "Le cours alternera des exposés théoriques avec la présentation de cas cliniques et de dilemmes éthiques. Une place sera donnée également au débat et aux échanges dans l'auditoire.",
+        "assessment_methods": "Examen écrit",
+        "online_resources": "moodle",
+        "bibliography": "Une bibliographie sera accessible sur Moodle et actualisée au fil du cours.",
+        "course_materials": "Mis à disposition sur Moodle",
+        "responsible_entity": "FSP"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lfilo2003e",
+        "title": "Questions d'éthique dans les sciences et les techniques (partie séminaire)",
+        "credits": "2.00",
+        "hours": "15.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Français",
+        "prerequisites": "Le cours suppose une formation de base à la philosophie des sciences de la nature et à la réflexion éthique ; une connaissance au moins passive de l'anglais suffisante pour pouvoir lire des textes courants en philosophie de la nature et des sciences de la nature.",
+        "topics_covered": "En vue d'une analyse philosophique des pratiques techno-scientifiques contemporaines selon une double orientation, il s'agira - d'étudier les dimensions sociétales de la pratique technico-scientifique et d'introduire aux concepts fondamentaux de la sociologie des sciences ainsi que des courants \" Sciences, technologies, sociétés \" - d'envisager les dimensions éthiques des pratiques scientifiques, dans les multiples dimensions de la sphère techno-scientifique. Le cours comportera deux moments : Un premier moment, théorique, consistera en une introduction aux concepts de base de la sociologie des sciences ainsi qu'aux concepts fondamentaux des approches éthiques des sciences et des techniques. Une deuxième partie consistera en l'analyse de situations particulières, les études de cas choisies pouvant varier chaque année.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Au terme du cours, l'étudiant sera capable : d'analyser les pratiques techno-scientifiques contemporaines de dégager les enjeux éthiques et sociétaux de ces pratiques",
+        "content": "L'objectif du cours est de proposer les concepts de base pour une approche critique des relations sciences-sociétés dans leur dimension éthique. Le cours prend la forme d'une activité interdisciplinaire, tant au niveau des titulaires qu'au niveau de la dynamique générale. Ce cours comporte 2 ECTS pour les scientifiques et 5 ECTS pour les philosophes. Le cours comporte donc 2 parties distinctes. 1) Partie destinée à tout l'auditoire : Six séances d'exposés suivis de débats par les titulaires du cours sur des thèmes généraux (par ex., justifications de l'éthique, biodiversité et enjeux économiques, organismes génétiquement modifiés, politique énergétique, fécondation in vitro, etc.). 2) Partie spécifique aux étudiants en philosophie : Les étudiants en philosohie rédigent de plus un travail approfondi d'une douzaine de pages sur les dimensions philosophiques et éthiques du thème travaillé avec les étudiants en sciences (voir ci-dessous).",
+        "teaching_methods": "Présentations thématiques par les titulaires en binôme (scientifique et philosophe), suivies d'un débat avec toute la classe Visionage d'un film Présentation des travaux de groupe par les étudiant·e·s",
+        "assessment_methods": "1. Séminaire commun avec les étudiants de la Faculté des sciences (2 ECTS) Les travaux sont préparés par groupes inter-disciplinaires (2 à 4 étudiants) sur un thème choisi en concertation avec les co-titulaires du cours. Les travaux font l'objet d'un rapport écrit et d'un exposé oral avec discussion prévu lors du mini-symposium qui clôture le cours. 2. Séminaire entre philosophes (3 ECTS) Les étudiants en philosophie sont invités à produire un travail philosophique d'une douzaine de pages d'approfondissement du thème traité avec les étudiants en sciences. L'évaluation porte sur les deux travaux présentés, pondérés en fonction du nombre de crédits qui leur sont associés (40% travail de groupe, 60% travail individuel).",
+        "online_resources": "Présentations PowerPoint et autre lecture pertinente accessibles sur Moodle.",
+        "responsible_entity": "EFIL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2370",
+        "title": "Human Anatomy and Histology",
+        "credits": "3.00",
+        "hours": "18.0 h",
+        "quadrimester": "Q2",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> G0F70A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2379",
+        "title": "Ethics and Law in Biomedical Research",
+        "credits": "3.00",
+        "hours": "20.0 h",
+        "quadrimester": "Q2",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> E07U9A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgbio2050",
+        "title": "Medical Imaging",
+        "credits": "5.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Kerckhofs Greet",
+            "Lee John",
+            "Macq Benoît"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Les étudiants doivent maîtriser les compétences suivantes: notions mathématiques de base (dérivées, systèmes de coordonnées) et la transformée de Fourier, telles que couvertes dans le cadre du cours LFSAB1106",
+        "topics_covered": "Le cours aborde les bases de l'imagerie médicale. Sont abordés le traitement informatique d'images numériques, ainsi que les principales modalités d'imagerie médicale (imagerie de transmission, imagerie d'émission, échographie par ultrasons et résonance magnétique nucléaire).",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA du programme « Master ingénieur civil biomédical », ce cours contribue au développement, à l'acquisition et à l'évaluation des acquis d'apprentissage suivants : AA1.1, AA1.2, AA1.3 AA2.1, AA2.2, AA2.3, AA2.4 AA4.1, AA4.2, AA4.4 AA5.2, AA5.4 a. Acquis d'apprentissage disciplinaires À l'issue de ce cours, l'étudiant sera en mesure de : Partie 1 (traitement informatique d'images numériques) : Définir de manière  formelle une image et ses propriétés (dimension, matrice de pixel/voxel, colormap, histogramme, encodage des couleurs ou des canaux, encodage de la matrice, compression, représentation de l'espace des fréquences). (axe 1.1) Enumérer les grandes classes de problèmes résolus par le traitement d'image (débruitage, déconvolution, filtrage, détection de bord, segmentation, recalage). (axes 1.1 et 1.2) Enumérer quelques méthodes types pour résoudre ces différentes classes de problèmes. (axe 1.2) Justifier le choix d'une méthode (représentation des données, critère à optimiser) en fonction de problèmes simples donné (segmentation d'une coupe, reclalage de deux coupes, etc.). (axes 1.3 et 2.3) Résoudre ces problèmes simples en implémentant en Matlab les algorithmes correspondant aux méthodes vues au cours. (axes 2.1, 2.2, 2.3, 2.4) Partie 2 (IRM et échographie) : Expliquer le principe physique sur lequel repose l'imagerie par résonance magnétique (IRM) : Résonance Magnétique Nucléaire (spins, excitation, réception, relaxation, déplacement chimique,...). (axe 1.1) Expliquer le principe qui permet de construire une image : gradients, sélection d'une coupe/volume, encodage de fréquence/phase, espace des k, transformé de Fourier, résolution,...,et décrire les artéfacts possibles. (axes 1.1 et 1.2) Enumérer et décrire quelques séquences pour l'acquisition des images (écho de spin et gradient., séquences ultrarapides et imagerie écho-planaire) et comparer leurs avantages, inconvénients, et conditions d'application. (axe 1.1) Enumérer et décrire les contrastes possibles : densité de protons, T1, T2, T2*, flux, diffusion, perfusion, IRM fonctionnelle et spectroscopique. (axe 1.1) Expliquer les principes de l'échographie : ultrasons, transducteurs, formation et qualité de l'image, mode Doppler,... (axe 1.1) Partie 3 (modalités d'imagerie utilisant les rayonnements ionisants) : Enumérer les différentes modalités d'imagerie vues au cours (radiographie, tomographie CT, scintigraphie, SPECT et PET) et expliquer leur principe de fonctionnement (au niveau physique, essentiellement), mentionner leurs applications, leurs avantages et leurs limitations. (axe 1.1) Comparer les performances des différentes modalités ainsi que la qualité des images obtenues (résolution, bruit, contraste). (axe 1.2) Discuter de la spécificité de chaque technique et de la complémentarité des différentes modalités.  (axe 2.3) b. Acquis d'apprentissage transversaux À l'issue de ce cours, l'étudiant sera en mesure de : Répondre aux objectifs d'un cours dispensé en anglais (compréhension des cours ex-cathedra et des supports écrits). (axes 5.2 et 5.4) Travailler en binôme sur des petits projets (challenges), c'est-à-dire : pouvoir répartir efficacement le travail, comprendre et décrire le travail de l'autre étudiant, rédiger conjointement un rapport. (axes 4.1, 4.2 et 4.4)",
+        "content": "Le cours est divisé en trois parties : Partie 1 : traitement informatique d'images numériques (définition d'une image, propriétés, histogramme, spectre, segmentation, détection de bord, filtrage, morphologie mathématique, recalage) Partie 2 : imagerie par résonance magnétique nucléaire et échographie ultrasonique (systèmes linéaires : convolution, point spread function, transformée de Fourier, échantillonnage ; reconstruction des images : transformée de Radon, rétroprojection filtrée, reconstruction algébrique) Partie 3 : imagerie de transmission (radiographie et tomodensitométrie) et d'émission (scintigraphie, SPECT et PET)",
+        "teaching_methods": "Le cours est organisé autour de cours magistraux dispensés en anglais, de trois séances d'exercices introductifs ou de rappel, et de trois mini-projets (challenges). Ces 'challenges' sont basés sur les trois différentes parties des cours magistraux..Pour chaque challenge, les groupes (binômes) devront remettre un rapport. Ces rapports seront évalués. Lors d'une séance de debriefing les problèmes les plus fréquemment rencontrés seront présentés et débattus entre l'enseignant et les étudiants (les problèmes les plus fréquemment rencontrés). Une visite d'installations d'imagerie aux cliniques universitaires Saint-Luc complète le programme. Toutes les activités présentielles peuvent basculer en comodal ou en distanciel en fonction des conditions sanitaires.",
+        "assessment_methods": "Cotation des travaux pratiques La note globale des travaux pratiques et projet intervient dans la cote finale à hauteur de 7 points sur 20. Les séances pratiques seront divisées en deux parties. La première partie des séances pratiques consistera en 4 petits défis pour apprendre les bases des algorithmes de traitement de l'imagerie médicale et représentera la moitié des points de la partie pratique du cours. La deuxième partie des séances pratiques sera consacrée à un projet plus important qui explorera l'utilisation des algorithmes de traitement pour résoudre un problème médical spécifique et représentera l'autre moitié des points de la partie pratique du cours. La soumission de tous les rapports de défi est obligatoire pour être admis à l'examen oral pour la première partie du cours. Évaluation des résultats d'apprentissage Les étudiants seront évalués individuellement et oralement sur la base des contenus et des résultats d'apprentissage mentionnés ci-dessus. L'examen oral portera sur : Partie 1 (5 points sur 20, traitement d'image) : l'étudiant doit répondre à deux questions portant sur les méthodes et les algorithmes utilisés dans les défis (voir ci-dessous). À partir d'un problème simple (qui peut être résolu avec un stylo et du papier), l'étudiant doit être capable de justifier ses choix. Partie 2 (3 points sur 20, IRM) : l'étudiant doit répondre à deux questions (examen oral avec préparation écrite). Partie 3 (5 points sur 20, modalités d'imagerie utilisant des rayonnements ionisants) : l'étudiant doit répondre à deux questions (examen oral avec préparation écrite).",
+        "other_info": "Les deux premières séances de travaux pratiques sont organisées en salle informatique",
+        "online_resources": "Moodle https://moodle.uclouvain.be/course/view.php?id=1072",
+        "bibliography": "Support de cours : Partie 1 et 3: transparents. Parties 2 : transparents et syllabus. Les documents du cours sont disponibles sur Moodle. Course material : Parts 1 and 3: slides. Part 2: slides and syllabus. The course documents are available on Moodle.",
+        "course_materials": "Transparents et notes relatives aux séances de cours disponibles sur Moodle. Slides and notes from class lectures available on Moodle",
+        "responsible_entity": "GBIO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-wrfar2100",
+        "title": "Radiochimie, radiotoxicologie et radiopharmacie",
+        "credits": "4.00",
+        "hours": "22.5 h + 60.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Gallez Bernard"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "I. COURS MAGISTRAL\rBrefs rappels de physique nucléaire\rCinétiques de radioactivité\rInteractions des rayonnements avec la matière\rDétection des rayonnements\rRadiotoxicologie\rRadiochimie\rRadiopharmacie\rII. TRAVAUX PRATIQUES\rStatistiques de comptage\rMesure d'atténuation en fonction du rayonnement\rMarquage d'une protéine, purification, vérification de la pureté radiochimique\rScintillation liquide : correction quenching, chémoluminescence\rDétermination du volume sanguin\rContrôle d'un générateur 99Mo/99m Tc\rPureté radiochimique, radionucléidique\rDistribution biologique\rIII SEMINAIRES\rSous forme de travaux par groupes de deux étudiants, en fonction de la spécialisation, sont discutées des données de la littérature portant sur le métabolisme de radionucléides, la radiotoxicité de radionucléides, le traitement d'intoxications, le contrôle de qualité RIA, le contrôle de qualité radiopharmaceutique. Sont aussi proposées en option des visites IRE, centrales nucléaires...",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours de formation spécialisée s'adresse à des personnes qui seraient amenées à exercer des activités dans le domaine de l'utilisation de radionucléides non scellés. Il vise à introduire l'étudiant à 3 domaines particuliers relatifs à l'usage de ces sources non scellées: (1) éléments de radiotoxicologie (focalisation sur les contaminations internes, leur diagnostic et leur traitement) ; (2) radiochimie (focalisation sur les réaction nucléaires et les techniques de marquages de composés à intérêt médical) ; (3) radiopharmacie (description des programmes d'assurance et de contrôles de qualité radiopharmaceutique ; description de problèmes particuliers relatifs à certains composés radiopharmaceutiques.",
+        "content": "Pré-requis de physique nucléaire Radiotoxicologie: principes généraux Radiotoxicologie: contaminations internes Modulateurs de la radiosensibilité Radiopharmacie: principes généraux et critères de qualité Radiopharmacie: Assurance de qualité Radiopharmaceutiques technétiés Autres radiopharmaceutiques",
+        "teaching_methods": "Auto-apprentissage à l'aide de diaporamas commentés et de quiz sur Moodle. Les acquis d'apprentissage y sont décrits pour chaque chapitre. Quelques séances d'activation en Live permettent d'aborder des cas particuliers et de répondre aux questions des étudiants",
+        "assessment_methods": "Examen écrit (QCM)",
+        "other_info": "PUBLICS : pharmaciens d'hôpitaux, médecins nucléaristes, radiopharmaciens, médecins/physiciens inscrits au DEC ou DES en radioprotection.",
+        "online_resources": "Notes de cours + infos complémentaires sur Moodle",
+        "course_materials": "Tous les supports de cours sont en ligne sur Moodle",
+        "responsible_entity": "FARM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-wrpr2002",
+        "title": "Compléments de radioprotection",
+        "credits": "3.00",
+        "hours": "20.0 h + 10.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Dumitriu Dana Ioana",
+            "Gheysens Olivier",
+            "Jamar François"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Processus d'élaboration des normes de radioprotection : acteurs, discussion du rôle de l'expert, aspects éthiques et épistémologiques.\rEffets héréditaires radio-induits : discussion approfondie.\rAccidents d'irradiation : conséquences, y-compris le point de la situation en ce qui concerne les suites de l'accident de Tchernobyl.Effets déterministes à long terme : présentation et discussion, y-compris les données nouvelles en provenance de Hiroshima-Nagasaki.\rLégislation : description détaillée.\rMesures d'urgence en cas d'exposition accidentelle, y-compris la question des éventuelles greffes de moelle.\rCancers radio-induits : discussion approfondie.\rRadioprotection opérationnelle : sources scellées ; contamination, notions de dose efficace et engagée et calcul de celles-ci ; limites dérivées.\rEffets de l'irradiation in-utero : discussion approfondie. \rExposition au radon : risques pour la santé et approche en radioprotection.",
+        "responsible_entity": "CRPR"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-wrdth3161",
+        "title": "Quality assurance and special techniques in radiotherapy",
+        "credits": "3.00",
+        "hours": "20.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            ". SOMEBODY",
+            "Sterpin Edmond"
+        ],
+        "teaching_language": "Anglais",
+        "responsible_entity": "MED"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgbio2070",
+        "title": "Engineering challenges in protontherapy",
+        "credits": "5.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Janssens Guillaume",
+            "Lee John",
+            "Sterpin Edmond"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "La protonthérapie gagne de plus en plus d'importance comme une modalité de traitement alternatif à la radiothérapie pour des types particuliers de patients et de cancers. Comparés aux photons, les protons déposent leur énergie dans une région beaucoup plus localisée, ce qui permet de beaucoup mieux cibler la tumeur et réduit donc les effets secondaires, principalement au niveau des tissus sains. Le cours se construit sur 4 piliers : Pilier 1 : l'oncologie par radiation. -          Bases du cancer et de la carcinogenèse -          Traiter le cancer avec des radiations : principes et éléments de radiobiologie -          Etapes principales d'un protocole traitement par radiothérapie -          Introduction à la thérapie par particules : principes et état de l'art -          Radioprotection : blindage de la zone de traitement, protection du personnel et du patient -          L'économie de la santé : options de traitement et aiguillage/orientation des patients, remboursement et impact sur les services de sécurité sociale Pilier 2 : les technologies pour la protonthérapie. Ce pilier donne un regard spécifique sur le processus de « livraison » du proton, çàd couvrant la génération du proton, son accélération (synchrotron/cyclotron), son convoyage par champs magnétiques, et jusqu'au dépôt dans une zone bien définie dans le patient. -          Produire et accélérer des protons: cyclotrons et synchrotrons -          Conception détaillées de cyclotrons (et synchro-cyclotrons) -          Ligne de guidage du faisceau, magnéto-optique -          Robotique : structures tournantes, systèmes de positionnement -          Faisceau thérapeutique : pencil beam scanning (balayage par un faisceau fin) -          Sécurité et assurance qualité dans les technologies médicales : automates de sécurité, interlocks, redondances, dispositifs de mesure du faisceau (chambres d'ionisation) et analyse des données du faisceau Pilier 3 : technologies auxiliaires pour la protonthérapie. Ce pilier couvre les dispositifs et flux de données associés au traitement (sa préparation, son exécution, et sa vérification), avec toutes leurs spécificités, en comparaison aux traitements par radiothérapie conventionnelle (rayons X). -          Système de planification de traitement (treatment planning system, TPS), gestion informatique des dossiers oncologiques (oncology information system, OIS), imagerie ; rôle de l'intégration software -          Calcul de dose, ce incluant des méthodes analytiques et stochastiques par simulations Monte Carlo, l'optimisation des plans de traitement, l'évaluation de leur robustesse face aux incertitudes et l'optimisation robuste. -          L'imagerie dans et en-dehors de la salle de traitement (computed tomography (CT), on-board cone-beam CT (CBCT), imagerie par résonnance magnétique (MRI)). Reconstruction et analyses d'images. -          Vérification in vivo de la longueur de parcours des protons: caméra à gamma prompt, radiographie proton et tomographie par émission de positons (PET) Pilier 4 : les traitements du futur. -          Le guidage par image : état de l'art et perspectives, évolution vers des traitements adaptatifs -          Résoudre les challenges de la protonthérapie : voies d'innovation (incertitudes de longueur de parcours, imagerie du proton, etc.) -          Traitements émergents : introduction à la thérapie par faisceau d'ions Traitements émergents : combinaison de la radiation et de la médication",
+        "content": "La protonthérapie gagne de plus en plus d’importance comme une modalité de traitement alternatif à la radiothérapie pour des types particuliers de patients et de cancers. Comparés aux photons, les protons déposent leur énergie dans une région beaucoup plus localisée, ce qui permet de beaucoup mieux cibler la tumeur et réduit donc les effets secondaires, principalement au niveau des tissus sains. Le cours se construit sur 4 piliers : Pilier 1 : l’oncologie par radiation. Bases du cancer et de la carcinogenèse Traiter le cancer avec des radiations : principes et éléments de radiobiologie Etapes principales d’un protocole traitement par radiothérapie Introduction à la thérapie par particules : principes et état de l’art Radioprotection : blindage de la zone de traitement, protection du personnel et du patient L’économie de la santé : options de traitement et aiguillage/orientation des patients, remboursement et impact sur les services de sécurité sociale Pilier 2 : les technologies pour la protonthérapie. Ce pilier donne un regard spécifique sur le processus de « livraison » du proton, çàd couvrant la génération du proton, son accélération (synchrotron/cyclotron), son convoyage par champs magnétiques, et jusqu’au dépôt dans une zone bien définie dans le patient. Produire et accélérer des protons: cyclotrons et synchrotrons Conception détaillées de cyclotrons (et synchro-cyclotrons) Ligne de guidage du faisceau, magnéto-optique Robotique : structures tournantes, systèmes de positionnement Faisceau thérapeutique : pencil beam scanning (balayage par un faisceau fin) Sécurité et assurance qualité dans les technologies médicales : automates de sécurité, interlocks, redondances, dispositifs de mesure du faisceau (chambres d’ionisation) et analyse des données du faisceau Pilier 3 : technologies auxiliaires pour la protonthérapie. Ce pilier couvre les dispositifs et flux de données associés au traitement (sa préparation, son exécution, et sa vérification), avec toutes leurs spécificités, en comparaison aux traitements par radiothérapie conventionnelle (rayons X). Système de planification de traitement (treatment planning system, TPS), gestion informatique des dossiers oncologiques (oncology information system, OIS), imagerie ; rôle de l’intégration software Calcul de dose, ce incluant des méthodes analytiques et stochastiques par simulations Monte Carlo, l’optimisation des plans de traitement, l’évaluation de leur robustesse face aux incertitudes et l’optimisation robuste. L’imagerie dans et en-dehors de la salle de traitement (computed tomography (CT), on-board cone-beam CT (CBCT), imagerie par résonnance magnétique (MRI)). Reconstruction et analyses d’images. Vérification in vivo de la longueur de parcours des protons (caméra à gamma prompt, radiographie proton et tomographie par émission de positons (PET)) Pilier 4 : les traitements du futur. Le guidage par image : état de l’art et perspectives, évolution vers des traitements adaptatifs Résoudre les challenges de la protonthérapie : voies d’innovation (incertitudes de longueur de parcours, imagerie du proton, etc.) Traitements émergents : proton-thérapie rotationnelle Traitements émergents : introduction à la thérapie par faisceau d’ions Traitements émergents : combinaison de la radiation et de la médication",
+        "teaching_methods": "Le cours combine une série de séances ex-cathedra - donnant une forte importance sur les aspects « systèmes » d'un centre de protonthérapie - et des projets de groupe (apprentissage par projet, APP) menés par les étudiants. Les groupes sont composes de X étudiants (à déterminer). Les modalités pratiques (présentiel/comodal/distanciel) dépendent des conditions sanitaires. Les sujets possibles pour les travaux de groupe (APP) sont : -          Le pré-dimensionnement des équipements principaux (accélérateur, aimants d'une ligne de faisceau, besoins globaux en énergie/puissance/rapport de masse, ...) -          Reconstruction CT/CBCT de base -          Moteur de calcul de dosage de base -          Stratégies pour gérer les incertitudes (par exemple au-travers de marges et/ou de planification robuste) -          Last but not least, quelques activités pratiques pourraient être envisagées au sein du centre en protonthérapie Leuven/Louvain à l'horizon 2019-2020 Une visite sur site d'un centre de protonthérapie à proximité (max. 3 heures de voiture) pourrait être envisagée.",
+        "assessment_methods": "Les laboratoires comptent pour 50% de la note. Pour chaque projet, l’évaluation porte sur la qualité de la programmation et du rapport fourni. Pour chaque projet, les rapports doivent être rendus deux semaines après la dernière session de laboratoire correspondante. Si la date limite n'est pas respectée, il y a une pénalité de 2 points pour chaque 48 heures entamées. Il n'y a pas de possiblité de rendre son rapport ou d'améliorer sa note pour la seconde session en Aout. L’examen final compte pour 50% de la note. C'est un examen oral avec préparation. La préparation se fait à cahier ouvert.",
+        "other_info": "Tous les cours sont donnés sous format hybride (présentiel et distanciel). Les cours en présentiel sont donnés sur le site de Louvain-la-Neuve.",
+        "online_resources": "Voir le site Moodle : https://moodleucl.uclouvain.be/course/view.php?id=11642",
+        "bibliography": "Harald Paganetti \"Proton Therapy Physics\" CRC Press",
+        "responsible_entity": "GBIO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2377",
+        "title": "Radiation Epidemiology and Radiopathology",
+        "credits": "4.00",
+        "hours": "13.0 h",
+        "quadrimester": "Q1 et Q2",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> E05U9A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-wrdth3160t",
+        "title": "Technology, Dosimetry and Treatment Planning in Radiotherapy - (theory)",
+        "credits": "3.00",
+        "hours": "20.0 h",
+        "quadrimester": "Q1",
+        "teaching_language": "Anglais > English-friendly",
+        "topics_covered": "A. Production des faisceaux cliniques : \r- Cobalt-60, \r- accélérateurs linéaires, \r- faisceaux de neutrons, protons, ions lourds. \rB. Définitions utilisées en dosimétrie cliniques: \r- pdd, RTM, RTA, OAR, isodoses, BSF, PSF. \rC. Calcul de dose en radiothérapie : \r- des calculs simples \r- des conversions pdd en RTM ou RTA et inversément \r- planification d'un traitement \r- optimisation du plan de traitement. \rD. Assurance de qualité en radiothérapie : \r- importance \r- recommandations \r- contrôles de qualité des appareils de traitements \r- contrôles de qualité des systèmes de planification \r- contrôles de qualité des scanners pour utilisation en radiothérapie \r- dosimétrie in-vivo. \rE. Dosimétrie en curiethérapie. \rF. Travaux pratiques (3x4h).",
+        "content": "Merci d'ignorer ce qui est écrit dans la section \"Thèmes abordés\". Ce qui suit remplace. Le principe est d’enseigner aux étudiants les notions théoriques essentielles sous-tendant la pratique de la radiothérapie, à la fois pour préparer l’étudiant à un éventuel stage dans un service de radiothérapie, ou bien pour lui fournir une connaissance du terrain solide appréciée par les entreprises travaillant dans le domaine. Des aspects spécifiques à la protonthérapie sont également abordés. Le cours s'articule autour des objectifs suivants Acquérir les principes de la dosimétrie de référence et de la dosimétrie petits champs Enseigner aux étudiants l'algorithmique de base des moteurs de calcul de dose. L'étudiant devra implémenter un algorithm de pencil beam convolution en tant que travail de laboratoire. Transmettre les principes généraux qui sous-tendent la délimitation des volumes en radiothérapie (principalement GTV - CTV - PTV), ainsi que leurs spécificités selon les localisations. Le concept de marges de sécurité PTV sera détaillé et illustré par un laboratoire. Présenter les développements récents dans le domaine de la radiothérapie : planification probabiliste, planification robuste, radiothérapie adaptative, planification automatique avec intelligence artificielle,...",
+        "teaching_methods": "La formation associe des cours théoriques réguliers et des séances pratiques. Tous les cours théoriques sont soit pré-enregistrés, soit enregistrés (si le pré-enregistrement n'est pas disponible). Ainsi, l’enseignement présentiel peut être adapté en fonction des demandes des étudiants présents en classe. Lorsqu'un pré-enregistrement est disponible, nous privilégions un enseignement dynamique avec de larges développements au tableau sur des parties précises du cours. Les étudiants sont encouragés à visionner les cours préenregistrés avant la séance en classe afin de pouvoir poser des questions et demander des développements spécifiques. La présence physique est obligatoire pour les séances pratiques. L'horaire sera donné lors du premier cours. Aucun streaming ni enregistrement n'est prévu pour les séances pratiques (une séance pour le laboratoire de calcul de dose ; une séance pour le laboratoire de calcul de marges). L'introduction du cours (horaire du cours ; présentation du résumé et du matériel pédagogique ; méthodologie d'évaluation ; considérations pratiques) sera diffusée (streaming) et enregistrée. Après l'introduction, aucun streaming n'est prévu pour les cours lorsqu'un pré-enregistrement est disponible. C'est le format par défaut (pas de streaming, mais un cours pré-enregistré). Dans le cas où un pré-enregistrement n'est pas disponible, le cours suivra un format classique avec une présentation PowerPoint. Dans ce dernier cas (pas de pré-enregistrement), et dans ce cas seulement, les cours seront également diffusés en streaming. Il sera clairement indiqué à tous les étudiants quand une option de streaming sera disponible. Mais les étudiants doivent supposer qu’il n’existe pas d’option de streaming. De nombreuses possibilités seront offertes aux étudiants ayant des difficultés pour venir poser leurs questions au cours. Des sessions spécifiques (streaming) pourraient être envisagées pour répondre aux questions. Les contenus qui feront l'objet d'une évaluation sont ceux et uniquement ceux disponibles dans le matériel enregistré (diapositives et explications). Il y aura deux travaux \"laboratoire\" pour les étudiants Implémentation d'un algorithme de calcul de dose par pencil beam Les étudiants devront résoudre un problème de calcul de dose, avec un petit programme Python. L’objectif est de montrer le potentiel et les limites de la convolution de dose par faisceau crayon. Les données de Monte Carlo sont fournies à titre de comparaison. Le code et le rapport doivent être remis à l'enseignant. Ils seront tous deux notés. La concision est encouragée pour le rapport Calcul des marges de sécurité PTV Les étudiants recevront des exercices ainsi que du matériel de simulation afin d'acquérir une compréhension pratique des recettes de marge de sécurité PTV. Un rapport sera exigé. Encore une fois, la concision est encouragée.",
+        "assessment_methods": "Les rapports de laboratoire représentent 30 % de la note (15 % chacun). Cette note est définitive (pas de possibilité de modifier la note pour une seconde séance). L'examen représente 70% de la note (40% pour la partie écrite ; 30% pour la partie orale) Tout le matériel pédagogique est disponible pour la partie écrite. Cela doit être perçu par l'élève comme un moyen d'améliorer son confort et d'éviter de mémoriser de longues équations ou définitions. Cependant, pour réussir l’examen, il est nécessaire que l’étudiant connaisse la matière. Sinon, l’étudiant mettra trop de temps à répondre aux questions de l’examen. Les questions sont posées de telle manière qu'il est possible d'y répondre sans se référer au cours si celui-ci est bien connu. La partie orale représente 30% de la note. Des questions courtes sont posées et l'étudiant doit faire des développements (courts également). Le matériel pédagogique n'est pas disponible pour la partie orale",
+        "other_info": "Le cours est donné intégralement en anglais",
+        "online_resources": "Tous les diaporamas et les annexes se trouvent sur TEAMS Les enregistrements également",
+        "bibliography": "Teaching material Mandatory Recorded theoretical lectures Course slides Support (optional) Papers “Fundamentals of Ionizing Radiation Dosimetry”, by Andreo, Burns, Nahum, Seuntjens, and Attix (Wiley, 2017) \"Handbook of radiotherapy physics\" (Mayles, Nahum, Rosenwald)",
+        "responsible_entity": "MED"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2354",
+        "title": "Science and Sustainabilty: a socio-ecological approach",
+        "credits": "3.00",
+        "hours": "24.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> G0R94A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2335",
+        "title": "Medical Imaging and Analysis",
+        "credits": "6.00",
+        "hours": "36.0 h + 20.0 h",
+        "quadrimester": "Q2",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> H03H5A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2372",
+        "title": "Quality Assurance and Special Techniques in Radiology",
+        "credits": "3.00",
+        "hours": "14.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> G0Z72A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2314",
+        "title": "Human System Physiology",
+        "credits": "5.00",
+        "hours": "28.0 h + 2.0 h",
+        "quadrimester": "Q2",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> H03I4B",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2393",
+        "title": "Nuclear and Radiochemistry",
+        "credits": "3.00",
+        "hours": "18.0 h",
+        "quadrimester": "Q2",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> GOH93B",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphmd2371",
+        "title": "Internship 2",
+        "credits": "6.00",
+        "hours": "",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsc2220",
+        "title": "Philosophy of science",
+        "credits": "2.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Guay Alexandre"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Chaque année, trois thème centraux sont abordés touchant au dialogue entre les sciences naturelles et les questionnements philosophiques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Faire réfléchir les étudiants de Master sur certains thèmes centraux de la philosophie des sciences aujourd'hui, en relation avec leurs intérêts et la discipline scientifique dans laquelle ils sont spécialisés. Leur apprendre à approfondir, seuls ou en groupe, une question philosophique choisie en lien avec les questions abordées aux cours. Être capable d'exposer les résultats de leur réflexion par écrit et en faire une présentation orale.",
+        "content": "Les trois thèmes pour 2024-25 sont : Éléments de philosophie des mathématiques. Quel est l'objet des mathématiques? Pourquoi les mahématiques peuvent être utilisées pour modéliser le monde empirique? Approches philosophiques de la causalité. Qu'est-ce que la causalité ? Comment reconnaît-on un lien causal ? Quel rôle joue la causalité dans les explications scientifiques ? Approches philosophiques de la symétrie. Qu'est-ce qu'une symétrie? Wu'est-ce qu'un argument par symétrie?",
+        "teaching_methods": "La première partie du cours consistera en leçons magistrales sur les trois thèmes choisis. Pendant ce temps, les étudiants s'inscriront sur le site web du cours et constitueront des groupes de trois au maximum. Chaque groupe choisira un sujet d’exposé ciblé en rapport avec l’un des trois thèmes. Le sujet, la bibliographie et le plan de l’exposé devront tous être validés par le professeur. Celui-ci sera à la disposition des étudiants pour les aider à élaborer l’exposé. La seconde partie des séances sera consacrée aux exposés. L’examen évaluera l’assimilation du contenu des cours magistraux et des exposés.",
+        "assessment_methods": "L’évaluation consistera en un examen écrit (50% de la note finale) et en un exposé oral, en classe, fait en équipe (50%). En seconde session, l’évaluation consistera en un examen écrit (50%) + la note d’exposé (50%). Si la note d’exposé est absente ou a déjà été comptée à la session de juin, cette note sera remplacée par un travail de recherche personnel. Notez qu’il est possible de faire l’exposé durant le quadrimestre, demander une note de présence en juin et, en conséquence, utiliser la note d’exposé à la session de septembre.",
+        "online_resources": "Voir site Moodle du cours.",
+        "bibliography": "Voir site Moodle du cours.",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2397",
+        "title": "Radiation Protection",
+        "credits": "4.00",
+        "hours": "18.0 h",
+        "quadrimester": "Q1 et Q2",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> GOC97B",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2362",
+        "title": "Technology and Techniques in Radiology",
+        "credits": "3.00",
+        "hours": "16.0 h + 4.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> G0Z62A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsc2001",
+        "title": "Introduction à la philosophie contemporaine",
+        "credits": "2.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Pence Charles",
+            "Verdée Peter",
+            "Verdée Peter"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "L'esprit humain, dans toutes ses dimensions, peut-il être intégré par les sciences empiriques au sein du monde naturel ? Les sciences cognitives (neurosciences, psychologie cognitive, linguistique, etc.) s'efforcent de mener à bien cette intégration. L'objectif du cours, qui constituera une introduction à la philosophie de l'esprit et des sciences cognitives,  est d'examiner les capacités des sciences cognitives à réaliser cette intégration ' et notamment à réaliser une description et une explication de ceux des aspects de l'esprit humain qui semblent le plus résister à cette intégration dans le monde naturel : la conscience, la rationalité, le libre-arbitre.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours permettra aux étudiants d'aborder un ensemble de problèmes philosophiques liés aux progrès récents dans l'étude scientifique et « naturaliste » de l'esprit humain.",
+        "content": "Que nous apprennent les sciences et les mathématiques sur la réalité ? Ce cours explore divers thèmes en philosophie contemporaine, en se concentrant sur l’interprétation et la méthodologie des sciences et des mathématiques. Réalisme, pragmatisme et idéalisme La vérité : théories de la vérité, paradoxes, vérité en mathématiques La probabilité : théories de la probabilité, interprétations, paradoxes Sciences et normes Interprétation en sciences (mathématiques, physique quantique, etc.)",
+        "teaching_methods": "Cours magistraux donnés par l'enseignant, avec un rôle important pour des discussions avec et entre les étudiant·e·s.",
+        "assessment_methods": "Dans la session de juin et la session d'août : un travail de groupe écrit (50 %) et une défense individuelle de ce travail à l’examen oral (50 %).",
+        "online_resources": "Lecture et slides disponible par le site Moodle du cours.",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2398",
+        "title": "Introductory Nuclear Physics",
+        "credits": "3.00",
+        "hours": "18.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> GOC98A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2197",
+        "title": "Thesis tutorial",
+        "credits": "2.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Adrioueche Ahmed",
+            "de Wasseige Gwenhaël"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Connaissance de l'anglais scientifique (niveau intermédiaire).",
+        "topics_covered": "Initier l'étudiant.e à la communication scientifique et, en particulier, à la présentation orale d'un exposé scientifique en anglais. Formation à la présentation scientifique en anglais, avec le concours d'un maître de langue de l'Institut des Langues Vivantes. Présentation publique en anglais de l'état d'avancement du mémoire.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS2M1) AA3: A3.1, A3.2, A3.3 AA4: A4.1, A4.2 AA5: A5.1, A5.2, A5.3 AA6: A6.1, A6.3, A6.5 AA7: A7.1, A7.2, A7.3, A7.4, A7.5, A7.6 AA8: A8.1 AA9: A9.1 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1.     structurer un contenu scientifique en vue de le présenter, en citant correctement ses sources suivant les règles d'usage, et en s'adaptant au public cible ; 2.     maîtriser les outils linguistiques nécessaires à la transition entre différentes étapes de l'exposé ; 3.     contrôler les aspects extra-linguistiques tels que \"body language\" et \"eye contact\" ; 4.     intégrer (pointer vers, faire référence à, souligner la présentation de sa dia par graphiques) dans le discours à l'aide des structures verbales adéquates pour en faire ressortir la pertinence ; 5.     synthétiser en quelques phrases l'ensemble de l'exposé avant de terminer (take home message) ; 6.     maîtriser la prononciation scientifique de base ainsi que les mots clés et récurrents du sujet de mémoire ; 7.     améliorer les versions successives de son exposé grâce aux remarques collectives (peer learning) et puis individuelles (tutorial) ; 8.     gérer, comprendre, clarifier au besoin, reformuler puis répondre aux questions après l'exposé, en utilisant les techniques qui permettent de mieux élaborer sa réponse.",
+        "content": "1. Activité d’enseignement s’intégrant dans la formation en anglais pour les étudiant.e.s en physique depuis leur 1er cycle, aboutissant à une connaissance active et orale de la langue au terme de leurs études de 2ème cycle pour des présentations publiques de leurs compétences personnelles et scientifiques. 2. Préparation à des présentations scientifiques orales en anglais devant leurs pairs, proprement structurées et adaptées au public, avec un regard critique sur la pratique de la langue anglaise, sa grammaire, son articulation et prononciation, et ses idiomes culturels, et avec références correctes à ses sources scientifiques suivant les règles en usage. 3. Familiarisation et pratique de techniques de communications et présentations orales en public, et également en préparation à l’insertion socio-professionnelle, utilisant les techniques modernes de communication et de présentations, et adaptées aux publics cibles. 4. L’évaluation est organisée en dehors de la session d’examens de juin. Elle consiste en une présentation orale publique en anglais devant les pairs et les enseignants de physique, du sujet de mémoire, en regard également aux efforts et progrès réalisés au cours de l’année et en la production d'un contenu vulgarisé en lien avec le mémoire.",
+        "teaching_methods": "Le séminaire se compose de quatre parties : Une dizaine de séances de 2h à l’Institut des Langues Vivantes, pour l’écolage sous la direction du maître de langue anglaise : parties spécifiques d’une présentation scientifique (graphiques, comparaisons, etc.) ; composition de transparents, présentation sur ordinateur ou autre support visuel ; exercices de prononciation portant sur des termes récurrents en science, et plus particulièrement en physique. Deux séances de communication des sciences pour aider à la préparation du contenu vulgarisé. Au début du second quadrimestre, une dizaine d’heures est mise à la disposition des étudiants qui le souhaitent pour un encadrement individuel en vue de la présentation finale et de la production du contenu vulgarisé. Un exposé public, en anglais, au cours du second quadrimestre, dans lequel l’étudiant présente l’état d’avancement de son mémoire et répond aux questions (en anglais) de son directeur de mémoire, de ses lecteurs et du Maître de langue.",
+        "assessment_methods": "Mode d’évaluation : l’évaluation, qui est faite à l’issue de la présentation publique, porte sur la présentation, et non sur la valeur scientifique du contenu, ainsi que sur le contenu vulgarisé. Quant à l’évaluation de l’anglais elle porte sur la prononciation correcte de mots récurrents dans l’exposé, l’aisance générale dans la langue et le soin que l’étudiant aura mis à appliquer les techniques de communication scientifique enseignées durant les séances.",
+        "bibliography": "Des références bibliographiques sont fournies par le Maître de Langue au cours du déroulement des activités de cette unité d'enseignement. Bibliographic references are provided by the English language teacher throughout the progress of the teaching unit.",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-wfsp2253",
+        "title": "Système d'information hospitalier",
+        "credits": "3.00",
+        "hours": "20.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Debande Benoît"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Organisation et gestion de systèmes d'information hospitalières Le dossier Patient informatisé Intégration de ce système d'information dans son environnement",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Expliquer le fonctionnement d'un système d'information hospitalier Décrire les éléments de l'informatisation d'un domaine et en particulier faire une lecture critique d'un cahier de charge en informatique Participer à l'analyse des objectifs du système d'information hospitalier dans différents contextes. Préciser et évaluer l'apport potentiel des systèmes d'information Remettre en perspective le système d'information hospitalier dans son environnement : insertion dans l'ensemble du système de santé - communication externe",
+        "content": "L'architecture et l'évolution des systèmes informatiques hospitaliers Les aspects techniques spécifiques : La codification, les standards, la terminologie, l'archivage des données L'intégration des systèmes d'information au sein d'une institution : RCM, RIM, Itinéraires cliniques, facturation, gestion des stocks, qualité des soins L'impact humain de l'informatisation des activités de soins : gestion du changement L'intégration du système d'information d'une institution dans un environnement plus large, par exemple : serveurs de communication, registres, dossiers centralisés, recherche, communication avec les organismes assureurs.",
+        "teaching_methods": "Cours théorique",
+        "assessment_methods": "Les étudiants sont évalués sur base d'un examen écrit",
+        "online_resources": "Moodle",
+        "course_materials": "Mis à disposition sur Moodle",
+        "responsible_entity": "FSP"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-wrpr2001",
+        "title": "Notions de base de radioprotection",
+        "credits": "2.00",
+        "hours": "10.0 h + 5.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Carlier Pascal",
+            "Jamar François",
+            "Lhommel Renaud"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "1. Grandeurs et Unités - Mécanismes biologiques de l'action des rayonnements ionisants\r2. Effets aigus d'une irradiation accidentelle\r3. Cancers radio-induits\r4. Effets héréditaires radio-induits\r5. Effets de l'irradiation in utero\r6. Législation : les normes de base : principes de radioprotection opérationnelle\r7. Travaux pratiques : emploi de détecteurs en situation de routine ; dosimétrie des travailleurs : visites des installations de contrôle physique",
+        "responsible_entity": "CRPR"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphmd2199",
+        "title": "Master Thesis",
+        "credits": "24.00",
+        "hours": "",
+        "quadrimester": "Q1 et Q2",
+        "teaching_language": "Français",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2334",
+        "title": "Basics concepts of Cell Biology",
+        "credits": "5.00",
+        "hours": "39.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> I0D34A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphmd2357",
+        "title": "Computational and Numerical Methods for Medical Physics",
+        "credits": "4.00",
+        "hours": "24.0 h + 10.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Lee John",
+            "Sterpin Edmond"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Ce cours vise à familiariser l'étudiant avec les méthodes informatiques et numériques fréquemment utilisées en physique médicale, comme les simulations de Monte Carlo, avec leurs concepts physiques et statistiques sous-jacents, ainsi qu'à fournir les bases des techniques d'intelligence artificielle, d'apprentissage automatique et d'apprentissage profond et leur utilisation pour résoudre des problèmes axés sur les données.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : Les acquis d'apprentissage spécifiques sont les suivants : L'étudiant est capable d'appliquer des méthodes statistiques avancées nécessaires en physique médicale. L'étudiant acquiert les compétences informatiques et de calcul pour résoudre quantitativement les problèmes courants en physique médicale. L'étudiant résout des problèmes de classification et de régression en physique médicale en appliquant des techniques d'apprentissage automatique et d'intelligence artificielle comme les arbres de décision, les forêts aléatoires, les réseaux neuronaux, l'apprentissage profond, ... à différents types de données, y compris les images médicales. L'étudiant comprend et maîtrise les aspects fondamentaux des méthodes d'optimisation qui sous-tendent la plupart des techniques susmentionnées.",
+        "content": "Le cours sera organisé autour de trois piliers principaux Statistiques avancées en physique médicale : les statistiques sont fortement utilisées en médecine en général et en physique médicale en particulier. Cela inclut la signification statistique des expériences de laboratoire et cliniques ; la quantification du risque ; l'estimation et la propagation des incertitudes (incertitudes de type A et de type B) ; la résolution de problèmes probabilistes. Techniques de Monte Carlo. Les moteurs de Monte Carlo sont souvent utilisés comme boîte noire dans la pratique clinique et la R&D. L'objectif est de fournir des informations sur les fondements théoriques des simulations de Monte Carlo ainsi que sur les spécificités pratiques des implémentations modernes. Cela comprend : la génération de nombres aléatoires ; les techniques d'échantillonnage (transformation inverse, technique de rejet) ; la réduction de la variance ; l'estimation de l'erreur statistique (technique directe ou par lots) ; la définition du problème (géométrie et matériaux) ; l'utilisation de matériel spécialisé (processeurs à plusieurs cœurs et GPU). Des exemples pratiques et des résultats importants sont illustrés en radiothérapie, en médecine nucléaire et en radiologie. Introduction à l'apprentissage automatique : Contexte et objectif de l'intelligence artificielle, de l'apprentissage automatique et de l'apprentissage profond. Les différents types de problèmes d'apprentissage (supervisé, non-supervisé, renforcement, transfert). Les différents types de jeux de données et leur objectif (formation, validation, test). Brève introduction à l'optimisation. Quelques techniques : Analyse en composantes principales, analyse discriminante linéaire. Arbres de décision et forêts aléatoires. Machines à vecteurs de support. Réseaux neuronaux, du neurone artificiel unique aux réseaux profonds (convolutifs). oInterprétation des résultats (courbe ROC/sensibilité/spécificité/...). Spécificités de la collecte de données pour l'IA/ML/DL en physique médicale (accès aux données des patients et importance de la cohérence des données des patients ; comment guider les efforts en matière de rapports structurés). Big data et prétraitement des données (images, radiomique,...).",
+        "teaching_methods": "Cours magistraux Pour chaque partie du cours (statistiques, techniques de Monte Carlo, apprentissage automatique), une série d'exercices est proposée. Ils doivent être résolus en utilisant le matériel informatique adéquat.",
+        "assessment_methods": "Type : Contrôle partiel ou continu avec examen (final) pendant la période d'examen. Description de l'évaluation : Oral, Rapport Examen pendant la période d'examen : 70% de la note totale. Rapports sur les travaux des exercices sélectionnés : 30% de la note totale.",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-wmnuc3120t",
+        "title": "Technology and techniques in nuclear medicine - (partim theory)",
+        "credits": "3.00",
+        "hours": "20.0 h",
+        "quadrimester": "Q1",
+        "teaching_language": "Anglais",
+        "responsible_entity": "MED"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ephmd2376",
+        "title": "Medical Information Systems",
+        "credits": "3.00",
+        "hours": "23.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Katholieke Universiteit Leuven",
+        "code de l’ue dans l’institution de référence": "> H0O27A",
+        "faculté ou entité en charge (uclouvain)": "> PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-wrdth3120",
+        "title": "Fundamental of dosimetry",
+        "credits": "3.00",
+        "hours": "20.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Sterpin Edmond"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "A. INTRODUCTION- Définitions en rapport de la dosimétrie en clinique et en radioprotection.- La dose absorbée.- Différents types de faisceaux ionisants en milieu hospitalier.B. INTERACTIONS DES FAISCEAUX AVEC LA MATIERE- Photons.- Neutrons.- Particules chargées.C. DETECTEURS DOSIMETRIQUES A INTEGRATION- Calorimétrie.- Chambres d'ionisation.- Thermoluminescence.- Films.- Diodes.D. DETERMINATION DE LA DOSE DANS UN FAISCEAU CLINIQUE- Utilisation d'une chambre d'ionisation.- Les recommandations pour l'étalonnage, la caractérisation du faisceau, la mesure de la dose dans un faisceau de photons, électrons et neutrons, les corrections sur la lecture de la chambre, les recombinaisons.E. INTRODUCTION AUX TECHNIQUES RADIOTHERAPEUTIQUESF. TRAVAUX PRATIQUES (1X4H)(dosimétrie dans un faisceau de 60Co)",
+        "content": "Veuillez ignorer la section \"Thèmes abordés\" dans le descriptif. Ce qui suit remplace. Cette unité d'enseignement vise à acquérir les fondamentaux théoriques de la dosimétrie des radiations ionisantes. L'objectif est de développer une intuition de la dosimétrie à partir de principes de bases, afin d'établir une base solide avant d'étudier les applications de la dosimétrie en radiothérapie, médecine nucléaire et la radiolgoie dans les autres cours Le cours s'articule autour de 7 grands thèmes: Les interactions des particules avec la matière du point de vue du physicien médical Grandeurs associées aux champs d'irradiation et à la dosimétrie. Concept d'équilibre des particules chargées Caractérisation de la qualité du rayonnement Théorie de la cavité Les détecteurs de radiations du point de vue d'un physicien médical Introduction à la dosimétrie de référence pour les faisceaux kV et MV Dosimétrie des petits champs",
+        "teaching_methods": "Le cours associe des cours théoriques classiques et des exercices en classe. Tous les cours théoriques sont soit pré-enregistrés, soit enregistrés (si le pré-enregistrement n'est pas disponible). Ainsi, l’enseignement présentiel peut être adapté en fonction des demandes des étudiants présents en classe. Lorsqu'un pré-enregistrement est disponible, nous privilégions un enseignement dynamique avec de larges développements au tableau sur des parties précises du cours. Les étudiants sont encouragés à visionner les cours préenregistrés avant la séance en classe afin de pouvoir poser des questions et des développements spécifiques. Certains exercices seront résolus en classe, tandis que d’autres devront être résolus à la maison. Des solutions aux exercices seront fournies au cours du semestre. Les étudiants qui ne peuvent pas assister au cours en présentiel sont fortement encouragés à contacter le professeur en cas de difficulté pour résoudre un exercice. L'introduction du cours (horaire du cours ; présentation du résumé et du matériel pédagogique ; méthodologie d'évaluation ; considérations pratiques) sera diffusée et enregistrée. Après l'introduction, aucun streaming n'est prévu pour les cours lorsqu'un pré-enregistrement est disponible. C'est le format par défaut (pas de streaming, mais un cours pré-enregistré). Dans le cas où un pré-enregistrement n'est pas disponible, le cours suivra un format classique avec une présentation PowerPoint. Dans ce cas précis (pas de pré-enregistrement), et dans ce cas seulement, les cours seront également diffusés en streaming. Il sera clairement indiqué quand une option de streaming sera disponible. Mais les personnes participant au cours doivent supposer qu'il n'y a pas d'option de streaming. Il y aura de nombreuses possibilités en cas de difficulté de venir au cours pour poser des questions. Des sessions spécifiques (streaming) pourraient être envisagées pour répondre aux questions. Les contenus qui feront l'objet d'une évaluation sont ceux et uniquement ceux disponibles dans le matériel enregistré (diapositives et explications) + les exercices.",
+        "assessment_methods": "La partie écrite compte pour 70% de la note. La partie orale 30% de la note Tout le matériel pédagogique est disponible pour la partie écrite et représente 70% de la note (30% de questions théoriques ; 40% d'exercices). Le format livre ouvert doit être vu par l'étudiant comme un moyen d'améliorer son confort et d'éviter de mémoriser de longues équations ou définitions. . Cependant, pour réussir l'examen, il est nécessaire que l'étudiant connaisse la matière. Sinon, l'étudiant mettra trop de temps à répondre aux questions de l'examen. Les questions sont posées de manière à ce qu'il soit possible d'y répondre sans se référer au cours si celui-ci est bien connu. La partie orale représente 30% de la note. Des questions courtes sont posées et l'étudiant doit faire des développements à la volée. Le matériel pédagogique n'est pas disponible pour la partie orale",
+        "other_info": "La langue des cours et des supports de cours est l'ANGLAIS",
+        "online_resources": "Tous les diaporamas, enregistrements, et la plupart des annexes se trouvent sur TEAMS",
+        "bibliography": "Handbook of Radiotherapy Physics (Mayles, Nahum, Rosenwald) Fundamentals of Ionizing Radiation Dosimetry by Andreo et al, 2017 edition.",
+        "course_materials": "Tous les transparents disponibles sur TEAMS et dispensés lors des cours magistraux + les exercices et leurs solutions All slides available on TEAMS and given during lectures + exercises and their solutions Recordings",
+        "responsible_entity": "MED"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgbio1113",
+        "title": "Anatomie et physiologie des systèmes",
+        "credits": "5.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Behets Wydemans Catherine",
+            "Cornu Olivier",
+            "Kerckhofs Greet"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Ce cours suppose acquises les notions relatives à l'organisation structurale et fonctionnelle de la cellule animale telles qu'enseignées dans le cours LGBIO1111 (Biologie et physiologie cellulaire).",
+        "topics_covered": "Ce cours a pour but de donner aux étudiants en bachelier ingénieur civil une introduction générale à l'anatomie et la physiologie des systèmes du corps humain. Ce cours veillera également à mettre en évidence au-travers d'exemples issus de ces disciplines - que les systèmes vivants font partie des domaines d'investigation de l'ingénieur. L'accent sera donc mis sur la démarche qui vise à obtenir une bonne compréhension du système étudié, en vue de le modéliser, de l'analyser, et/ou d'y acquérir diverses mesures.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA du programme « Bachelier ingénieur civil », ce cours contribue au développement, à l'acquisition et à l'évaluation des acquis d'apprentissage suivants: AA1.1,  AA1.2, AA3.1, AA3.2 AA4.1, AA4.2, AA4.3, AA4.5 AA5.1 Au terme du cours, l'étudiant sera capable de : Acquis d'apprentisage disciplinaires : maîtriser les données morphologiques de base nécessaires pour se construire une représentation mentale tridimensionnelle des différents systèmes du corps humain ; décrire la structure tissulaire et comprendre le fonctionnement d'un sous-ensemble des principaux systèmes de l'Homme sain, à l'exclusion du système nerveux central (par exemple, systèmes cardio-circulatoire, respiratoire, digestif, urinaire, reproducteur, et locomoteur) ; reproduire la démarche effectuée sur ce sous-ensemble sur les autres systèmes organiques et articulaires; connaître les principaux mécanismes physiologiques ainsi que les propriétés mécaniques des tissus osseux, musculaires, vasculaires, des ligaments et des tendons ; comprendre le fonctionnement (d'un sous-ensemble) du système locomoteur, et dériver les propriétés fonctionnelles du système musculo-squelettique à partir des lois fondamentales du mouvement. Acquis d'apprentissage transversaux : réaliser, en auto-apprentissage, une caractérisation anatomique et physiologique d'un organe ou d'une articulation (ou une partie de celui/celle-ci) non vu(e) au cours, à l'aide de références bibliographiques (livres, sites web, etc.) ; rédiger un rapport relatif à cette caractérisation, en utilisant le vocabulaire du domaine de manière appropriée, en français ; présenter ce travail devant l'équipe enseignante.",
+        "content": "Les différents systèmes biologiques abordés lors des cours magistraux sont les suivants : Introduction générale, et éléments d'histologie Peau Ostéologie générale Myologie Système cardiovasculaire Système respiratoire Systèmes digestif et endocrinien Systèmes urinaire et génital Introduction à la biomécanique",
+        "teaching_methods": "Le cours comprend une série de cours magistraux, couvrant la description anatomique et physiologique des principaux organes du corps humain (appareils locomoteur, cardio-circulatoire, respiratoire, digestif, urinaire, reproducteur). Les travaux pratiques consistent principalement en la réalisation du projet de groupe sur la caractérisation anatomique et physiologique d'un système biologique, et la contribution de l'ingénieur dans le traitement de ce système. Une visite de la salle de dissection de la faculté de médecine à Woluwe sera également organisée, précédée d'une séance de préparation.",
+        "assessment_methods": "Les étudiants sont évalués au-travers de deux dispositifs complémentaires : un projet de groupe (25% de la note finale) et un examen ecrit en session (75% de la note finale). Le projet de groupe (typiquement effectué par groupes de 3 étudiants) consiste en la caractérisation anatomique et physiologique d'un système biologique dans un contexte pathologique donné, et la contribution de l'ingénieur dans le traitement de ce système. L'examen comporte deux parties : une partie à livre fermé, permettant d'évaluer les connaissances de l'étudiant relatives à la matière vue au cours, et une partie à livre ouvert (en ce compris la possibilité de consulter des sites internet de référence) visant à évaluer les capacités à reproduire les démarches de caractérisation anatomique et physiologique vues au cours.",
+        "online_resources": "Moodle http://moodleucl.uclouvain.be/course/view.php?id=7882",
+        "bibliography": "Syllabus d'anatomie générale (version pdf). Atlas en ligne (online).",
+        "course_materials": "Transparents relatifs aux séances de cours disponibles sur Moodle. Slides from class lectures available on Moodle",
+        "responsible_entity": "GBIO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2504",
+        "title": "Use, management and control of radioelements",
+        "credits": "3.00",
+        "hours": "22.5 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Froment Pascal"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Pas de prérequis pour les étudiant.e.s ayant obtenu un diplôme de Bachelier en sciences physiques et qui possèdent donc déjà une connaissance élémentaire en physique nucléaire, en méthode expérimentales et en chimie.",
+        "topics_covered": "Présentation des applications pratiques des radioisotopes en milieux industriels et médicaux. Tous les aspects de la gestion de radiosiotopes sur site : production, conditionnement, transport, mise en oeuvre et élimination dans le cadre de diverses applications.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M) 1.2, 1.3, 2.2, 2.5, 5.3, 9.1, 9.2, 9.3. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de gérer correctement l'utilisation de sources de rayonnements ionisants (sources radioactives et tubes RX) dans un laboratoire, un établissement médical ou un établissement industriel.",
+        "content": "Tous les aspects de la gestion de radiosiotopes sur site : production, conditionnement, transport, mise en 'uvre et élimination dans le cadre des diverses applications : 1.     Rappel des principes fondamentaux de physique nucléaire 2.     Production de radioisotopes artificiels : cyclotron ' réacteur nucléaire 3.     Conditionnement et transport des radioisotopes : colis, emballage 4.     Autorisations de création d'établissement 5.     Conception d'une zone contrôlée : Calcul de blindages, règles de bonne pratique en zone 6.     Applications médicales et applications industrielles : jauges industrielles, radiostérilisation, gammagraphie, traceurs, radiothérapie, médecine nucléaire ' : chaque type d'utilisation est détaillé et illustré 7.     Elimination des déchets radioactifs Le cours contient de nombreux exemples actuels et concrets. Ces exemples sont choisis en fonction de la finalité choisie par les étudiants",
+        "teaching_methods": "Les activités d'enseignement seront assurées par le titulaire du cours. Les exemples concrets sont adaptés aux questions et souhaits des étudiants.",
+        "assessment_methods": "L'évaluation consiste en un examen écrit comportant une dizaine de questions suivi directement d'une discussion avec l'enseignant. Des questions complémentaires permettent de préciser les réponses données à l'écrit.",
+        "other_info": "Le cours LPHY2340 est un cours de didactique obligatoire pour les étudiants inscrits à l'agrégation en physique et à option pour les étudiants inscrits à l'agrégation en biologie ou chimie.",
+        "online_resources": "Les documents utilisés pendant le cours sont fournis par l'enseignant au fur et à mesure. Le cours étant adapté en fonction de l'intérêt futur des étudiants (exemples appliqués).",
+        "bibliography": "Des ouvrages en relation avec les disciplines seront présentés lors des cours. Books related to the disciplines addressed will be presented during the theoretical lectures.",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-wrpr3010",
+        "title": "Questions spéciales de radioprotection",
+        "credits": "4.00",
+        "hours": "40.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "De Patoul Nathalie",
+            "Dumitriu Dana Ioana",
+            "Dumont Damien",
+            "Gheysens Olivier",
+            "Jamar François",
+            "Lhommel Renaud",
+            "Lichtherte Sébastien",
+            "Sterpin Edmond",
+            "Vaandering Aude"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Sources non scellées : radioprotection opérationnelle spécifique : problèmes de radioprotection dans une unité de tomographie par émission de positons ; recommandations internationales et législation spécifique ; contrôle de qualité ; évaluation des doses au patient : discussions approfondies ; optimisation de la dose au patient ;  conditions d'hospitalisation et de décharge des patients - type d'instructions à fournir ; nouvelles techniques et radioprotection ; questions pédiatriques spécifiques.\rRadiothérapie : radioprotection opérationnelle spécifique ; législation et recommandations internationales spécifiques ; contrôle de qualité ; évaluation des doses au patient : discussion approfondie ; optimisation de la dose au patient  ; nouvelles techniques et radioprotection ; questions pédiatriques spécifiques ; conditions d'hospitalisation et de décharge des patients : type d'instructions à fournir.\rImagerie : radioprotection opérationnelle spécifique ; législation et recommandations internationales spécifiques ; contrôle de qualité ; évaluation des doses au patient ; discussion approfondie ; optimisation de la dose au patient ; nouvelles techniques et radioprotection ; questions pédiatriques spécifiques.\rLégislation détaillée pour le contrôle / Directives européennes",
+        "responsible_entity": "CRPR"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2102",
+        "title": "Ionizing Radiation Detection and Nuclear Instrumentation",
+        "credits": "6.00",
+        "hours": "26.0 h + 26.0 h",
+        "quadrimester": "Q1 et Q2",
+        "teachers": [
+            "Cortina Gil Eduardo"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Pas de prérequis pour les étudiant.e.s ayant obtenu un diplôme de Bachelier en sciences physique et qui possèdent donc déjà une connaissance sur la perte d'énergie des particules dans la matière et une connaissance élémentaire de physique des semi-conducteurs et de la jonction PN.",
+        "topics_covered": "-       Etude des techniques de base utilisées dans les mesures physiques : température, pression, force, ' -       Etude de la détection des radiations ionisantes.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M etPHYS2M1) AA1: 1.3, 1.4, 1.5, 1.6 AA2: 2.2, 2.3, 2.5 AA5: 5.1 AA6: 6.1, 6.4, AA7: 7.1, 7.3 AA8: 8.1, 8.2 Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1. définir les caractéristiques des capteurs fondamentaux utilisées en physique ; 2. identifier et expliquer les processus physiques liés à ces capteurs ; 3. sélectionner les systèmes de lecture appropriés pour les capteurs élémentaires ; 4. définir les caractéristiques d'un détecteur de rayonnement et décrire son mode de fonctionnement ; 5. identifier et expliquer les processus physiques associés à   ces  détecteurs ; 6. utiliser, de façon opérationnelle, les différents types de détecteurs/capteurs décrits dans l'unité d'enseignement.",
+        "content": "1. Introduction : (relativité restreinte, physique atomique et nucléaire, statistiques), 2. Sources de rayonnement (y compris les bases sur les accélérateurs et la production de radio-isotopes), 3. Interaction rayonnement-matière, 4. Caractéristiques générales des détecteurs, 5. Détecteurs de gaz, 6. Détecteurs à scintillation. Spectroscopie gamma, 7. Détecteurs à semi-conducteurs, 8. Détecteurs de neutrons, 9. Électronique nucléaire 10. Accélérateurs et radioactivité artificielle Laboratoires (sélection non exhaustive dans la liste suivante) : 1. Geiger-Mueller : Statistiques de comptage. 2. Introduction aux codes de simulation SRIM et VGATE. 3. Cyclotron : mesure du pic de Bragg. 4. NaI, HPGe, CdZnTe : Spectrométrie gamma. 5. Détecteur à barrière de surface : Spectroscopie alpha. 6. Détection de neutrons. 7. Scintillation : SiPMs, PMTs, techniques de coïncidence. 8. Compteur proportionnel : Fluorescence des rayons X. 9. Corrélations angulaires avec des détecteurs HPGe et/ou NaI. 10. Détection des muons : durée de vie des muons et distribution angulaire.",
+        "teaching_methods": "Cette unité d’enseignement comporte deux activités : 1. Cours théorique et séances d'exercices - Cours magistral en auditorium - Résolution de problèmes dans l'auditorium 2. Travaux pratiques obligatoires en laboratoire. - Premiers projets de laboratoire - Montage et mesure d'une expérience de détection des rayonnements - Analyse des données et rédaction d'un rapport Tout le matériel (syllabus, diapositives de cours, listes d'exercices, livres de laboratoire et tutoriels) peut être trouvé sur le site Moodle (UCLouvain) et Toledo (KU Leuven) de l'unité d'enseignement.",
+        "assessment_methods": "L’évaluation se fait sur  base : des rapports et presentations du travail en laboratoire d’un examen écrit",
+        "bibliography": "G.F. Knoll, Radiation Detection and Measurement. H. Kolanoski, N. Wermes, Particle Detectors  fundamentals and applications C. Grupen & B. Schwartz, Particle Detectors (2nd Edition) W.R. Leo Techniques for Nuclear and Particle Physics Experiments D. McGregor, J. Kenneth Shultis, Radiation Detection: Concepts,Methods and Devices.",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphmd2373",
+        "title": "Quality Assurance and Special Techniques in Nuclear Medicine",
+        "credits": "3.00",
+        "hours": "22.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "responsible_entity": "PHYS"
+    }
+]

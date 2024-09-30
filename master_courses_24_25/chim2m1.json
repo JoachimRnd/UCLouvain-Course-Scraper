@@ -1,0 +1,670 @@
+[
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2101",
+        "title": "Structural and functional biochemistry",
+        "credits": "4.00",
+        "hours": "36.0 h + 6.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Morsomme Pierre",
+            "Soumillion Patrice"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "La biochimie structurale sera abordée par l'acquisition des connaissances et outils de base nécessaires pour manipuler, observer et décrire les structures tri-dimensionnelles des biomolécules. L'étudiant apprendra à utiliser les diverses ressources informatiques liées à la biologie structurale et disponibles sur Internet (bases de données, algorithmes de prédiction, programmes de visualisation). Il apprendra également comment identifier, caractériser et décrire les interactions entre biomolécules. L'enzymologie sera abordée en rappelant le formalisme de la cinétique enzymatique. Au travers d'études de cas, l'étudiant apprendra à identifier les différentes stratégies catalytiques utilisées par les enzymes et les principes de la catalyse chimique sous-jacents. Ces notions l'amèneront finalement à mieux comprendre les différents mécanismes moléculaires de régulation et d'inhibition de l'activité des protéines.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif du cours est d'acquérir les principes fondamentaux qui permettent de décrire et de comprendre les propriétés des protéines et des acides nucléiques, en allant de la biologie structurale à la chimie (catalyse, interactions). Il donnera une vision des caractéristiques générales de l'architecture des protéines et des acides nucléiques qui conduisent à la très grande variété de structures, fonctions et interactions observées dans la nature. L'étudiant comprendra également la nature chimique des interactions moléculaires et les mécanismes de catalyse chimique qui sous-tendent les fonctions des protéines. En ce qui concerne la biochimie structurale, l'étudiant acquerra la connaissance des concepts et des outils nécessaires pour manipuler, observer et décrire les structures tridimensionnelles des biomolécules. L'étudiant apprendra à utiliser la variété des ressources informatiques liées à la biologie structurale et disponibles sur le web (banques de données, algorithmes de prédiction, logiciels de visualisation). Il apprendra également à identifier, caractériser et décrire les interactions entre biomolécules. Le formalisme de la cinétique enzymatique sera initialement rappelé. A l'aide d'études de cas, l'étudiant apprendra à identifier les différentes stratégies catalytiques utilisées par les enzymes et les principes sous-jacents de la catalyse chimique. Ces notions lui permettront enfin de mieux comprendre les différents mécanismes moléculaires de régulation et d'inhibition enzymatiques.",
+        "content": "L'activité sera essentiellement donnée sous forme de cours magistraux à l'aide de présentations PowerPoint. 6 heures seront organisées en salle informatique sous forme d'exercices ou de visites guidées de sites. Le cours est composé de trois modules de 12h: Module 1. Les chaînes latérales des acides aminés : - hydrophobicité/hydrophilicité - propriétés électrostatiques et acide/base - nucléophilicité - propriétés rédox. Biochimie structurale : - structuration et interaction : description des forces non covalentes et aspects quantitatifs - la stabilité chimique et thermodynamique des protéines - le repliement des protéines : des mécanismes moléculaires aux maladies conformationnelles - l'observation, la manipulation, la visualisation, la description et la classification des structures tridimensionnelles (en salle informatique) Module 2. Biochimie structurale des protéines membranaires Module 3. Enzymologie : - les principes de la cinétique enzymatique (Michaelis Menten, état stationnaire, schéma réactionnel) - les bases de la catalyse chimique par les protéines (catalyse par les chaînes latérales des acides aminés, complémentarité du site actif, catalyse entropique, stabilisation de l'état de transition) - la chimie des cofacteurs et coenzymes - le contrôle de l'activité enzymatique (inhibition, activation, coopérativité, allostérie, effets de l'environnement) - la simulation numérique de la catalyse enzymatique (en salle informatique)",
+        "teaching_methods": "Cours ex cathedra en auditoire",
+        "assessment_methods": "Le cours est divisé en trois modules. Chaque module sera évalué en cours de quadrimestre sous forme d'une interrogation dispensatoire. La dispense est accordée à 12/20. Un examen écrit sera organisé en session pour les étudiants qui n'ont pas réussi les interrogations au cours du quadrimestre. Séances de TPs obligatoires, remise du rapport de TPs obligatoire.",
+        "other_info": "Préalable: Cours de base en biochimie (p.ex. Eléments de biochimie - CHM1271)",
+        "online_resources": "Tous les documents utilisés au cours (ppt, articles...) sont déposés sur Moodle",
+        "course_materials": "transparents sur moodle",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2246",
+        "title": "Chimie nucléaire",
+        "credits": "3.00",
+        "hours": "22.5 h + 7.5 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Froment Pascal"
+        ],
+        "teaching_language": "Français > English-friendly",
+        "topics_covered": "L'enseignement comporte une description des propriétés physiques fondamentales du noyau atomique permettant une analyse de la stabilité ou des différents modes de désintégration nucléaire des isotopes de tous les éléments. Il décrit également les principes de base des réactions nucléaires destinées à la production de radioéléments ou d'énergie. L'utilisation de traceurs et la mesure de leur radioactivité sont appliquées dans divers domaines (chimie, biologie, médecine, archéologie). Les risques liés aux radiations ionisantes, leur prévention et leur mesure font l'objet d'un chapitre particulier.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le cours poursuit trois objectifs : - donner une connaissance suffisamment approfondie du noyau atomique, stable et instable, en vue de maîtriser les concepts théoriques et les applications relatives à l'isotopie, à la radioactivité et aux réactions nucléaires ; - donner une compréhension fondamentale des interactions des radiations avec la matière, avec leurs conséquences chimiques et biologiques et leurs applications à la radioprotection ; - fournir des bases solides pour évaluer de manière pertinente le problème de la génération d'énergie par voie nucléaire.",
+        "content": "Stabilité des noyaux atomiques, radioactivité et désintégrations nucléaires Introduction au modèle standard de la physique nucléaire Production de radioéléments : réactions nucléaires et conditions d'irradiation. Mesure de la radioactivité Effets chimiques et biologiques, dosimétrie des rayonnements Production d'énergie : fission et fusion nucléaires Exemples d'applications de la chimie nucléaire : échange isotopique et utilisation des traceurs radioactifs; utilisation de molécules marquées en biologie et en médecine nucléaire; méthodes de datation.",
+        "teaching_methods": "Le cours magistral sera complété par des exercices pratiques et la visite d'installations industrielles ou médicales en relation avec la radioactivité.",
+        "assessment_methods": "L'examen comporte des questions théoriques à discuter et des exercices à résoudre.",
+        "other_info": "Préalables : - Notions de base en chimie générale et en physique (cours de 1ère et 2ème années du baccalauréat).",
+        "bibliography": "Deux livres de référence seront principalement utilisés: Radiochemistry and Nuclear Chemistry de G. Choppin (2002) Nuclear and Radiochemistry de K. Lieser (2001).",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm1331",
+        "title": "Chimie inorganique",
+        "credits": "4.00",
+        "hours": "37.5 h + 7.5 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Hermans Sophie"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Il est recommandé d'avoir acquis les connaissances et compétences développées dans les UEs: LCHM1211 Chimie générale 2 LCHM1252 Eléments de chimie physique moléculaire LCHM1253 Eléments de cristallographie LCHM1254 Eléments de spectroscopie moléculaire Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "L'enseignement portera sur : 1. des compléments de chimie générale et théorique permettant d'approfondir la description de la liaison chimique dans les composés inorganiques. 2. les concepts fondamentaux de la chimie de coordination du point de vue de la structure, des propriétés physico-chimiques et de la réactivité. 3. une introduction à la chimie organométallique des métaux de transition.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 (1) l'approfondissement des notions de chimie générale inorganique abordées durant les deux premières années du baccalauréat, (2) la maîtrise des principaux concepts de base de chimie de coordination y compris organométallique.",
+        "content": "Le cours comporte deux parties. La première reprend les concepts fondamentaux en chimie inorganique (rappels et compléments). La deuxième partie traite des bases de la chimie de coordination.",
+        "teaching_methods": "Cours magistral complété par quelques séances d'exercices en auditoire.",
+        "assessment_methods": "Examen écrit en session, éventuellement complété par un examen oral.",
+        "online_resources": "Les documents nécessaires au cours sont fournis sur Moodle: ceci comprend une copie intégrale des transparents utilisés au cours, ainsi que le livre de référence en version électronique.",
+        "bibliography": "Liste exhaustive d'ouvrages de référence fournie dans les notes de cours.",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm1341",
+        "title": "Chimie organique III",
+        "credits": "4.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Robiette Raphaël"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Il est recommandé d'avoir acquis les connaissances et compétences développées dans les UEs: LCHM1111 Chimie générale LCHM1141 Chimie organique LCHM1244 Chimie organique 2 : approfondissement des concepts de base LCHM1245 Chimie organique 2 : Chimie hétéroatomique",
+        "topics_covered": "Théorie des orbitales frontières. Traitement de Fukui. Activation thermique et photochimique. Cycloadditions (4+2) : régio- et stéréosélectivité. Cycloadditions 1,3-dipolaires. Réarrangement de Cope et réactions apparentées. (Poly)cyclisations des carbocations. Polymérisations cationiques. Réactions biomimétiques. (Poly)cyclisations radicalaires. Polymérisations radicalaires. Antioxydants naturels.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Dans la continuité du cours de chimie organique III, ce cours poursuit l'étude des intermédiaires réactionnels et des mécanismes de réactions. Une première partie consacrée aux réactions péricycliques permet d'aborder la théorie des orbitales frontières et de faire le lien avec l'enseignement de chimie physique. La deuxième partie traite de la réactivité des carbocations et des radicaux. Un lien avec l'enseignement de biochimie est prévu au niveau des exemples traités. Dans les deux parties, l'accent sera mis sur tous les aspects de la sélectivité lors de la création des nouvelles liaisons.",
+        "content": "Les chapitres abordés dans le cadre de ce cours sont : - Théorie des orbitales moléculaires - Les réactions électrocycliques - Les cycloadditions – [4+2] – [2+2] – (3+2) - Les réarrangements sigmatropiques - La chimie des carbènes - La chimie des radicaux - Les carbocations",
+        "teaching_methods": "L'enseignement consiste en 13 cours ex cathedra (présentiel) de 2h et 6 scéances d'exercices.",
+        "assessment_methods": "L'évaluation se fait à travers un examen écrit.",
+        "online_resources": "Les diapositives utilisées lors du cours ex cathedra, des articles de revues sur les différents points abordés dans le cours ainsi que des exercices sont disponibles sur la plateforme moodle. https://moodleucl.uclouvain.be/course/view.php?id=11010",
+        "bibliography": "Les livres de référence suivants sont conseillés - F. Carey & R. Sunberg, Advanced Organic Chemistry , 5 ème edition, Parties A & B. Disponible en ebook sur DIAL. - S. Warren & J. Clayden, Chimie Organique , seconde édition. Ces livres sont disponibles à la BST Le cours ne fait appel à aucun support particulier qui serait payant et jugé obligatoire --------- The following reference books are recommended - F. Carey & R. Sunberg, Advanced Organic Chemistry, 5th edition, Parts A & B. Available as an ebook on DIAL. - S. Warren & J. Clayden, Organic Chemistry, second edition. These books are available at BST The course does not use any particular material that would be paid for and considered mandatory",
+        "course_materials": "Slides sur moodle",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm1311",
+        "title": "Environmental chemistry",
+        "credits": "4.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Vlad Alexandru"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "L'enseignement portera sur les aspects environnementaux liés à la pollution de l'air, de l'eau et du sol, que celle-ci soit de nature inorganique ou organique. Il visera à décrire les principales sources de pollution de notre environnement (air, eau, sol) en mettant l'accent sur la physico-chimie sous-jacente (structure, stabilité, réactivité) et en présentant, le cas échéant, les stratégies alternatives permettant de les éviter ou d'en amoindrir les effets. Le cours abordera notamment les aspects suivants : - en ce qui concerne l'air : les gaz à effet de serre, l'ozone, les oxydes d'azote, les composés organiques volatils, la problématique des aérosols - en ce qui concerne l'eau et le sol : la problématique de l'eau potable, les nitrates, le chlore et les composés organochlorés, les métaux lourds.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L' objectif de cet enseignement est de fournir aux futurs professionnels du secteur de la chimie une vue d'ensemble de l'impact de la chimie, c'est-à-dire de ses produits et de ses procédés, sur l'environnement de notre planète. Il ne s'agit pas d'être encyclopédique sur le sujet mais de renforcer la prise de conscience de l'origine chimique de certains problèmes environnementaux, dans le cadre d'une démarche scientifique rigoureuse, basée sur les acquis des cours de chimie générale, tant inorganique qu'organique, dispensés en première et seconde année. L'enseignement aura aussi pour objectif d'introduire brièvement l'étudiant aux notions impliquées dans les aspects juridiques de la protection de l'environnement dans ses différentes composantes : l'air, l'eau, le sol, et la gestion des déchets.",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2150",
+        "title": "Physical chemistry and physico-chemical calculations II",
+        "credits": "6.00",
+        "hours": "45.0 h + 10.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Leyssens Tom"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Ce cours intégrera les notions de bases de chimie physique en proposant une étude approfondie des propriétés de la matière et des modèles de la réactivité chimique. Il intégrera les aspects microscopique et macroscopique du point de vue de la thermodynamique formelle et statistique ainsi que de la cinétique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif de ce cours est d'amener les étudiants à compléter leurs connaissances de la chimie physique et à les appliquer à l'étude de divers cas concrets. Un exposé systématique complétera la formation acquise durant le baccalauréat en thermodynamique ainsi qu'en cinétique chimique et guidera l'étudiant dans son apprentissage en l'amenant à résoudre les problèmes qui se posent dans la vie professionnelle.",
+        "content": "The class focuses on crystal engineering, crystal growth and crystallization, more specifically looking at the concepts of polymorphism, chiral resolution and salt/co-crystallization using physico-chemical principles applied to crystallization.",
+        "teaching_methods": "This course is a 5 Credit course and is podcast based. Classes take place in person, or  through pre-registred courses. For these latter students are required to visualize and work the material themselves. Question-Discussion sessions are organized on a regular basis to discuss.",
+        "assessment_methods": "A written exam takes place in January. During the exam, the student is able to reproduce the theory that is considered during the course, as well as to apply the course material to solve practical problems. The exam will cover all the chapters that are treated in the course. The majority of the exam focuses on the practical applications. A similar type of evaluation is organized in september",
+        "online_resources": "slides available on moodle",
+        "course_materials": "Slides on moodle",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm1391",
+        "title": "Projet",
+        "credits": "6.00",
+        "hours": "45.0 h + 45.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Elias Benjamin",
+            "Fustin Charles-André",
+            "Robiette Raphaël",
+            "Troian-Gautier Ludovic",
+            "Vlad Alexandru"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Le projet est un travail individuel de recherche bibliographique sur un thème d'actualité en chimie. L'étudiant envisagera le problème dans tous ses aspects interdisciplinaires. Au cours de son travail de recherche, l'étudiant bénéficiera de la guidance des titulaires de l'enseignement, suivant un plan de travail défini, avec trois dates fixes de réunion de manière à l'aider à répartir harmonieusement la charge de travail sur l'année académique. La recherche fera l'objet d'un rapport écrit circonstancié et d'une présentation orale devant un comité de lecture, suivie d'un court débat.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif principal de cette activité est l'intégration horizontale de toutes les facettes de la chimie (biochimie, chimie analytique, chimie inorganique, chimie organique, chimie physique), afin de sensibiliser l'étudiant à la gestion globale des connaissances acquises dans les différentes matières isolées. Confronté au traitement interdisciplinaire d'un problème, situation proche de la réalité professionnelle, l'étudiant développera une capacité d'analyse et de synthèse, et un esprit critique. La présentation écrite et orale du travail fera valoir les capacités de communication de l'étudiant.",
+        "content": "Ce cours consiste en un projet personnel de recherche bibliographique.",
+        "teaching_methods": "Ce cours est un \"apprentissage par projet\" et se déroule en alternance de séances plénières et de séances de tutorat individuel. L’enseignement a lieu en présentiel pour les séances collégiales d’introduction (voir horaire de cours), les présentations orales et les rendez-vous individuels hebdomadaires. Il se peut cependant que certaines séances ou rendez-vous individuels se passent à distance en fonction des contraintes horaires des intervenants.",
+        "assessment_methods": "La participation à toutes les activités de l’UE est obligatoire et indispensable pour valider celle-ci. L’UE fait l’objet d’une évaluation continue, prenant notamment en compte la qualité des recherches bibliographiques réalisées, le comportement proactif, les présentations orales réalisées au cours de l’année académique, la rédaction du document écrit et la défense orale publique du travail de recherche. Il n'y a pas de séance de rattrapage pour la rédaction du document écrit et la défense orale. Toute absence injustifiée entraîne une pénalité, qui peut aller jusqu’à l’annulation de la cote finale pour l’année d’étude considérée (0/20).",
+        "online_resources": "Les supports de cours sont disponibles sur la plateforme Moodle. Mais la plus grande partie du travail personnel devra se faire en utilisant les bases de données bibliographiques (telle que Scopus).",
+        "course_materials": "slides sur moodle",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm1351",
+        "title": "Chimie physique 1",
+        "credits": "5.00",
+        "hours": "45.0 h + 19.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Leyssens Tom"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Aspect phénoménologique de la thermodynamique : structure de la matière, 1ère et 2ème lois de la thermodynamique, changement d'état : matériaux purs, mélanges, diagrammes de phase, réaction chimique, modèles thermochimiques. Aspects phénoménologiques de la cinétique chimique : constante de vitesse et ordres de réaction, cinétiques simples et complexes, réaction et diffusion, processus de surface. Aspects microscopiques de la thermodynamique et théorie cinétique : thermodynamique statistique : nombre de complexions, différentes distributions, fonction de partition (tr-rot.-vib.), dérivation des fonctions thermodynamiques, théories cinétiques : théorie du complexe activé, surface de potentiel et dynamique de collision. Exercices : Les exercices permettront de concrétiser et de mettre en pratique les notions de thermodynamique et de cinétique chimique enseignées. Le recours aux micro-ordinateurs est un élément important de cet apprentissage, permettant de considérer des problèmes d'une complexité normale.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif de ce cours est d'amener les étudiants à acquérir les connaissances de base de la chimie physique et à les appliquer à l'étude de divers cas concrets. Un exposé systématique des bases de la thermodynamique classique et statistique ainsi que de la cinétique chimique, indispensable à la formation générale d'un chimiste ou biochimiste guidera l'étudiant dans son apprentissage et l'amènera à résoudre les problèmes qui se posent dans la vie professionnelle.",
+        "content": "La Chimie Physique est la partie de la chimie qui s’intéresse à comprendre pourquoi et comment les changements chimiques (ex. les réactions) ou physico-chimiques (ex. transition de phase) ont lieu. Classiquement la chimie physique est divisée en trois branches selon les aspects de compréhension visés : - La thermodynamique formelle : en décrivant macroscopiquement les différents états avant et après le changement (ex. réactifs et produits), et en se basant sur trois principes de base, on essaie de découvrir pq les transformations ont lieu, qu’estce que ce changement implique pour le système et l’environnement, … On ne se soucie pas de ce qui se passe lors du changement, ni des changements au niveau moléculaire. - La cinétique : s’intéresse à ce qui se passe lors du changement d’un état à un autre. La compréhension du chemin suivi, permettra éventuellement de l’influencer par des facteurs externes. La cinétique se base sur des observations expérimentales pendant les changements. - La thermodynamique statistique : est la partie de la Chimie Physique qui essaie de lier les propriétés macroscopiques et changement du système, aux variations qui ont lieu au niveau microscopique. A travers les traitements statistiques, on essaie d’expliquer les variations en état (thermo formelle) et les changements (cinétique) d’un point de vu moléculaire, ce qui est souvent plus parlant au ‘chimiste’.",
+        "teaching_methods": "Les concepts de base de chaque chapitre seront expliqués par un ensemble de cours magistraux ainsi que des cours pré-enregistrés. L'enseignant peut demander aux étudiants de travailler le cours pré-enregistrés de manière indépendante. Il discutera ensuite ces cours avec eux sous format de sessions questions-réponses.",
+        "assessment_methods": "L’évaluation écrite a lieu lors de la session d'examen (janvier et septembre). Il s'agit d'un examen écrit. La pondération est la suivante : - Connaissance et reproduction des démonstrations et concepts (+/-20%) - Résolution/ interprétions d’une mise en situation/ problème plus complexe et appliqué (+/-80%) Des examples d'examen se trouvent sur moodle. L'examen dure 3h.",
+        "other_info": "1. Thermodynamique classique 2. Thermodynamique statistique 3. Cinétique",
+        "online_resources": "Une série d’exercices est proposée aux étudiants. Ces exercices peuvent être fait à la propre initiative de l’étudiant et en parallèle durant des séances d’exercices. Des examens des années précédentes ainsi que l'ensemble des slides sont disponible sur moodle.",
+        "course_materials": "Slides sur Moodle",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2290",
+        "title": "Thesis tutorial",
+        "credits": "3.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Halleux Ariane",
+            "Riant Olivier"
+        ],
+        "teaching_language": "Anglais",
+        "content": "Activité d’enseignement s’intégrant dans la formation en anglais pour les étudiants en chimie depuis leur 1er cycle, aboutissant à une connaissance active et orale de la langue au terme de leurs études de 2ème cycle pour des présentations publiques de leurs compétences personnelles et scientifiques. Le cours comporte 3 parties : La première partie du cours consistera en de la guidance pour préparer et entraîner les étudiants à la communication orale en anglais et à la présentation d'un sujet scientifique. Ce sujet portera sur le cadre et l'état d'avancement des travaux de recherche que l'étudiant réalise dans le cadre de son mémoire. En un deuxième temps, les étudiants qui le désirent bénéficient de séance(s) de coaching individuelles avec le professeur d'anglais. La troisième partie de l'activité correspondra à la présentation comme telle et à une courte défense en anglais suivie de quelques questions. Formation aux techniques de présentation scientifique. Présentation publique en anglais de l'état d'avancement du mémoire de master de l'étudiant. A l'issue de ce module, les étudiants devraient se sentir assez à l'aise pour faire une présentation scientifique en anglais portant principalement sur le domaine académique de la chimie.",
+        "teaching_methods": "Le séminaire se compose de trois parties : 1. Séances de 2h de cours avec l'entièreté du groupe pour l'écolage sous la direction des maîtres d'anglais : parties spécifiques d'une présentation scientifique (graphiques, comparaisons, etc.), support visuel , exercices de prononciation portant sur des termes récurrents en science, notamment en chimie. 2. Séances de coaching individuelles avec le professeur d'anglais: les étudiants qui le souhaitent bénéficient d'un encadrement individuel en vue de la présentation finale (1 à 2 entrevues) 3. Un exposé public, en anglais, dans lequel l'étudiant présente l'état d'avancement de son mémoire et répond aux questions (en anglais) de son promoteur et de ses lecteurs.",
+        "assessment_methods": "L’évaluation est organisée au début du second quadrimestre. Elle consiste en une présentation orale publique en anglais devant les pairs et les enseignants de chimie et d’anglais, du sujet de mémoire. Cette présentation a généralement lieu en février ou en mars. Elle porte sur la qualité de la présentation et des réponses aux questions. Quant à l'évaluation de l'anglais, elle porte sur la prononciation correcte de mots récurrents dans l'exposé, l'aisance générale dans la langue et le soin que l'étudiant aura mis à appliquer les techniques de présentation scientifiques enseignées durant les séances. Les modalités prévues évolueront en fonction de la situation sanitaire.",
+        "online_resources": "Moodle: LCHM 2290 Thesis Tutorial",
+        "bibliography": "Moodle : LCHM2290 Thesis Tutorial ILV Supports de cours à acheter au premier cours. ----- Moodle: LCHM2290 Thesis Tutorial ILV Course materials to be purchased at first class.",
+        "course_materials": "LCHM 2290 Thesis Tutorial",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lfilo2003e",
+        "title": "Questions d'éthique dans les sciences et les techniques (partie séminaire)",
+        "credits": "2.00",
+        "hours": "15.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Français",
+        "prerequisites": "Le cours suppose une formation de base à la philosophie des sciences de la nature et à la réflexion éthique ; une connaissance au moins passive de l'anglais suffisante pour pouvoir lire des textes courants en philosophie de la nature et des sciences de la nature.",
+        "topics_covered": "En vue d'une analyse philosophique des pratiques techno-scientifiques contemporaines selon une double orientation, il s'agira - d'étudier les dimensions sociétales de la pratique technico-scientifique et d'introduire aux concepts fondamentaux de la sociologie des sciences ainsi que des courants \" Sciences, technologies, sociétés \" - d'envisager les dimensions éthiques des pratiques scientifiques, dans les multiples dimensions de la sphère techno-scientifique. Le cours comportera deux moments : Un premier moment, théorique, consistera en une introduction aux concepts de base de la sociologie des sciences ainsi qu'aux concepts fondamentaux des approches éthiques des sciences et des techniques. Une deuxième partie consistera en l'analyse de situations particulières, les études de cas choisies pouvant varier chaque année.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Au terme du cours, l'étudiant sera capable : d'analyser les pratiques techno-scientifiques contemporaines de dégager les enjeux éthiques et sociétaux de ces pratiques",
+        "content": "L'objectif du cours est de proposer les concepts de base pour une approche critique des relations sciences-sociétés dans leur dimension éthique. Le cours prend la forme d'une activité interdisciplinaire, tant au niveau des titulaires qu'au niveau de la dynamique générale. Ce cours comporte 2 ECTS pour les scientifiques et 5 ECTS pour les philosophes. Le cours comporte donc 2 parties distinctes. 1) Partie destinée à tout l'auditoire : Six séances d'exposés suivis de débats par les titulaires du cours sur des thèmes généraux (par ex., justifications de l'éthique, biodiversité et enjeux économiques, organismes génétiquement modifiés, politique énergétique, fécondation in vitro, etc.). 2) Partie spécifique aux étudiants en philosophie : Les étudiants en philosohie rédigent de plus un travail approfondi d'une douzaine de pages sur les dimensions philosophiques et éthiques du thème travaillé avec les étudiants en sciences (voir ci-dessous).",
+        "teaching_methods": "Présentations thématiques par les titulaires en binôme (scientifique et philosophe), suivies d'un débat avec toute la classe Visionage d'un film Présentation des travaux de groupe par les étudiant·e·s",
+        "assessment_methods": "1. Séminaire commun avec les étudiants de la Faculté des sciences (2 ECTS) Les travaux sont préparés par groupes inter-disciplinaires (2 à 4 étudiants) sur un thème choisi en concertation avec les co-titulaires du cours. Les travaux font l'objet d'un rapport écrit et d'un exposé oral avec discussion prévu lors du mini-symposium qui clôture le cours. 2. Séminaire entre philosophes (3 ECTS) Les étudiants en philosophie sont invités à produire un travail philosophique d'une douzaine de pages d'approfondissement du thème traité avec les étudiants en sciences. L'évaluation porte sur les deux travaux présentés, pondérés en fonction du nombre de crédits qui leur sont associés (40% travail de groupe, 60% travail individuel).",
+        "online_resources": "Présentations PowerPoint et autre lecture pertinente accessibles sur Moodle.",
+        "responsible_entity": "EFIL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm1321",
+        "title": "Chimie analytique 1",
+        "credits": "5.00",
+        "hours": "40.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Dupont Christine",
+            "Garcia Yann"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Il est recommandé d'avoir acquis les connaissances et compétences développées dans les UEs: LCHM1111 Chimie générale LCHM1211 Chimie générale 2 LPHY1101 Physique 1 LPHY1102 Physique 2",
+        "topics_covered": "L'enseignement doit, dans un premier temps, conduire l'étudiant à une bonne connaissance de la thermodynamique des solutions et à la prévision quantitative de leur comportement.  A ce niveau, les notions d'activité et d'état standard doivent pouvoir être exploitées de manière raisonnée.  Les différentes classes de réactions sont ensuite développées dans le but d'une exploitation rigoureuse dans les opérations de base de la chimie analytique quantitative.  L'étude de la gravimétrie et du titrage donne l'occasion d'illustrer les bases fondamentales des modes opératoires.  Enfin, les bases théoriques et les applications de la potentiométrie au problème analytique sont décrites; à cette occasion, l'étudiant est sensibilisé aux notions de potentiel d'électrode, d'électrode de référence, d'électrode indicatrice, à l'adéquation du montage électrochimique aux besoins de l'analyse, ainsi qu'aux performances analytiques et aux précautions propres aux méthodes potentiométriques.  Les aspects théoriques des méthodes de séparation chromatographiques ainsi qu'une introduction à l'analyse spectrochimique sont également donnés.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif de ce cours est d'amener l'étudiant à acquérir les connaissances de base et à pratiquer les raisonnements classiques en chimie analytique quantitative.  Ce projet englobe la familiarisation avec la méthodologie de résolution du problème analytique complet, allant de la préparation de l'échantillon à l'évaluation des résultats.  Ce cours vise plus particulièrement les méthodes courantes de la chimie analytique quantitative. L'ensemble que constitue cet enseignement doit, avec CHM1322, assurer la formation de base en chimie analytique du programme de baccalauréat en sciences chimiques. Cette formation vise non seulement la pratique de techniques analytiques, mais elle doit permettre à l'étudiant de développer des schémas et des méthodes d'analyse de manière rigoureuse, en s'appuyant sur des bases de la physicochimie et du raisonnement analytique.",
+        "content": "Introduction - Analyse chimique et information (performances des analyses, l'erreur expérimentale et son traitement) - Solution aqueuses d'électrolytes (force ionique, coefficient d'activité, potentiel chimique) Introduction à la spectroscopie (phénomènes, dispositifs, exploitation quantitative) - précipites et gravimétrie - volumétrie - réactions d'oxydo-réduction - potentiométrie (électrodes indicatrices et de référence, potentiel de membrane, capteurs complexes) Introduction à la chromatographie (aspects théoriques)",
+        "teaching_methods": "Cours magistraux / séances d'exercices (après préparation d'exercices mis à disposition en ligne). En fonction de la situation sanitaire, certains cours peuvent se donner à distance.",
+        "assessment_methods": "Evaluation continue sous la forme d'interrogations lors des séances d'exercices (20%) - Examen écrit (80%)",
+        "online_resources": "site LCHM1321 Moodle et Teams LCHM1321",
+        "bibliography": "Skoog and West",
+        "course_materials": "Syllabus LCHM1321 (Sur Moodle)",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsst1002m",
+        "title": "Informations et esprit critique - MOOC",
+        "credits": "3.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "De Kesel Myriam"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Cet enseignement aborde la question de l’esprit critique et de sa mise en oeuvre bans l’évaluation de la qualité d’une information.",
+        "content": "Le cours comporte 6 modules. Module 1 : Pourquoi développer son esprit critique ? Module 2 : Identifier ses préconceptions Module 3 :  Décoder le discours Module 4 : Évaluer la qualité des sources Module 5 : Comprendre la démarche scientifique Module 6 : Analyser les données Module 7 : Prendre conscience des limites de la science",
+        "teaching_methods": "Le cours est entièrement en ligne.",
+        "assessment_methods": "L'évaluation inclut des devoirs à réaliser en ligne dans le cadre du MOOC (Activité 1 : 50%) et une évaluation finale basée sur une analyse de cas (Activité 2 : 50%). Chacune des 2 activités doit être réussie avec une note égale ou supérieure à 10/20 pour que cette UE puisse être réussie. Le principe de la note abosrbante est appliquée à cette UE càd qu'une note d'échec dans une des activités entraîne une note d'échec pour la totalité de l'UE.",
+        "online_resources": "https://learning.edx.org/course/course-v1:LouvainX+Louv22x+1T2023/home",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2170",
+        "title": "Introduction to protein biotechnology",
+        "credits": "3.00",
+        "hours": "22.5 h + 7.5 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Morsomme Pierre",
+            "Soumillion Patrice"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "1. La manipulation des gènes : isolement, clonage, modification, transfert et caractérisation. 2. L'expression des gènes : les vecteurs, l'expression en bactéries, levures, plantes, cellules d'insectes et mammaliennes , la production d'anticorps monoclonaux. 3. Amélioration des protéines : ingénierie génétique, évolution dirigée et stabilisation chimique. Les techniques sous-jacentes seront brièvement expliquées.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours a pour objectif de familiariser l'étudiant avec le domaine de la biotechnologie des protéines dont l'importance et les interactions avec la chimie ne cessent de croître, notamment en bio-pharmacie. Le cours vise à amener l'étudiant à comprendre les notions de base de biologie moléculaire et de génie génétique utiles pour la production et l'amélioration des protéines. Un objectif est également l'acquisition du vocabulaire associé à ces notions afin que l'étudiant puisse plus tard interagir avec les spécialistes du domaine.",
+        "content": "1. La manipulation des gènes : récupération, clonage, modification, transfert et caractérisation. 2. Expression génétique : vecteurs, expression dans les bactéries, les levures, les plantes, les cellules d'insectes et de mammifères, production d'anticorps monoclonaux. 3. Amélioration des protéines : génie génétique, évolution dirigée et stabilisation chimique. Toutes les techniques sous-jacentes seront brièvement expliquées.",
+        "teaching_methods": "Conférences ex cathedra",
+        "assessment_methods": "Examen écrit",
+        "online_resources": "Tous les documents sont proposés via Moodle",
+        "course_materials": "matériel sur moodle",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm1252",
+        "title": "Eléments de chimie physique moléculaire",
+        "credits": "6.00",
+        "hours": "45.0 h + 22.5 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "de Wergifosse Marc"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Le cours porte sur la compréhension, utilisant les principes premiers de la physique, du comportement électronique des atomes et molécules et son lien avec la chimie. Il aborde aussi la compréhension des mouvements atomiques dans les molécules (rotations, vibrations). Pour ce faire, le cours comporte une présentation des bases nécessaires de mécanique quantique pour le chimiste.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours, destiné aux étudiants en chimie, propose une introduction à l'aspect microscopique du monde atomique et moléculaire. Il présente les notions de structure électronique des atomes et molécules, de structure géométrique des molécules et des mouvements moléculaires en vue de les intégrer à l'étude des propriétés moléculaires et à la réactivité chimique : une insistance toute particulière sera faite sur le caractère discret des niveaux d'énergie, leur calcul et leur signification ainsi que sur la description des molécules individuelles. Ce cours doit servir d'introduction au cours de spectroscopie moléculaire, à la thermodynamique statistique et à la chimie quantique. Il introduit la terminologie et les concepts d'usage en chimie organique et inorganique.",
+        "content": "Chapitre 1: Les origines de la mécanique quantique Introduction Origines de la mécanique quantique Le rayonnement du corps noir L’effet photoélectrique L’effet Compton Le spectre atomique de l’hydrogène Le modèle de Bohr Dualité onde/corpuscule Chapitre 2: Les fondements de la mécanique quantique Les opérateurs en mécanique quantique Les postulats de la mécanique quantique Les caractéristiques et évolution des états Chapitre 3: Mouvements linéaires Les caractéristiques des fonctions d’ondes Remarques générales sur l’équation de Schrödinger Mouvements linéaires de translation Une particule libre dans un système unidimensionnel Pénétration au travers d’une barrière d’énergie potentielle Une particule dans une boite Mouvements linéaires L’oscillateur harmonique L’oscillateur harmonique pour une molécule diatomique Chapitre 4: Rotations Rotation d’une particule sur un cercle Rotation d’une particule sur une sphère Le rotateur rigide comme modèle pour la rotation d’une molécule diatomique Le moment angulaire (moment cinétique) Chapitre 5: L’atome d’hydrogène Mouvement d’un électron dans un potentiel Coulombien Les orbitales atomiques mono-électroniques Retour au moment angulaire (moment cinétique) Chapitre 6: Techniques d’approximation Théorie des perturbations indépendantes du temps Méthode des variations Chapitre 7: L’atome d’Hélium et le spin L’atome d’Hélium Le spin Le spin et l’Hélium Produit de Hartree Les déterminants de Slater Chapitre 8: Les atomes polyélectroniques et la méthode Hartree-Fock Les atomes polyélectroniques Les orbitales atomiques de Slater Méthode Hartree-Fock Théorie des perturbations dépendantes du temps Spectres atomiques Notation spectroscopique d’une configuration électronique Règles de Hund pour déterminer le terme atomique de l’état fondamentale Règles de sélections pour les atomes polyélectroniques Chapitre 9: Introduction à la structure moléculaire L’approximation de Born-Oppenheimer L’ion H2+ La théorie des orbitales moléculaires La molécule de dihydrogène Les molécules diatomiques Le terme électronique d’un état électronique d’une molécule diatomique Etats excités des molécules diatomiques Théorie des orbitales moléculaires pour les molécules polyatomiques Pourquoi la molécule de BeH2 est linéaire et la molécule de H2O coudée? Quelques mots sur la méthode de Hückel Chapitre 10: Interaction des molécules avec la lumière Rappel: Théorie des perturbations dépendantes du temps Règles de sélection pour l’absorption et l’émission Spectroscopie électronique Spectroscopie vibrationnelle des molécules diatomiques Spectroscopie vibrationnelle des molécules polyatomiques",
+        "teaching_methods": "Cours magistraux interactifs avec séances optionnelles de questions/réponses. Des séances d'exercices obligatoires ainsi qu'un laboratoire obligatoire sont organisés pour faciliter la compréhension des étudiants. Excepté pour la première séance, à chaque séance d'exercice, une petite interrogation de 15 minutes est organisée sur la matière de la séance précédente. Un rapport sera demandé pour la séance de laboratoire.",
+        "assessment_methods": "Les interrogations d’exercices comptent pour 15% de la cote finale. Le rapport de laboratoire compte pour 5% de la cote finale. Les étudiants seront évalués par un examen (80% de la cote finale) en deux parties: écrit à livre fermé et oral.",
+        "other_info": "La compréhension de cette unité d’enseignement demande un travail hebdomadaire de la part de l’étudiant car les concepts sont construits au fur et à mesure du cours. La présence au cours est donc très fortement conseillée.",
+        "online_resources": "site moodle : https://MOODLE.UCLOUVAIN.BE",
+        "course_materials": "Slides (disponibles sur moodle) Ressources bibliographiques diverses (disponibles sur moodle) Carnet d'exercices (disponibles sur moodle) Carnet de laboratoire (disponibles sur moodle)",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lmat1101",
+        "title": "Mathématiques 1",
+        "credits": "4.00",
+        "hours": "30.0 h + 20.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Dos Santos Santana Forte Vaz Pedro"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Rappels sur les fonctions élémentaires (fonctions rationnelles, racines, exponentiel et logarithme, fonctions trigonométriques). Fonctions d'une variable réelle (continuité et limites, dérivées et extrema, intégrales et primitives). Calcul vectoriel (vecteurs dans R^2 et R^3 et leurs composantes, norme, produit scalaire et lien avec la projection orthogonale, produit vectoriel, parallélisme et orthogonalité). Nombres complexes. Introduction aux équations différentielles (équations du premier ordre à variables séparables, équations linéaires à coefficients constants d'ordre un et deux).",
+        "content": "Calcul vectoriel (vecteurs dans R^2 et R^3 et leurs composantes, norme, produit scalaire et lien avec la projection orthogonale, produit vectoriel, parallélisme et orthogonalité). Rappels sur les fonctions élémentaires (fonctions rationnelles, racines, exponentiel et logarithme, fonctions trigonométriques). Fonctions d'une variable réelle (continuité et limites, dérivées et extrema, intégrales et primitives). Introduction aux équations différentielles (équations du premier ordre à variables séparables, équations linéaires à coefficients constants d'ordre un et deux).",
+        "teaching_methods": "Cours magistral et séances d'exercices",
+        "assessment_methods": "Examen écrit. La modalité d'évaluation pourra être adaptée si la situation sanitaire change.",
+        "online_resources": "Page moodle du cours",
+        "bibliography": "Briggs, Cochran & Gillett, Calculus: Early Transcendentals , Global Edition, 2/e, ©2016 | Pearson | Paper; 1320 pp",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lmat1102",
+        "title": "Mathématiques 2",
+        "credits": "4.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Ponce Augusto"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Eléments de calcul matriciel (ce qu'il faut pour les extrema d'une fonction de plusieurs variables : déterminant et valeurs propres). Fonctions de deux (ou plusieurs) variables réelles (visualisation, coupes et courbes de niveau, continuité et limites, dérivées partielles et directionnelles, gradient, plan tangent et différentiabilité, extrema libres, intégrales multiples). Introduction à l'analyse vectorielle (courbes et surfaces paramétrées, intégrales de ligne et de surface, divergence et rotationnel, théorèmes de type Stokes).",
+        "content": "Le cours abordera le calcul différentiel à deux et trois variables : représentations graphiques limite et continuité dérivées partielles et plan tangent problèmes d'optimisation libre et sous contrainte intégrale multiple et changement de variables suites et séries développements de Taylor et séries entières",
+        "teaching_methods": "Les activités d'apprentissage sont constituées par des cours magistraux et des séances de travaux pratiques. Les cours magistraux visent à introduire les concepts fondamentaux et à les motiver par des exemples. Les exercices encadrés permettront aux étudiants de se familiariser avec les techniques et méthodes du calcul différentiel et intégral à plusieurs variables, par la résolution des problèmes et des exercices.",
+        "assessment_methods": "L'acquisition des compétences sera évaluée lors d'un examen final. Les questions demanderont de choisir et appliquer des méthodes du cours pour résoudre des exercices. L'évaluation portera sur : la connaissance et compréhension des différents objets et méthodes mathématiques du cours, l'exactitude des calculs, la qualité de la rédaction des réponses.",
+        "online_resources": "Documents complémentaires sur Moodle .",
+        "course_materials": "W. L. Briggs, L. Cochran, B. Gillett, Calculus: Early Transcendentals, Global Edition, 2e édition, Pearson, 2016.  ISBN-10: 1292062312",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lang1863",
+        "title": "Anglais interactif pour étudiants en sciences (niveau intermédiaire+)",
+        "credits": "2.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1 ou Q2",
+        "teachers": [
+            "Adrioueche Ahmed",
+            "Avery Catherine",
+            "Dumont Amandine",
+            "Jacob Sandrine",
+            "Kefer Adrien",
+            "Serbest Nevin",
+            "Simon Florence",
+            "Volpe Marine"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "L'étudiant devra avoir suivi le cours de niveau intermédiaire ( LANG1862 ) ou un cours d'un niveau similaire, correspondant au niveau B1 du « Cadre Européen Commun de référence pour les Langues » (Conseil d'Europe) Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Compréhension à la lecture Les étudiants doivent être capables de lire et de comprendre de façon autonome et en détails des textes et articles spécialisés dans leur domaine d'étude. Niveau : C1 2 Compréhension à l'audition Les étudiants doivent être capables de comprendre des conférences et des exposés ainsi qu'une argumentation complexe. Ils doivent être capables d'exploiter les points principaux d'un document lors d'une conversation. Niveau : B2 3 Expression orale individuelle : Les étudiants doivent être capables de présenter un sujet complexe de manière claire et méthodique en se référant peu à leur notes. Expression orale - Interactif : Les étudiants doivent être capables de communiquer de manière spontanée et avec aisance afin de permettre une interaction naturelle avec un interlocuteur natif. Ils doivent également être capables d'exprimer, de nuancer et de défendre leur opinion ainsi que d'interagir avec leur interlocuteur dans des conversations traitant de sujets de la vie quotidienne et professionnels. Niveau : B2 4 Expression écrite Les étudiants doivent être capables : d'écrire une lettre de motivation et un cv. d'écrire un email de produire une brève présentation écrite traitant de leur domaine d'étude d'exprimer leur point de vue sur un sujet traitant de leur domaine d'étude Niveau : B2",
+        "content": "Cours d'anglais productif",
+        "teaching_methods": "Cours et guidances individualisées Utilisation d'une plateforme Elearning (Moodle)",
+        "assessment_methods": "Evaluation continue (certificative et formative): participation au cours résentation orale au cours Examen oral",
+        "online_resources": "https://moodle.uclouvain.be/",
+        "responsible_entity": "ILV"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2122",
+        "title": "Analysis physical methods of solids",
+        "credits": "3.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Fustin Charles-André",
+            "Garcia Yann"
+        ],
+        "teaching_language": "Anglais",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours a non seulement pour but de donner une large introduction aux grandes méthodes instrumentales destinées à l'étude des solides mais encore de permettre d'orienter une analyse vers les solutions les plus appropriées.  L'accent est mis sur les principes, les possibilités et les limitations de chaque techniques, ainsi que sur les domaines d'application.",
+        "content": "I. Méthodes d'analyse thermique : analyse thermogravimétrique (ATG), analyse thermodifférentielle (ATD) et calorimétrie différentielle à balayage (DSC). II. Résonance nucléaire des rayons gamma : applications en chimie, science des matériaux, environnement et minéralogie (spectrométrie Mössbauer) III. Spectroscopie d'absorption des RX : EXAFS, XANES et WAXS IV. Diffraction et Fluorescence des RX sur poudres V. Analyse des surfaces et microscopies : spectrométrie des photoélectrons (XPS, AES). Spectrométrie de masse des ions secondaires (SIMS). Mesure de surface spécifique (BET). Microscopies électronique à balayage (MEB). Microscopie électronique à transmission (MET). Microscopie à force atomique (AFM)",
+        "teaching_methods": "cours classique ou classe inversée.",
+        "assessment_methods": "examen oral ou écrit en fonction du nombre d'étudiant.e.s Présentation orale d'un projet.",
+        "other_info": "Préalable : Symétrie moléculaire et structures cristallines (CHM 1251A) - Bases de spectroscopie moléculaire (CHM 1251B). Supports : - Instrumental Methods of Analysis, H.H. Willard, L.L. Merritt Jr. J.A. Dean, F. A. Settle Jr., 7th ed., New York, Wadsworth Publishing Company, 1988. - Fascicule comprenant la copie des transparents utilisés par l'enseignant Le cours peut être dispensé  par un conférencier invité.",
+        "online_resources": "LCHM2122 Moodle and Teams LCHM2122",
+        "bibliography": "Instrumental Methods of Analysis , H.H. Willard, L.L. Merritt Jr. J.A. Dean, F. A. Settle Jr., 7th ed., New York, Wadsworth Publishing Company, 1988. All slides are available on Moodle. Other books that are chapters specific are advised below: Most of the chapters Principles of Instrumental Analysis – 6th Ed., D.A. Skoog, F.J. Holler, S.R. Crouch,Thomson, Books/Cole, 2007 Thermal analysis methods DSC, An Introduction for practitionners, G. Höhne, W. Hemminger, H.-J. Flammershein, Springer Verlag, 1996, MOST B3 library : n° 714 Introduction to Instrumental Analysis, R. D. Braun, Mc Graw-Hill, Int. Ed. 1987, Singapore, ISBN 0-07-100147-6, MOST B3 library : n° 669 Materials characterization : Introduction to microscopic and spectroscopic methods, Yang Leng, Wiley, 2008, Réf : A187077 (BST) X-ray absorption, diffraction and fluorescence EXAFS : Basic Principles and Data Analysis, K.T. Boon, Springer Verlag, 1986, MOST B3 library : n° 713 Nuclear instruments and their uses – Vol. I : Ionization, detectors, scintillators, Ed. A.H. Snell, John Wiley & Sons, New York, 1962 Principles and practice of X-ray spectrometric analysis, E. P. Bertin, Plenum Press, New York, 1975. Mössbauer Spectroscopy Mössbauer spectroscopy and Transition Metal Chemistry, Fundamentals and Applications, P. Gütlich, E. Bill, A. X. Trautwein, Springer, 2011, Ref : A 1 15 QC462.T86 .G (BST), also available in MOST B3 library. Mössbauer spectroscopy, N. N. Greenwood, T. C. Gibb, London : Chapman and Hall, 1971, Ref : B602672 (BST) Mössbauer effects in lattice dynamics : experimental, technique and applications, Yi-Long Chen, Wiley VCH, 2007, Ref : A115025 (BST) Mössbauer spectroscopy , Tutorials for BAC, Y. Yoshida, G. Langouche Eds., Springer, 2013, Ref. A 1 14 QC491.M (BST), also available in MOST B3 library. Mössbauer spectroscop y. Applications in Chemistry and Materials Science. Y. Garcia, J Wang, T. Zhang. Wiley VCH. 2023.",
+        "course_materials": "Teachers slides are available on Moodle",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2130",
+        "title": "Inorganic chemistry II and Exercises",
+        "credits": "6.00",
+        "hours": "30.0 h + 45.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Boreux Arnaud",
+            "Hermans Sophie"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "L'enseignement théorique portera sur les concepts fondamentaux de la chimie de coordination du point de vue des aspects électroniques (spectres et propriétés magnétiques), structuraux (analogies isolobales) et de la réactivité (mécanismes réactionnels). Les exercices pratiques auront pour objet : - la synthèse et la purification de composés de coordination de métaux de transition - la maîtrise des principales techniques de caractérisation physico-chimique (principalement spectroscopiques) des composés inorganiques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours vise à couvrir les principaux concepts de base de la chimie de coordination. Les exercices pratiques porteront sur la synthèse et l'étude des propriétés physico-chimiques des composés de coordination des métaux de transition. Pré-requis : Symétrie moléculaire et structures cristallines (CHM 1251A) Bases de spectroscopie moléculaire (CHM 1251B). Fascicule comprenant la copie des transparents utilisés par l'enseignant",
+        "content": "Le cours abordera les aspects suivants : Propriétés générales des composés de coordination : spectroscopie électronique et propriétés magnétiques, description des liaisons dans le cadre de la théorie des orbitales moléculaires. Mécanismes réactionnels en chimie de coordination. Réactions de substitution de ligands (complexes octaédriques, complexes plan carré : effet trans). Réactions de transfert électronique. Compléments de chimie organométallique : analogies isolobales. Polyèdres moléculaires en chimie inorganique : la laison métal-métal, structure des boranes, clusters métalliques. Chimie bioinorganique. Les exercices pratiques sont choisis parmi les thèmes suivants : Synthèse et caractérisation spectroscopique de complexes de Vanadium. Synthèse et caractérisation spectroscopique de complexes du Cr(III). Synthèse et caractérisation spectroscopique de complexes du Ni(II). Synthèse de complexes luminescents. Séparation des isomères optiques de complexes du Co(III). Cinétique de l'isomérisation cis-trans. Méthode de Job. Ligands ambidentates et isomérie de liaison.",
+        "teaching_methods": "Cours magistral en auditoire et séances de travaux pratiques en laboratoire.",
+        "assessment_methods": "Examen écrit + oral en session. La cote finale comprend aussi une contribution émanant de l'évaluation des travaux pratiques (produits synthétisés et rapports de laboratoire).",
+        "other_info": "Préalables : Notions de chimie générale Symétrie moléculaire et structures cristallines Bases de chimie théorique et de spectroscopie moléculaire. Cours de chimie inorganique I (LCHM 1331)",
+        "online_resources": "Le support du cours est disponible au téléchargement sur Moodle.",
+        "bibliography": "Supports : - \"Inorganic Chemistry : principles of structure and reactivity\", J. Huheey, E. Keiter, R. Keiter, 4th ed., Harper and Collins, 1993. - Autres références bibliographiques conseillées au début de l'enseignement. - Copie des transparents utilisés par l'enseignant, disponibles sur Moodle. - Pour les exercices pratiques : manuel de laboratoire",
+        "course_materials": "matériel sur moodle",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2151",
+        "title": "Advanced mass spectrometry",
+        "credits": "3.00",
+        "hours": "22.5 h + 7.5 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Fustin Charles-André"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "1. Définitions élémentaires (rappel) 2. Modes d'ionisation 3. Analyseurs 4. Couplages chromatographiques 5. Interprétation des données spectrales 6. Introduction à l'identification et au séquençage des protéines et peptides par spectrométrie de masse",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours a pour objectif de former les étudiants à la spectrométrie de masse dans ses différentes composantes ; techniques et d'interprétation des données spectrales.",
+        "content": "Après un bref rappel des définitions de base, les différents modes d'ionisation (EI, CI, FAB, ESI, APCI, APPI, DESI, DAPCI, DAPPI) seront traités en profondeur. Le cours abordera les différents analyseurs (Quad, triple Quad, Trappes, TOF, Orbitrap, FTICR) et leurs combinaisons possibles ainsi que les différents modes de balayage. Les couplages avec les chromatographies gazeuses et liquides seront évoqués. L'interprétation des données spectrales comportera les différences de données fournies par les spectres à basses résolution et précision et à hautes résolution et précision, l'intérêt de l'analyse de l'amas isotopique, les grandes règles de fragmentation des radicaux-cations ainsi que quelques règles de base pour la fragmentation des ions à nombre pair d'électrons. Cette partie du cours sera vue principalement au travers d'exercices. Pour terminer, quelques examples d'applciations de la spectrométrie de masse dans différents domaines seront vus au travers des présentations réalsiées par les étudiants.",
+        "teaching_methods": "Le cours se donne principalement au tableau au moyen de diapositives powerpoint. La partie magistrale est suivie d'exercices.",
+        "assessment_methods": "La participation à toutes les activités de l’UE est obligatoire et indispensable pour valider celle-ci. L'examen consiste en un travail personnel basé sur la litérature scientifique à présenter devant tous les étudiants inscrits au cours.",
+        "other_info": "Préalables : - Bases de chimie et de physique - Cours CHM1251C.",
+        "online_resources": "Une copie des slides se trouve sur Moodle",
+        "course_materials": "slides sur moodle",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbir1346",
+        "title": "Chimie des colloïdes et des surfaces (I)",
+        "credits": "3.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Dupont Christine",
+            "vander Straeten Aurélien"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Le contenu de ce cours s’appuie sur les connaissances et compétences acquises dans le cadre du cours LBIR1221 Il est donc recommandé d’avoir réussi ce cours avant de s’inscrire au cours LBIR1346 Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "Vue d'ensemble des systèmes colloïdaux et des types d'interfaces. Théorie cinétique des systèmes colloïdaux : concepts et applications. Energie de surface : concepts et applications Adsorption : concepts et applications Interfaces chargées : modèles physico-chimiques Interaction entre surfaces : concepts et applications",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'activité au référentiel AA (AA du programme) 1.3, 1.5, 2.3, 4.2, 4.3, 4.4 b. Formulation spécifique pour cette activité des AA du programme A l'issue de cet enseignement, les étudiants seront capables de : -       Reformuler les concepts qui permettent de comprendre les phénomènes physico-chimiques propres aux systèmes dispersés et aux interfaces (surfaces, colloïdes, systèmes nanométriques et supramoléculaires) et leur incidence sur le comportement des systèmes à l'échelle macroscopique ; -       Estimer la portée de ces phénomènes en se basant sur des valeurs chiffrées réalistes ; -       Relier les phénomènes se produisant à différentes échelles (nano, micro, macro) ; -       Expliquer des phénomènes observés dans la vie quotidienne ou typiques de la bioingénierie (matériaux, aliments, systèmes vivants, sols et environnement, industrie chimique, biotechnologie) sur base des concepts développés au cours ; -       Prédire le comportement de systèmes simples.",
+        "content": "Introduction : vue d'ensemble des systèmes colloïdaux et des types d'interfaces. Théorie cinétique des systèmes dispersés : sédimentation, centrifugation, diffusion, mouvement Brownien. Energie de surface : tension superficielle, équation de Laplace, mouillage - capillarité - adhésion - cohésion - dispersion, porosimétrie à mercure, illustrations. Adsorption à partir d'une solution : propriétés des monocouches, notion d'adsorption, équation d'adsorption de Gibbs, isotherme de Langmuir, illustrations. Propriétés des surfaces chargées : origine de la charge, modèles physique et chimique de la double couche, interactions entre particules et problème de la stabilité des systèmes colloïdaux.",
+        "teaching_methods": "Cours magistraux ponctués de résolutions d'exercices et de démonstrations expérimentales.",
+        "assessment_methods": "Pendant l'année: évaluation continue par le biais de tests portant sur des portions limitées de matière (25% de la note finale). En session: examen écrit (75% de la note finale).",
+        "other_info": "Il n'y a pas de support obligatoire de cours",
+        "online_resources": "site Moodle du cours",
+        "bibliography": "voir site Moodle du cours",
+        "responsible_entity": "AGRO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2181",
+        "title": "Homogeneous and heterogeneous catalysis",
+        "credits": "3.00",
+        "hours": "22.5 h + 7.5 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Gaigneaux Eric",
+            "Riant Olivier"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Généralités sur la catalyse : Rappel du principe de base de la catalyse. Catalyse homogène, hétérogène et hétérogénéisation de la catalyse homogène. Description et comparaison des processus élémentaires dans les deux types de catalyse. Partie catalyse homogène : 1. Principes de base de la catalyse homogène - Rappels des bases de la chimie organométallique (Règle des 16 et 18 électrons, classification des ligands, donation et rétrodonation). - Réactions élémentaires : substitution de ligands, addition oxydante, élimination réductrice, insertion, couplage oxydant. - Ligands ancillaires : cas des mono et di-phosphines, angles de cône de Tolman, ligands diaminocarbènes. - Principe de la catalyse par transfert de phase. 2. Quelques exemples de grands procédés industriels utilisant la catalyse homogène. Exemples : hydrocyanation des alcènes (chaîne du nylon), hydroformylation des alcènes, synthèse de l'acide acétique, procédés d'oxydation, procédés biphasiques. Partie catalyse hétérogène : 1. Principes de base de la catalyse hétérogène. 2. Revue des principaux modèles cinétiques de la catalyse hétérogène (Langmuir-Hinshelwood, Eley-Rideal, Mars -van Krevelen) 3. Illustrations dans les domaines de la pétrochimie (hydrotraitement, craquage catalytique, oxydation et ammoxydation du propène, époxydation de l'éthylène, oxydation du butane en anhydride maléique, utilisations des zéolithes,), de l'environnement (DeNOx, gaz d'échappement) et de la chimie de synthèse inorganique de base (ammoniac, acide sulfurique, ).",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Cet enseignement a pour objectifs : 1. de fournir à tous les futurs chimistes une vision d'ensemble et unifiée de la catalyse, en décrivant et comparant les processus élémentaires en catalyse homogène et hétérogène, et 2. d'illustrer l'importance de la catalyse tant homogène qu'hétérogène au niveau industriel.",
+        "content": "Partie catalyse hétérogène : 1. Principes de base de la catalyse hétérogène; description des différentes étapes du cycle catalytique hétérogène : diffusions, adsorption-désorption, réaction, et leur impact sur les performances globales 2. Revue des principaux modèles cinétiques de la catalyse hétérogène (Langmuir-Hinshelwood, Eley-Rideal, Mars -van Krevelen) 3. Illustration via deux études de cas : le pot catalytique automobile, et les catalyseurs biomimétiques, ainsi que via des exemples issus de la pétrochimie abordés de manière continue dans le cours.",
+        "teaching_methods": "Pour la partie catalyse hétérogène : Cours magistral avec usage d'un powerpoint disponible sur Moodle en début d'enseignement. Une interaction constante avec les étudiants est établie sous la forme de questions-réponses les entraînant dans des débats à charge et à décharge sur des questions spécifiques, ceci leur permettant d'intégrer la matière en cours de séance.",
+        "assessment_methods": "L'examen comporte deux parties (catalyse homogène et catalyse hétérogène) portant chacune sur 10 points; la somme des notes de chaque partie constituant la note sur 20 pour l'ensemble du cours. Pour la partie catalyse hétérogène spécifiquement : examen écrit à livre fermé, avec des questions ponctuelles, mais aussi des questions transversales nécessitant d'activer les connaissances sur l'ensemble du cours.",
+        "other_info": "Pour la catalyse hétérogène : cette partie de cours peut être donnée en anglais.",
+        "online_resources": "Pour la partie catalyse hétérogène : Les notes de cours utilisées par l'enseignant constituent un syllabus, et sont mises à disposition sur la plateforme Moodle avant le début du cours ; leur impression (en mode 2, max 4 dias par face) est vivement recommandée.",
+        "course_materials": "Aucun support de cours obligatoire",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm1254",
+        "title": "Eléments de spectroscopie moléculaire",
+        "credits": "4.00",
+        "hours": "30.0 h + 20.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Hermans Sophie"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Notions de physique générale telles que visées par le cours LPHY1113 et de chimie physique telles que visées par le cours LCHM1252.",
+        "topics_covered": "Le cours de spectroscopie moléculaire décrira les différentes techniques d'analyse basées sur l'interaction entre les molécules et une onde électromagnétique, ainsi que la spectrométrie de masse. Les cours de physique générale en constituent donc un pré-requis, ainsi que le cours de chimie physique. Les bases théoriques de différentes méthodes spectroscopiques seront abordées au cours de l'exposé magistral (30h). L'identification de composés organiques à partir de leurs spectres sera acquise au cours de séances d'exercices (20h). Ces notions sont une base pour la chimie de synthèse, et donc pour de nombreux enseignements ultérieurs ainsi que pour la recherche. Les cours avancés en lien direct avec celui-ci sont les \"compléments de travaux pratiques\" CHM1300, \"NMR complements\" CHM2152 et \"advanced mass spectrometry\" CHM2151.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 1. être capable de décrire le principe de base de toute spectroscopie, 2. être capable d'expliquer le mode de fonctionnement, les avantages et inconvénients de chaque spectroscopie, 3. être capable de distinguer dans un texte scientifique (livre, article) l'apport d'une technique spectroscopique particulière, 4. être capable d'extraire la structure d'une molécule organique de l'interprétation de ses spectres IR, RMN, UV et de masse",
+        "content": "Partie I : Introduction générale Chap. 1 représentation moléculaire Chap. 2 interaction onde-matière et spectroscopie Chap. 3 principes généraux de spectroscopie Partie 2 : Spectroscopies courantes Chap. 4 spectroscopie infra-rouge Chap. 5 noyaux et électrons dans un champ magnétique Chap. 6 spectroscopie de résonance magnétique nucléaire Chap. 7 spectrométrie de masse Chap. 8 spectroscopie micro-ondes Chap. 9 spectroscopie UV-Visible Partie 3 : Notions complémentaires Chap. 10 spectroscopies Raman Chap. 11 transitions moléculaires et intensité Chap. 12 spectroscopies à transformée de Fourier",
+        "teaching_methods": "Un cours théorique en auditoire comprenant des séances de pédagogie active est complété par des séances d'exercices données par un(e) assistant(e).",
+        "assessment_methods": "L'évaluation certificative consiste en un examen écrit en session.",
+        "online_resources": "Toutes les ressources du cours sont disponibles sur Moodle",
+        "bibliography": "Colin N. Banwell, Elaine M. McCash, \"Fundamentals of Molecular Spectroscopy\" fourth edition, McGraw-Hill Book Company, 1994. Laurence M. Harwood, Timothy D. W. Claridge, \"Introduction to Organic Spectroscopy\", Oxford Chemistry Primers n°43, Oxford University Press, 1997. John M. Brown, \"Molecular Spectroscopy\", Oxford Chemistry Primers n°55, Oxford University Press, 1998. Simon Duckett, Bruce Gilbert, \"Foundations of Spectroscopy\", Oxford Chemistry Primers n°78, Oxford University Press, 2000.",
+        "course_materials": "Syllabus disponible sur Moodle Support visuel des cours disponible sur Moodle",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm1253",
+        "title": "Eléments de cristallographie",
+        "credits": "4.00",
+        "hours": "30.0 h + 10.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Filinchuk Yaroslav"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "base de connaissances algébriques",
+        "topics_covered": "Les éléments de symétrie Réseau cristallin Groupes ponctuels Groupes d'espace Utilisation des Tables Internationales de Cristallographie Principes de diffraction, l'espace réciproque Intensité diffractée par un cristal Diffraction sur monocristaux, diffraction de poudre Les méthodes et les instruments expérimentales Information obtenue par la diffraction Introduction à la chimie structurale, contribution de la cristallographie dans la connaissance de la chimie",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 compréhension raisonnée (savoir d'expliquer) de la symétrie et en particulier de la symétrie moléculaire compréhension des fondements des méthodes modernes d'analyse cristallographique et des résultats qu'elles permettent d'obtenir",
+        "content": "Symétrie Introduction, molécules et cristaux, les éléments de symétrie Groupes ponctuels, chiralité Translation, groupes du plan, réseau cristallin, les éléments de symétrie périodique Groupes spatiaux, Tables Internationales de Cristallographie Méthodes Rayons X, neutrons, principes de diffraction, l'espace réciproque Facteur de structure, synthèse de Fourier, problème de phase Information obtenue par la diffraction Méthodes de diffraction: monocristaux et polycristaux (poudres) Résolution des structures, identification des composés connus et inconnus Affinement des structures cristallines Présentation des logiciels modernes (CrysAlis, Fullprof, Shelx, Fox) Résultats Utilisation et présentation des résultats, interprétation des données de la littérature Introduction à la chimie structurale Chimie par la diffraction: études in-situ Les grands \"instruments\" - synchrotrons et sources des neutrons: les grand possibilités",
+        "teaching_methods": "Le cours est donné avec l'utilisation des présentations PowerPoint, disponible sur moodle. Le cour comprend également la démonstration des logiciels et l'utilisation de matériel interactif. Des exercices sont prévus pour faciliter la compréhension. Exercices: Groupes ponctuels Réseaux. Groupes du plan. Plan de glissement Groupes spatiaux Les exercices pratiques dans le laboratoire : - Diffraction sur monocristaux, de poudre - Description et comparaison des structures cristallines. - Les types de structure",
+        "assessment_methods": "L'examen oral avec une préparation écrite. Il comprend deux questions théoriques avec préparation écrite, les autres sans préparation (total de 15 points). La partie pratique est examinée par l'ingénieur, Dr. Koen Robeyns, et elle est évaluée avec un maximum de 5 points. Les étudiants peuvent obtenir un point de plus pour un travail créatif à domicile.",
+        "online_resources": "> https://symmetry.otterbein.edu/ - guide interactif sur la symétrie moléculaire > https://escher.epfl.ch/mobile/ - cristallographie sur un téléphone portable, groupes périodiques 2D > https://nanocrystallography.research.pdx.edu/index.py/links - collection des liens utiles > https://escher.epfl.ch/eCrystallography/ - cours électronique de cristallographie",
+        "bibliography": "J.-J. Rousseau, A. Gibaud, Cristallographie géométrique et radiocristallographie (Dunod, 3e édition, 2007). R. Tilley, Crystals and crystal structures (Wiley, 2006).",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2120",
+        "title": "Analytical Chemistry II and exercises",
+        "credits": "6.00",
+        "hours": "30.0 h + 40.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Garcia Yann"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Les principaux thèmes abordés lors du cours sont l'analyse électrochimique et spectrochimique ainsi que les méthodes de séparation. Pour chacun de ces thèmes, les bases théoriques des différentes méthodes analytiques seront décrites et les démarches importantes dans leur mise en oeuvre pratique seront soulignées. L'ensemble permettra à l'étudiant d'acquérir une attitude professionnelle vis-à-vis de la genèse de l'information analytique (appareillage, protocole, performances, précautions). Les exercices pratiques portent sur les méthodes titrimétriques et instrumentales (électroanalytiques, potentiométriques, spectroscopiques et chromatographiques). Les exercices sont présentés de manière succincte, leur exécution demandant le recours à l'enseignement théorique et à la littérature afin d'effectuer de manière raisonnée le choix des réactifs et de pouvoir définir les modes opératoires.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le but du cours est d'étendre aux méthodes instrumentales les plus courantes la formation de base en chimie analytique reçue lors du cours de chimie analytique I (CHM 1321). Ces méthodes reposent sur l'application de connaissances en chimie générale, chimie et thermodynamique des solutions, chromatographie et électrochimie. La philosophie et la stratégie de cet enseignement sont identiques à celles décrites pour CHM 1321. Les objectifs des exercices pratiques viseront : - à favoriser la compréhension du cours, - familiariser l'étudiant avec la relation théorie-expérience, - l'entraîner à une pratique professionnelle en laboratoire, - lui donner l'esprit d'entreprise vis-à-vis des démarches pratiques.",
+        "content": "Cours Méthodes d'analyse basées sur l'électrolyse : applications analytiques. Voltampérométire, Spectroscopie d'absorption moléculaire et spectrométrie atomique : appareillage, performances et applications. Réactions acide-base en milieux non-aqueux : choix des solvants et calculs de pH. Aspects pratiques des méthodes chromatographiques en phase liquide et gazeuse. Travaux pratiques Analyse d'échantillons permettant d'appliquer la majorité des techniques vues au cours. Une analyse complète d'un échantillon \" réel \" sera encouragée lors d'un projet, dans lequel une utilisation raisonnée des méthodes titrimétriques et instrumentale est recommandée afin de déterminer la concentration de plusieurs ions présents dans une solution. Cette démarche permettra à l'étudiant.e de pouvoir développer et discuter des schémas et méthodes d'analyse en s'appuyant sur la rigueur d'un raisonnement analytique et d'acquérir ainsi une pratique professionnelle en laboratoire des techniques courantes.",
+        "teaching_methods": "L'enseignement alterne des cours magistraux ou classe inversée, à l'occasion desquels un échange avec l'enseignant est favorisé. Le but de ces séances est de pousser l'étudiant.e à la réflexion et à un apprentissage plus personnel et plus actif. Des exercices sont proposés comme tests de compréhension de la matière sur Moodle et seront évalués en séance. Pour les exercices pratiques, l'étudiant.e fournit un travail personnel (déterminations en laboratoire, étude de documents) et dirige son propre projet (en groupe restreint) sur une solution ou échantillon d'origine inconnue. A ce titre,  la recherche des informations nécessaires, le soin lié à la préparation des solutions standards ainsi que l'évaluation et la discussion de la qualité des résultats sont des points essentiels pour la réussite de leur travail.",
+        "assessment_methods": "Examen oral visant à vérifier la capacité de l'étudiant.e à établir des liens entre les chapitres du cours et à étalonner son esprit d'ouverture dans le cas d'une mise en situation d'analyse expérimentale complexe (13 points ou 11 points en cas de participation à la classe inversée, voir plus bas). Evaluation continue : 1 - Interrogations orales (exercices numériques). (2 points sur 20). 2 -Classe inversée (sur base volontaire). (2 points sur 20) 3 -Exercices pratiques par le biais d'un projet d'analyse et de rapports renseignant la qualité des résultats, interrogations et de la tenue d'un cahier de laboratoire  (5 points sur 20).",
+        "other_info": "Préalables : - Cours de chimie analytique I : LCHM 1321 - Exercices de chimie analytique I : LCHM 1322. - Traitement quantitatif des données chimiques : LCHM 1381. Documents : - Fundamentals of Analytical Chemistry, D. A. Skoog, D. M. West, F. J. Holler, S. R. Crouch, 8e édition, Thomson Brooks/Cole, 2004. ISBN :     0-03-035523-0 - Quantitative Chemical Analysis, D. C. Harris, 6e édition, W. H. Freeman & Co, 2003. ISBN 0-7167-4464-3 - Fascicules de cours et d'exercices pratiques. - Pour les exercices pratiques : littérature à rechercher ou à disposition de l'étudiant. Le cours peut être dispensé par un conférencier invité.",
+        "online_resources": "LCHM2120 Moodle et Teams",
+        "bibliography": "- Skoog and West's Fundamentals of Analytical Chemistry, F. J. Holler, S. R. Crouch, 9th ed., Brooks/Cole, 2014. - Quantitative Chemical Analysis, D. C. Harris, 8th ed., W. H. Freeman & Co., 2010 - Méthodes instrumentales d'analyse chimique et applications, G. Burgot, J. -L. Burgot, 2e ed, Lavoisier, 2006. - Syllabus pour le cours et fascicule pour les exercices pratiques - Pour les exercices pratiques : littérature mise à disposition et recherchée par l'étudiant(e).",
+        "course_materials": "syllabus Chimie analytique II (sur Moodle)",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2995",
+        "title": "Mémoire",
+        "credits": "16.00",
+        "hours": "",
+        "quadrimester": "> Horaire",
+        "teaching_language": "Français > English-friendly",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsst1001",
+        "title": "IngénieuxSud",
+        "credits": "5.00",
+        "hours": "15.0 h + 45.0 h",
+        "quadrimester": "Q1 et Q2",
+        "teachers": [
+            "Merle Stéphanie",
+            "Raskin Jean-Pierre"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Projets qui répondent à une problématique (technique, économique, socio-culturel), coopération au développement, approche systémique, responsabilité, engagement, éthique, solidarité, travail en équipe, innovations, technologies appropriables, citoyenneté scientifique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Contribution aux référentiels des programmes du secteur SST Acquis d'apprentissage disciplinaires : Au terme de la formation l'étudiant sera capable de : Elaborer des propositions, sous forme de projets, appropriées à une problématique de développement qui relève de l'identification et/ou la conception d'un dispositif technique, économique, socio-culturel : 1.       Identifier et définir les questions et problématiques 1.1    Elaborer un cahier des charges 1.2    Analyser un contexte 1.3    Analyser une problématique 1.4    S'initier au concept de la systémique 1.5    Découvrir les leviers et les contraintes d'un projet 1.6    Appréhender les étapes de la vie d'un groupe 2.       Elaborer des propositions innovantes 2.1    Découvrir et mettre en oeuvre des technologies qui favorisent l'innovation et la créativité 2.2    Découvrir les technologies appropriables et durables 2.3    S'initier aux principes du développement durable et de son application dans des projets techniques 2.4    Se préparer à la mission 2.5    S'imprégner du processus itératif 3.       Évaluer la faisabilité et l'impact des propositions élaborées 3.1    Appréhender l'équilibre technologique comme venant en soutien de l'évolution humaine 3.2    Identifier les possibilités pour mesurer l'impact d'un projet 3.3    Contribuer à la visibilité des projets IngénieuxSud Acquis d'apprentissage transversaux : Développer et adopter une attitude réflexive sur des questions et problématiques de développement et y apporter des solutions appropriées 1.1    Porter un regard critique sur ses propres compétences, connaissances et sur ses propres limites 1.2    Définir les différents enjeux du projet (culturels, sociaux, économiques, techniques) par une approche systémique 1.3    Faire le bilan de la progression de sa réflexion au fil du projet 2.       Travailler en équipe, collaborer de manière efficace avec des partenaires nationaux et internationaux. 2.1    Identifier les apports et intérêts complémentaires des différents partenaires dans la problématique du projet 2.2    Planifier son travail en équipe : construire un chronogramme, un programme d'apprentissage... 2.3    Autoévaluer son implication individuelle dans le groupe et la coopération au sein du projet et de son groupe 3.       Communiquer efficacement oralement et par écrit avec des publics divers nationaux et internationaux (experts scientifiques, pairs, enseignants, formateurs...) 3.1    Utiliser des moyens appropriées pour dialoguer avec les différents publics et partenaires 3.2    Faire un retour d'expérience et proposer des perspectives futures 3.3    Rédiger un Portfolio interculturel, cohérent, structuré, rigueur scientifique et esprit critique 3.4   Adapter sa communication en fonction de ses interlocuteurs (pairs, collègues, enseignants, formateurs, experts scientifiques...)",
+        "content": "-          Les sciences et technologies au service du développement durable -          La solidarité internationale -          L'adéquation moyens-objectifs d'un projet -          L'interculturalité : regard croisé sur une même problématique scientifique -          Le développement du projet dans le cadre d'un programme de coopération au développement -          L'application de l'approche systémique dans un projet scientifique -          Le développement d'un projet concret : du CDC à l'application concrète -          Les facteurs qui influencent le projet (contexte social, pays, population, contraintes externes, planification ') -          Les leviers du changement -          Le travail en équipe et la communication (avec les partenaires du Sud, avec les personnes du groupe, avec les experts techniques et de développement, les populations concernées)",
+        "teaching_methods": "Formation hybride (en ligne et en présentiel) -          Cours : multidisciplinaires, multi-acteurs, multiculturels -          Apprentissages actifs en groupes -          Apprentissages par le projet -          Coaching par le corps scientifique et académique, des professionnels de terrain (Nord et Sud) -          Interviews, recueil et analyse d'articles'",
+        "assessment_methods": "-          Portfolio (évaluation continue) de groupe avec parties individuelles -          Présentations orales en groupe devant un panel interdisciplinaire Nous précisons que l’usage des IA génératives telles que ChatGPT, Consensus, Perplexity,... est toléré mais il doit être clairement stipulé dans le document rendu par l'étudiant·e ou le groupe d'étudiant·es. Nous insistons sur le fait que le cours IngénieuxSud fait appel à votre créativité et que ces outils ne sont pas de grande aide pour cet objectif à atteindre.",
+        "other_info": "Le cours se termine par une mission pendant l'été qui suit le projet",
+        "online_resources": "Site du cours : http://icampus.uclouvain.be/claroline/course/index.php?cid=INGESUD_EPL",
+        "bibliography": "Ouvrage de référence : -          M. Ashby, (2016), « Materials and sustainable development », Elsevier Science and technology, UK. Revue Spore : Le magazine du développement agricole et rural des pays ACP -  http://spore.cta.int",
+        "responsible_entity": "EPL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm1319",
+        "title": "Chimie des matériaux",
+        "credits": "5.00",
+        "hours": "45.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Fustin Charles-André",
+            "Vlad Alexandru"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Ce cours décrit les principes de base de la chimie des matériaux, étendant les concepts vus dans les cours précédents (chimie organique, inorganique, physique et polymère) et explorant le rôle essentiel qu'elle joue dans de nombreux domaines. Les principaux thèmes abordés sont: notions théoriques (structure électronique, vibration, conduction), les propriétés des matériaux en relation avec leur composition et leur structure, la structuration des matériaux à différentes échelles, les grandes familles de matériaux. Des exemples d'applications illustreront chacun de ces points.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours sert à introduire des notions et concepts importants dans le domaine de la chimie des matériaux. Les objectifs de ce cours sont de : 1. familiariser les étudiants avec les différentes familles de matériaux et les différentes méthodes de synthèse s'y rapportant; 2. donner aux étudiants la capacité d'expliquer et de rationaliser les propriétés d'une large gamme de matériaux et d'établir les relations composition-structure-propriétés; et 3. illustrer l'importance de la chimie des matériaux pour de nombreux domaines et applications, en particulier pour les défis sociétaux actuels (énergie, environnement, santé,..).",
+        "content": "Le cours comprend deux grandes parties : une partie portant sur les matériaux inorganiques et une partie portant sur les matériaux organiques. Chaque partie présentera différents types de matériaux et leurs méthodes de synthèses. Des propriétés typiques (électronique, ionique, thermique, diélectrique, mécanique,….) de ces classes de matériaux seront également abordées. Tout au long du cours des illustrations de leurs applications seront présentées. La partie inorganique abordera entre autres les classes suivantes des matériaux: métaux et alliages, céramiques, matériaux cristallins et amorphes, ainsi que les composites hybrides. La partie organique abordera entre autres les matériaux suivants: biopolymères, polymères conducteurs et électronique organique, cristaux liquides, mélanges de polymères et composites.",
+        "teaching_methods": "Le cours se donne principalement au tableau au moyen de diapositives powerpoint.",
+        "assessment_methods": "Les étudiants sont évalués sur base d'un examen écrit unique portant sur l'ensemble de la matière vue par les différents titulaires. Les questions peuvent être de différents types : questions ouvertes, QCM,...",
+        "online_resources": "Une copie des transparents sera déposée sur Moodle.",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsc2220",
+        "title": "Philosophy of science",
+        "credits": "2.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Guay Alexandre"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Chaque année, trois thème centraux sont abordés touchant au dialogue entre les sciences naturelles et les questionnements philosophiques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Faire réfléchir les étudiants de Master sur certains thèmes centraux de la philosophie des sciences aujourd'hui, en relation avec leurs intérêts et la discipline scientifique dans laquelle ils sont spécialisés. Leur apprendre à approfondir, seuls ou en groupe, une question philosophique choisie en lien avec les questions abordées aux cours. Être capable d'exposer les résultats de leur réflexion par écrit et en faire une présentation orale.",
+        "content": "Les trois thèmes pour 2024-25 sont : Éléments de philosophie des mathématiques. Quel est l'objet des mathématiques? Pourquoi les mahématiques peuvent être utilisées pour modéliser le monde empirique? Approches philosophiques de la causalité. Qu'est-ce que la causalité ? Comment reconnaît-on un lien causal ? Quel rôle joue la causalité dans les explications scientifiques ? Approches philosophiques de la symétrie. Qu'est-ce qu'une symétrie? Wu'est-ce qu'un argument par symétrie?",
+        "teaching_methods": "La première partie du cours consistera en leçons magistrales sur les trois thèmes choisis. Pendant ce temps, les étudiants s'inscriront sur le site web du cours et constitueront des groupes de trois au maximum. Chaque groupe choisira un sujet d’exposé ciblé en rapport avec l’un des trois thèmes. Le sujet, la bibliographie et le plan de l’exposé devront tous être validés par le professeur. Celui-ci sera à la disposition des étudiants pour les aider à élaborer l’exposé. La seconde partie des séances sera consacrée aux exposés. L’examen évaluera l’assimilation du contenu des cours magistraux et des exposés.",
+        "assessment_methods": "L’évaluation consistera en un examen écrit (50% de la note finale) et en un exposé oral, en classe, fait en équipe (50%). En seconde session, l’évaluation consistera en un examen écrit (50%) + la note d’exposé (50%). Si la note d’exposé est absente ou a déjà été comptée à la session de juin, cette note sera remplacée par un travail de recherche personnel. Notez qu’il est possible de faire l’exposé durant le quadrimestre, demander une note de présence en juin et, en conséquence, utiliser la note d’exposé à la session de septembre.",
+        "online_resources": "Voir site Moodle du cours.",
+        "bibliography": "Voir site Moodle du cours.",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsc2001",
+        "title": "Introduction à la philosophie contemporaine",
+        "credits": "2.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Pence Charles",
+            "Verdée Peter",
+            "Verdée Peter"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "L'esprit humain, dans toutes ses dimensions, peut-il être intégré par les sciences empiriques au sein du monde naturel ? Les sciences cognitives (neurosciences, psychologie cognitive, linguistique, etc.) s'efforcent de mener à bien cette intégration. L'objectif du cours, qui constituera une introduction à la philosophie de l'esprit et des sciences cognitives,  est d'examiner les capacités des sciences cognitives à réaliser cette intégration ' et notamment à réaliser une description et une explication de ceux des aspects de l'esprit humain qui semblent le plus résister à cette intégration dans le monde naturel : la conscience, la rationalité, le libre-arbitre.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours permettra aux étudiants d'aborder un ensemble de problèmes philosophiques liés aux progrès récents dans l'étude scientifique et « naturaliste » de l'esprit humain.",
+        "content": "Que nous apprennent les sciences et les mathématiques sur la réalité ? Ce cours explore divers thèmes en philosophie contemporaine, en se concentrant sur l’interprétation et la méthodologie des sciences et des mathématiques. Réalisme, pragmatisme et idéalisme La vérité : théories de la vérité, paradoxes, vérité en mathématiques La probabilité : théories de la probabilité, interprétations, paradoxes Sciences et normes Interprétation en sciences (mathématiques, physique quantique, etc.)",
+        "teaching_methods": "Cours magistraux donnés par l'enseignant, avec un rôle important pour des discussions avec et entre les étudiant·e·s.",
+        "assessment_methods": "Dans la session de juin et la session d'août : un travail de groupe écrit (50 %) et une défense individuelle de ce travail à l’examen oral (50 %).",
+        "online_resources": "Lecture et slides disponible par le site Moodle du cours.",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2140",
+        "title": "Organic chemistry IV and exercices",
+        "credits": "6.00",
+        "hours": "30.0 h + 40.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Elias Benjamin",
+            "Riant Olivier"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Concepts et outils équivalents à ceux enseignés dans les UEs LCHM1141, LCHM1244, LCHM1245, LCHM1341, LCHM1342",
+        "topics_covered": "Cours théorique : 1. Notions de synthèse organique - Analyse rétrosynthétique - Activation et protection des fonctions chimiques - Chémosélectivité ; régiosélectivité - Assistance anchimérique - Stéréosélectivité et synthèse asymétrique 2. Méthodes modernes pour la synthèse organique - Méthodes modernes d'activation (piezochimie, micro-ondes, haute pression) - Milieux réactionnels écologiques (liquides ioniques, milieux supercritiques) - Catalyseurs récupérables et recyclables 3. Chimie parallèle et synthèse combinatoire en phases liquides et solides. Les notions développées sont illustrées par des exemples concrets de synthèses organiques de produits ayant un intérêt dans l'industrie agro-alimentaire et pharmaceutique, ou des produits naturels. Laboratoires : - Synthèses multi-étapes de composés illustrant des applications pratiques dans le domaine quotidien : exemples des insecticides (acide chrysanthémique) et des herbicides (acides aryloxypropioniques). - Analyses spectroscopiques, manipulation des logiciels de simulation RMN, rapport de synthèse et séminaire de présentation des résultats - Introduction à la recherche bibliographique sur bases de données et en bibliothèque de recherche.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 La synthèse organique est un aspect important de la chimie qui nécessite l'intégration d'un ensemble de connaissances. Le premier objectif du cours est d'enseigner à l'étudiant la meilleure façon d'analyser une structure-cible afin de dégager un plan de synthèse. Le deuxième objectif du cours est l'apprentissage de la mise en oeuvre d'une synthèse par la manipulation des méthodes d'activation et de contrôle de la sélectivité. Ces objectifs seront complétés par une initiation aux méthodes modernes de synthèse organique. D'une part, les nouvelles méthodes d'activation ainsi que les milieux non polluants permettront de mettre en évidence les nouvelles méthodes de synthèse efficaces et seront reliées à la notion de \" Chimie Verte \". Enfin, les nouvelles méthodes de synthèses parallèles en phase liquide et solide seront abordées et appliquées à la notion de diversité structurale et de chimie combinatoire. Dans la continuité des exercices de chimie organique I, les exercices pratiques seront consacrés à un projet de synthèse organique destiné à illustrer l'intérêt de la synthèse organique dans le domaine quotidien. Les projets de synthèse pourront porter sur des thèmes d'applications tels que par exemple : les insecticides ou herbicides, les antibiotiques ou les parfums.",
+        "content": "Partie 1 : Les principes et les outils en rétro synthèse/synthèse organique : - Généralités, exemples de disconnections et reconnections (articles récents). - Stratégies : convergence, sélectivités, réactions en cascade, les équivalents synthétiques, l'inversion de polarité. - Méthodes d'activation, protection/déprotection des principaux groupes fonctionnels. Le contrôle de la chiralité. - La résolution (chimique, enzymatique, chromatographique). - L'utilisation de chirons. - L'utilisation d'auxiliaires chiraux. - La catalyse asymétrique. Les exemples sont choisis en chimie médicinale : naproxène (anti-inflammatoire), monobactames et carbapénèmes (antibiotiques), les b-bloquants, chaîne latérale du taxol, dilthiazem, captopril, ... Partie 2 : Les méthodes modernes d'activation en synthèse organique : Piezochimie, micro-ondes, haute pression. Notions de \" Chimie Verte \". Les nouveaux milieux réactionnels : Liquides ionique, CO2 supercritique, Phases perfluorées ; Catalyseurs recyclables et récupérables : Hérérogénéisation de catalyseurs homogènes, catalyseurs greffés sur polymères solubles. Partie 3 : Chimie combinatoire en solution : Les réactions multi composants, principes de purifications et d'analyses de banques de molécules, extraction sélective et utilisation de résines de capture, réactifs supportés. Chimie en phase solide : résines pour synthèse et \" linkers \". Stratégies de synthèses et méthodes. Applications (synthèse d'hétérocycles et métathèse d'oléfines). Méthodes d'enseignement et d'apprentissage : Exposé avec schémas dessinés au tableau, de manière à faciliter la prise de notes par les étudiants. Analyse d'articles de la littérature récente. Contenu des travaux pratiques, méthodes d'enseignement et d'apprentissage : Les étudiants travaillent individuellement. Ils mettent en oeuvre une synthèse multi-étape sur base de modes opératoires fournis, qu'il faut éventuellement adapter. Les produits et certains intermédiaires sont caractérisés. Chaque synthèse fait l'objet d'un rapport dans le cahier de laboratoire rédigé au laboratoire. Ce travail fait l'objet d'un rapport individuel. Les techniques utilisées au laboratoire sont : cristallisation, extractions liquide-liquide et solide liquide, distillations, manipulations en rampe à vide, travail sous conditions anhydre et inerte, travail en semi-micro, chromatographie sur colonne. Les techniques utilisées pour le contrôle des produits sont : point de fusion, polarimétrie, chromatographie sur couche mince, chromatographie en phase gazeuse, chromatographie liquide HPLC, spectroscopies : infra-rouge et RMN (proton et carbone). Les étudiants travaillent également par utilisation des bases de données bibliographiques informatisées et de logiciels de RMN.",
+        "teaching_methods": "L’enseignement a lieu en présentiel. Toutefois, il se peut que certaines séances aient lieu à distance en fonction des contraintes horaires des intervenants.",
+        "assessment_methods": "L’enseignement théorique est complété par une formation pratique (séances de laboratoires) . La formation pratique fait partie intégrante de l'enseignement de la chimie organique et en constitue une partie indissociable. La participation à toutes les séances de laboratoires est obligatoire et fait l’objet d’une évaluation continue, prenant notamment en compte la tenue du cahier de laboratoire, le comportement au laboratoire ainsi que la qualité des manipulations réalisées. La cote de laboratoires intervient pour 30% de la note finale de l’examen, toute session confondue, si et seulement si l’examen écrit relatif à la partie théorique du cours est réussi (note supérieure ou égale à 10/20 - les arrondis mathématiques sont appliqués). Toute absence aux travaux pratiques doit être motivée (justifiée par un certificat médical en cas de maladie ou par un document officiel en cas de décès d’un proche). Toute autre absence ou toute absence non motivée est sanctionnée par une note de 0/20. Il n’y a pas de séance de rattrapage . Ces modalités sont également valables pour les étudiants BIS sauf s’ils ont déjà obtenu une note aux travaux pratiques supérieure ou égale à 10/20 , auquel cas ils en sont dispensés. La participation aux travaux pratiques est obligatoire et indispensable pour valider l’unité d’enseignement. Toute absence injustifiée entraîne une pénalité à l’examen de l'UE qui peut aller jusqu’à l’annulation de la cote d’examen pour l’année d’étude considérée (0/20). En cas d’absences répétées même justifiées, l’enseignant peut proposer au jury de s’opposer à l’inscription à l’examen relatif à l’UE en respect de l’article 72 du RGEE. L’examen final porte sur le contenu du cours et des laboratoires. Il se présente sous la forme d’un examen écrit pouvant comporter des questions ouvertes et des QCM. L’examen final porte sur le contenu du cours, des séances d’exercices et des laboratoires. Il se présente sous la forme d’un examen écrit pouvant comporter des questions ouvertes et des QCM. En cas de problème technique lors du déroulement de l’examen écrit ou s’il existe une suspicion de fraude, les titulaires se réservent le droit d’interroger oralement le.s étudiant.e.s concerné.e.s. La note de l’examen intervient à raison de 70% des points de la note finale, toute session confondue (voir remarque plus haut pour les séances de laboratoire). Les notes sont additionnées tout en tenant compte de tous les chiffres après la virgule. La note finale obtenue est arrondie à l’unité PRÈS selon la règle suivante : Pour toute note supérieure ou égale à X,50, la note globale est arrondie à l’unité supérieure (soit X+1) Pour toute note strictement inférieure à X,50, la note globale est arrondie à l’unité inférieure (soit X-1)",
+        "online_resources": "Les supports de cours indispensables sont disponibles sur la plateforme Moodle : Slides présentés au cours Manuel de travaux pratiques (laboratoires)",
+        "bibliography": "Livres de référence disponibles à la BST : Carey, Sundberg – Chimie Organique Avancée (tomes 1 et 2), De Boeck ; Warren, Wyatt – Organic Synthesis, the disconnection approach, Wiley ; Clayden, Chimie Organique, De Boeck. Asymmetric Synthesis of Natural Products (A. M. P. Koskinen).",
+        "course_materials": "matériel sur moodle",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2152",
+        "title": "NMR Complements",
+        "credits": "3.00",
+        "hours": "22.5 h + 7.5 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Singleton Michael"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "1. Principes de calcul des spectres RMN. 2. RMN 1D multi pulsions (SEFT, APT, INEPT, DEPT) 3. RMN 2D : a) corrélations homonucléaires (COSY, ...) et hétéronucléaires via les liaisons ; b) corrélation à travers l'espace (NOE, NOESY, ROESY). 4. Etude approfondie de la RMN du 1H et du 13C. 5. Aperçu de la RMN des autres noyaux (19F, 15N, 31P). 6. RMN des solides.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours a pour objectif l'élargissement et l'approfondissement des notions de base acquises en RMN de sorte à permettre à l'étudiant de pouvoir obtenir et interpréter des spectres de complexité variée.",
+        "content": "1. Introduction et rappels. 2. Aspects pratiques de la RMN. 3. Expériences 1D multi-impulsions. 4. Expériences 2D : corrélations homo et hétéronucléaires via les liaisons corrélations à travers l'espace. 5. RMN dans les milieux organisés, RMN des solides. 6. La théorie et les applications seront abordées de manière intégrée avec exercices pratiques de manipulations au spectromètre.",
+        "other_info": "Préalables : Notions de base en spectroscopie moléculaire (CHM1251B). Evaluation : examens écrits et oraux. Documents : des schémas compliqués (syllabus) peuvent être donnés ainsi que quelques références de manuels ; le cours peut être partiellement ou totalement dispensé par un conférencier invité. Autres",
+        "course_materials": "matériel sur moodle",
+        "responsible_entity": "CHIM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ltheo2840",
+        "title": "Science et foi chrétienne",
+        "credits": "2.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Bourgine Benoît",
+            "Dos Santos Rodrigues Paulo Jorge"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Pour atteindre l'objectif visé, le cours abordera les trois thèmes suivants : a) bref historique des rapports entre sciences (de la nature et humaines) et christianisme dans ses aspects institutionnels et conceptuels, b) une typologie des modes de dialogue et de confrontation entre sciences et théologies avec leurs limites, leur portée et leurs fondements théologiques, c) une série d'études de cas récents.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a) présenter les grandes étapes de l'évolution historique des rapports entre sciences et christianisme (événements et documents majeurs) ; 2 b) caractériser et évaluer les modes de rapports entre sciences et foi, religion, théologie chrétienne en en comprenant la portée et les limites spécifiques ; 3 c) analyser des cas précis de relations contemporaines entre sciences et théologies.",
+        "content": "Ce cours peut être choisi par les étudiants de l'EPL comme une alternative au cours Sociétés, cultures, religions. 2024/2025 Science et foi chrétienne Le cours offre l'opportunité d'effectuer une expérience d'interdisciplinarité, requise par le questionnement envisagé. Le prof. Paulo Rodrigues (Université catholique de Lille) et le prof. Benoît Bourgine (UCLouvain), interviendront pour tenter de clarifier la problématique des rapports entre sciences et foi chrétienne. Une typologie des modes de dialogue et de confrontation entre sciences et théologies est à élaborer et à éprouver de manière à en dessiner les limites, la portée et les fondements tant philosophiques que théologiques. Une mise en perspective historique ainsi qu'une présentation des enjeux contemporains seront proposées.",
+        "teaching_methods": "Les cours sont magistraux. Le syllabus du professeur Bourgine est à votre disposition sur le site Drive du cours: https://drive.google.com/drive/folders/1OZCoMW0VNypXPpzclRJacv3NJ-xlM0ns?usp=drive_link TITRE DU SYLLABUS: SCIENCES ET FOI CHRETIENNE",
+        "assessment_methods": "L'examen est un écrit de deux heures en session d’examen comportant deux questions ouvertes, dont la liste limitative est fournie aux étudiants : l’une posée par le prof. P. Rodrigues, l’autre posée par le prof. Bourgine, respectivement sur les exposés de l'un et de l'autre. Vous êtes invités à répondre à chacune des questions en 30 lignes environ.",
+        "other_info": "Calendrier Voici le calendrier des 7 séances qui ont lieu le mercredi de 16h15 à 18h15 [LECL60] : Prof. Benoît Bourgine: 18 septembre 25 septembre 2 octobre 9 octobre Prof. Paulo Rodrigues: 16 octobre 23 octobre 6 novembre",
+        "online_resources": "Avec ce lien, vous pouvez accéder à des ressources en ligne: https://drive.google.com/drive/folders/1OZCoMW0VNypXPpzclRJacv3NJ-xlM0ns?usp=drive_link",
+        "course_materials": "Sciences et foi chrétienne 2024/2025 - Syllabus Bourgine",
+        "responsible_entity": "TEBI"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lchm2143",
+        "title": "Physical organic chemistry",
+        "credits": "3.00",
+        "hours": "22.5 h + 7.5 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Robiette Raphaël"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Le cours fait une synthèse complète des notions abordées dans différents cours de chimie organique tout en introduisant les méthodes physico-chimiques employées dans les études de mécanismes de chimie organique. Les principaux thèmes retenus sont : - les relations structure - activité en chimie organique - les effets électroniques et stériques - l'influence du milieu en chimie organique - les effets stéréoélectroniques en chimie organique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le but du cours est de familiariser les étudiants avec les principales méthodes de la chimie organique physique qui permettent d'établir les mécanismes de réaction, de préciser les structures des complexes activés et de comprendre les interactions moléculaires qui affectent la réactivité.",
+        "content": "Le cours s'articule autour des chapitres suivants : 1. Rappels 2. Les effets stéréoélectroniques 3. Linear Free Energy Relationship 4. Etudes mécanistiques",
+        "assessment_methods": "L'évaluation se fait à travers un examen écrit qui peut être complété par un examen oral",
+        "other_info": "Pré-requis : cours de chimie organique de baccalauréat et LCHM-2140",
+        "online_resources": "Des articles de revue sur les sujets abordés au cours et les diapositives utilisées lors des cours ex cathedra sont disponibles sur moodle. https://moodleucl.uclouvain.be/course/view.php?id=7943",
+        "bibliography": "Le cours ne fait appel à aucun support particulier qui serait payant et jugé obligatoire. _____ The course does not use any particular material that would be paid for and considered mandatory.",
+        "course_materials": "Slides (disponibles sur moodle)",
+        "responsible_entity": "CHIM"
+    }
+]

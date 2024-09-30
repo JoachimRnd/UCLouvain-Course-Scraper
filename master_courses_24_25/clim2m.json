@@ -1,0 +1,610 @@
+[
+    {
+        "url": "https://uclouvain.be/cours-2024-lclim2170",
+        "title": "Terrain I en climatologie",
+        "credits": "5.00",
+        "hours": "60.0 h + 30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Vanacker Veerle"
+        ],
+        "teaching_language": "Français > English-friendly",
+        "prerequisites": "Les cours de Géomorphologie (LGEO1331), Observation de la Terre par satellite (LGEO1343), et Géographie de la Belgique (LGEO1381), ou des cours équivalents pour des étudiants étrangers en géographie qui suivent un programme d’échange. Les étudiants d’échange doivent contacter les enseignants avant le début du semestre pour garantir leur participation à l’excursion résidentielle.",
+        "topics_covered": "Enseignement bisannuel de terrain, destiné aux étudiants des programmes de Master en sciences géographiques. Excursion résidentielle dans les massifs (pré-)alpins, organisée en juin 2024.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : Les compétences qui seront développées dans ce cours : Savoir-faire : Identifier, Caractériser et Analyser des problèmes environnementaux sur le terrain, en base des observations et mesures pris sur le terrain Présenter des alternatives pour la gestion durable de l’environnement en lien avec des modèles conceptuelles qui ont été présentés lors des cours magistraux (LGEO2140, LGEO2210, LGEO2110) Comprendre et utiliser le vocabulaire de la discipline dans les débats et discussions scientifiques sur le terrain Savoir-être : Développer un intérêt pour des questions géographiques concernant le développement durable et le changement climatique qui se présentent dans la région alpine Renforcer la capacité pour travailler en équipe",
+        "content": "Cette unité d'enseignement envisage à (1) analyser l'environnement alpin, sous le double angle de la géographie physique et de la géographie humaine et économique, et (2) appliquer les techniques de mesures géographiques pour l'acquisition de données de terrain (cartographie géomorphologique, enquêtes de terrain, GPS). Pendant l'excursion, nous abordons les thèmes transversaux suivants: le développement durable d'une région rurale en montagne, la conservation de l'environnement et la biodiversité, l'impact de l'homme sur le paysage et la variabilité et changement climatique au cours des dernières 15.000 ans dans les Alpes, avec ses impacts et risques naturels.",
+        "teaching_methods": "Enseignement bisannuel de terrain destiné à l'ensemble des étudiants de Master1 et Master2 en sciences géographiques. Excursion (5 jours) dans les massifs (pre-)alpins, organisé en juin 2024, 2026. Alternance entre excursion classique et application des techniques de mesures géographiques, avec périodes d’excursions avec arrêts et des périodes avec des mesures sur le terrain en petits groupes (enquête, cartographie, analyse fluviomorphologie). Présentations personnelles reprenant l’analyse d’une thématique de choix pendant la journée de terrain, sur base de deux articles scientifiques ou livres de référence.",
+        "assessment_methods": "L’évaluation consiste en : Travail à préparer sur une thématique au choix qui est étroitement liée avec l’un des quatre thèmes transversaux de ce terrain. Le travail consiste en une revue de la littérature, avec un minimum de 2 à 3 articles scientifiques ou des chapitres de livres de référence. Présentation d’une analyse critique de la thématique choisie le soir pendant le terrain. La présentation devra être enrichie par ce qui a été vu la journée et par les acquis des articles complémentaires (2 à 3 au choix) et obligatoires. Participation constructive aux activités quotidiennes et aux débats pendant les soirées",
+        "other_info": "La participation aux sorties de terrain est obligatoire. Celles-ci ne sont organisées qu'une seule fois pendant l'année. Il est impossible de les refaire en seconde session ou dans une autre année académique.",
+        "online_resources": "Supports de cours : tous les supports de cours sont disponibles sur la page moodle du cours:",
+        "bibliography": "Bintz, P., Griggo, C., 2011. Climats et premiers peuplements des Alpes du Nord francaises : des derniers chasseurs aux premiers paysans. Revue de primatology 13. DOI 10.4000/primatologie.789 Hoblea, F. 2014. In the Folds of the Earth: French Prealpine Geomorphological Landscapes. In: M. Fort and M.F. André (Eds), Landscapes and Landforms of France, World Geomorphological Landscapes, Springer, Dordrecht. DOI 10.1007/978-94-007-7022-5_18. Lamarque P. and Lambin E.F. 2015. The effectiveness of marked-based instruments to foster the conservation of extensive land use: The case of geographical indications in the French Alps, Land Use Policy, 42: 706-717. https://doi.org/10.1016/j.landusepol.2014.10.009. Le Roux, O. 2011. Characterization of the geomorphological evolution of the lower Romanche valley (Isère, France) in relation to the gravitational instabilities of its rock slopes [Caractérisation de l'évolution géomorphologique de la basse vallée de la Romanche (Isère, France) en relation avec les instabilités gravitaires de ses versants rocheux], Bulletin of Engineering Geology and the Environment, 70 (3): 483-495. DOI: 10.1007/s10064-010-0325-8 Thibert, E, Bodin, X. Changes in surface velocities over four decades on the Laurichard rock glacier (French Alps). Permafrost and Periglac Process . 2022; 33(3): 323-335. doi: 10.1002/ppp.2159",
+        "course_materials": "matériel sur moodle",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2400",
+        "title": "Stage d'insertion professionnelle",
+        "credits": "4.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1 ou Q2",
+        "teachers": [
+            "Vanwambeke Sophie"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Le stage d'insertion professionnelle donnera la possibilité à l'étudiant de s'initier à l'étude d'une problématique géographique appliquée et ce, dans un cadre professionnel. Les domaines concernés sont la cartographie, les systèmes d'information géographique, les statistiques, l'étude des sols, le transport et la mobilité, l'environnement.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Sensibiliser l'étudiant aux aspects des secteurs d'application de la géographie ; Développer des qualités humaines d'intégration, l'esprit d'initiative et la capacité d'adaptation de l'étudiant au milieu professionnel ; Développer la motivation de l'étudiant pour la profession et préciser le choix de son orientation ; Réaliser un premier apprentissage de l'application des connaissances théoriques et des techniques apprises durant les cours ; Acquérir des compétences différentes de toutes celles que l'étudiant a acquises tout au long de ses études mais en lien direct avec celles-ci.",
+        "content": "Le stage d'insertion professionnelle donnera la possibilité à l'étudiant∙e de s'initier à l'étude d'une problématique géographique appliquée et ce, dans un cadre professionnel. Les domaines concernés sont la cartographie, les systèmes d'information géographique, les statistiques, l'étude des sols, le transport et la mobilité, l'environnement. Le stage permettra de : Sensibiliser l'étudiant∙e aux aspects des secteurs d'application de la géographie ; Développer des qualités humaines d'intégration, l'esprit d'initiative et la capacité d'adaptation de l'étudiant au milieu professionnel ; Développer la motivation de l'étudiant∙e pour la profession et préciser le choix de son orientation ; Réaliser un premier apprentissage de l'application des connaissances théoriques et des techniques apprises durant les cours ; Acquérir des compétences différentes de toutes celles que l'étudiant∙e a acquises tout au long de ses études mais en lien direct avec celles-ci.",
+        "assessment_methods": "Evaluation précoce : évaluation en fin de première semaine de stage, selon une matrice fournie des conditions du stage, par l’étudiant∙e : 10% de la note finale Rapport écrit : un rapport écrit couvrant la description de la structure d’accueil, un rapport d’activité et une évaluation personnelle, approuvé par le maître de stage : 60% de la note finale. Présentation orale du rapport au le responsable académique et au maître de stage  : 30% de la note finale Une évaluation de l’étudiant∙e par le maître de stage sera également prise en compte.",
+        "other_info": "Le choix de l'institution d'accueil ainsi que du maître de stage seront proposés par l'étudiant∙e et devront être approuvés par le responsable universitaire du stage. Le stage fait l'objet d'une convention signée par toutes les parties avant le début du stage. La thématique traitée en stage devra faire également l'objet d'un accord du responsable universitaire du stage. Il n'aura pas de lien avec le mémoire et devra être considéré comme une activité indépendante de toute autre activité du diplôme. Il aura une durée égale ou supérieure à quatre semaines à plein temps et sera exécuté dans les locaux de l'institution d'accueil. Le stagiaire informera le responsable des stages du déroulement de son stage.",
+        "online_resources": "https://moodleucl.uclouvain.be/course/view.php?id=9783",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2267",
+        "title": "Paleoclimate dynamics and modelling",
+        "credits": "5.00",
+        "hours": "22.5 h + 7.5 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Yin Qiuzhen"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Ce cours suppose que les étudiants ont acquis les connaissances de base sur la dynamique du système climatique et sa modélisation, telles que couvertes par exemple par LPHYS2162 et LPHYS2163.",
+        "topics_covered": "Changements du climat de la Terre du passé géologique au présent et au futur ; approches pour reconstruire et comprendre les changements climatiques passés, y compris les variables climatiques telles que la température, les précipitations, le volume de glace, le niveau de la mer, la concentration de CO 2 et la végétation ; les forçages climatiques à différentes échelles de temps ; théories et hypothèses principales en paléoclimatologie ; réponse des composantes climatiques principales (glace, océan, terre, atmosphère, végétation) ainsi que de leurs interactions et rétroactions aux forçages naturel et anthropique passés ; contribution de la compréhension des paléoclimats aux projections climatiques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS2M1) 1.1, 1.2, 1.3, 1.5, 1.6 2.1, 2.3, 2.5 4.2 5.1, 5.2, 5.3, 5.4 6.1, 6.2, 6.3, 6.5 7.1, 7.2, 7.3, 7.4, 7.5, 7.6 8.1 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1.       décrire les variations principales du climat de la Terre aux différentes échelles de temps et expliquer leurs différences ; 2.       discuter comment reconstruire les paléoclimats à partir des données indirectes enregistrées dans les lieux naturels et leurs incertitudes ; 3.       discuter des hypothèses et des théories proposées pour expliquer les variations paléoclimatiques et poser des questions ; 4.       choisir les modèles climatiques appropriés pour répondre aux différentes questions dans la recherche climatique et la recherche paléoclimatique ; 5.       concevoir des expériences de modélisation du climat, analyser et critiquer les résultats des modèles pour une question climatique donnée et rédiger à rapport à ce sujet ; 6.       valider les résultats d'un modèle avec les données paléoclimatiques ; 7.       évaluer les changements climatiques présents et futurs dans le cadre des variations à long terme du climat de la Terre et les comparer avec les périodes chaudes du passé ; 8.       utiliser les informations paléoclimatiques pour améliorer les projections climatiques ; 9.       approfondir et communiquer ses la connaissance des paléoclimats en utilisant la littérature scientifique.",
+        "content": "Bref aperçu du système climatique (échelles de temps des changements climatiques de la Terre, forçages, réponses, rétroactions) Archives paléoclimatiques, données indirectes, chronologie et modèles Changements climatiques à l'échelle tectonique Changements climatiques à l’échelle astronomique Oscillations climatiques à l'échelle du millénaire, changements climatiques brusques Changements climatiques au cours du dernier millénaire et du siècle dernier Changements climatiques et sociétés humaines dans les temps anciens et modernes Comprendre le paléoclimat pour une meilleure projection du climat",
+        "teaching_methods": "Cours en classe. Articles à lire. Exercices dirigés et devoirs. Projet intégré.",
+        "assessment_methods": "Les étudiant·es sont évalué·es sur la base de trois parties : - Examen oral en session (55% de la note finale) *Un·e étudiant·e qui n'aurait pas assisté à au moins 80% des cours ne peut pas s’inscrire à l’examen. - Devoirs écrits (30% de la note finale) - Projet de groupe et sa présentation orale (15% de la note finale)",
+        "bibliography": "Ruddiman W.F., 2013. Earth’s and Climate: Past and Future. Third edition. W.H. Freeman, New York, 464pp. Bradley R.S., 1999. Paleoclimatology: Reconstructing climates of the Quaternary. Second edition. Harcourt/Academic Press, Burlington, 613pp. Berger A., 1992. Le Climat de la Terre, un passé pour quel avenir. De Boeck Université, Bruxelles, 479pp. Ramstein G. 2015. Voyage à travers les climats de la Terre. Odile Jacob, Paris, 351pp.",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2265",
+        "title": "Sea ice-ocean-atmosphere interactions in polar regions",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Fichefet Thierry"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Avoir suivi LPHYS2162 et LPHYS2163 constitue un atout",
+        "topics_covered": "Unité d'enseignement avancée pour les étudiant.e.s intéressé.e.s par la climatologie physique, dont l'objectif est la préparation à la recherche dans ce domaine. Les thématiques suivantes sont traitées : thermodynamique et dynamique à grande échelle de la glace mer ; caractéristiques de l'atmosphère dans les régions polaires, interactions glace de mer ' atmosphère ; océanographie des océans Arctique et Antarctique, interactions glace de mer ' océan ; modélisation de la glace de mer pour la simulation du climat ; variabilité et changements futurs de la glace mer.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS2M1) 1.1, 1.2, 1.5 2.3, 2.4, 2.5 3.1, 3.2, 3.3 4.2 5.1, 5.2, 5.3, 5.4 6.1, 6.2, 6.3, 6.5 7.1, 7.2, 7.3, 7.4, 7.5, 7.6 8.1 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1.   décrire les processus thermodynamiques et dynamiques majeurs à grande échelle de la glace de mer et les principales interactions de cette dernière avec l'atmosphère et l'océan ; 2.   modéliser la thermodynamique et la dynamique à grande échelle de la glace de mer en se basant sur les observations réalisées dans les régions polaires ; 3.   évaluer les performances d'un modèle de glace de mer à grande échelle ; 4.   argumenter sur la variabilité récent et les changements futurs de la glace de mer.",
+        "content": "Caractéristiques générales de la glace de mer Formation, croissance et propriétés de la glace de mer Thermodynamique de la glace de mer Cinématique et dynamique de la glace de mer Distribution de l’épaisseur de la glace de mer La neige sur la glace de mer L’atmosphère polaire et ses interactions avec la glace de mer Les océans Arctique et Antarctique et leurs interactions avec la glace de mer La glace de mer dans les modèles climatiques globaux Variabilité récente et changements futurs de la glace de mer Ces matières sont d'un intérêt majeur pour la compréhension de la problématique du développement durable.",
+        "teaching_methods": "Exposés magistraux. Projet de modélisation de la glace de mer réalisé en groupe durant le quadrimestre. Les diapositives présentées au cours théorique sont disponibles sur MoodleUCLouvain.",
+        "assessment_methods": "Rapports écrits sur le projet de modélisation et évaluation continue de ce projet (65% de la note finale). Examen oral sur la matière vue au cours théorique et sur le projet de modélisation (35% de la note finale). En cas de force majeure, les modalités de l'enseignement et de l'évaluation seront réévaluées selon la situation et les règles en vigueur.",
+        "bibliography": "Thomas, D.N. (Ed.), 2017 : Sea Ice. John Wiley & Sons, Chichester, U.K., 652 pp. Untersteiner, N. (Ed.), 1986 : The Geophysics of Sea Ice. NATO ASI Series, Series B : Physics Vol. 146, Plenum Press, New York, 1196 pp.",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lfilo2003e",
+        "title": "Questions d'éthique dans les sciences et les techniques (partie séminaire)",
+        "credits": "2.00",
+        "hours": "15.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Français",
+        "prerequisites": "Le cours suppose une formation de base à la philosophie des sciences de la nature et à la réflexion éthique ; une connaissance au moins passive de l'anglais suffisante pour pouvoir lire des textes courants en philosophie de la nature et des sciences de la nature.",
+        "topics_covered": "En vue d'une analyse philosophique des pratiques techno-scientifiques contemporaines selon une double orientation, il s'agira - d'étudier les dimensions sociétales de la pratique technico-scientifique et d'introduire aux concepts fondamentaux de la sociologie des sciences ainsi que des courants \" Sciences, technologies, sociétés \" - d'envisager les dimensions éthiques des pratiques scientifiques, dans les multiples dimensions de la sphère techno-scientifique. Le cours comportera deux moments : Un premier moment, théorique, consistera en une introduction aux concepts de base de la sociologie des sciences ainsi qu'aux concepts fondamentaux des approches éthiques des sciences et des techniques. Une deuxième partie consistera en l'analyse de situations particulières, les études de cas choisies pouvant varier chaque année.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Au terme du cours, l'étudiant sera capable : d'analyser les pratiques techno-scientifiques contemporaines de dégager les enjeux éthiques et sociétaux de ces pratiques",
+        "content": "L'objectif du cours est de proposer les concepts de base pour une approche critique des relations sciences-sociétés dans leur dimension éthique. Le cours prend la forme d'une activité interdisciplinaire, tant au niveau des titulaires qu'au niveau de la dynamique générale. Ce cours comporte 2 ECTS pour les scientifiques et 5 ECTS pour les philosophes. Le cours comporte donc 2 parties distinctes. 1) Partie destinée à tout l'auditoire : Six séances d'exposés suivis de débats par les titulaires du cours sur des thèmes généraux (par ex., justifications de l'éthique, biodiversité et enjeux économiques, organismes génétiquement modifiés, politique énergétique, fécondation in vitro, etc.). 2) Partie spécifique aux étudiants en philosophie : Les étudiants en philosohie rédigent de plus un travail approfondi d'une douzaine de pages sur les dimensions philosophiques et éthiques du thème travaillé avec les étudiants en sciences (voir ci-dessous).",
+        "teaching_methods": "Présentations thématiques par les titulaires en binôme (scientifique et philosophe), suivies d'un débat avec toute la classe Visionage d'un film Présentation des travaux de groupe par les étudiant·e·s",
+        "assessment_methods": "1. Séminaire commun avec les étudiants de la Faculté des sciences (2 ECTS) Les travaux sont préparés par groupes inter-disciplinaires (2 à 4 étudiants) sur un thème choisi en concertation avec les co-titulaires du cours. Les travaux font l'objet d'un rapport écrit et d'un exposé oral avec discussion prévu lors du mini-symposium qui clôture le cours. 2. Séminaire entre philosophes (3 ECTS) Les étudiants en philosophie sont invités à produire un travail philosophique d'une douzaine de pages d'approfondissement du thème traité avec les étudiants en sciences. L'évaluation porte sur les deux travaux présentés, pondérés en fonction du nombre de crédits qui leur sont associés (40% travail de groupe, 60% travail individuel).",
+        "online_resources": "Présentations PowerPoint et autre lecture pertinente accessibles sur Moodle.",
+        "responsible_entity": "EFIL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2140",
+        "title": "Global environmental challenges in the Anthropocene",
+        "credits": "5.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Van Oost Kristof",
+            "Vanacker Veerle",
+            "Vanacker Veerle"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Ce cours avancé en géographie physique est destiné à des étudiants qui sont déjà familiarisés avec les concepts de base de la géomorphologie, via les cours géographie physique (LGEO1231), géomorphologie (LGEO1331) et histoire de la Terre (LGEO1251).",
+        "topics_covered": "Projet de recherche en géographie physique qui porte sur quelques grands défis scientifiques liés aux sciences de la terre, comme : le rôle des bassins montagneux dans le flux sédimentaire du continent vers l'océan l'impact de l'homme sur les cycles biogéochimiques l'effet de l'érosion du sol sur la production primaire la déforestation et érosion du sols : une catastrophe écologique dans les Tropiques ? déforestation et érosion du passé : leçons pour le futur ? Les étudiants sont divisés en groupes qui travaillent sur un de ces thèmes prédéfinis.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours a pour double objectif d'acquérir une connaissance de base des développements les plus récents dans une série de domaines relevant de la géographie physique, et de se familiariser aux différentes méthodes et techniques d'analyse spatiale utilisées en sciences de la Terre. Savoir-faire : Mettre en perspective les débats scientifiques contemporains dans le domaine de géographie physique Savoir développer une stratégie scientifique claire et cohérente pour analyser des problèmes environnementaux liés à la géographie physique Savoir conduire un raisonnement scientifique sur la base des contenus du cours théorique Savoir tenir un discours géographique en utilisant le langage approprié Savoir-être : Développer une culture du débat sur des questions scientifiques et technologiques liés aux sciences de la Terre Être capable d'analyser des publications scientifiques d'une manière rigoureuse et critique Savoir faire preuve d'esprit critique et de jugement afin de pouvoir relativiser les grands thèmes de la géographie physique en les replaçant dans leurs contextes général, régional, et local",
+        "content": "Le cours propose de découvrir quelques grands défis environnementaux de la transition au développement durable. L'étudiant·e découvrira quelques thèmes actuels de la recherche géographique qui sont contextualisés par l’équipe d’enseignants. Les thèmes sont en lien direct avec des projets de recherche en cours en géographie physique.",
+        "teaching_methods": "Le cours est organisé en 5 activités d'apprentissage : (1) cours magistral avec introduction dans les thématiques de recherche, (2) lectures d'articles scientifiques, (3) projet de recherche, (4) séminaires avec présentation de résultats, et (5) deux sessions de retro-alimentation. Chaque groupe présente un rapport final du projet de recherche (4000 mots), qui est présenté sous la forme d'un article scientifique.",
+        "assessment_methods": "Les acquis d'apprentissage sont : Mettre en perspective les débats scientifiques contemporains dans le domaine de géographie physique Savoir développer une stratégie scientifique claire et cohérente pour analyser des problèmes environnementaux liés à la géographie physique Savoir conduire un raisonnement scientifique sur la base des contenus du cours théorique Savoir tenir un discours géographique en utilisant le langage approprié L'évaluation consiste en un rapportage scientifique (2 présentations et 1 rapport scientifique à remettre), et une participation active aux sessions. La note finale sera calculée comme suit: 80% sur le rapportage scientifique et 20% sur la participation individuelle dans les débats et discussions scientifiques. L'utilisation des IA génératives pour la rédaction ou la correction du texte doit être signalée et indiquée systematiquement dans toutes les parties ayant fait l'objet d'une utilisation des IA. L'étudiant·e est responsable du contenu des rapports, et les sources di'nformation doivent être citées en respectant les normes de référencement bibliographique. Les critères d'évaluation sont basés sur les compétences mentionnées ci-haut. Les étudiants recevront des retro-alimentations (sur base individuel et en groupe) pendant le déroulement du cours.",
+        "other_info": "Ce cours suppose acquises des notions de base en géomorphologie et géographie physique ainsi que SIG telles qu'enseignées dans les cours LGEO1251, LGEO1331 et LGEO1342. La participation presentielle aux travaux pratiques et aux séances d'introduction et présentations est obligatoire. Ceux-ci ne sont organisés qu'une seule fois pendant l'année. Il est impossible de refaire le projet en seconde session.",
+        "online_resources": "Les articles scientifiques et les matériels pour les projets sont mis à disponibilité par l'équipe d'enseignants, et sont disponible sur Moodle. Matériel supplémentaire de référence est disponible dans la bibliothèque (BST).",
+        "bibliography": "The scientific articles that are discussed during the course are available through DIAL and moodle.",
+        "course_materials": "matériel sur moodle",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2161",
+        "title": "Internal geophysics of the Earth and planets",
+        "credits": "5.00",
+        "hours": "22.5 h + 7.5 h",
+        "quadrimester": "Q1",
+        "teaching_language": "Anglais",
+        "prerequisites": "Connaissances de base en physique et en mathématique (niveau bachelier en sciences ou en sciences appliquées).",
+        "topics_covered": "Les thèmes abordés sont la structure et la physique interne de la Terre et des planètes telluriques, leurs rotations, leurs évolutions, leurs caractéristiques globales propres et la géodynamique globale de la Terre et des corps telluriques (planètes et lunes) du système solaire.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS2M1) AA1: A1.1, A1.2, A1.3, A1.4, A1.5, A1.6 AA2: A2.1, A2.2 AA3: A3.1, A3.2, A3.4 AA6: A6.1 AA7: A7.3 AA8: A8.1, A8.2 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1.     présenter les principaux mécanismes qui gouvernent la structure interne de la Terre solide ainsi que les techniques géophysiques qui permettent de les observer à l'échelle globale ; 2.     appliquer ces concepts à la connaissance des planètes telluriques du système solaire.",
+        "content": "Structure interne de la Terre et des planètes telluriques Oscillations libres de la Terre et des planètes telluriques Séismologie, tectonique des plaques et tremblements de Terre Géomagnétisme de la Terre et des planètes telluriques Courte introduction à la géodésie et au GNSS (GPS) Marées (solides) de la Terre et des planètes telluriques Force de pesanteur, potentiel gravitationnel de la Terre et des planètes telluriques Flux de chaleur de la Terre et des planètes telluriques Habitabilité « géophysique » des corps telluriques du système solaire",
+        "teaching_methods": "Exposés magistraux et exercices, avec visite d’un site géophysique.",
+        "assessment_methods": "Les étudiant.e.s présenteront une question de leur choix qu'ils peuvent approfondir. Ils devront aussi expliquer aux professeurs deux points parmi les thématiques du cours et pourront préparer leurs explications à livre ouvert. Les enseignants désirent avaluer leur compréhension de la matière.",
+        "other_info": "Public cible : étudiants en master en Sciences Physique, Mathématiques et Géographiques ou Ingénieurs.",
+        "bibliography": "Syllabus préparé pour l’unité d’enseignement / Syllabus prepared for the teaching unit",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsst1002m",
+        "title": "Informations et esprit critique - MOOC",
+        "credits": "3.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "De Kesel Myriam"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Cet enseignement aborde la question de l’esprit critique et de sa mise en oeuvre bans l’évaluation de la qualité d’une information.",
+        "content": "Le cours comporte 6 modules. Module 1 : Pourquoi développer son esprit critique ? Module 2 : Identifier ses préconceptions Module 3 :  Décoder le discours Module 4 : Évaluer la qualité des sources Module 5 : Comprendre la démarche scientifique Module 6 : Analyser les données Module 7 : Prendre conscience des limites de la science",
+        "teaching_methods": "Le cours est entièrement en ligne.",
+        "assessment_methods": "L'évaluation inclut des devoirs à réaliser en ligne dans le cadre du MOOC (Activité 1 : 50%) et une évaluation finale basée sur une analyse de cas (Activité 2 : 50%). Chacune des 2 activités doit être réussie avec une note égale ou supérieure à 10/20 pour que cette UE puisse être réussie. Le principe de la note abosrbante est appliquée à cette UE càd qu'une note d'échec dans une des activités entraîne une note d'échec pour la totalité de l'UE.",
+        "online_resources": "https://learning.edx.org/course/course-v1:LouvainX+Louv22x+1T2023/home",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2269",
+        "title": "Remote sensing of climate change",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Dekemper Emmanuel"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Connaissances de base en physique et en mathématique (niveau bachelier en sciences ou en sciences appliquées).",
+        "topics_covered": "Caractéristiques physico-chimiques de l'atmosphère supérieure et du transfert radiatif du rayonnement solaire ; géométries d'observation en orbite basse ; méthodes spectroscopiques au sol et en milieu spatial ; algorithmes de traitement du signal et méthodes d'inversion.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS2M1) AA1: A1.1, A1.5 AA2: A2.5 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1.   décrire les mécanismes principaux déterminant la composition des gaz en trace de l'atmosphère supérieure ; 2.   comprendre les principes généraux en télédétection atmosphérique : géométrie, domaines spectraux et méthodes d'observation ; 3.   comprendre les problèmes inverses associés aux observations au sol et dans l'espace ; 4.   estimer les bilans d'erreur associés à différents modes de télédétection et définir les limitations intrinsèques de ces modes ; 5.   être capable de discerner les principes de conception et d'utilisation d'un satellite de télédétection.",
+        "content": "Le cours abordera les thèmes suivants: Bilan radiatif du système terrestre irradiance solaire spectrale et totale: définition, observations depuis l'espace, évolution temporelle,... bilan radiatif terrestre: absorption et émissions, observations terrestres et depuis l'espace, évolution temporelle, ... transfert radiatif dans l'atmosphère: absorption et diffusion de la lumière dans l'UV, le visible, et l'infrarouge, composition  chimique de l'atmosphère observations des profils de pression et de température dans l'atmosphère supérieure Principes instrumentaux pour la mesure à distance de la composition de l'atmosphère réseaux de diffraction interférométrie (Michelson, Fabry-Pérot, ...) filtres Techniques de mesure de la composition de l'atmosphère depuis l'espace géométries d'observation: nadir, limbe, occultations solaires/stellaires, ... instruments d'observation du bilan radiatif terrestre instruments de mesure de la composition de l'atmosphère observation et suivi de la couche d'ozone Composition de l'atmosphère l'ozone, et les perturbateurs de l'équilibre photochimique de la stratosphère autres gaz réactifs Méthodes mathématiques de résolution de problèmes inverses en sciences atmosphériques méthodes d'inversion optimales régressions influence des erreurs instrumentales techniques de régularisation de la solution Exemples et applications concrètes simulation des performances d'un spectromètre à réseau de diffraction simulation de mesures des émissions thermiques de l'atmosphère inversion de profils de température à partir de mesures dans l'infrarouge thermique inversion de la concentration de dioxide d'azote dans l'atmosphère par la méthode DOAS ...",
+        "teaching_methods": "Le cours sera donné principalement de façon magistrale à l'aide de slides. Les étudiants seront régulièrement invités à se pencher sur des problèmes concrets. Plusieurs séances seront consacrées à des simulations informatiques à l'aide d'un logiciel de calcul scientifique (Matlab, octave, python,...). L'étudiant sera invité à prendre une part active dans ces exercices appliqués (chaque étudiant devra développer son propre code). Le but de ces exercices numériques est de familiariser l'étudiant au calcul scientifique numérique, et à la résolution de problèmes concrets en sciences atmosphériques.",
+        "assessment_methods": "La note finale sera calculée en tenant compte: de la participation et de la réussite de l'étudiant aux projets qui lui seront proposés pendant le cours (10 points), d'un examen oral lors duquel l'étudiant devra démontrer sa compréhension des thèmes abordés pendant le cours en présentant un article scientifique du domaine (10 points).",
+        "other_info": "La connaissance d'un langage de programmation est un plus, mais il sera tenu compte du niveau de chacun en matière d'outils numériques. Le but du cours est non seulement d'aborder des aspects de la télédétection atmosphérique, mais également de donner la possibilité aux étudiants de se confronter aux tâches appliquées rencontrées par les chercheurs du domaine. L'important est l'acquisition de nouvelles compétences!",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2110",
+        "title": "Mondialisation, développement et environnement",
+        "credits": "5.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Lambin Eric"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Cours magistraux :\rL'enseignement repose sur trois composantes: \r(i) la présentation de concepts et modèles géographiques fondamentaux au cours; \r(ii) la participation des étudiants aux discussions pendant le cours, sur base de lectures fournies au préalable et afin d'illustrer le cours par des situations géographiques concrètes;\r(iii) un travail sur un pays au choix, qui analyse les interactions entre développement et environnement pour ce pays, sur base d'une analyse statistique de données et en faisant référence aux modèles et concepts vus au cours.\rCours magistral 1 Quelques modèles et concepts sur les relations entre développement et environnement\rLecture : Nature, nurture and growth (The Economist, 1997).\r- Le concept de développement durable;\r- Modèle 1 : Capitaux naturel et artificiel et trajectoires de développement ;\rExemple : Les réserves de pétrole dans le monde\r- Modèle 2 : I=PAT;\r- Modèle 3 : La courbe de Kuznets pour l'environnement et la croissance économique.\r- Modèle 4 : Modèle de développement basé sur l'agriculture; le concept de surplus agricole ;\r- Modèle 5 : La tragédie des biens communautaires : Le modèle de G. Hardin et ses critiques\rLecture : The tragedy of the commons: twenty-two years later (Human Ecology 1990) \r\rCours magistral 2 Changements associés aux systèmes agraires tropicaux\rLecture : Food production, population growth and the environment (Science, 1998).\r- Le concept de système agraire;\r- Les systèmes fonciers dans les PVD;\r- Classification des systèmes agraires en fonction de l'intensité agricole;\r- Aspects techniques des systèmes agraires: irrigation, mécanisation, élevage; \rLecture : Biotechnology and food security in the 21st century (Science, 1999)\r- Développement de la commercialisation de l'agriculture et facteurs de blocage.\r- Le concept de capacité de charge.\rLecture : Population growth and Earth's human carrying capacity (Science, 1995)\r- Pression de la population et intensification agricole: le modèle de Boserup;\rLecture : Modelling deforestation processes: a review (Chapter 5, European Commission)\r- Contraintes environnementales et intensification agricole;\r- Involution agricole et facteurs qui retardent l'intensification agricole;\rLecture : Population growth and land degradation (GeoJournal, 1993)\r- Croissance du marché et intensification agricole;\r- Modernisation agricole, marginalisation des pauvres et dégradation écologique.\r- Modèle",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Connaissances : \rL'objectif de ce cours est d'apprendre à appliquer des modèles et concepts géographiques aux cas des pays en voie de développement\rSavoir-faire :\t\rUne compétence importante à acquérir dans ce cours est la capacité de confronter des modèles géographiques théoriques à des situations concrètes, complexes et diverses. Parmi la diversité des situations dans les pays en voie de développement, l'étudiant doit apprendre à distinguer ce qui est général dans les trajectoires de développement observées de ce qui est propre à chaque lieu et à chaque contexte historique et géographique. Sur base d'une compréhension des interactions entre développement et environnement d'une région, l'étudiant doit pouvoir dériver des principes d'intervention, pour influencer la trajectoire de développement de cette région.\rSavoir-être  :\t\rL'étudiant doit être capable de réfléchir de manière rigoureuse et critique aux interactions entre développement et environnement.",
+        "content": "Le cours couvre différents concepts, théories et études de cas qui mettent en évidence l'influence de la mondialisation sur les interactions entre le développement durable, les inégalités sociales et les changements environnementaux.",
+        "teaching_methods": "Course magistraux avec participation active des étudiants et travaux pratiques. La présence et la participation active aux cours et aux travaux pratiques sont indispensables.",
+        "assessment_methods": "Une partie de la note finale tiendra compte de la participation au cours durant le quadrimestre (20% de la note finale).  En cas d'échec en première session, cette partie de note sera remplacée par un travail écrit individuel. L’évaluation est basée : (i) sur la participation au cours (20%) ; (ii) sur un examen écrit avec questions ouvertes (50%) , (iii) sur le travail tout au long des TP (30%). La présence au cours est requise. Le titulaire du cours pourra, en vertu de l'article 72 du Règlement général des études et examens, proposer au jury de s'opposer à l'inscription d'un.e étudiant.e qui n'aurait pas assisté à au moins 80% des cours et/ou TPs, lors de la session de janvier ou de septembre.",
+        "other_info": "Un cours de base sur les dimensions socio-économiques des pays en voie de développement (par exemple, DVLP 2280 Analyse des pays en voie de développement [30, 0, 0]).",
+        "online_resources": "Site Moodle du cours.",
+        "course_materials": "LAMBIN Eric, 2015. Le consommateur planétaire, Editions Le Pommier, Paris.",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2264",
+        "title": "Oscillations et instabilités dans le système climatique",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Crucifix Michel"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Avoir suivi les cours LPHYS2114, LPHYS2162 et LPHYS2163 est un avantage",
+        "topics_covered": "Notions élémentaires de stabilité dynamique. Équations fondamentales de mécanique des fluides géophysiques (rappels), ondes linéaires dans eaux peu profondes, théorie linéaire des ondes instables (instabilités de Kelvin-Helmholtz, instabilités barotrope et barocline), oscillations et relaxations dans les océans et l’atmosphère à différentes échelles de temps, et leur contribution au spectre de variabilité, phéomènes critiques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS2M1) 1.1, 1.2, 1.5 2.3, 2.5 3.1, 3.2, 3.3 4.2 5.1, 5.2, 5.3, 5.4 6.1, 6.2, 6.3, 6.5 7.1, 7.2, 7.3, 7.4, 7.5, 7.6 8.1 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant·e sera capable de : expliquer le principe de l’analyse de stabilité linéaire dérivée le modèle de Sant-Venant et expliquer son intérêt pour comprendre les ondes atmosphériques et océaniques Appliquer le principe de l’analyse de stabilité linéaire pour dériver les théories relatives aux ondes atmosphériques et océaniques (ondes de gravité, ondes de Rossby, de Kelvin), et des instabilités Développer et appliquer un modėle d’oscillation climatique et/ou un modėle d’instabilité climatique Démontrer le lien entre ces théories et des phénomènes réels (marées, El-Niño, instabilité de Madden Julian, Oscillation centennale atlantique, désertification abrupte), et en discuter l’importance et les limites Analyser un phénomène spécifique impliquant des oscillations et/ou instabilités climatiques et communiquer cet analyse aux collègues Critiquer / poser des questions sur les aspects scientifiques d’une présentation portant sur les ondes et instabilités dans les océans et l’atmosphère. Synthétiser les enjeuxs contemporains touchant aux oscillations et instabilités dans le systėme climatique",
+        "content": "En fonction des années et des centres d'intérêt des étudiants le cours couvre plusieurs des sujets suivants: 1. Motivation le spectre de variabilité climatique concepts élémentaires de stabilité dynamique 2. Ondes linéaires modèle de Saint-Venant quasi-hydrostatique ondes de gravité et de Poincaré modèle à deux couches et gravité effective ondes équatoriales ondes côtières (et marées) ondes de Rossby 3. Instabilité hydrostatique (théorie linéaire) principe général instabilité de Kelvin-Helmoltz instabilités barotropes et baroclines 4. Phénomènes critiques (points de bascule) modėle conceputels d’instabilité climatiques enjeux contemporains 5. Oscillations et phénomėnes de relaxation principe général modėles conceptuels d’oscillations climatiques 6. Études de cas Ces matières, qui touchent également au changement climatique, sont d'un intérêt majeur dans le contexte du développement durable.",
+        "teaching_methods": "Exposés magistraux pour les éléments fondamentaux Applications présentées et préparées par les étudiants selon le principe de  la classe inversée. Un portfolio de textes de références et mis à disposition par le professeur",
+        "assessment_methods": "Évaluation continue pendant les classes inversées . Étude de cas (présentations orales et rapports).",
+        "online_resources": "Les notes de cours sont disponibles en ligne sur Moodle (en Anglais), accompagnées d'un portefeuille de lectures.",
+        "bibliography": "Cushman-Roisin and Beckers, Introduction to geophysical fluid Dynamics, Academic Press, 2006 H. Dijkstra, Nonlinear climate dynamics, Cambridge University Press A. E. Gill, Atmosphere-Ocean Dynamics, 1st Edition, Volume 30 - Academic Press",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lenvi2005",
+        "title": "Changements climatiques: impacts et solutions",
+        "credits": "3.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Français",
+        "topics_covered": "Les cours se basera sur le dernier rapport du Groupe d'experts Intergouvernemental sur l'Evolution du Climat (GIEC), au travers de ses trois groupes de travail : GT1 (les bases physiques) ; GT2, (conséquences, adaptation et vulnérabilité) ; et GT3, (atténuation des changements climatiques). Chacun des trois thèmes sera d' abord introduit de façon générale sur la base des conclusions du GIEC, puis illustré par des personnalités invitées, belges et étrangères, spécialistes dans les aspects scientifiques, économiques, sociaux et politiques de la problématique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours permettra à l'étudiant d'acquérir les bases scientifiques pour comprendre les impacts physiques, environnementaux, économiques et sociaux des changements climatiques d'origine humaine, et les moyens et stratégies pour éviter les impacts inacceptables (« atténuation » par la réduction des émissions de gaz à effet de serre) et faire face aux impacts devenus inévitables (adaptation). Ceci avec une attention particulière portée à la situation belge d'une part et aux pays en développement d'autre part. L'étudiant sera sensibilisé à la non-linéarité de nombreux processus pertinents, à la place de la modélisation, et à l'importance d'une approche interdisciplinaire. Au terme de ce cours, l'étudiant sera capable d'aborder la problématique des changements climatiques avec un esprit à la fois curieux, scientifique et critique.",
+        "content": "Ce cours donne une formation de base à propos de la problématique des changements climatiques et des manières d'en réduire les impacts ou de les prévenir en partie. : 1) Bases physico-chimiques; 2) Impacts, vulnérabilité et adaptation; 3) Atténuation (réduction des émissions de gaz à effet de serre).",
+        "teaching_methods": "Cours donné en présentiel, avec support de vidéoprojection + explications au tableau.",
+        "assessment_methods": "Une partie de l'évaluation se fera sur la base d’un travail écrit pour lequel les étudiants devront faire preuve d’aptitude à rechercher et sélectionner des informations scientifiques sur un thème lié aux changements climatiques, à leurs conséquences, ou aux moyens de les éviter,  ainsi que  les intégrer avec les connaissances acquises dans le cadre du cours. Une autre partie de l'évaluation sera basée sur un examen écrit.",
+        "other_info": "Cours d'intérêt général, destiné principalement aux étudiants du Master de spécialisation interdisciplinaire en sciences et gestion de l'environnement et du développement durable, mais accessible également à tout porteur d'un diplôme de BAC.",
+        "course_materials": "Support de cours sur Moodle",
+        "responsible_entity": "ENVI"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2230",
+        "title": "Géographie médicale et de la santé",
+        "credits": "5.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Vanwambeke Sophie"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "LGEO1342 Systèmes d'Information Géographique LGEO1321 Géographie rurale et de la santé (ce prérequis sera à confimer en fonction du contenu du nouveau cours).",
+        "topics_covered": "L'angle d'approche privilégié pour tous les thèmes est l'espace. Géographie médicale - Perspectives historiques : maladies infectieuses dans l'histoire (collecte de données historiques) - Aspects géographiques de l'émergence de maladies dans le monde contemporain (collecte de données dans un contexte prospectif) - Modélisation des maladies chroniques (associations aux variables socio-économiques ; défis liés à l'usage de données spatiales : points vs. aires ; unités standards d'observation (recensement) vs. épidémiologie). Géographie de la santé - Analyse et constitution de l'offre de services sanitaires - Risques chimiques dans l'air et dans l'eau (analyse de points sources, analyses de groupement) Environnement, développement et enjeux sanitaires - Biodiversité et risque sanitaire - Ecosystem health / ecohealth (approche de la santé humain envisageant les systèmes de manière holistique) dans les pays industrialisés et/ou dans les pays en développement Savoir-faire Savoir identifier le caractère spatial et géographique de problématiques liées à la santé ; Savoir identifier et faire appel à des méthodes avancées d'analyse spatiale et quantitative (essentiellement vues par ailleurs) ; Comprendre les enjeux spatiaux de question de santé publique, et savoir distinguer ceux-ci de ceux liés au risque des individus ; Pouvoir identifier les facteurs environnementaux susceptibles d'influencer la situation sanitaire d'une population Savoir-être Pouvoir évaluer de manière critique des sources de données ; Pouvoir aborder la littérature scientifique de manière critique, en étant capable d'en explorer divers champs (y compris médical) ; Pouvoir participer à des discussions visant la construction du savoir en groupe.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 La plupart, sinon la totalité, des questions de santé peuvent être examinées sous l'angle du spatial, et cet angle peut contribuer significativement à des prises de décision du ressort de la santé publique. Par ailleurs, la capacité du géographe à intégrer les caractères physique et humain de l'espace peut être clé dans la compréhension de la distribution spatiale et temporelle du risque. Ceci est particulièrement pertinent dans le contexte actuel des changements globaux. Il s'agit donc bien d'une branche de la géographie humaine, qui partage avec les autres thématiques de la discipline ses méthodes et ses fondements.",
+        "content": "Le cours propose de découvrir l’apport de la géographie dans le contexte de la santé publique. Comment nos interactions avec le milieu affectent notre santé ? Comment les outils de la géographie, tels que la cartographie ou la modélisation, peuvent offrir une perspective additionnelle de valeur pour comprendre les enjeux sanitaires d’aujourd’hui ? L'angle d'approche privilégié pour tous les thèmes est l'espace. Le large panel des sujets traités couvre les maladies infectieuses dans l’histoire et dans le contexte du changement environnemental global et du changement climatique ; l'étude des maladies chroniques dans le contexte géographique, l’usage des données spatiales, l’offre de services sanitaires, la biodiversité, les concepts de One Health et d’écosanté. Ces cadres conceptuels sont ancrés fermement au coeur de la question de la transition et du développement durable.",
+        "teaching_methods": "Cours en auditoire et travaux pratiques visant la production d’une mini-recherche sur un sujet choisi par l’étudiant∙e. Cours hybride/comodal Pour faciliter la participation au cours des étudiants qui ne sont pas basés sur le site de LLN, le cours est proposé en format hybride cette année. Attention : 1. Cette proposition ne s’adresse qu’aux étudiants qui sont inscrits à des programmes sur d’autres sites que le site de LLN ; 2. Certaines séances ne sont proposées qu’en présentiel pour optimiser le contact entre toutes les parties prenantes. Il s'agit des séances en semaines 1, 10 et 14. Ces séances seront données uniquement en présentiel ; 3 . Les étudiants qui peuvent suivre le cours en comodal sont les bienvenus en présentiel également, tant au cours qu’au TP.",
+        "assessment_methods": "Partie théorique (examen écrit, 50% de la note finale) Partie pratique:  travail (50% de la note finale, dont 75% pour le travail écrit et 25% pour la présentation orale). L'objectif est pour l'étudiant∙e d'approfondir les éléments vus au cours via le choix d'une question ayant trait à la santé dans une perspective géographique. La note de l’évaluation continue est attachée à chacune des sessions d’examens de l’année académique. La partie pratique ne peut pas être représentée.",
+        "online_resources": "Toutes les ressources utiles sont sur Moodle.",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2160",
+        "title": "Integrated project in sustainability",
+        "credits": "4.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Meyfroidt Patrick",
+            "Rousseau Raphaël"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Theoretical course Introduction to the course and its objectives Defining the problem and themes for the case studies. The case studies will be based on a comparison of two European regions (within Belgium and Spain). The specific study themes will change each year, but examples include : tourism, transport (air traffic, high speed trains, road building, etc.), migration/demography and residential housing (retirement homes, new labour), emerging/declining industries (manufacturing, etc.), agriculture and agri-business (glass house production, fruit production), forest cover change, the impact of land use change on water resources (industrial and agricultural consumption patterns), biogeography (ecology and landscape), land degradation (the socio-economic and physical drivers of soil erosion on the loess belt and in Mediterranean environments). Travaux dirigés : Themes TD 1 Defining the problem and refining the case study objectives Small group tutorial (5 per group) Student implication : 1 hour TD 2 Discussing progress and initial results Small group tutorial (5 per group) Student implication : 1 hour TD 3 Field work to validate hypotheses See GEOG2161 Enseignement de terrain TD 4 Presenting the results and conclusions of the study Seminar (in English) Student implication : 3 hours Travaux personnels : Working in small thematic groups to identify and allocate the tasks and techniques necessary to achieve the case study objectives ( 4 hours). Tackling the problem - review of the literature and the study area, collection and use of available data resources, application of appropriate methods (40 hours). Field work (see GEOG2161 Enseignement de terrain) Production of the final report (12 hours). Notions acquises : Ability to work within a team and contribute to the group's work Methodological and analytical techniques Seminar presentation skills (and ability in English) Report writing skills",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Knowledge : To further develop understanding of the processes of human and physical geography and how these processes interact within the context of the issues and problems that occur at the regional scale. To analyse regional development policies within the European Union, and assess their impact on land use within different case study areas. Know-how : To apply fundamental geographic principles and techniques to real-world problems and thus, to bridge the gap between the classroom and geography in practice. (This will be achieved in combination with the enseignement de terrain). To develop the capacity for critical appraisal of regional policies and development in the EU. To develop and apply a working knowledge of the English language within the framework of the University language plan. Personal skills : To develop the capacity to work in groups as part of a team",
+        "content": "L’objectif de ce cours et de donner la possibilité à l’étudiant.e de s’interroger sur le millieu et l'environnement dans lequel il ou elle vit, de poser de bonnes questions en termes de disparités spatiales et de proposer des réponses en termes géographiques (outils, méthodes, indicateurs, tendances spatiales, cartes, …). Une thématique générale relative au développement durable est formulée chaque année ; il convient aux étudiant.e.s de choisir un sujet de travail particulier et de travailler par groupe et individuellement sur ce sujet.",
+        "teaching_methods": "Les étudiant.e.s travaillent sur un thème général sur base de rapports d'organisations internationales). Le cours est divisé en moments de travail en classe et hors classe : 1. Lors de la première séance, le contenu et les objectifs du cours seront présentés. Les séances suivantes serviront à un suivi régulier du travail avec l'équipe enseignante pour vérifier l'avancement du travail. La dernière séance est consacrée à la présentation orale du travail final. 2. Le reste du temps est libre pour laisser les groupes et les étudiant.e.s travailler sur leur projet. Une salle informatique est réservée chaque semaine pour ce travail. Le cours sera donné en anglais . Toutes les diapositives et les documents complémentaires sont également en anglais. Les étudiant.e.s doivent assister à toutes les séances avec l'équipe enseignante pour réussir le module.",
+        "assessment_methods": "Présentations de groupe et individuelles sur le travail réalisé. Petits rapports intermédiaires pendant l'année sur l'avancement du travail. L'usage éventuel d'intelligences artificielles (IA) génératives doit se faire de manière responsable et conformément aux pratiques de l’intégrité académique et scientifique et au RGEE (voir entre autres l'article 107).",
+        "course_materials": "The slides, the primary scientific reports and several articles are available in Moodle.",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2185",
+        "title": "Advanced geo-processing",
+        "credits": "5.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Stevens Antoine",
+            "Van Oost Kristof"
+        ],
+        "teaching_language": "Anglais",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lclim2280",
+        "title": "Operational meteorology",
+        "credits": "8.00",
+        "hours": "",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2211",
+        "title": "Statistiques spatiales approfondies",
+        "credits": "5.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Hafner Christian"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Etude de méthodes statistiques et cartographiques avancées nécessaires aux recherches actuelles en géographie humaine et physique. Le contenu précis est susceptible de varier selon les besoins et l'évolution de la science et comprendrait par exemple les points suivants :\r- problèmes d'endogénéité et méthode des variables instrumentales ;\r- analyses multiniveaux ;\r- données en panels ;\r- biais de sélection ;\r\"\tstatistiques spatiales : \" generalized weighted regression \", etc.\r\"\ttechniques cartographiques nouvelles.",
+        "content": "1. Données spatiales et représentation en R 2. Processus ponctuels spatiaux 3. La régression linéaire classique 4. La régression linéaire spatiale 5. Interpolation et prédiction spatiale 6. Données spatio-temporelles 7. Modèles de choix discrets",
+        "teaching_methods": "Le cours fait alterner les exposés théoriques et les illustrations sur ordinateur.",
+        "assessment_methods": "L'évaluation se base sur un travail personnel sur un jeu de données et un examen oral.",
+        "other_info": "Préalable : GEO1341 Modélisation statistique en géographie (ou similaire).",
+        "online_resources": "Toutes les notes, portions de code et jeux de données nécessaires pour ce cours se trouvent sur le site moodle associé à ce cours. MOOC \"Introduction à l'économétrie\" sur edx (ouvert en self pace) : https://learning.edx.org/course/coursev1: LouvainX+Louv14x+3T2024/home Vidéos, exercices, études de cas, implémentation des méthodes en R",
+        "bibliography": "L Anselin, Spatial Econometrics, Kluwer, 1988. R Bivand, E Pebesma and V Gomez-Rubio, Applied Spatial Data Analysis with R, Springer, New York, 2nd edition 2013. Crawley, Statistics : An Introduction Using R, Wiley, 2005.Web site: http://www.imperial.ac.uk/bio/research/crawley/statistics Wikle, C.K., Zammit-Mangion, A. and Cressie, N. (2019), Spatio-Temporal Statistics with R, CRC Press. J LeSage and RK Pace, Introduction to Spatial Econometrics, Chapman & Hall/CRC, Boca Raton, Florida, 2009. O Schabenberger and C Gotway, Statistical Methods for Spatial Data Analysis, Chapman & Hall, 2005.",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lclim2999",
+        "title": "Mémoire",
+        "credits": "20.00",
+        "hours": "",
+        "quadrimester": "Q2",
+        "teaching_language": "Français",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsst1001",
+        "title": "IngénieuxSud",
+        "credits": "5.00",
+        "hours": "15.0 h + 45.0 h",
+        "quadrimester": "Q1 et Q2",
+        "teachers": [
+            "Merle Stéphanie",
+            "Raskin Jean-Pierre"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Projets qui répondent à une problématique (technique, économique, socio-culturel), coopération au développement, approche systémique, responsabilité, engagement, éthique, solidarité, travail en équipe, innovations, technologies appropriables, citoyenneté scientifique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Contribution aux référentiels des programmes du secteur SST Acquis d'apprentissage disciplinaires : Au terme de la formation l'étudiant sera capable de : Elaborer des propositions, sous forme de projets, appropriées à une problématique de développement qui relève de l'identification et/ou la conception d'un dispositif technique, économique, socio-culturel : 1.       Identifier et définir les questions et problématiques 1.1    Elaborer un cahier des charges 1.2    Analyser un contexte 1.3    Analyser une problématique 1.4    S'initier au concept de la systémique 1.5    Découvrir les leviers et les contraintes d'un projet 1.6    Appréhender les étapes de la vie d'un groupe 2.       Elaborer des propositions innovantes 2.1    Découvrir et mettre en oeuvre des technologies qui favorisent l'innovation et la créativité 2.2    Découvrir les technologies appropriables et durables 2.3    S'initier aux principes du développement durable et de son application dans des projets techniques 2.4    Se préparer à la mission 2.5    S'imprégner du processus itératif 3.       Évaluer la faisabilité et l'impact des propositions élaborées 3.1    Appréhender l'équilibre technologique comme venant en soutien de l'évolution humaine 3.2    Identifier les possibilités pour mesurer l'impact d'un projet 3.3    Contribuer à la visibilité des projets IngénieuxSud Acquis d'apprentissage transversaux : Développer et adopter une attitude réflexive sur des questions et problématiques de développement et y apporter des solutions appropriées 1.1    Porter un regard critique sur ses propres compétences, connaissances et sur ses propres limites 1.2    Définir les différents enjeux du projet (culturels, sociaux, économiques, techniques) par une approche systémique 1.3    Faire le bilan de la progression de sa réflexion au fil du projet 2.       Travailler en équipe, collaborer de manière efficace avec des partenaires nationaux et internationaux. 2.1    Identifier les apports et intérêts complémentaires des différents partenaires dans la problématique du projet 2.2    Planifier son travail en équipe : construire un chronogramme, un programme d'apprentissage... 2.3    Autoévaluer son implication individuelle dans le groupe et la coopération au sein du projet et de son groupe 3.       Communiquer efficacement oralement et par écrit avec des publics divers nationaux et internationaux (experts scientifiques, pairs, enseignants, formateurs...) 3.1    Utiliser des moyens appropriées pour dialoguer avec les différents publics et partenaires 3.2    Faire un retour d'expérience et proposer des perspectives futures 3.3    Rédiger un Portfolio interculturel, cohérent, structuré, rigueur scientifique et esprit critique 3.4   Adapter sa communication en fonction de ses interlocuteurs (pairs, collègues, enseignants, formateurs, experts scientifiques...)",
+        "content": "-          Les sciences et technologies au service du développement durable -          La solidarité internationale -          L'adéquation moyens-objectifs d'un projet -          L'interculturalité : regard croisé sur une même problématique scientifique -          Le développement du projet dans le cadre d'un programme de coopération au développement -          L'application de l'approche systémique dans un projet scientifique -          Le développement d'un projet concret : du CDC à l'application concrète -          Les facteurs qui influencent le projet (contexte social, pays, population, contraintes externes, planification ') -          Les leviers du changement -          Le travail en équipe et la communication (avec les partenaires du Sud, avec les personnes du groupe, avec les experts techniques et de développement, les populations concernées)",
+        "teaching_methods": "Formation hybride (en ligne et en présentiel) -          Cours : multidisciplinaires, multi-acteurs, multiculturels -          Apprentissages actifs en groupes -          Apprentissages par le projet -          Coaching par le corps scientifique et académique, des professionnels de terrain (Nord et Sud) -          Interviews, recueil et analyse d'articles'",
+        "assessment_methods": "-          Portfolio (évaluation continue) de groupe avec parties individuelles -          Présentations orales en groupe devant un panel interdisciplinaire Nous précisons que l’usage des IA génératives telles que ChatGPT, Consensus, Perplexity,... est toléré mais il doit être clairement stipulé dans le document rendu par l'étudiant·e ou le groupe d'étudiant·es. Nous insistons sur le fait que le cours IngénieuxSud fait appel à votre créativité et que ces outils ne sont pas de grande aide pour cet objectif à atteindre.",
+        "other_info": "Le cours se termine par une mission pendant l'été qui suit le projet",
+        "online_resources": "Site du cours : http://icampus.uclouvain.be/claroline/course/index.php?cid=INGESUD_EPL",
+        "bibliography": "Ouvrage de référence : -          M. Ashby, (2016), « Materials and sustainable development », Elsevier Science and technology, UK. Revue Spore : Le magazine du développement agricole et rural des pays ACP -  http://spore.cta.int",
+        "responsible_entity": "EPL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2998",
+        "title": "Thesis tutorial",
+        "credits": "3.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Adrioueche Ahmed",
+            "Yin Qiuzhen"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Formation à la présentation scientifique en anglais, avec le concours d'un Maître de langue de l'Institut des Langues Vivantes. Présentation publique en anglais de l'état d'avancement du mémoire.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Formation de l'étudiant à la communication scientifique, et en particulier à la présentation d'un exposé scientifique oral en anglais.",
+        "content": "Contenu et forme d’une présentation scientifique Encadrement individuel en vue de la présentation de l’état d’avancement du mémoire Exposé public, en anglais, par l’étudiant sur l’état d’avancement de son mémoire avec réponses aux questions (en anglais) des enseignants, de son directeur de mémoire et du Maître de langue.",
+        "assessment_methods": "Evaluation à l’issue de la présentation publique, sur la présentation, sur la prononciation correcte de mots récurrents dans l’exposé, l’aisance générale dans la langue et les techniques de communication scientifique. Rapport succint sur quelques chapitres d'un livre d'épistémologie",
+        "course_materials": "Moodle",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsc2220",
+        "title": "Philosophy of science",
+        "credits": "2.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Guay Alexandre"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Chaque année, trois thème centraux sont abordés touchant au dialogue entre les sciences naturelles et les questionnements philosophiques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Faire réfléchir les étudiants de Master sur certains thèmes centraux de la philosophie des sciences aujourd'hui, en relation avec leurs intérêts et la discipline scientifique dans laquelle ils sont spécialisés. Leur apprendre à approfondir, seuls ou en groupe, une question philosophique choisie en lien avec les questions abordées aux cours. Être capable d'exposer les résultats de leur réflexion par écrit et en faire une présentation orale.",
+        "content": "Les trois thèmes pour 2024-25 sont : Éléments de philosophie des mathématiques. Quel est l'objet des mathématiques? Pourquoi les mahématiques peuvent être utilisées pour modéliser le monde empirique? Approches philosophiques de la causalité. Qu'est-ce que la causalité ? Comment reconnaît-on un lien causal ? Quel rôle joue la causalité dans les explications scientifiques ? Approches philosophiques de la symétrie. Qu'est-ce qu'une symétrie? Wu'est-ce qu'un argument par symétrie?",
+        "teaching_methods": "La première partie du cours consistera en leçons magistrales sur les trois thèmes choisis. Pendant ce temps, les étudiants s'inscriront sur le site web du cours et constitueront des groupes de trois au maximum. Chaque groupe choisira un sujet d’exposé ciblé en rapport avec l’un des trois thèmes. Le sujet, la bibliographie et le plan de l’exposé devront tous être validés par le professeur. Celui-ci sera à la disposition des étudiants pour les aider à élaborer l’exposé. La seconde partie des séances sera consacrée aux exposés. L’examen évaluera l’assimilation du contenu des cours magistraux et des exposés.",
+        "assessment_methods": "L’évaluation consistera en un examen écrit (50% de la note finale) et en un exposé oral, en classe, fait en équipe (50%). En seconde session, l’évaluation consistera en un examen écrit (50%) + la note d’exposé (50%). Si la note d’exposé est absente ou a déjà été comptée à la session de juin, cette note sera remplacée par un travail de recherche personnel. Notez qu’il est possible de faire l’exposé durant le quadrimestre, demander une note de présence en juin et, en conséquence, utiliser la note d’exposé à la session de septembre.",
+        "online_resources": "Voir site Moodle du cours.",
+        "bibliography": "Voir site Moodle du cours.",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsc2001",
+        "title": "Introduction à la philosophie contemporaine",
+        "credits": "2.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Pence Charles",
+            "Verdée Peter",
+            "Verdée Peter"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "L'esprit humain, dans toutes ses dimensions, peut-il être intégré par les sciences empiriques au sein du monde naturel ? Les sciences cognitives (neurosciences, psychologie cognitive, linguistique, etc.) s'efforcent de mener à bien cette intégration. L'objectif du cours, qui constituera une introduction à la philosophie de l'esprit et des sciences cognitives,  est d'examiner les capacités des sciences cognitives à réaliser cette intégration ' et notamment à réaliser une description et une explication de ceux des aspects de l'esprit humain qui semblent le plus résister à cette intégration dans le monde naturel : la conscience, la rationalité, le libre-arbitre.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours permettra aux étudiants d'aborder un ensemble de problèmes philosophiques liés aux progrès récents dans l'étude scientifique et « naturaliste » de l'esprit humain.",
+        "content": "Que nous apprennent les sciences et les mathématiques sur la réalité ? Ce cours explore divers thèmes en philosophie contemporaine, en se concentrant sur l’interprétation et la méthodologie des sciences et des mathématiques. Réalisme, pragmatisme et idéalisme La vérité : théories de la vérité, paradoxes, vérité en mathématiques La probabilité : théories de la probabilité, interprétations, paradoxes Sciences et normes Interprétation en sciences (mathématiques, physique quantique, etc.)",
+        "teaching_methods": "Cours magistraux donnés par l'enseignant, avec un rôle important pour des discussions avec et entre les étudiant·e·s.",
+        "assessment_methods": "Dans la session de juin et la session d'août : un travail de groupe écrit (50 %) et une défense individuelle de ce travail à l’examen oral (50 %).",
+        "online_resources": "Lecture et slides disponible par le site Moodle du cours.",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2268",
+        "title": "Forecast, prediction and projection in climate science",
+        "credits": "5.00",
+        "hours": "22.5 h + 7.5 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Massonnet François"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Avoir suivi LPHYS2162 et LPHYS2163 constitue un atout",
+        "topics_covered": "Fluctuations climatiques de quelques mois à plusieurs millénaires et mécanismes sous-jacents ; prévisibilité météorologique vs climatique ; sources de prévisibilité climatique ; modes de variabilité météo et climatique, oscillations, évènements climatiques extrêmes ; types de prévisions et projections climatiques ; assimilation de données ; vérification des prévisions et projections climatiques ; correction de biais ; ensemble de modèles climatiques ; utilisation et interprétation des prévisions climatiques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS2M1) AA1: AA1.1, AA1.5 AA2: AA2.3, AA2.4 AA3: AA3.3, AA3.4 AA4: AA4.1 AA5: AA5.1, AA5.2 AA6: AA6.1, AA6.3 AA7: AA7.5, AA7.6 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1.       décrire les sources principales de prévisibilité au sein du système du climatique et en détailler les origines physiques ; 2.       évaluer la performance de prévisions saisonnières à décennales en utilisant l'information fournie (prévisions et données observationnelles de vérification) ; 3.       développer des techniques simples de corrections de biais afin de calibrer des prévisions climatiques ; 4.       appliquer des concepts d'assimilation de données dans un cas simple (modèle idéalisé) et pour différentes questions, dont l'estimation d'état et de paramètres du modèle ; 5.       décrire la hiérarchie de modèles utilisés pour générer des prévisions climatiques et se positionner par rapport à leur utilité et limitations.",
+        "content": "Prévisibilité du temps et du climat : mécanismes physiques Origine des incertitudes en prévision et projection climatique Modes de variabilité météo et climatique de la journée à la décennie Evénements climatiques extrêmes Approches utilisées pour la prévision et projection climatique Vérification des prévisions et projections climatiques Assimilation de données, estimation d’état et de paramètres Interprétation d’ensembles de modèles, correction a posteriori, contraintes",
+        "teaching_methods": "Exposés magistraux (support disponible via MoodleUCL). Projet intégrateur. Séances pratiques sur ordinateur. Programme de lectures.",
+        "assessment_methods": "Présentation écrite (rapport) d’un projet de groupe. Présentation orale individuelle du projet de groupe, visant à vérifier l’assimilation par l’étudiant.e des notions théoriques vues au cours. Une partie de la note finale tiendra compte de l'évaluation du rapport. Cette partie de note servira pour chaque session et ne pourra pas être représentée. En cas de crise sanitaire, les modalités d'évaluation pourront être revues en cours de quadrimestre et communiquées aux étudiant(e)s.",
+        "bibliography": "Jolliffe, I. T., and David B. Stephenson. Forecast verification : a practitioner's guide in atmospheric science. Chichester, West Sussex, Eng. Hoboken, N.J: J. Wiley, 2003. Kalnay, Eugenia. Atmospheric Modeling, Data Assimilation and Predictability. Cambridge: Cambridge University Press, 2002. Palmer, Tim, and Renate Hagedorn. Predictability of weather and climate. Cambridge New York: Cambridge University Press, 2006.",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2260",
+        "title": "Geodesy and GNSS (Global Navigation Satellite System)",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "prerequisites": "Connaissances de base en physique et en mathématique (niveau bachelier en sciences ou en sciences appliquées). Avoir suivi LPHYS2161 constitue un atout.",
+        "topics_covered": "Les thèmes abordés dans l'unité d'enseignement sont la géodésie spatiale pour la Terre et les planètes avec un accent particulier sur le système de navigation globale par satellite (GNSS) et leurs applications en géophysique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS2M1) AA1: A1.1, A1.2, A1.3, A1.4, A1.5, A1.6 AA2: A2.1, A2.2 AA3: A3.1, A3.2, A3.4 AA6: A6.1 AA7: A7.3 AA8: A8.1, A8.2 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1.     expliquer les techniques de géodésie spatiale utilisées sur Terre ; 2.     appliquer correctement les méthodes de géodésie spatiale pour retrouver les informations géophysiques terrestres ; 3.     définir les systèmes de référence terrestre et céleste et les passages de l'un à l'autre ; 4.     expliquer les phénomènes géophysiques qui perturbent la rotation et l'orientation de la Terre ; 5.     expliquer les techniques de géodésie spatiale utilisées autour des planètes et des lunes du système solaire ; 6.     appliquer correctement les méthodes de géodésie spatiale pour retrouver les informations géophysiques qu'on peut obtenir pour les planètes et les lunes du système solaire sur leur états actuels, passés et futurs et leurs évolutions ; 7.     accéder aux bases de données de la géodésie spatiale ; 8.     utiliser des approches pluridisciplinaires pour la résolution d'un problème de géodésie spatiale ou d'une question fondamentale telle que l'habitabilité des planètes et des lunes du système solaire ou des exoplanètes.",
+        "content": "Géodésie classique et spatiale Système GPS Système Européen Galileo et autres systèmes de navigation par satellite Applications du GPS/GNSS en sciences de la Terre Systèmes et repères de référence célestes Systèmes et repères de référence terrestres Rotation de la Terre Techniques de géodésie spatiale autres que le GNSS Géodésie spatiale autour d’autres planètes du système solaire Mouvement d’un satellite artificiel autour d’une planète et information géophysique",
+        "teaching_methods": "Exposés magistraux et exercices, avec visite d’un site géodésique et de l’Observatoire royal de Belgique.",
+        "assessment_methods": "Examen oral individuel avec deux présentations de questions au choix dans le cours. Travail individuel sur des données GNSS.",
+        "other_info": "",
+        "bibliography": "",
+        "course_materials": "Syllabus préparé pour l’unité d’enseignement / Syllabus prepared for the teaching unit.",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2250",
+        "title": "Mesures de terrain en géographie",
+        "credits": "4.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Jonard François",
+            "Van Oost Kristof"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Cours : Résumé des techniques et traitement des données Travaux pratiques : Sortie de terrain en Belgique Pratique de traitement des données Plan : Techniques de cartographie : levées topographiques, utilisation de GPS, construction de modèles numériques de terrain. Application de la cartographie pour le suivi des caractéristiques des ressources naturelles (par exemple : phénomène d'érosion, matière organique dans les sols) Techniques de mesures continues avec des systèmes de capteurs et datalogger Validation de classification d'images satéllitaires sur le terrain Enquêtes socio-économiques : formuler et tester un questionnaire",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Maîtrise des techniques de mesures géographiques les plus importantes Préparation les étudiants pour l'acquisition de données de terrain en vue de l'utilisation de ces données pour leur mémoire",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lclim2270",
+        "title": "Terrain II en climatologie",
+        "credits": "5.00",
+        "hours": "60.0 h + 30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Trigalet Sylvain"
+        ],
+        "teaching_language": "Français",
+        "content": "Une semaine de terrain en région Famenne/Ardenne. Les étudiants sont divisés en petits groupes qui travaillent sur un thème ou une localité spécifique. La région sera étudiée et visitée sous le prisme de divers enjeux contemporains, tels que le développement durable, les changements environnementaux et climatiques, la réduction des émissions et le stockage du carbone, la santé/One Health, politiques agricoles européenne (Farm to Fork). Notions acquises : La capacité de travailler en petits groupes; la présentation orale synthétique des résultats d'un travail intégrant analyse de la littérature, d'une base de données, et d'informations collectées sur le terrain; la présentation par écrit des résultats, y compris pour un public non spécialiste; la capacité de confronter les modèles et les théories avec la réalité en utilisant des cas spécifiques observés sur le terrain.",
+        "teaching_methods": "Une recherche préparatoire devra être réalisée par les étudiants, sur base de l’attribution des sujets et de la constitution des groupes. Sur le terrain, le temps sera partagé entre les recherches propres des groupes et divers exposés, y compris par des experts de terrain.",
+        "assessment_methods": "Présentation durant la séance préparatoire (10%, note attribuée au groupe) Présentation orale au terme de la semaine de terrain (dernier jour) : présentation de 20 min (15 min + 5 min de questions). (25%, note individuelle) Rapport par groupe. 50%, note de groupe. Le rapport comportera une proposition de communiqué de presse pour la presse locale et régionale. Note réflexive individuelle. 15%. Cette note analysera votre expérience et votre travail dans le cadre de ce cours.",
+        "other_info": "Préalables: Exercices intégrés LGEO2160 ou LGEO2260",
+        "course_materials": "Site moodle",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2162",
+        "title": "Introduction to the physics of the climate system and its modelling",
+        "credits": "5.00",
+        "hours": "22.5 h + 22.5 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Goosse Hugues",
+            "Ragone Francesco"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "LPHY1213 pour les étudiant.e.s du Bachelier en sciences physiques qui souhaitent suivre cette unité d'enseignement dans le cadre de l'Approfondissement en sciences physiques.",
+        "topics_covered": "Description du système climatique et de ses composantes ; bilans énergétiques, cycle hydrologique et cycle du carbone ; principaux mécanismes de rétroaction et sensibilité du climat aux perturbations externes ; variabilité naturelle du climat à toutes les échelles temporelles ; hiérarchie des modèles du système climatique ; effet de serre et changements climatiques induits par les activités humaines.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS1M) A1.1, A.1.2, A1.5 A2.3, A2.5 A3.3 A4.1, A4.2 A5.1, A5.4 A6.1, A6.2, A6.3, A6.5 A7.2, A7.3, A7.4, A7.5, A7.6 A8.1 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1.   décrire les principales interactions entre les composantes du système climatique ; 2.   développer un modèle simple du système climatique ; 3.   simuler sur ordinateur le comportement du système climatique à diverses échelles de temps ; 4.   choisir le modèle adéquat en fonction du problème climatique posé ; 5.   estimer les incertitudes des observations et des modèles climatiques ; 6.   évaluer la pertinence d'une théorie climatique en fonction des informations disponibles ; 7.   structurer les résultats d'un modèle d'un système complexe.",
+        "content": "Description du système climatique et de ses composantes Bilan énergétique, cycle de l’eau et cycle du carbone Modélisation du système climatique Réponse du système climatique à une perturbation Brève histoire du climat : causes et mécanisme Changements climatiques futurs.",
+        "teaching_methods": "Exposés magistraux. Projet intégrateur. Séances de simulation sur ordinateur. Exercices en ligne. Programme de lectures.",
+        "assessment_methods": "Examen écrit : développement court, QCM. Examen oral individuel sur base d'un travail. Rapport de projet.",
+        "bibliography": "Goosse H., 2015, Climate System Dynamics and Modelling, Cambridge University Press, (ISBN-13: 9781107445833), 358 pages.",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2266",
+        "title": "Physics of the upper atmosphere and space",
+        "credits": "5.00",
+        "hours": "22.5 h + 7.5 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Pierrard Viviane"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Laphysique des gaz et des plasmas. Le Soleil etles étoiles. L'espace interplanétaireet le vent solaire. La magnétosphère. Mouvement des particules dans un champ magnétique. Interactions Soleil-magnétosphère. L'ionosphère et la plasmasphère. L'atmosphère neutre. Les atmosphères planétaires.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS2M1) AA1: A1.1, A1.2, A1.5 AA2: A2.3, A2.4, A2.5 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1.   décrire les plasmas spatiaux et les interactions entre le vent solaire et le champ magnétique planétaire ; 2.   connaître les couches atmosphériques et les mécanismes physiques qui s'y appliquent ; 3.   utiliser les équations cinétiques et magnétohydrodynamiques de manière adéquate ; 4.   évaluer l'ordre de grandeur des variables utilisées dans les plasmas spatiaux ; 5.   réaliser un travail personnel sur un thème choisi concernant la physique spatiale ; 6.   développer un code informatique simple pour visualiser les résultats du travail ; 7.   analyser des données et les résultats de modèles et les commenter ; 8.   présenter les résultats oralement et par écrit.",
+        "content": "Le Soleil : les étoiles (formation, diagramme de Hertzsprung-Russell, fusion, abondance des éléments) − description du Soleil interne (zone radiative, zone convective) − l’atmosphère solaire (photosphère, chromosphère et couronne) − les taches solaires et le cycle d’activité solaire − les éruptions solaires (CME, éruptions, protubérances…) − les trous coronaux. La physique des gaz et des plasmas : définitions et propriétés – théorie cinétique : approche microscopique − fonctions de distributions des vitesses − équations fondamentales : Liouville, Boltzmann, Vlasov, Fokker-Planck – longueur de Debye − théorie hydrodynamique : approche macroscopique – équations fondamentales : continuité, moment, énergie – système de fermeture : approximation d’Euler, Navier-Stokes − liens et différences. Application aux atmosphères planétaires et stellaires : équilibre hydrostatique – atmosphère neutre – atmosphère ionisée – modèles hydrodynamiques – modèle de Parker du vent solaire – libre parcours moyen – exosphère – vitesse de libération – satellites – flux d’échappement de Jeans – vent solaire – hydrogène et hélium s’échappant de la Terre. L’espace interplanétaire : découverte du vent solaire – champ magnétique solaire − observations : vent lent et vent rapide – applications des équations fondamentales des plasmas : modèles hydrodynamique et cinétique – l’héliosphère – les comètes. La magnétosphère : origine du champ géomagnétique – inversion des polarités – dipôle – International Geomagnetic Reference Field – magnétosphères planétaires – description des différentes régions de plasmas – courants – magnétopause – cornets polaires – feuillet de plasma – aurores – ceintures de Van Allen. Mouvement des particules dans un champ magnétique : décomposition en 3 mouvements superposés – mouvement de giration – oscillation – dérive azimutale – forces de dérive (gravité, forces électrique et magnétique, polarisation) – application aux ceintures de Van Allen et à la plasmasphère. Interactions Soleil-magnétosphère : les orages magnétiques – les sous-orages – météo spatiale – indices d’activité géomagnétique (Kp, Dst, Ae, PC, ...) – reconnexion. Ionosphère et plasmasphère : sources d'ionisation – couches ionosphériques – propagation des ondes radio – perturbations dues à l'activité solaire – influence sur les satellites et GPS – plasmasphère – formation de la plasmapause – champ électrique de co-rotation – champ électrique de convection – vent polaire. Atmosphère neutre: profil de température – troposphère – stratosphère – mésosphère – thermosphère – photodissociation – réactions chimiques– ozone. Atmosphères planétaires: Mercure – Vénus – Mars – Jupiter – Saturn – Uranus – exoplanètes.",
+        "teaching_methods": "Exposés magistraux. Projet intégrateur. Travail personnel. Exercices.",
+        "assessment_methods": "Examen écrit sur la matière du cours comptant pour 15/20, complété par des exercices et un travail personnel avec présentation comptant pour 5/20. Le travail personnel donne lieu à un court rapport individuel à remettre avant la dernière séance à une date qui sera précisée au cours, avec présentation orale individuelle du contenu du projet lors des dernières séances. Si le rapport individuel n'a pas été remis à temps, il peut encore être remis pour la session de septembre. La partie du travail personnel tiendra également compte de l'évaluation continue menée durant le quadrimestre, en particulier pour les exercices.",
+        "other_info": "Toutes les informations concernant le contenu du cours et l'évaluation seront spécifiées lors du premier cours.",
+        "online_resources": "Powerpoint disponibles sur Moodle",
+        "bibliography": "Pierrard V., Effects of the Sun on the space environment of the Earth, Presses Universitaires de Louvain, ISBN: 978-2-39061-442-5, 208 p., 2024. https://i6doc.com/en/book/?gcoi=28001100628290 (conseillé) Pierrard V., 2009, L’environnement spatial de la Terre , Presses Universitaires de Louvain, (ISBN  978-2-87463-195-5), 214 pages. https://i6doc.com/en/book/?gcoi=28001100010910",
+        "course_materials": "Livre Pierrard V., 2009, L’environnement spatial de la Terre, Presses Universitaires de Louvain, (ISBN  978-2-87463-195-5), 214 pages. Powerpoint des cours Livre en Anglais: Pierrard V., Effects of the Sun on the space environment of the Earth, Presses Universitaires de Louvain, ISBN: 978-2-39061-442-5, 208 p., 2024. https://i6doc.com/en/book/?gcoi=28001100628290",
+        "responsible_entity": "PHYS"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2240",
+        "title": "Tectonic geomorphology",
+        "credits": "5.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Vanacker Veerle"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Ce cours avancé est destiné à des étudiants qui sont déjà familiarisés avec les concepts de base de la géomorphologie, via les cours géographie physique (LGEO1231), géomorphologie (LGEO1331), et histoire de la Terre (LGEO1251) ou des cours equivalents.",
+        "topics_covered": "L'analyse de la morphologie du paysage découle de l'étude des processus internes et externes qui gouvernent la formation et l'évolution du relief. Dans le cours, on étudie des concepts de la dynamique et l'évolution des formes de relief en analysant les processus tectoniques, climatiques et anthropiques qui influent le transfert de matière à la surface terrestre. Ce cours présente les avancées récentes dans le domaine des processus de surface et de leur évolution. Il couvre les aspects fondamentaux de la discipline en ce compris les marqueurs géomorphologiques, la géochronologie, et l’évolution des paysages à différentes échelles de temps.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 (i) comprendre les fondamentaux des méthodes de datation communément utilisées; (ii) interpréter les taux des processus géomorphologiques et l’évolution à long terme du paysage, et (iii) lire de façon indépendante la littérature scientifique sur les processus géomorphologique et l’évolution topographique des reliefs.",
+        "content": "Le cours comporte trois parties. La première partie vise à donner à l’étudiant les concepts fondamentales de la matière de géomorphologie tectonique, et les concepts théoriques des marqueurs géomorphologiques, géochronologie, processus d’érosion et dénudation, et géodésie. Dans la deuxième partie, le cours présente des applications de ces concepts théoriques pour l’interprétation de l’évolution des paysages pendant l’Holocène, le Pleistocène et le Quaternaire, et la révision de la littérature scientifique sur ces sujets. La troisième partie applique ces concepts à une étude de case en Belgique, et inclut des opérations en SIG pour caractériser la morphométrie des paysages.",
+        "teaching_methods": "L’enseignement s’appuiera sur : - 10 cours magistraux avec participation active des étudiants - 10 séances d'apprentissage par travaux pratiques en salle didactique avec des exercices en SIG - une journée de terrain pendant laquelle on fera une caractérisation fluvio-morphologique d’une rivière en Ardennes - un travail de groupe sur la géomorphologie (tectonique) d'une région belge",
+        "assessment_methods": "Le cours sera évalué de forme continue pendant le semestre sur base de Examen à livre ouvert du matériel du bloc 1 (25%) Présentation de la révision bibliographique (15%) Présentation et rapport du travail de recherche (25%) Rapport écrit du travail de terrain (10%) Un examen écrit avec des questions ouvertes compte pour 25% de la note finale. La participation active et présentielle aux travaux pratiques et à l'excursion est obligatoire. Le rapport final du projet de recherche (1 seul pdf) doit être envoyé par courriel électronique aux enseignants de ce cours avant le 20/12 à 12h. L'utilisation des IA génératives pour la rédaction ou la correction du texte des rapports doit être signalée et indiquée systematiquement dans toutes les parties du texte ayant fait l'objet d'une utilisation des IA. L'étudiant·e est responsable du contenu des rapports, et les sources di'nformation doivent être citées en respectant les normes de référencement bibliographique.",
+        "other_info": "Ce cours suppose acquises des notions de base en sciences de la terre, geomorphologie et géographie physique telles qu'enseignées dans les cours LGEO1251, LGEO1331 et LBIR1130. La participation aux travaux pratiques et la sortie de terrain est obligatoire. Ceux-ci ne sont organisés qu'une seule fois pendant l'année. Il est impossible de les refaire en seconde session.",
+        "online_resources": "Matériel sur Moodle",
+        "bibliography": "disponible en BST (version électronique et version papier): Burbank, D.W.; Anderson, R.S. 2011. Tectonic Geomorphology . Wiley-Blackwell; 2nd Edition.",
+        "course_materials": "Les articles scientifiques et les matériels pour les projets sont mis à disponibilité par l'équipe d'enseignants, et sont disponible sur Moodle. Matériel supplémentaire de référence est disponible dans la bibliothèque (BST).",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2997",
+        "title": "Séminaire d'encadrement du mémoire",
+        "credits": "5.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Crucifix Michel"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Le séminaire vise à aider les étudiants à réaliser leur mémoire dans les meilleures conditions.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Appliquer une démarche scientifique Structurer et développer le planning des tâches à réaliser pour l'accomplissement du travail du mémoire Gérer de façon autonome son travail.",
+        "content": "Le séminaire vise à aider les étudiants à réaliser leur mémoire dans les meilleures conditions.",
+        "teaching_methods": "Le séminaire est organisé autour de deux séances de travail magistral, d'une séance particulière avec le titulaire,  et de l'auto-apprentissage basé sur des documents. Tout au long du travail, une aide sera fournie à l'étudiant pour Définir son sujet de mémoire Réaliser une recherche bibliographique de niveau scientifique Approfondir sa méthodologie en se basant sur la bibliographie Maîtriser son expression écrite.",
+        "assessment_methods": "Présentation sur le sujet du mémoire et bibliographie préliminaire",
+        "online_resources": "Les slides sont disponible sur Moodle",
+        "course_materials": "Les slides sont disponible sur Moodle",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo2290",
+        "title": "Travaux dirigés de modélisation climatique",
+        "credits": "2.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Barriat Pierre-Yves",
+            "Yin Qiuzhen"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "- Ce cours suppose que les étudiants ont acquis les connaissances de base sur la dynamique du système climatique et sa modélisation, telles que couvertes par exemple par LPHYS2162. - Ce cours suppose que les étudiants ont acquis les connaissances de base en physique et en mathématiques (logique, algèbre linéaire, analyse numérique) - Notions de programmation et d’algorithmique et/ou intérêt marqué pour la découverte de la programmation scientifique",
+        "topics_covered": "L'utilisation de Linux/Python/Fortran comme outils technologiques-mathématiques-numériques. Comment obtenir une solution numérique d'équations différentielles à l'aide d'exemples issus de la modélisation climatique, puis comment les résoudre à l'aide d'outils de programmation.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : Contribution de l’unité d’enseignement aux acquis d’apprentissage du programme (CLIM2M) 1.2, 1.3, 1.6, 1.7, 1.8 5.1, 5.4, 5.5 7.1, 7.2, 7.3, 7.4, 7.5, 7.6 9.1, 9.2, 9.3, 9.4 Acquis d’apprentissage spécifiques à l’unité d’enseignement Au terme de cette unité d’enseignement, l’étudiant.e sera capable de : Comprendre et maîtriser les concepts de base Unix : savoir recourir à la documentation, manipuler l’arborescence de fichiers, comprendre l’organisation générale du système Savoir utiliser les principales commandes Bash Comprendre et maîtriser les notions de base en programmation : types de données, notion de sous-programmes, structures algorithmiques fondamentales Comprendre et maîtriser les bases des langages Fortran et Python : créer et mettre en œuvre des programmes simples Comprendre et maîtriser les liens entre méthodes numériques et modèles climatiques Construire des modèles simples en physique et en science du climat Savoir résoudre numériquement des équations différentielles simples",
+        "content": "Cette unité d’enseignement consiste à former les étudiants à l'usage de modèles en physique, exploités sous environnement de développement UNIX/Linux. Les équations qui gouvernent l’évolution du système climatique sont dans la grande majorité des cas des équations différentielles. Pour les résoudre, il faut généralement utiliser des méthodes numériques. Il s'agit donc d'un préalable essentiel pour les étudiants qui souhaitent poursuivre un cursus (mémoire ou thèse) en modélisation du climat. La première partie est une initiation à l'utilisation de Linux et à la programmation scientifique en Fortran et Python (Pierre-Yves Barriat). La seconde partie aborde la simulation numérique: équations différentielles, modélisation (consistance, convergence et stabilité) (Qiuzhen Yin)",
+        "teaching_methods": "Cours intégrant directement des travaux dirigés en salle didactique.",
+        "assessment_methods": "Dans le cadre de ce cours, les étudiant·es sont évalué·es de deux manières : l’évaluation continue certificative: exercices à la fin de chaque cours (50% de la note finale) un travail pratique sur un cas de modélisation: à remettre en fin de quadrimestre et au plus tard en session (pas de présentation, 50% de la note finale)",
+        "online_resources": "https://www.elic.ucl.ac.be/lgeo2290",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ltheo2840",
+        "title": "Science et foi chrétienne",
+        "credits": "2.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Bourgine Benoît",
+            "Dos Santos Rodrigues Paulo Jorge"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Pour atteindre l'objectif visé, le cours abordera les trois thèmes suivants : a) bref historique des rapports entre sciences (de la nature et humaines) et christianisme dans ses aspects institutionnels et conceptuels, b) une typologie des modes de dialogue et de confrontation entre sciences et théologies avec leurs limites, leur portée et leurs fondements théologiques, c) une série d'études de cas récents.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a) présenter les grandes étapes de l'évolution historique des rapports entre sciences et christianisme (événements et documents majeurs) ; 2 b) caractériser et évaluer les modes de rapports entre sciences et foi, religion, théologie chrétienne en en comprenant la portée et les limites spécifiques ; 3 c) analyser des cas précis de relations contemporaines entre sciences et théologies.",
+        "content": "Ce cours peut être choisi par les étudiants de l'EPL comme une alternative au cours Sociétés, cultures, religions. 2024/2025 Science et foi chrétienne Le cours offre l'opportunité d'effectuer une expérience d'interdisciplinarité, requise par le questionnement envisagé. Le prof. Paulo Rodrigues (Université catholique de Lille) et le prof. Benoît Bourgine (UCLouvain), interviendront pour tenter de clarifier la problématique des rapports entre sciences et foi chrétienne. Une typologie des modes de dialogue et de confrontation entre sciences et théologies est à élaborer et à éprouver de manière à en dessiner les limites, la portée et les fondements tant philosophiques que théologiques. Une mise en perspective historique ainsi qu'une présentation des enjeux contemporains seront proposées.",
+        "teaching_methods": "Les cours sont magistraux. Le syllabus du professeur Bourgine est à votre disposition sur le site Drive du cours: https://drive.google.com/drive/folders/1OZCoMW0VNypXPpzclRJacv3NJ-xlM0ns?usp=drive_link TITRE DU SYLLABUS: SCIENCES ET FOI CHRETIENNE",
+        "assessment_methods": "L'examen est un écrit de deux heures en session d’examen comportant deux questions ouvertes, dont la liste limitative est fournie aux étudiants : l’une posée par le prof. P. Rodrigues, l’autre posée par le prof. Bourgine, respectivement sur les exposés de l'un et de l'autre. Vous êtes invités à répondre à chacune des questions en 30 lignes environ.",
+        "other_info": "Calendrier Voici le calendrier des 7 séances qui ont lieu le mercredi de 16h15 à 18h15 [LECL60] : Prof. Benoît Bourgine: 18 septembre 25 septembre 2 octobre 9 octobre Prof. Paulo Rodrigues: 16 octobre 23 octobre 6 novembre",
+        "online_resources": "Avec ce lien, vous pouvez accéder à des ressources en ligne: https://drive.google.com/drive/folders/1OZCoMW0VNypXPpzclRJacv3NJ-xlM0ns?usp=drive_link",
+        "course_materials": "Sciences et foi chrétienne 2024/2025 - Syllabus Bourgine",
+        "responsible_entity": "TEBI"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lphys2163",
+        "title": "Atmosphere and ocean : physics and dynamics",
+        "credits": "10.00",
+        "hours": "52.5 h + 7.5 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Fichefet Thierry",
+            "Massonnet François"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Formation de base en mécanique des fluides et en thermodynamique.",
+        "topics_covered": "Unité d'enseignement d'intérêt général et de préparation à la recherche pour les étudiant.e.s intéressé.e.s par le climatologie physique. Les thématiques suivantes sont traitées : caractéristiques générales de l'atmosphère ; transfert du rayonnement dans l'atmosphère, effet de serre atmosphérique et bilan énergétique global du système Terre ; structures verticale et méridienne de l'atmosphère ; thermodynamique de l'air sec, de l'air humide et de l'air saturé ; stabilité/instabilité verticale de l'atmosphère, convection et autres processus de condensation de la vapeur d'eau atmosphérique ; équations générales de la dynamique des fluides géophysiques ; circulation à grande échelle de l'atmosphère ; caractéristiques générales de l'océan et propriétés physique de l'eau de mer ; circulation à grande échelle de l'océan.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'unité d'enseignement aux acquis d'apprentissage du programme (PHYS2M et PHYS2M1) 1.1, 1.2, 1.5 2.3, 2.5 3.1, 3.2, 3.3 4.2 5.1, 5.2, 5.3, 5.4 6.1, 6.2, 6.3, 6.5 7.1, 7.2, 7.3, 7.4, 7.5, 7.6 8.1 b. Acquis d'apprentissage spécifiques à l'unité d'enseignement Au terme de cette unité d'enseignement, l'étudiant.e sera capable de : 1.   décrire les principales caractéristiques de l'atmosphère et de l'océan ; 2.   décrire les flux et les équilibres énergétiques caractérisant l'atmosphère et les relier aux théories sous-jacentes des mouvements à grande échelle de l'atmosphère et de l'océan ; 3.   dériver les conditions de stabilité atmosphérique (atmosphère sèche et humide) ; 4.   développer des modèles physiques de la circulation à grande échelle de l'atmosphère et de l'océan ; 5.   utiliser et développer les théories physiques de l'atmosphère et de l'océan dans un environnement multidisciplinaire ; 6.   communiquer les éléments pertinents d'une théorie physique d'un processus atmosphérique ou océanique à un auditoire multidisciplinaire ; 7.   utiliser ces connaissances dans le cadre d'un projet intégrateur.",
+        "content": "Caractéristiques générales de l’atmosphère Le transfert du rayonnement dans l’atmosphère et le bilan énergétique global du système Terre La structure verticale de l’atmosphère La convection et les autres processus de condensation La structure méridienne de l’atmosphère Les équations du mouvement des fluides Les équilibres dynamiques La circulation générale de l’atmosphère L’océan mondial et sa circulation La circulation océanique induite par le vent La circulation océanique thermohaline Ces matières sont d'un intérêt majeur pour la compréhension de la problématique du développement durable.",
+        "teaching_methods": "Exposés magistraux illustrés par des expériences réalisées sur une table tournante. Deux projets intégrateurs à réaliser par groupe de 2 à 3 étudiant.e.s durant le quadrimestre.",
+        "assessment_methods": "Examen oral avec préparation écrite (65% de la note finale). Rédaction d'un rapport d'une quinzaine de pages sur chacun des projets integrateurs et présentation orale du rapport portant sur le second projet durant la dernière semaine du quadrimestre (15% + 20% = 35% de la note finale). Cette partie de note servira pour chaque session et ne pourra pas être mise à jour. En cas de force majeure, les modalités d'évaluation pourront être revues en cours de quadrimestre et seront communiquées aux étudiant(e)s.",
+        "other_info": "Unité d'enseignement d'intérêt général et de préparation à la recherche pour les étudiants intéressés par la climatologie physique. Prérequis souhaités (mais non indispensables) : formation de base en thermodynamique et en physique des fluides.",
+        "online_resources": "Les diapositives projetées durant les cours théoriques sont disponibles sur MoodleUCLouvain.",
+        "bibliography": "Gordon, A., W. Grace, P. Schwerdtfeger and R. Byron-Scott, 1998: Dynamic Meteorology: A basic course. Arnold, London, U.K., 325 pp. Hartmann, D.L., 2016: Global Physical Climatology, Second Edition. Elsevier Science, 498 pp. Houghton, J., 2002: The physics of atmospheres, Third Edition. Cambridge University Press, Cambridge, U.K., 340 pp. Mellor, G.L., 1996: Introduction to Physical Oceanography. AIP Press, Woodbury, New York, U.S.A., 260 pp. Pedlosky, J., 1996: Ocean Circulation Theory. Springer-Verlag, Berlin, Germany, 453 pp. Petty, G.W., 2008: A first Course in Atmospheric Thermodynamics. Sundog Publishing, Madison, Wisconsin, U.S.A.? 337 pp. Pond, S., and G. Pickard, 1983: Introductory Dynamical Oceanography. Pergamon Press, Oxford, U.K., 329 pp. Salby, M.L., 2012: Physics of the Atmosphere and Climate. Cambridge University Press, New York, U.S.A., 666 pp. Steward, R.H., 2007: Introduction to Physical Oceanography. Available for free as a PDF on the web. Wallace, J.M., and P.V. Hobbs, 2006 : Atmospheric Science : An introductory Survey. Elsevier Academic Press, Burlington, U.S.A., 483 pp.",
+        "course_materials": "Marshall, J., and R.A. Plumb, 2008 : Atmosphere, Ocean, and Climate Dynamics : An Introductory Text. Elsevier Academic Press, Burlington, U.S.A., 319 pp.",
+        "responsible_entity": "PHYS"
+    }
+]

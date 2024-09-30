@@ -1,0 +1,805 @@
+[
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2101",
+        "title": "Structural and functional biochemistry",
+        "credits": "4.00",
+        "hours": "36.0 h + 6.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Morsomme Pierre",
+            "Soumillion Patrice"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "La biochimie structurale sera abordée par l'acquisition des connaissances et outils de base nécessaires pour manipuler, observer et décrire les structures tri-dimensionnelles des biomolécules. L'étudiant apprendra à utiliser les diverses ressources informatiques liées à la biologie structurale et disponibles sur Internet (bases de données, algorithmes de prédiction, programmes de visualisation). Il apprendra également comment identifier, caractériser et décrire les interactions entre biomolécules. L'enzymologie sera abordée en rappelant le formalisme de la cinétique enzymatique. Au travers d'études de cas, l'étudiant apprendra à identifier les différentes stratégies catalytiques utilisées par les enzymes et les principes de la catalyse chimique sous-jacents. Ces notions l'amèneront finalement à mieux comprendre les différents mécanismes moléculaires de régulation et d'inhibition de l'activité des protéines.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif du cours est d'acquérir les principes fondamentaux qui permettent de décrire et de comprendre les propriétés des protéines et des acides nucléiques, en allant de la biologie structurale à la chimie (catalyse, interactions). Il donnera une vision des caractéristiques générales de l'architecture des protéines et des acides nucléiques qui conduisent à la très grande variété de structures, fonctions et interactions observées dans la nature. L'étudiant comprendra également la nature chimique des interactions moléculaires et les mécanismes de catalyse chimique qui sous-tendent les fonctions des protéines. En ce qui concerne la biochimie structurale, l'étudiant acquerra la connaissance des concepts et des outils nécessaires pour manipuler, observer et décrire les structures tridimensionnelles des biomolécules. L'étudiant apprendra à utiliser la variété des ressources informatiques liées à la biologie structurale et disponibles sur le web (banques de données, algorithmes de prédiction, logiciels de visualisation). Il apprendra également à identifier, caractériser et décrire les interactions entre biomolécules. Le formalisme de la cinétique enzymatique sera initialement rappelé. A l'aide d'études de cas, l'étudiant apprendra à identifier les différentes stratégies catalytiques utilisées par les enzymes et les principes sous-jacents de la catalyse chimique. Ces notions lui permettront enfin de mieux comprendre les différents mécanismes moléculaires de régulation et d'inhibition enzymatiques.",
+        "content": "L'activité sera essentiellement donnée sous forme de cours magistraux à l'aide de présentations PowerPoint. 6 heures seront organisées en salle informatique sous forme d'exercices ou de visites guidées de sites. Le cours est composé de trois modules de 12h: Module 1. Les chaînes latérales des acides aminés : - hydrophobicité/hydrophilicité - propriétés électrostatiques et acide/base - nucléophilicité - propriétés rédox. Biochimie structurale : - structuration et interaction : description des forces non covalentes et aspects quantitatifs - la stabilité chimique et thermodynamique des protéines - le repliement des protéines : des mécanismes moléculaires aux maladies conformationnelles - l'observation, la manipulation, la visualisation, la description et la classification des structures tridimensionnelles (en salle informatique) Module 2. Biochimie structurale des protéines membranaires Module 3. Enzymologie : - les principes de la cinétique enzymatique (Michaelis Menten, état stationnaire, schéma réactionnel) - les bases de la catalyse chimique par les protéines (catalyse par les chaînes latérales des acides aminés, complémentarité du site actif, catalyse entropique, stabilisation de l'état de transition) - la chimie des cofacteurs et coenzymes - le contrôle de l'activité enzymatique (inhibition, activation, coopérativité, allostérie, effets de l'environnement) - la simulation numérique de la catalyse enzymatique (en salle informatique)",
+        "teaching_methods": "Cours ex cathedra en auditoire",
+        "assessment_methods": "Le cours est divisé en trois modules. Chaque module sera évalué en cours de quadrimestre sous forme d'une interrogation dispensatoire. La dispense est accordée à 12/20. Un examen écrit sera organisé en session pour les étudiants qui n'ont pas réussi les interrogations au cours du quadrimestre. Séances de TPs obligatoires, remise du rapport de TPs obligatoire.",
+        "other_info": "Préalable: Cours de base en biochimie (p.ex. Eléments de biochimie - CHM1271)",
+        "online_resources": "Tous les documents utilisés au cours (ppt, articles...) sont déposés sur Moodle",
+        "course_materials": "transparents sur moodle",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2110",
+        "title": "Animal and human molecular genetics and genomics",
+        "credits": "5.00",
+        "hours": "36.0 h + 18.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Gofflot Françoise",
+            "Limaye Nisha",
+            "Rezsohazy René"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Sur base d'ouvrages spécialisés, d'articles de revue et d'articles scientifiques originaux, les thèmes abordés seront articulés selon trois axes : 1/ Les mécanismes moléculaires de la régulation des gènes : - les facteurs et cofacteurs de transcription, et leur mode d'action - la modulation de l'activité des régulateurs, en réponse aux voies de signalisation et au contexte cellulaire - les cofacteurs impliqués spécifiquement dans l'établissement des domaines chromatiniens - l'établissement des complexes macromoléculaires\" enhancers \" et \" silencer \" et leur nature modulaire - la régulation par la maturation de l'ARNm et son trafic intracellulaire - la régulation traductionnelle, les facteurs impliqués, leur mode d'action y compris le monde des petits ARN régulateurs (\" siRNA \", \" stRNA \") De plus, différentes techniques et approches méthodologiques seront détaillées dans le cadre des études d'interactions protéine-ADN, protéine-protéine, protéine-machinerie de transcription, protéine-ARN, tant dans le cadre de modèles biochimiques, que cellulaires (in vitro) et in vivo. 2/ La génomique animale et la génomique humaine : - les concepts de génomique structurale, descriptive et comparative, par l'examen de certains génomes types, seront abordés pour en retirer une vision de l'éclairage que la génomique apporte sur l'évolution, la physiologie ou le mode de vie d'un organisme. - les concepts et outils de génomique fonctionnelle, reprenant les stratégies d'inactivation de gènes et d'inactivation de leur expression - les concepts, outils et approches de transcriptomique, protéomique et interactomique permettant de dresser les grandes cartes des modules fonctionnels en interaction au sein des systèmes biologique (biologie des systèmes, biologie des réseaux) 3/ Les deux volets précédents seront alors intégrés pour une description et une compréhension des mécanismes moléculaires qui régissent le développement animal et humain, comprenant : - la structuration spatiale des embryons : de l'ovogenèse à la détermination des axes embryonnaires - la détermination précoce des territoires embryonnaires - bases moléculaires et cellulaires de l'organogenèse - la détermination du sexe et la lignée germinale - la diversification des formes dans l'histoire évolutive des animaux Ces thèmes éclaireront les concepts transversaux de potentialité, de plasticité, de destinée, de spécification, de détermination, d'induction.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Cette formation vise à aborder en profondeur, au moyen d'exemples choisis dans la littérature scientifique la plus récente, la génétique moléculaire et la génomique des animaux et de l'homme. L'objectif sera d'abord d'acquérir les connaissances théoriques concernant les réseaux d'acteurs en interaction qui assurent la régulation de l'expression des gènes dans le contexte de la multicellularité, de la différenciation cellulaire et du développement embryonnaire animal. Ces connaissances touchent la compréhension actuelle des mécanismes de régulation et de contrôle génétique. Elles viseront aussi à familiariser l'étudiant avec les nouveaux concepts et les nouveaux outils de la biologie qui ont émergé avec la génomique et la post-génomique et qui permettent d'approcher le vivant, ses fonctions physiologiques, ses réactions aux perturbations environnementales et son développement, dans la perspective du génome entier ou du système entier. La formation visera ainsi à prendre appui sur les formations portant sur la communication intercellulaire, le trafic intracellulaire, le cycle cellulaire, l'apoptose ou encore la mobilité cellulaire, pour les ancrer dans l'étude des processus assurant la différenciation et le développement embryonnaire. Le second objectif de cette formation sera de cerner les outils, les méthodologies et les modèles expérimentaux qui sous-tendent la génétique moléculaire et la génomique animales et humaines. Au terme de la formation, l'étudiant devra être capable d'analyser, de comprendre et de synthétiser des sujets nouveaux sur base de la littérature scientifique, ainsi que poser des hypothèses pertinentes et de dresser une approche expérimentale pour répondre à des questions particulières telles qu'elles se présentent en recherche.",
+        "content": "Six modules de cours sont au programme : - le nématode C. elegans comme modèle en génétique moléculaire du développement et en génomique animale - la mouche drosophile : génétique moléculaire et génomique - la souris, mammifère modèle en génétique moléculaire et génomique animale, accent sur la biologie du développement - la souris comme modèle de pathologies humaines - la génétique moléculaire du cancer - la génétique moléculaire et la génomique humaines Chaque module aborde des questions choisies d'actualité ainsi que les méthodologies et techniques propres au modèle étudié.",
+        "teaching_methods": "Cours ex cathaedra .",
+        "assessment_methods": "Analyse d'un article scientifique et présentation devant la classe. La présentation sera suivie d'une discussion sur l'article ainsi que sur le contenu du cours qui s'y rapporte.",
+        "other_info": "Préalable: Génétique moléculaire ; biologie moléculaire et cellulaire",
+        "online_resources": "Powerpoints du cours disponible sur Moodle. https://moodleucl.uclouvain.be/course/view.php?id=9226",
+        "course_materials": "Transparents et les articles déposés sur Moodle.",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2160",
+        "title": "Ecologie des interactions",
+        "credits": "2.00",
+        "hours": "24.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Hance Thierry",
+            "Van Dyck Hans",
+            "Wesselingh Renate"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Les thèmes principaux seront : 1. Compétition intraspécifique, interactions entre plantes : compétition, coexistence, niche écologique, conséquences de la compétition interspécifique 2. Relations plantes-animaux, proies-prédateurs, hôte-parasites, hôte-parasitoïdes : modèles et conséquences sur la structuration des communautés 3. Systèmes tritrophiques et multitrophiques",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Les interactions entre organismes vivants déterminent la dynamique et la structuration des communautés vivantes. En outre, elles jouent un rôle essentiel dans les processus d'évolution biologique. En termes de connaissances, les étudiants devront comprendre les principes de la modélisation des interactions entre organismes et connaître les théories liées aux relations de coexistence, de compétition, d'herbivorie, de prédation, de parasitisme et de coévolution. Ils devront être capables d'appliquer leurs connaissances à des situations nouvelles.",
+        "content": "Les interactions écologiques désignent des processus impliquant des relations réciproques entre deux ou plusieurs espèces dans un écosystème, ainsi que des relations entre deux ou plusieurs individus d’une même population. Le cours est composé de 3 grands volets : 1. La pollinisation (les interactions plantes-pollinisateurs), 2. Le parasitisme et la symbiose (les relations hôtes-parasitoïdes et endosymbiontes) et 3. La communication intra- et interspécifique (le mimétisme et le camouflage, les signaux dans les interactions écologiques et le parasitisme du couvain).",
+        "teaching_methods": "Cours et discussions en auditoire.",
+        "assessment_methods": "L'évaluation a lieu sous forme d'un examen écrit avec questions ouvertes.",
+        "other_info": "Le cours est donné en semaines 7–9 du Q1 et fait partie du module Ecologie des interactions du master BOE.",
+        "online_resources": "site web Moodle pour LBOE2160",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-esboe2123",
+        "title": "Biodiversité aquatique (UNamur)",
+        "credits": "3.00",
+        "hours": "12.0 h + 24.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Université de Namur",
+        "code de l’ue dans l’institution de référence": "> SBOEM123",
+        "faculté ou entité en charge (uclouvain)": "> BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2102",
+        "title": "Integrated molecular and cellular biology",
+        "credits": "3.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Batoko Henri",
+            "Hallet Bernard",
+            "Morsomme Pierre",
+            "Page Melissa"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Les thèmes abordés reprendront :\r-les modules et voies de signalisation impliqués dans la perception et la communication cellulaire\r-les modes de régulation de l'expression génique, comprenant les modifications épigénétiques de l'ADN et de la chromatine, la régulation transcriptionnelle, la régulation traductionnelle (y compris les voies d'action des petits ARN), et la modification post-traductionnelle des protéines (y compris les voies régulées de dégradation protéique)\r-les modes de régulation de l'activité métabolique\r-le cycle cellulaire et son contrôle\r-les bases de la différenciation cellulaire et de l'apoptose\r-le trafic intracellulaire",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 La formation vise à apporter une vision intégrée des bases moléculaires et cellulaires du vivant, qu'il soit procaryote ou eucaryote.  La formation se positionne dans le prolongement des notions de biologie cellulaire, de génétique moléculaire, de biochimie et de métabolisme, avec pour objectif d'intégrer ces champs de connaissance et leurs méthodologies. Il s'agira de comprendre comment une cellule perçoit les variations de son environnement (au sein d'un organisme ou d'une population) et comment elle intègre cette perception pour élaborer une réponse appropriée.  Cette question demandera de comprendre les grands modes de communication cellulaire et de transduction de l'information selon les voies de signalisation ainsi que les modalités selon lesquelles cette information induit des modifications dans l'activité métabolique, l'expression génique, la multiplication cellulaire ou encore la différenciation. Cette approche sera poursuivie dans une perspective évolutive où les termes communs aux grands règnes vivants seront dégagés en contrepoint des particularités du monde microbien, végétal et animal.Cette formation servira de point d'ancrage pour les formations plus spécialisées en biologie moléculaire et cellulaire microbienne, végétale, animale et humaine.",
+        "content": "Le contenu du cours est divisé en modules spécifiques développés par chaque conférencier, en utilisant au mieux son expertise principale et la littérature actualisée dans son domaine d'intérêt. Chaque concept scientifique est développé dans le but de mettre en évidence l'état actuel de la technique, tant en termes de connaissances de base que d'approches technologiques. Ensemble, les modules vous fournissent également les outils nécessaires à la lecture critique et à la compréhension de la littérature scientifique actuelle.",
+        "teaching_methods": "Quatre modules dispensés consécutivement par quatre enseignants",
+        "assessment_methods": "Pour réussir un module, chaque étudiant doit lire et discuter d'un article présélectionné avec le professeur dédié. L'évaluation est basée sur la lecture critique et la compréhension de l'état de l'art, des méthodes, des résultats, etc. dans les articles sélectionnés. Pour chaque module, l'analyse d'un article obligatoire est demandée aux étudiants, l'évaluation consiste en une discussion ouverte avec chaque enseignant sur chacun des articles imposés. En raison des quatre modules qui composent ce cours, la note obtenue pour chaque module intervient dans le calcul de la note finale de l'évaluation. L'évaluation des quatre modules aura lieu lors de la session d'examens de janvier.",
+        "other_info": "Préalables : L'étudiant doit être familiarisé aux concepts fondamentaux et techniques de base en biologie moléculaire et cellulaire (niveau BIO13).",
+        "online_resources": "Les diapositives utilisées pour les cours (PDF / PPT) seront mises à disposition via Moodle. Les articles à analyser pour l'évaluation seront également mis en ligne sur Moodle à la fin de leurs modules dédiés.",
+        "course_materials": "Documents et articles scientifiques proposés par les co-titulaires  disponible sur moodle",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-esboe2142",
+        "title": "Ecologie des milieux aquatiques naturels et perturbés (UNamur)",
+        "credits": "2.00",
+        "hours": "12.0 h + 20.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Université de Namur",
+        "code de l’ue dans l’institution de référence": "> SBOEM142",
+        "faculté ou entité en charge (uclouvain)": "> BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbirc2101",
+        "title": "Analyse biochimique",
+        "credits": "4.00",
+        "hours": "22.5 h + 30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Chaumont François",
+            "Morsomme Pierre"
+        ],
+        "teaching_language": "Français > English-friendly",
+        "prerequisites": "Cours de biochimie et de génétique de BAC",
+        "topics_covered": "Ce cours exposera les principes à la base des méthodes les plus classiques qui sont utilisées, d'une part, pour purifier les macromolécules biologiques et, d'autre part, pour déterminer leur identité et leurs propriétés biochimiques. Des exercices pratiques seront organisés pour illustrer les techniques les plus utilisées en biochimie, les techniques de purification et de caractérisation de protéines ainsi que les méthodes d'identification les plus courantes.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'activité au référentiel AA (AA du programme) 1.1, 1.3 2.1, 2.2 3.6, 3.7, 3.8 6.4, 6.5 b. Formulation spécifique pour cette activité des AA du programme A la fin de cette activité, l'étudiant est capable de : - d'expliquer les notions de la biologie moléculaire utiles à la compréhension des grandes étapes de l'ingénierie génétique - d'utiliser les techniques de base de l'ingénierie génétique - d'expliquer les principes à la base des techniques d'analyse propres à la biochimie - d'utiliser les techniques courantes d'analyse biochimique. - d'analyser et d'interpréter les résultats expérimentaux jusqu'à la critique argumentée. - de comparer les techniques existantes et proposer les méthodes adéquates pour résoudre un problème théorique ou pratique de biologie moléculaire ou de biochimie. - de formuler et argumenter les solutions qu'il recommande pour répondre à la question posée - de communiquer de manière structurée, rigoureuse et synthétique les solutions du problème.",
+        "content": "Rappels-Mise en contexte du cours. Centrifugation et fractionnement de cellules, d'organites ou de molécules. Techniques courantes de chromatographie. Electrophorèse de protéines (1D et 2D). Techniques de microscopie (lumière visible et fluorescence). Identification de protéines: spectrométrie de masse et séquençage. Identification immunologique (ELISA, western blot, in situ).",
+        "teaching_methods": "Les professeurs expliquent la matière en auditoire. Des concepts théoriques sont mis en pratique au cours des travaux pratiques.",
+        "assessment_methods": "Une interrogation sur les travaux pratiques est réalisé lors de la dernière séance du quadrimestre. Cette évaluation se fait à livre ouvert et représente 25% de la note finale. Aucune autre évaluation n'est organisée pendant les sessions d'examen;  la note obtenue est réputée attachée à chacune des sessions de l’année académique. L'examen de la partie théorique est à livre fermé. Il porte sur les connaissances des concepts théoriques vus au cours et sur la capacité de l'étudiant à utiliser ces concepts pour résoudre des questions plus concrètes. Il représente 75% de la note finale.",
+        "other_info": "La participation aux travaux pratiques est obligatoire. Toute absence injustifiée entrainera une pénalité sur la note finale du cours. Ce cours peut être donné en anglais.",
+        "online_resources": "Moodle",
+        "bibliography": "Synthèse",
+        "responsible_entity": "AGRO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2106",
+        "title": "Molecular genetics and microbial genomics",
+        "credits": "5.00",
+        "hours": "36.0 h + 18.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Dewachter Liselot",
+            "Hallet Bernard",
+            "Hols Pascal"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Les thèmes abordés dans l'activité s'articulent autour de trois volets étroitement interconnectés : BBMC2106A : Génomique Ce premier volet comporte tout d'abord une introduction portant sur les approches et les concepts généraux de la génomique descriptive et fonctionnelle. Emergence de la génomique, méthodes de séquençage et d'annotation des génomes. Méthodes d'étude du transcriptome, méthodes d'étude du protéome et de l'interactome. Cette introduction est suivie d'une présentation actualisée des apports de la génomique dans la compréhension du mode d'organisation des génomes microbiens (procaryotes et eucaryotes), des mécanismes d'évolution, et du mode de fonctionnement de la cellule microbienne.Ces apports servent de support aux notions qui sont développées dans les deux autres modules de l'activité. BBMC2106B : Régulation du génome Ce second volet a pour but d'approfondir les mécanismes utilisés par les cellules individuelles ou les populations de cellules microbiennes pour réguler l'expression de leurs gènes en fonction des conditions environnementales et leur état physiologique. De la perception du signal à la réponse cellulaire-intégration des signaux et réseaux globaux de régulation génique (notions de régulon, de modulon, et de stimulon), adaptation aux stress, contrôle de processus de différenciation cellulaire microbiens (e.g. sporulation), communication intercellulaire (quorum sensing) et réponses collectives (formation de biofilms, production de toxines, déclenchement de la virulence, comportement altruistes au sein de populations). Mécanismes de variation de phase. BBMC2106C : Plasticité Génomique Ce dernier volet aborde les stratégies évolutives du monde bactérien basées sur les réarrangements du génome et les transferts horizontaux d'information génétique. Ces stratégies sont confrontées à celles développées par les organismes sexués, notions de flux, d'expansion et de régression génomique. Notion d'éléments génétiques mobiles (plasmides, transposons, intégrons, phages). Les mécanismes spécialisés de recombinaison génétique (constance et diversité). Les mécanismes de transfert d'information génétique (conjugaison, transduction et transformation), mutabilité et virulence, émergence de nouveaux organismes pathogènes, affections nocosomiales et multi-resistance, adaptation aux environnements extrêmes.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Partant des données actuelles de la génomique descriptive, comparative et fonctionnelle, l'activité vise à aborder les mécanismes génétiques spécifiques et globaux permettant aux cellules et aux populations microbiennes de réguler leur activité en fonction des conditions physiologiques et environnementales et d'évoluer en s'adaptant à leur milieu. L'objectif est de construire une vision actualisée et intégrée (i) des différents niveaux auxquels ces mécanismes agissent (la cellule, la population, l'espèce), (ii) de leur impact sur l'environnement et les problèmes de santé publique, et (iii) des approches expérimentales mises en uvre pour les appréhender. Tout au long de la formation, l'étudiant est invité à participer à l'élaboration de cette connaissance en consultant la littérature récente, en rencontrant des chercheurs actifs dans le domaine et en exerçant son esprit critique vis à vis d'une problématique donnée.",
+        "content": "Vol.1 : Le contenu du cours est divisé en modules dispensés par chacun des titulaires en se basant sur son domaine d'expertise et la littérature récente. Chaque concept est approfondi de façon à se rapprocher de la recherche en cours tant du point de vue de l'évolution des connaissances que des développements technologiques et méthodologiques. Vol.2 : Des intervenants extérieurs du monde académique ou industriel sont invités pour communiquer leur expérience scientifique et professionnelle en connexion avec les modules du cours. Des visites extra-muros sont organisées afin d'aller à la rencontre des professionnels du domaine sur le terrain.",
+        "assessment_methods": "Les étudiants analysent un article récent en approfondissement des thèmes développés dans le cours et en présentent une synthèse devant la classe. L'intégration du sujet est évaluée lors d'une discussion après l'exposé.",
+        "other_info": "Préalable: L'étudiant doit être familiarisé aux concepts fondamentaux et techniques de base en microbiologie et biologie moléculaire.",
+        "course_materials": "Documents et articles scientifiques proposés par les co-titulaires",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2112",
+        "title": "Data analysis and modeling of biological systems",
+        "credits": "5.00",
+        "hours": "24.0 h + 36.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "De Laender Frederik",
+            "Schtickzelle Nicolas"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Le cours repose sur des bases supposées acquises par les étudiants plus tôt dans leurs études : calcul des probabilités, bases de l'inférence statistique, principes et pratique des méthodes classiques pour des données continues (régression, analyse de la variance) et discrètes (tests d'ajustement, tables de contingence), utilisation d'un logiciel pour la mise en oeuvre de ces analyses dans des situations expérimentales classiques.",
+        "topics_covered": "Tenant compte des besoins le plus fréquemment rencontrés et du volume horaire disponible, le cahier des charges prévoit un module de modélisation linéaire et un module d'analyse multidimensionnelle. Vu son insertion dans le programme BOE, le cours puisera ses exemples surtout dans le domaine écologique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif est qu'au terme de ce cours, les étudiants : - Aient intégré la nécessité d'une démarche de planification préalable à toute expérimentation. - Aient mis en pratique, dans le cadre d'une expérience scientifique personnelle, les principaux principes de cette démarche. - Soient capables de rechercher, choisir et appliquer en connaissance de cause les méthodes les mieux adaptées pour la modélisation et l'analyse des données biologiques dans leur domaine. - Aient acquis une autonomie de base pour la mise sur pied d'une expérience scientifique, la gestion des données qu'elle engendre, leur analyse à l'aide d'un logiciel statistique et l'interprétation critique des résultats. - Aient montré leur capacité à rédiger le rapport d'une expérience scientifique (à réaliser seul ou en groupes de deux ou trois), reprenant l'ensemble des étapes ci-dessus.",
+        "content": "Module 1 : Modélisation statistique linéaire Introduction théorique aux modèles mixtes et généralisés (6h) ; Séances d’exercices sur R (14h) ; Deux études de cas sur des modèles mixtes et généralisés (4h+2h) Module 2 : Analyse de données multivariées Ce module détaille comment visualiser et vérifier des données multivariées, comment synthétiser et combiner un ensemble de variables continues en un nombre inférieur de variables grâce à l'ACP (Analyse en Composantes Principales), comment réaliser l'équivalent de l'ACP pour des données catégorielles (AFC, Analyse Factorielle des Correspondances), et comment démêler les liens entre deux ensembles de variables continues (Analyse de Corrélation Canonique). La philosophie d'enseignement insiste sur le fait que les statistiques sont des outils et que les compétences clés que l'étudiant doit acquérir sont l'expertise pour choisir le bon outil pour le travail, comment le paramétrer et interpréter ses résultats de manière critique. Des exemples réels issus de l'écologie seront utilisés pour illustrer des cas propres mais aussi plus difficiles, plus proches de la vie réelle.",
+        "teaching_methods": "Cours magistraux, séminaires et séances d'exercices en salle informatique. L'étudiant est encouragé à l'interactivité pour toutes ces activités. Exercices : apprendre à résoudre un problème statistique. Trouver l'analyse appropriée face à un problème, vérifier les conditions d'application relatives à l'utilisation de cette analyse, réaliser le test statistique sur le logiciel R, interpréter les résultats obtenus et les illustrer.",
+        "assessment_methods": "Les deux modules seront évalués séparément, chaque module contribuant à hauteur de 10/20 à la note finale. La note finale devant être un nombre entier, la somme des deux notes sera arrondie à la hausse si les deux modules sont réussis (au moins 5/10) et à la baisse si ce n'est pas le cas. Module 1 : Modélisation statistique linéaire Examen à livre ouvert, comprenant deux exercices sur LMM et GLM(M) sur R (basés sur les TPs et le premier séminaire) et une étude de cas (basée sur le deuxième séminaire). Module 2 : Analyse de données multivariées Examen écrit à livre ouvert composé de questions à choix multiples, de questions ouvertes et de résolution pratique d'exercices avec le logiciel R sur ordinateur. L'examen se déroule sur Moodle, dans une salle informatique du campus, sauf si les règles sanitaires imposent de passer l'examen à distance.",
+        "other_info": "Une connaissance de base du logiciel R est requise : l'étudiant doit être capable de créer et de modifier des ensembles de données R de manière autonome et d'effectuer des procédures de gestion de données et d'analyse statistique de base. Si ces connaissances ne sont pas acquises, l'étudiant doit être formé de manière autonome à ces compétences, par exemple au moyen des nombreuses ressources disponibles gratuitement en ligne.",
+        "online_resources": "Toutes les ressources sont disponibles sur le site de Moodle : visuels des cours et des séances pratiques, jeux de données et scripts R, liens vers des ressources complémentaires et des ouvrages de soutien.",
+        "course_materials": "Les visuels du cours et de support aux travaux pratiques / Course visuals and materials supporting the practical work",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2107",
+        "title": "Microbial cellular physiology",
+        "credits": "5.00",
+        "hours": "36.0 h + 18.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Claeys Bouuaert Corentin",
+            "Declerck Stephan",
+            "Desguin Benoît",
+            "Hols Pascal",
+            "Laloux Géraldine",
+            "Morsomme Pierre"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Sur base d'ouvrages spécialisés, d'articles de revue et d'articles scientifiques originaux, d'exposés de chercheurs de l'UCL et d'invités extérieurs, les thèmes abordés sont articulés selon trois axes : La biosynthèse de l'enveloppe microbienne et son rôle fonctionnel : \" le microorganisme dans l'espace \". L'enveloppe microbienne joue un rôle clé dans le maintien de la forme et dans la résistance à la pression osmotique. Cette coque protectrice est le siège de multiples processus moléculaires complexes (ex. transport des métabolites, sécrétion des protéines, capture des stimuli extracellulaires). De plus, l'enveloppe microbienne joue le rôle d'interface avec l'environnement extérieur et elle est le siège de nombreuses interactions : bactéries-bactéries (ex. capture d'ADN, formation de biofilm), bactéries-cellules eucaryotes (ex. adhésion, stimulation du système immunitaire) et bactéries-molécules inhibitrices (ex. bactériocines, antibiotiques).Les thèmes abordés dans cette section sont les suivants : Structure fine, composition et voies de biosynthèse/dégradation des parois microbiennes. Les mécanismes moléculaires de l'interaction/résistance avec les bactériocines et les antibiotiques affectant la biosynthèse de l'enveloppe. Les interactions bactéries-cellules eucaryotes dans l'adhésion et la stimulation du système immunitaire Les mécanismes moléculaires des diverses voies de sécrétion des protéines et leurs post-modifications. Les mécanismes moléculaires de capture des stimuli environnementaux.Ces thèmes seront traités dans la mesure du possible grâce aux informations fournies par la génomique descriptive et fonctionnelle. Les applications biotechnologiques et médicales seront également abordées. Les mécanismes moléculaires du cycle cellulaire microbien : \" le microorganisme dans le temps \" Le cycle cellulaire bactérien implique un couplage spatio-temporel de plusieurs processus conduisant à la duplication et la ségrégation du matériel génétique, et à la croissance et la division de la cellule. Ces processus affectent des sites déterminés de la cellule et sont orchestrés par des mécanismes moléculaires complexes. Les thèmes abordés dans cette section sont les suivants : la structure du génome bactérien, le compactage de l'ADN et l'organisation structurale du nucléoïde, la réplication et la ségrégation du matériel génétique, le contrôle intracellulaire de l'élongation et de la division cellulaire. Ces thèmes sont traités sur base de connaissances actuelles élaborées à partir de systèmes modèles. Des particularités du cycle cellulaire de certains microorganismes seront abordées. Les stratégies développées chez les bactéries seront également comparées à celles des archae et des eucaryotes unicellulaires (ex. Saccharomyces cerevisiae et Schizosaccharomyces. pombae). Le métabolisme microbien, son contrôle et sa manipulation à des fins biotechnologiques : \" la domestication des microorganismes\" Les processus métaboliques de bio-transformation réalisés par les microorganismes joue un rôle clé dans le maintien de l'équilibre des écosystèmes sur notre planète (ex. détoxication des polluants d'origine naturelle ou humaine dans le sol et les milieux aquatiques). De plus, les microorganismes ont été exploités depuis des millénaires pour la bio-préservation des aliments (fermentation lactique et alcoolique). Enfin, l'exploitation des microorganismes à grande échelle et de manière contrôlée est critique pour la production de bio-molécules utilisées dans l'industrie chimique, agroalimentaire et pharmaceutique (acides aminés, éthanol, acides organiques, composés aromatiques, antibiotiques,). Les thèmes abordés dans cette section sont les suivants : Bio-contrôle du métabolisme bactérien dans les processus fermentatifs et en bio-remédiation des sols pollués. Manipulation génétique des voies métaboliques des microorganismes d'intérêt industriel (la levure, les bactéries lactiques, corynébactéries, Zymomonas sp.,) pour la production de métabolites simples (ex. acides aminés, éthanol, lactate) et complexes (ex. vitamines, exopolysaccharides, polykétides). Reconstruction métabolique in silico et modèles prédictifs (cinétiques et contraints).",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif premier de cette activité de formation est d'approfondir certains aspects de la physiologie cellulaire microbienne (métabolisme, dynamique des enveloppes cellulaires et interactions avec l'environnement, cycle cellulaire et division) et leur implication biotechnologique (stratégies de bio-remédiation, ingénierie métabolique). Cette connaissance sera construite en y intégrant une vision moléculaire des mécanismes sous-jacents basée sur l'évolution et l'intégration des approches expérimentales modernes (biochimie, biologie structurale et moléculaire, génomique fonctionnelle, modélisation du métabolisme, techniques de fluorescence, microscopie à haute résolution, etc.).Au terme de la formation, l'étudiant devra être capable d'aborder des sujets originaux basés sur la littérature scientifique récente, poser des hypothèses de travail relevantes et imaginer une approche expérimentale en vue de répondre à ces hypothèses dans une situation proche de celle d'un chercheur dans le domaine.",
+        "content": "Vol.1 Le contenu du cours est divisé en modules dispensés par chacun des titulaires en se basant sur son domaine d'expertise et la littérature récente. Chaque concept est approfondi de façon à se rapprocher de la recherche en cours tant du point de vue de l'évolution des connaissances que des développements technologiques et méthodologiques. Vol.2 Des intervenants extérieurs du monde académique ou industriel sont invités pour communiquer leur expérience scientifique et professionnelle en connexion avec les modules du cours. Des visites extra-muros sont organisées afin d'aller à la rencontre des professionnels du domaine sur le terrain.",
+        "assessment_methods": "Les étudiants analysent un article récent en approfondissement des thèmes développés dans le cours et en présentent une synthèse devant la classe. L'intégration du sujet est évaluée lors d'une discussion après l'exposé.",
+        "other_info": "Préalables : L'étudiant doit être familiarisé aux concepts fondamentaux et techniques de base en microbiologie et biologie moléculaire",
+        "course_materials": "Documents et articles scientifiques proposés par les co-titulaires",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-esboe2108",
+        "title": "Stage de terrain en écologie aquatique (UNamur)",
+        "credits": "2.00",
+        "hours": "0 h + 45.0 h",
+        "quadrimester": "Q2",
+        "institution de référence": "> Université de Namur",
+        "code de l’ue dans l’institution de référence": "> SBOEM108",
+        "faculté ou entité en charge (uclouvain)": "> BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lfilo2003e",
+        "title": "Questions d'éthique dans les sciences et les techniques (partie séminaire)",
+        "credits": "2.00",
+        "hours": "15.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Français",
+        "prerequisites": "Le cours suppose une formation de base à la philosophie des sciences de la nature et à la réflexion éthique ; une connaissance au moins passive de l'anglais suffisante pour pouvoir lire des textes courants en philosophie de la nature et des sciences de la nature.",
+        "topics_covered": "En vue d'une analyse philosophique des pratiques techno-scientifiques contemporaines selon une double orientation, il s'agira - d'étudier les dimensions sociétales de la pratique technico-scientifique et d'introduire aux concepts fondamentaux de la sociologie des sciences ainsi que des courants \" Sciences, technologies, sociétés \" - d'envisager les dimensions éthiques des pratiques scientifiques, dans les multiples dimensions de la sphère techno-scientifique. Le cours comportera deux moments : Un premier moment, théorique, consistera en une introduction aux concepts de base de la sociologie des sciences ainsi qu'aux concepts fondamentaux des approches éthiques des sciences et des techniques. Une deuxième partie consistera en l'analyse de situations particulières, les études de cas choisies pouvant varier chaque année.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Au terme du cours, l'étudiant sera capable : d'analyser les pratiques techno-scientifiques contemporaines de dégager les enjeux éthiques et sociétaux de ces pratiques",
+        "content": "L'objectif du cours est de proposer les concepts de base pour une approche critique des relations sciences-sociétés dans leur dimension éthique. Le cours prend la forme d'une activité interdisciplinaire, tant au niveau des titulaires qu'au niveau de la dynamique générale. Ce cours comporte 2 ECTS pour les scientifiques et 5 ECTS pour les philosophes. Le cours comporte donc 2 parties distinctes. 1) Partie destinée à tout l'auditoire : Six séances d'exposés suivis de débats par les titulaires du cours sur des thèmes généraux (par ex., justifications de l'éthique, biodiversité et enjeux économiques, organismes génétiquement modifiés, politique énergétique, fécondation in vitro, etc.). 2) Partie spécifique aux étudiants en philosophie : Les étudiants en philosohie rédigent de plus un travail approfondi d'une douzaine de pages sur les dimensions philosophiques et éthiques du thème travaillé avec les étudiants en sciences (voir ci-dessous).",
+        "teaching_methods": "Présentations thématiques par les titulaires en binôme (scientifique et philosophe), suivies d'un débat avec toute la classe Visionage d'un film Présentation des travaux de groupe par les étudiant·e·s",
+        "assessment_methods": "1. Séminaire commun avec les étudiants de la Faculté des sciences (2 ECTS) Les travaux sont préparés par groupes inter-disciplinaires (2 à 4 étudiants) sur un thème choisi en concertation avec les co-titulaires du cours. Les travaux font l'objet d'un rapport écrit et d'un exposé oral avec discussion prévu lors du mini-symposium qui clôture le cours. 2. Séminaire entre philosophes (3 ECTS) Les étudiants en philosophie sont invités à produire un travail philosophique d'une douzaine de pages d'approfondissement du thème traité avec les étudiants en sciences. L'évaluation porte sur les deux travaux présentés, pondérés en fonction du nombre de crédits qui leur sont associés (40% travail de groupe, 60% travail individuel).",
+        "online_resources": "Présentations PowerPoint et autre lecture pertinente accessibles sur Moodle.",
+        "responsible_entity": "EFIL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsst1002m",
+        "title": "Informations et esprit critique - MOOC",
+        "credits": "3.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "De Kesel Myriam"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Cet enseignement aborde la question de l’esprit critique et de sa mise en oeuvre bans l’évaluation de la qualité d’une information.",
+        "content": "Le cours comporte 6 modules. Module 1 : Pourquoi développer son esprit critique ? Module 2 : Identifier ses préconceptions Module 3 :  Décoder le discours Module 4 : Évaluer la qualité des sources Module 5 : Comprendre la démarche scientifique Module 6 : Analyser les données Module 7 : Prendre conscience des limites de la science",
+        "teaching_methods": "Le cours est entièrement en ligne.",
+        "assessment_methods": "L'évaluation inclut des devoirs à réaliser en ligne dans le cadre du MOOC (Activité 1 : 50%) et une évaluation finale basée sur une analyse de cas (Activité 2 : 50%). Chacune des 2 activités doit être réussie avec une note égale ou supérieure à 10/20 pour que cette UE puisse être réussie. Le principe de la note abosrbante est appliquée à cette UE càd qu'une note d'échec dans une des activités entraîne une note d'échec pour la totalité de l'UE.",
+        "online_resources": "https://learning.edx.org/course/course-v1:LouvainX+Louv22x+1T2023/home",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2111",
+        "title": "Animal and human cellular physiology",
+        "credits": "5.00",
+        "hours": "36.0 h + 18.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Clotman Frédéric",
+            "Dumont Patrick"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Le cours sera actualisé en fonction des avancées de la science et des données les plus récentes de la littérature. Trois parties permettront d'articuler le cours : 1/ La motilité cellulaire et le cytosquelette : La formation comprendra : - l'étude du cytosquelette des cellules animales : actine, protéines associées à l'actine, microtubules, protéines associées aux microtubules et les filaments intermédiaires - l'étude des protéines contractiles et de leurs rôles dans les mécanismes moléculaires qui sous-tendent la motilité des cellules animales - l'étude des mécanismes impliqués dans le trafic des organites au sein de la cellule animale et le rôle du cytosquelette - l'étude de la régénération du système nerveux périphérique et du système nerveux central des mammifères, abordée sous l'angle cellulaire et moléculaire 2/ La communication cellulaire : La formation comprendra : - les modes de communication endocrine, paracrine, autocrine, juxtacrine, y compris le cas particulier de la communication synaptique - les grandes familles de molécules de signalisation, sécrétées ou membranaires, ainsi que leurs récepteurs - les voies de transduction du signal, reprenant les cascades de modifications post-traductionnelles de protéines - les effecteurs de la signalisation - une attention particulière sera réservée au caractère modulaire et interconnecté des voies, conduisant à une réaction cellulaire cohérente et intégrée à de multiples niveaux (cycle, expression génique, trafic, métabolisme, ) en réponse au message moléculaire perçu. 3/ Le cycle cellulaire et l'apoptose : La formation comprendra : - la description des différentes étapes du cycle cellulaire dans les cellules eucaryotes - l'étude du rôle du cycle cellulaire au sein de différents tissus des mammifères - l'étude du rôle des différents acteurs moléculaires impliqués dans le contrôle du cycle cellulaire - les dysfonctionnements du cycle cellulaire et les conséquences physiopathologiques illustrées par des exemples issus de la littérature - la description des différents types de morts cellulaires des cellules eucaryotes - les différentes voies biochimiques conduisant à l'apoptose et impliquées dans son contrôle - l'étude du rôle physiopathologique de l'apoptose dans le développement et dans certaines maladies dégénératives - l'étude de voies intermédiaires de mort cellulaire entre l'apoptose et la nécrose",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif de la formation est de permettre à l'étudiant de comprendre certains mécanismes cellulaires et moléculaires fondamentaux qui régissent la physiologie cellulaire animale en général et humaine en particulier. Cette formation doit familiariser l'étudiant avec certains concepts de la biologie cellulaire animale moderne incluant la motilité et la communication cellulaire ainsi que le cycle cellulaire et l'apoptose. Plus précisément, les mécanismes moléculaires qui assurent et régulent la motilité des cellules animales seront étudiés. Le rôle essentiel du cytosquelette sera examiné. Des exemples seront choisis dans différents domaines de la biologie animale. Ainsi, l'étude de la régénération du système nerveux périphérique et du système nerveux central des mammifères permettra d'illustrer les relations qui existent entre des types cellulaires différents et l'importance des protéines d'adhésion ainsi que les protéines de la matrice extracellulaire dans la motilité des cellules animales. Cette formation vise également à aborder en profondeur, au moyen d'exemples choisis dans la littérature scientifique la plus récente, les modes de communication intra- et intercellulaire dans les systèmes animaux. L'objectif sera tant d'acquérir les connaissances théoriques des différents modes de communication, des molécules et cascades de signalisation et des cibles effectrices de ces voies, que de cerner les outils, les méthodologies et les modèles expérimentaux qui permettent de les aborder. Enfin, dans un troisième volet, cet enseignement vise à couvrir les mécanismes régissant le cycle cellulaire et la mort cellulaire par apoptose. Les mécanismes moléculaires impliqués dans le contrôle du cycle cellulaire des cellules eucaryotes seront détaillés au moyen de données issues de la littérature scientifique récente. L'apoptose et les différentes voies de contrôle de la mort cellulaire programmée seront également détaillées et illustrées par des articles. Au terme de la formation, l'étudiant devra être capable d'analyser les données récentes de la littérature et d'exposer les nouveaux concepts associés à la motilité, à la communication cellulaire ainsi qu'au cycle et à la mort des cellules animales. A ce titre, au terme de la formation, l'étudiant devra être capable de poser des hypothèses pertinentes et de dresser une approche expérimentale pour répondre à des questions particulières telles qu'elles se présentent en recherche.",
+        "content": "Le cours sera actualisé en fonction des avancées de la science et des données les plus récentes de la littérature. Deux parties permettront d'articuler le cours : 1. La motilité cellulaire et le cytosquelette. La formation comprendra : - l'étude du cytosquelette des cellules animales : actine, protéines associées à l'actine, microtubules, protéines associées aux microtubules et les filaments intermédiaires. - l'étude des protéines contractiles et de leurs rôles dans les mécanismes moléculaires qui sous-tendent la motilité des cellules animales. - l'étude des mécanismes impliqués dans le trafic des organites au sein de la cellule animale et le rôle du cytosquelette. - l'étude de la régénération du système nerveux périphérique et du système nerveux central des mammifères, abordée sous l'angle cellulaire et moléculaire. 2. Le cycle cellulaire et l'apoptose. La formation comprendra : - la description des différentes étapes du cycle cellulaire dans les cellules eucaryotes. - l'étude du rôle des différents acteurs moléculaires impliqués dans le contrôle du cycle cellulaire. - les dysfonctionnements du cycle cellulaire et les conséquences physiopathologiques illustrées par des exemples issus de la littérature. -la description des différents types de morts cellulaires des cellules eucaryotes (apoptose, nécrose, nécroptose, autophagie) - les différentes voies biochimiques conduisant à l'apoptose et impliquées dans son contrôle. - l'étude du rôle physiopathologique de l'apoptose dans le développement et dans certaines maladies dégénératives.",
+        "teaching_methods": "Cours magistraux et classes inversées (analyses d'article récents de la littérature).",
+        "assessment_methods": "Evaluation en cours d'année lors des classes inversées.",
+        "online_resources": "https://moodleucl.uclouvain.be/course/view.php?id=9437",
+        "course_materials": "Transparents et articles scientifiques déposés sur Moodle",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2161",
+        "title": "Ecologie comportementale",
+        "credits": "3.00",
+        "hours": "24.0 h + 12.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Van Dyck Hans"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "1. Histoire de l'écologie comportementale 2. Concepts de base en écologie comportementale 3. Aspects fonctionnels et mécanistiques d'étude du comportement 4. Théorie, applications et discussion de l'approche pour une sélection de thèmes (p. ex. La vie en groupe - Combat et évaluation - Conflit entre les sexes et sélection sexuelle - Communication et évolution des signaux) 5. Comportement et biologie de la conservation 6. L'écologie comportementale de l'espèce humaine",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'écologie comportementale constitue une approche évolutionniste du comportement ; elle vise à explorer les relations entre comportement, écologie et évolution. L'objectif général est de développer un cadre conceptuel pour étudier et comprendre le comportement animal d'un point de vue écologique et évolutif. Les étudiants s'entraîneront à formuler et tester des hypothèses en analysant et discutant plusieurs études observationnelles et expérimentales dans le domaine de l'écologie comportementale.",
+        "content": "Cette unité d’enseignement consiste à analyser et comprendre les approches en écologie comportementale. Les thématiques abordées incluent : 1. Histoire de l'écologie comportementale; 2. Concepts de base en écologie comportementale; 3. Les facteurs fonctionnels et mécanistiques d'étude du comportement animal; 4. Théorie, applications et discussion de l'approche pour une sélection de thèmes (p.ex. la vie en groupe, combat et évaluation - conflit entre les sexes et sélection sexuelle, communication et évalution des signaux); et 5. Comportement et conservation.",
+        "teaching_methods": "Cette unité d’enseignement se donne en présentiel. Il y a une partie théorique en auditoire (cours ex cathedra sur base d’une série de présentations PowerPoint, mais avec beaucoup d’interactions avec les étudiants). Il y a aussi un TP individuel (rapport à faire sur une thématique donnée). Les présentations sont disponibles sur le site web Moodle de ce cours, ainsi que toute autre information utile (p.ex. guide TP) et certains articles scientifiques qui sont utilisés.",
+        "assessment_methods": "Il y a un examen écrit sur la partie théorique du cours avec des questions ouvertes (questions de compréhension). Pour la partie TP, l’étudiant doit préparer un rapport conforme aux lignes directrices. L’examen compte pour 70% de la note finale, le rapport TP pour 30%.",
+        "online_resources": "Site web Moodle",
+        "course_materials": "Diapositives et articles scientifiques (sur Moodle)",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbiol2990",
+        "title": "Mémoire",
+        "credits": "18.00",
+        "hours": "",
+        "quadrimester": "> Horaire",
+        "teaching_language": "Français",
+        "topics_covered": "Le mémoire doit montrer l'aptitude de son auteur à réaliser et exposer correctement les résultats d'un travail de recherche personnel, objectif et méthodique, dont la qualité n'est pas nécessairement liée à l'étendue. Le travail du mémoire doit amener l'étudiant à participer activement à la conception d'un projet de recherche (compréhension du problème, état de la question, planification, imagination); Au terme du mémoire, l'étudiant'e doit être capable de : -     participer activement à l'obtention des données nécessaires et pertinentes (mises au point technique, soin, organisation); -     analyser, confronter et interpréter les résultats obtenus (recherche de méthodes adéquates, critique, références à la littérature scientifique); -     réaliser un rapport circonstancié de sa recherche (le texte du mémoire : règles et art de la rédaction scientifique); -      exposer et défendre son travail en public en un temps limité (synthèse, mise en valeur); -     participer activement à la vie scientifique d'une communauté de chercheurs.",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2108",
+        "title": "Molecular genetics and plant genomics",
+        "credits": "5.00",
+        "hours": "36.0 h + 18.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Batoko Henri",
+            "Chaumont François",
+            "Draye Xavier"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Les cours sont basés sur les connaissances issues de manuels spécialisés, de revues publiées et d’articles de recherche. Les sujets abordés sont groupés en trois modules : Génomique végétale : Le séquençage du génome permet l’étude de l’ensemble des gènes et protéines d’un espèce. La génomique descriptive met l’accent sur les caractéristiques spécifiques des espèces végétales (gènes, transcrits, protéines, régions intergéniques, transposons, …) ; la génomique comparative met en évidence la structure et l'organisation des génomes végétaux et leur évolution ; la génomique fonctionnelle détaille les méthodes de caractérisation des gènes ou des traits agronomiques particuliers. Biologie moléculaire du développement des plantes : Au sein des organismes multicellulaires, les plantes présentent la singularité d’initier des organes tout au long de leur cycle de vie. La régulation moléculaire de la différenciation et de la polarisation cellulaire au sein de l'embryon sera détaillée. En utilisant des exemples sélectionnés de structures et de formes d'organes initiés par les plantes, pour lesquels les processus cellulaires et moléculaires sont connus, la contribution des signaux endogènes et de l'environnement dans la synchronisation et la formation de ces organes seront discutés. Adaptation et flexibilité génomique : Les contraintes environnementales (déshydratation, agents pathogènes, ions toxiques, xénobiotiques…) modifient le profil d'expression des gènes végétaux, permettant à la plante de subir des changements transitoires ou permanents. La détection et la distinction de ces contraintes modulent l'activité de facteurs de transcription spécifiques qui modulent l'expression des gènes. A partir des exemples les mieux caractérisés de la littérature, les conséquences biochimiques et physiologiques de l'activité de certains de ces facteurs transcriptionnels seront détaillées.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le cours vise à donner une vision approfondie de la génétique moléculaire et de la génomique végétale à travers des exemples précis de la littérature scientifique récente. Le premier objectif sera de comprendre comment les connaissances acquises grâce aux projets de séquençage systématique du génome peuvent être exploitées pour : - étudier les transcrits de gènes (transcriptomique) ou de protéines (protéomique) d'un tissu ou d'un organe donné - comparer les génomes et étudier leur origine et leur évolution - appréhender le fonctionnement des gènes et des protéines. Dans un second temps, le cours permettra à l'étudiant de comprendre les bases moléculaires de certains processus de développement chez la plante tels que l'embryogenèse, la différenciation, la maturation et la sénescence des organes. Enfin, l'accent sera mis sur la complexité des signaux endogènes et les signaux environnementaux (biotiques et abiotiques) régulant les processus de croissance et de développement principalement chez les angiospermes. À l’issue du cours, chaque étudiant devrait être capable de maîtriser et d'expliquer les stratégies et méthodes utilisées en génomique et biologie moléculaire pour étudier la physiologie végétale, d’initier de nouvelles hypothèses et stratégies expérimentales pour répondre aux questions biologiques liées au fonctionnement des plantes.",
+        "content": "Ce cours traite de questions récentes de développement et de physiologie végétale qui sont abordées par des approches \"omics\" (génomique, transcriptomique, proteomique, metabolomique, ...), d'épignétique, et de génétique quantitative.",
+        "teaching_methods": "Le cours est organisé en classe inversée. Les étudiants sont répartis en groupes de travail lors du premier cours. Chaque étudiant sera impliqué dans trois travaux de groupes couvrant la matière du cours. Les étudiants veilleront à développer les aspects théorique selon les directives reçues des enseignants et pour chaque travail, répondront à une question thématique de synthèse.",
+        "assessment_methods": "L'évaluation prend en compte la préparation et la présentation des travaux de groupe devant la classe.  D’autre part, les étudiants sont amenés à s'auto-évaluer sur le travail en classe inversée et cette auto-évaluation peut-être utilisée pour adapter la note des enseignants. En cas d’utilisation des IA génératives, l’étudiant·e est tenu d’indiquer systématiquement toutes les parties ayant fait l’objet d’une utilisation des IA, par ex. en note de bas de page ou sur les dias Power Point, en précisant si l’IA a été utilisée pour rechercher de l’information, pour la rédaction du texte ou pour la correction de celui-ci. Par ailleurs, les sources d’information doivent être systématiquement citées en respectant les normes de référencement bibliographique. L’étudiant·e reste par ailleurs responsable du contenu de sa production, indépendamment des sources utilisées.",
+        "course_materials": "Transparents, instructions et les articles déposés sur Moodle.",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbrmc2201",
+        "title": "Bioinformatics : DNA and protein sequence analysis",
+        "credits": "4.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Ghislain Michel"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Notions de base en biochimie et en biologie moléculaire.",
+        "topics_covered": "La bio-informatique désigne l'ensemble des concepts et des techniques nécessaires au traitement de l'information biologique et à son interprétation. Ce cours introductif décrit : - les bases de données où sont conservées les séquences nucléotidiques et polypeptidiques - les concepts et les outils informatiques qui sont nécessaires à l'analyse des séquences de l'ADN ou des protéines encodées (identification des régions codantes, recherche de ressemblances ou de motifs conservés, relations évolutives) - les concepts et les outils informatiques utilisés pour la prédiction de structures secondaires de l'ARN et la détection des traverses membranaires des protéines - certains outils statistiques développés pour l'interprétation des résultats",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'activité au référentiel AA (AA du programme) Cohérence des AA cours en regard de ceux du programme 1.1, 1.2, 1.3 3.1, 3.2, 3.4, 3.5, 3.6 b. Formulation spécifique pour cette activité des AA du programme A la fin de cette activité, l'étudiant est capable d'identifier les outils informatiques (logiciels, base de données) les plus appropriés pour résoudre un problème scientifique, lié à l'analyse des séquences d'ADN ou de protéine, c'est-à-dire : - Expliquer les concepts théoriques sous-jacents aux outils bio-informatiques -Consulter les bases de données, expliquer comment l'information y est organisée, et identifier leurs avantages et inconvénients respectifs - Confirmer ou réfuter les résultats d'analyse et les prédictions disponibles ; le cas échéant, proposer des analyses informatiques plus performantes ou rigoureuses -Élaborer une méthodologie d'analyse complète à partir d'une séquence inconnue",
+        "content": "1.     Introduction et contenu du cours 2.     Les bases de données ciblées sur les séquences nucléiques et polypeptidiques, les motifs conservés et les familles de protéines, les organismes 3.     Comparaison, alignement global et local de séquences par la technique de programmation dynamique, matrices de score 4.     Recherche de séquences similaires dans les bases de données par la technique de la table de hachage 5.     Alignement multiple global et local (matrices de score à position spécifique, modèle caché de Markov) 6.     Construction d'arbres phylogénétiques (distance et approche cladistique) 7.     Analyse  transcriptomique à haut débit: données RNA seq",
+        "teaching_methods": "Les compétences visées par le cours seront développées à l'aide d'exposés magistraux, incluant des exemples concrets d'analyse de séquence, et à l'aide d'exercices encadrés à réaliser individuellement ou en groupe, en salle informatique.",
+        "assessment_methods": "Un examen écrit à livre ouvert sur 14 points permet d'évaluer les compétences théoriques développées au cours, c-à-d : -la compréhension des concepts visés par le cours - l'identification et la justification des outils informatiques (logiciels, bases de données) les plus appropriés - l'interprétation statistique des résultats ou des prédictions obtenus Les compétences pratiques sont évaluées sur 6 points au cours du quadrimestre , à travers des exercices  à résoudre sur PC , individuellement ou en groupe de 2-3 étudiant.e.s. La note finale sur 20 points est la somme arithmétique des notes de l'examen écrit (sur 14) et des exercices pratiques (sur 6) Les énoncés des questions ou des exercices sont en anglais. Les étudiant.e.s ont le choix entre l'anglais et le français pour les réponses.",
+        "other_info": "Ce cours est donné en anglais.",
+        "online_resources": "Moodle",
+        "bibliography": "Des copies papier des diaporamas et le manuel pour les exercices sont disponibles sur Moodle. Le cours ne fait appel à aucun support particulier qui serait payant et jugé obligatoire. Les ouvrages Bioinformatics de Mount (CSHL press) et Bioinformatics and functional genomics de Pevsner sont conseillés pour un apprentissage plus approfondi",
+        "course_materials": "Bioinformatics sequence and genome analysis D. Mount Bioinformatics and functional genomics by Pevsner",
+        "responsible_entity": "AGRO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2109",
+        "title": "Plant cell physiology",
+        "credits": "5.00",
+        "hours": "36.0 h + 18.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Batoko Henri",
+            "Chaumont François",
+            "Hachez Charles"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Sur base d'ouvrages spécialisés, d'articles de revue et d'articles scientifiques originaux, différents thèmes, parmi ceux repris ci-dessous, seront abordés. Les sujets étudiés pourront varier d'une année à l'autre en fonction des développements scientifiques et de l'actualité. La première partie abordera le trafic intracellulaire des lipides et des protéines. Les mécanismes observés chez la plante seront comparés à ceux d'autres organismes modèles (levure et mammifères) : - L'organisation et le fonctionnement des organites de cellules eucaryotes (levures, plantes, mammifères) - Les différentes voies de transports de protéines et de lipides au sein d'une cellule eucaryote (voie biosynthétique, voie endocytaire) - La synthèse et les modifications post-traductionnelles des protéines destinées à la voie sécrétoire - La synthèse et le transport de certains lipides (stérols), la structure et la fonction de micro-domaines membranaires - Les mécanismes et régulations de la sélection et de l'adressage des protéines entre compartiments subcellulaires - Les mécanismes moléculaires à la base de la localisation polarisée de certaines protéines membranaires - L'internalisation et le recyclage des récepteurs membranaires pendant la signalisation. La deuxième partie expliquera les mécanismes biochimiques responsables du transport de solutés de part et d'autre des membranes biologiques. La diversité des transporteurs membranaires, leur structure, leur mode d'action, et leur rôle physiologique seront étudiés. Différents exemples repris dans le monde végétal illustreront en détail ces différents aspects ainsi que les approches expérimentales couramment utilisées pour l'étude des transporteurs membranaires. Enfin la troisième partie abordera en détail : - Les principales voies de métabolisme secondaire chez les plantes - La diversité de ce métabolisme en fonction des espèces et du développement - Les principales productions industrielles de métabolites secondaires végétaux - Les méthodes permettant d'améliorer la production de métabolites secondaires",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Cette activité vise à comprendre les bases moléculaires et mécanistiques des échanges subcellulaires chez les cellules végétales, à travers le transport des protéines, des lipides, des ions et des métabolites, ainsi que la diversité du métabolisme secondaire. Dans ses différents aspects, ce cours combinera des connaissances de biologie moléculaire, de biochimie ou de biophysique pour comprendre le fonctionnement physiologique normale et/ou pathologique des cellules végétales. Au terme de la formation, les étudiants devront pouvoir comprendre et intégrer les approches de biologie moléculaire et de biochimie utilisées pour étudier le fonctionnement des cellules au sein de la plante. Ils devront être capables de synthétiser des sujets nouveaux, proposer des hypothèses et des approches expérimentales pour répondre à des questions relatives à la physiologie cellulaire végétale.",
+        "content": "Bases moléculaires et mécanistiques des échanges subcellulaires chez les cellules végétales, à travers le transport des protéines, des lipides, des ions et des métabolites, ainsi que la diversité du métabolisme secondaire. La première partie abordera le trafic intracellulaire des lipides et des protéines. Les mécanismes observés chez la plante seront comparés à ceux d'autres organismes modèles (levure et mammifères) : - L'organisation et le fonctionnement des organites de cellules eucaryotes (levures, plantes, mammifères) - Les différentes voies de transports de protéines et de lipides au sein d'une cellule eucaryote (voie biosynthétique, voie endocytaire) - La synthèse et les modifications post-traductionnelles des protéines destinées à la voie sécrétoire - La synthèse et le transport de certains lipides (stérols), la structure et la fonction de micro-domaines membranaires - Les mécanismes et régulations de la sélection et de l'adressage des protéines entre compartiments subcellulaires - Les mécanismes moléculaires à la base de la localisation polarisée de certaines protéines membranaires - L'internalisation et le recyclage des récepteurs membranaires pendant la signalisation. La deuxième partie expliquera les mécanismes biochimiques responsables du transport de solutés de part et d'autre des membranes biologiques. La diversité des transporteurs membranaires, leur structure, leur mode d'action, et leur rôle physiologique seront étudiés. Différents exemples repris dans le monde végétal illustreront en détail ces différents aspects ainsi que les approches expérimentales couramment utilisées pour l'étude des transporteurs membranaires. Enfin la troisième partie abordera en détail : - Les principales voies de métabolisme secondaire chez les plantes - La diversité de ce métabolisme en fonction des espèces et du développement - Les principales productions industrielles de métabolites secondaires végétaux - Les méthodes permettant d'améliorer la production de métabolites secondaires",
+        "teaching_methods": "Les étudiants analyseront en détail un ou plusieurs articles de la littérature proposé par les co-titulaires sur une thématique du cours, et dans le but de comprendre et synthétiser l'information scientifique pertinente. Ils présenteront cette thématique dans le cadre d'une classe inversée. Suivant les années, un professeur et/ou chercheur d'une autre institution belge ou étrangère pourra être invité pour un cycle de cours répartis sur une semaine. Coaching individuel ou en groupe des étudiants et classe inversée",
+        "assessment_methods": "L'évaluation prend en compte la préparation et la présentation des travaux individuels ou de groupe devant la classe.  D’autre part, les étudiants sont amenés à s'auto-évaluer sur le travail en classe inversée et cette auto-évaluation peut-être utilisée pour adapter la note des enseignants. En cas d’utilisation des IA génératives, l’étudiant·e est tenu d’indiquer systématiquement toutes les parties ayant fait l’objet d’une utilisation des IA, par ex. en note de bas de page ou sur les dias Power Point, en précisant si l’IA a été utilisée pour rechercher de l’information, pour la rédaction du texte ou pour la correction de celui-ci. Par ailleurs, les sources d’information doivent être systématiquement citées en respectant les normes de référencement bibliographique. L’étudiant·e reste par ailleurs responsable du contenu de sa production, indépendamment des sources utilisées.",
+        "course_materials": "Transparents, instructions et les articles déposés sur Moodle.",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2125",
+        "title": "Biodiversité et l'humain",
+        "credits": "2.00",
+        "hours": "24.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Born Charles-Hubert",
+            "Hance Thierry"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Une connaissance de base de l'écologie est nécessaire ; des connaissances en sciences sociales sont un atout.",
+        "topics_covered": "Le cours aborde les thèmes de la dépendance et de l’influence humaine sur la biodiversité à l’ère de l’Anthropocène et des facteurs qui expliquent ces interactions, dans leurs dimensions philosophiques, juridiques et socio-économiques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 - comprendre les principaux ‘drivers’ humains de l’évolution de la biodiversité sur Terre - pouvoir lire des sources relevant de disciplines des sciences humaines en lien avec les thèmes abordés et de faire le lien avec les disciplines relevant de leur parcours académique - pouvoir avoir un regard et de tenir un discours holistique, transversal, multidisciplinaire et critique sur les causes directes et indirectes de la crise écologique actuelle",
+        "content": "Ce cours sera donné en collaboration entre les Professeurs Charles-Hubert Born et Thierry Hance. L’objet du cours est d'analyser les relations d’interdépendance, positives et négatives, des êtres humains et de la biodiversité à l’heure de l’Anthropocène, dans leurs dimensions juridiques, socio-économiques et de santé publique, dans le monde et en Belgique. Les thèmes qui seront abordés sont larges, incluant : - La façon dont les systèmes juridiques organisent la maîtrise de l’homme sur la nature et l’exploitation des ressources (souveraineté, propriété, brevets,…) mais aussi comment ces systèmes tentent de mettre des limites aux effets de cette emprise (préservation et exploitation durable de la biodiversité, climat) et au moyen de quelle gouvernance (internationale, européenne et interne). - Les relations santé-biodiversité particulièrement dans le cas de l'émergence des zoonose et du concept de One-Health. Les relations entre croissance, capitalisme et pressions sur la biodiversité, seront également analysée pour définir les approches possibles d’une économie soucieuse des limites planétaires, en particulier les voies pour une transformation des organisations et des comportements.",
+        "teaching_methods": "Le cours suppose une participation active des étudiant.es. Après une séance introductive en début ou milieu de quadrimestre, les étudiants sont invités à lire un portefeuille de lectures avant les cours proprement dits. Ceux-ci sont concentrés en fin de quadrimestre en modules de 2h ou 4h. Ils comprennent un exposé introductif, un débat sur les lectures en lien avec l’objet du module et une évaluation en fin de cours, via un QCM. Le cas échéant, des experts ou acteurs peuvent intervenir.",
+        "assessment_methods": "L’évaluation est partiellement continue, à raison de 50 % des points : elle a lieu via des QCM au cours de chaque module, pendant la séance. Le reste de l’évaluation, à raison de 50%, a lieu sous la forme d’un examen écrit (un questionnaire séparé pour chaque partie du cours) en session. L’examen est à livre ouvert et consiste dans la rédaction d’une courte dissertation critique portant sur une des thématiques vues au cours.",
+        "online_resources": "La plateforme moodle de l'UCL fournit toutes les information pratiques. Veuillez vous y inscrire : https://moodleucl.uclouvain.be/course/view.php?id=10052",
+        "bibliography": "Thierry Hance, 2021.  \"Vers une économie verte et bienveillante »  aux éditions L’Harmattan, https://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=68340",
+        "course_materials": "La plateforme moodle de l'UCL pour LBOE2115, power point et/ou syllabus",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2141",
+        "title": "Ecologie de la restauration",
+        "credits": "2.00",
+        "hours": "12.0 h + 12.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Kaiser Aurélien"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "1. Concepts de l'écologie de restauration 2. Résumé de la théorie écologique 3. Actions de restauration comme processus multidisciplinaire (y compris le thème de jeter des ponts entre 'science' et 'pratique') 4. Techniques disponibles pour restaurer les biotopes et les paysages 5. Translocation et re-introduction d'espèces 6. Expériences avec la restauration des biotopes (pelouses et landes, prairies humides et marais, forêts, rivières et zones d'inondation, étangs et lacs)",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'écologie de restauration est un domaine de recherche qui met à la disposition une connaissance scientifique pour la pratique de la restauration écologique des habitats, écosystèmes, paysages et leurs communautés et espèces; récemment ce domaine a connu une forte expansion. Les étudiants seront menés à explorer les possibilités d'application des théories et concepts écologiques dans le cadre pratique, spécifique, intervenant et multidisciplinaire de la restauration écologique. Dans les séances, les étudiants s'entraîneront à reconnaître et à discuter les concepts écologiques dans des cas pratiques. Ils doivent être conscients de l'abîme entre 'science' et 'pratique' et de l'importance de la communication (et 'traduction') des résultats et connaissance écologiques pour les non écologues dans les projets de restauration. Les étudiants doivent aussi être conscients des opportunités pour tester la théorie écologique dans ce cadre pratique de la restauration.",
+        "content": "Cette unité d’enseignement consiste à analyser et comprendre les principes de l'écologie de la restauration dans un cadre de la conservation de la biodiversité. Les thématiques abordées incluent : 1. Les concepts de base en écologie de la restauration; 2. Synthèse de la théorie écologique appliquée; 3. Approche multidisciplinaire en écologie de la restauration; 4. Translocation et introduction des espèces; 5. Exemples et évaluation de projets de restauration dans plusieurs biotopes.",
+        "teaching_methods": "Le cours est divisé entre une partie théorique (cours en salle) et un rapport indivuel réalisé dans le cadre d'une excursion de terrain en lien avec la thématique de la restauration écologique. Le cours sera aussi interactif que possible avec la possibilité pour chaque étudiant de poser ses questions et de participer à la discussion sur la matière (théorie et pratique) de l'écologie de la restauration. Le cours est donné en français.",
+        "assessment_methods": "Il y a un examen écrit sur la partie théorique du cours avec des questions ouvertes (questions de compréhension). Pour la partie TP, l’étudiant doit aussi préparer un rapport conforme aux lignes directrices. L’examen compte pour 60% de la note finale, le rapport TP pour 40%.",
+        "online_resources": "Site web Moodle",
+        "course_materials": "Diapositives et articles scientifiques (sur Moodle)",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2140",
+        "title": "Landscape ecology",
+        "credits": "4.00",
+        "hours": "24.0 h + 24.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Van Dyck Hans"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "1. Définition et histoire d'écologie du paysage 2. Organisation des paysages : l'analyse des structures spatiales 3. Fragmentation d'habitat: patterns et conséquences 4. Mouvements des organismes : Connectivité structurelle versus fonctionnelle d'un paysage 5. Ecologie du paysage et conservation : réseaux écologiques, corridors et mesures contre la fragmentation 6. Ulitisation de logiciels spatiaux (applications SIG) 7. Applications pratiques: jeter des ponts entre l'écologie et la politique/gestion du paysage",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'écologie du paysage est une discipline qui se focalise sur la description et surtout la compréhension des écosystèmes à l'échelle d'un paysage par l'analyse des facteurs biotiques, physiques et facteurs liés avec les activités humaines. Dans ce cours, l'accent est mis sur le fonctionnement écologique des paysages dans un cadre de la fragmentation des habitats et de la mobilité des organismes. Les étudiants doivent connaître les concepts centraux d'écologie du paysage et surtout comprendre la différence entre la connectivité structurelle et fonctionnelle d'un paysage dans n'importe quelle application. Les étudiants doivent être familiarisés avec les méthodes de recherche (terrain, modélisation). Ils doivent aussi se rendre compte des problèmes potentiels de la communication entre les écologues et non-écologues dans des projets concrets multidisciplinaires.",
+        "content": "Cette unité d’enseignement consiste à analyser et comprendre la variation structurelle d’un paysage pour mieux comprendre son fonctionnement pour la biodiversité à plusieurs niveaux. Les thématiques abordées incluent : 1. La définition et l’histoire de l’écologie du paysage; 2. Caractériser les éléments structurels d’un paysage; 3. La fragmentation des habitats; 4. Urbanisation; 5. Ecologie du paysage dans un contexte de la conservation de la biodiversité: réseaux écologiques, concept de corridor et mesures de défragmentation des habitats, connectivité structurelle et fonctionnelle; 6. Utiliser un logiciel SIG (système d’information géographique); et 7. Applications pratiques.",
+        "teaching_methods": "Cette unité d’enseignement se donne en présentiel. Il y a une partie théorique en auditoire (cours ex cathedra sur base d’une série de présentations PowerPoint, mais avec beaucoup d’interactions avec les étudiants). Il y a aussi un TP en salle informatique encadré par un assistant (exercices en écologie du paysage avec un système d’information géographique). Les présentations sont disponibles sur le site web Moodle de ce cours, ainsi que toute autre information utile (p.ex. guide TP) et certains articles scientifiques qui sont utilisés. Le cours théorique est donné en anglais.",
+        "assessment_methods": "Il y a un examen écrit sur la partie théorique du cours avec des questions ouvertes (questions de compréhension). Pour la partie TP, l’étudiant doit préparer un rapport individuel conforme aux lignes directrices. L’examen compte pour 60% de la note finale, le rapport TP pour 40%. L’étudiant doit obtenir une note suffisante (10/20 ou plus) pour chaque partie. Il n’est pas toléré de compenser une insuffisance sur une partie par la note de l’autre partie.",
+        "other_info": "Avoir une connaissance préalable d'un système d'information géographique (SIG/GIS, ex: ArcGIS) ou avoir suivi le cours LGEO1342A est nécessaire pour suivre cette UE",
+        "online_resources": "Site web Moodle de ce cours avec les présentations PowerPoint, guide TP, articles scientifiques.",
+        "course_materials": "Diapositives et articles scientifiques (sur Moodle)",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lgeo1342a",
+        "title": "Systèmes d'information géographique (SIG) : partim",
+        "credits": "4.00",
+        "hours": "24.0 h + 24.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Vanwambeke Sophie"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Ce partim permet aux biologistes en master d'acquérir les compétences nécessaires dans le domaine des systèmes d'information géographiques (compétences acquises par ailleurs en bac pour les géographes).",
+        "content": "Le cours vise à la fois l'acquisition des principes théoriques et conceptuels qui sous-tendent l'usage des systèmes d'information géographique (SIG), et l'apprentissage de l'utilisation d'un logiciel de SIG. Développer une compréhension des principes de base et des fonctionnalités d'un système d'information géographique incluant l'acquisition, le stockage et la manipulation des données spatiales, les techniques d'analyse spatiale. Maîtriser l'utilisation d'un logiciel de SIG (par exemple ArcGIS Pro et l'extension Spatial Analyst). Développer la capacité de présenter et d'analyser des données spatiales dans le cadre d'un SIG.",
+        "teaching_methods": "Cours théorique intégrant des éléments des classes inversées et des présentations par des intervenants professionnels. Séances de travaux pratiques.",
+        "assessment_methods": "Les étudiants inscrits au cours LGEO1342A sont évalués sur base d'un examen théorique écrit (50%) et d'un examen pratique écrit (50%). Les modalités sont les mêmes en seconde session. La réussite de ces deux parties, théorique et pratique, est indispensable pour démontrer les compétences et connaissances définies dans les acquis d’apprentissage de l’unité d’enseignement. Une note d'échec pour l'une des parties entraîne une note d'échec pour la totalité de l’UE.",
+        "online_resources": "Toutes les ressources utiles sont sur Moodle.",
+        "course_materials": "matériel sur moodle",
+        "responsible_entity": "GEOG"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2124",
+        "title": "Molecular ecology",
+        "credits": "8.00",
+        "hours": "36.0 h + 56.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Wesselingh Renate"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Connaissance de base en génétique des populations (par exemple le cours LBRAI 2101B en BAC3).",
+        "topics_covered": "Les méthodes techniques et d'analyse des données utilisées dans la génétique des populations, la génétique de la conservation, la phylogénie, la phylogéographie et la génétique quantitative seront expliquées et illustrées dans des cours théoriques, en lisant des articles scientifiques récentes et par des invités qui parleront de leur propre recherche. Pendant les travaux pratiques les étudiants feront de l'extraction d'ADN, de la PCR, de la visualisation des produits sur gel d'agarose, du génotypage et du séquençage. Les marqueurs moléculaires utilisés sont les RFLP/AFLP, les séquences ADN et les microsatellites. Les étudiants analyseront les séquences et les données de génotypage obtenues lors des séances en laboratoire avec des méthodes statistiques spécifiques pour ce genre de données.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le cours vise à donner un aperçu théorique et pratique des diverses méthodes moléculaires utilisées dans la recherche écologique et évolutive. Les étudiants apprendront quels méthodes peuvent être utilisées pour différents objectifs d'études, et le type de résultat qu'elles donnent. Ils seront capables de comparer les différents méthodes en vue de leurs avantages et désavantages. Ils seront suffisamment formés dans les techniques de laboratoire et l'analyse des données génétiques pour pouvoir entamer un projet de recherche dans les domaines traitées.",
+        "content": "Le cours vise à expliquer les différentes méthodes moléculaires utilisées dans la recherche écologique et évolutive, la théorie qui les sous-tend et leur application pratique, leurs avantages et inconvénients et les domaines spécifiques auxquels elles sont appliquées. Les étudiants auront une expérience pratique en laboratoire (extraction d'ADN, PCR, restriction, gels d'agarose) et dans l'analyse des données obtenues à l'aide de R et de plusieurs autres programmes informatiques.",
+        "teaching_methods": "Conférences, également par des conférenciers invités, travaux pratiques dans le laboratoire moléculaire et sur l'ordinateur, analyse d'articles scientifiques.",
+        "assessment_methods": "Les étudiants doivent rédiger des rapports pour la partie pratique, et faire une analyse critique d'un article scientifique dans un rapport écrit et un entretien oral avec les enseignants. La note finale sera déterminée pour 50% par la partie pratique et 50% par la partie théorique.",
+        "other_info": "Le cours est donné au cours des trois premières semaines du second semestre des années paires (2022, 2024), la première moitié à l'UNamur par Alice Dennis et la seconde moitié à l'UCLouvain par Renate Wesselingh. Le cours ne sera pas donné en 2024-2025.",
+        "online_resources": "site web Moodle de LBOE2124",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2109",
+        "title": "Stage de terrain en écologie terrestre",
+        "credits": "2.00",
+        "hours": "0 h + 45.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Evens Ruben",
+            "Hance Thierry",
+            "Schtickzelle Nicolas",
+            "Wesselingh Renate"
+        ],
+        "teaching_language": "Français",
+        "content": "L'objectif du stage d'écologie terrestre est de développer une méthodologie expérimentale sur le terrain en partant d'une hypothèse émise par les étudiants eux-mêmes. En une semaine, en groupe, les étudiants élaborent un protocole visant à tester leur hypothèse, ils récoltent les données, les analysent et réalisent une synthèse sous forme d'une présentation orale. Les sujets abordent potentiellement tous les domaines de l'écologie avec une approche évolutive.",
+        "teaching_methods": "Stage de terrain avec nuitées sur place.",
+        "assessment_methods": "Présentation d'un travail de synthèse. L'évaluation porte sur le travail en groupe, la méthodologie utilisée, la qualité des hypothèses, la récolte des données, l'analyse des résultats et leur discussion.",
+        "other_info": "Une contribution financière est demandée pour les frais de restauration et logement. En cas de difficulté financière, les étudiant.es sont invité.es à contacter les servcies sociaux de l'UCLouvain et le Président de l'Ecole de Biologie, en toute confidentialité.",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsc2220",
+        "title": "Philosophy of science",
+        "credits": "2.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Guay Alexandre"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Chaque année, trois thème centraux sont abordés touchant au dialogue entre les sciences naturelles et les questionnements philosophiques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Faire réfléchir les étudiants de Master sur certains thèmes centraux de la philosophie des sciences aujourd'hui, en relation avec leurs intérêts et la discipline scientifique dans laquelle ils sont spécialisés. Leur apprendre à approfondir, seuls ou en groupe, une question philosophique choisie en lien avec les questions abordées aux cours. Être capable d'exposer les résultats de leur réflexion par écrit et en faire une présentation orale.",
+        "content": "Les trois thèmes pour 2024-25 sont : Éléments de philosophie des mathématiques. Quel est l'objet des mathématiques? Pourquoi les mahématiques peuvent être utilisées pour modéliser le monde empirique? Approches philosophiques de la causalité. Qu'est-ce que la causalité ? Comment reconnaît-on un lien causal ? Quel rôle joue la causalité dans les explications scientifiques ? Approches philosophiques de la symétrie. Qu'est-ce qu'une symétrie? Wu'est-ce qu'un argument par symétrie?",
+        "teaching_methods": "La première partie du cours consistera en leçons magistrales sur les trois thèmes choisis. Pendant ce temps, les étudiants s'inscriront sur le site web du cours et constitueront des groupes de trois au maximum. Chaque groupe choisira un sujet d’exposé ciblé en rapport avec l’un des trois thèmes. Le sujet, la bibliographie et le plan de l’exposé devront tous être validés par le professeur. Celui-ci sera à la disposition des étudiants pour les aider à élaborer l’exposé. La seconde partie des séances sera consacrée aux exposés. L’examen évaluera l’assimilation du contenu des cours magistraux et des exposés.",
+        "assessment_methods": "L’évaluation consistera en un examen écrit (50% de la note finale) et en un exposé oral, en classe, fait en équipe (50%). En seconde session, l’évaluation consistera en un examen écrit (50%) + la note d’exposé (50%). Si la note d’exposé est absente ou a déjà été comptée à la session de juin, cette note sera remplacée par un travail de recherche personnel. Notez qu’il est possible de faire l’exposé durant le quadrimestre, demander une note de présence en juin et, en conséquence, utiliser la note d’exposé à la session de septembre.",
+        "online_resources": "Voir site Moodle du cours.",
+        "bibliography": "Voir site Moodle du cours.",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-esboe2162",
+        "title": "Ecotoxicology of populations, communities and ecosystems (UNamur)",
+        "credits": "2.00",
+        "hours": "12.0 h + 12.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Université de Namur",
+        "code de l’ue dans l’institution de référence": "> SBOEM162",
+        "faculté ou entité en charge (uclouvain)": "> BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-esboe2144",
+        "title": "Gestion des ressources halieutiques et aquacoles (UNamur)",
+        "credits": "3.00",
+        "hours": "18.0 h + 12.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Université de Namur",
+        "code de l’ue dans l’institution de référence": "> SBOEM144",
+        "faculté ou entité en charge (uclouvain)": "> BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsc2001",
+        "title": "Introduction à la philosophie contemporaine",
+        "credits": "2.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Pence Charles",
+            "Verdée Peter",
+            "Verdée Peter"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "L'esprit humain, dans toutes ses dimensions, peut-il être intégré par les sciences empiriques au sein du monde naturel ? Les sciences cognitives (neurosciences, psychologie cognitive, linguistique, etc.) s'efforcent de mener à bien cette intégration. L'objectif du cours, qui constituera une introduction à la philosophie de l'esprit et des sciences cognitives,  est d'examiner les capacités des sciences cognitives à réaliser cette intégration ' et notamment à réaliser une description et une explication de ceux des aspects de l'esprit humain qui semblent le plus résister à cette intégration dans le monde naturel : la conscience, la rationalité, le libre-arbitre.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours permettra aux étudiants d'aborder un ensemble de problèmes philosophiques liés aux progrès récents dans l'étude scientifique et « naturaliste » de l'esprit humain.",
+        "content": "Que nous apprennent les sciences et les mathématiques sur la réalité ? Ce cours explore divers thèmes en philosophie contemporaine, en se concentrant sur l’interprétation et la méthodologie des sciences et des mathématiques. Réalisme, pragmatisme et idéalisme La vérité : théories de la vérité, paradoxes, vérité en mathématiques La probabilité : théories de la probabilité, interprétations, paradoxes Sciences et normes Interprétation en sciences (mathématiques, physique quantique, etc.)",
+        "teaching_methods": "Cours magistraux donnés par l'enseignant, avec un rôle important pour des discussions avec et entre les étudiant·e·s.",
+        "assessment_methods": "Dans la session de juin et la session d'août : un travail de groupe écrit (50 %) et une défense individuelle de ce travail à l’examen oral (50 %).",
+        "online_resources": "Lecture et slides disponible par le site Moodle du cours.",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2111",
+        "title": "Evolution",
+        "credits": "2.00",
+        "hours": "24.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Dennis Alice",
+            "Duchatelet Laurent"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Le cours consiste en deux parties qui traitent respectivement la macroévolution et la microévolution. Dans la première partie l'apparition de la vie, l'évolution des systèmes de réplication, premiers systèmes de réplication, autotrophie/hétérotrophie, formation des organites, endosymbiose, les innovations principales dans l'évolution des végétaux et des animaux, l'origine de l'homme et l'évolution culturelle. Les théories majeures de l'évolution (catastrophisme, Darwinisme, Néodarwinisme, théorie synthétique, neutralisme, gène égoïste, théorie des équilibres ponctués, théorie des systèmes complexes) seront expliquées et discutées. La deuxième partie s'occupe de la sélection, l'adaptation et l'évolution à des échelles de temps plus courts, et traitera plusieurs sujets comme la variation génétique, l'héritabilité, sélection naturelle et sexuelle, sélection de parenté, l'évolution de sociabilité, théorie des jeux, théorie des histoires de vie, systèmes de reproduction et sénescence.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'évolution biologique est une matière constamment renouvelée par un riche corpus de théories parfois contradictoires. En termes de compétences, les étudiants devront acquérir les connaissances indispensables à la compréhension des différentes théories. Ils devront pouvoir discuter ces théories, présenter les hypothèses, les critiquer et en faire une synthèse. Lors d'un séminaire public, ils présenteront un aspect de l'évolution biologique sur plusieurs de ses facettes et puis génèreront un débat sur le sujet.",
+        "content": "The course consists of two parts: The first part, at UNamur, given by A. Dennis will use a combination of lectures, activities, and paper discussions to deepen your understanding of evolutionary processes. We will build on this by learning how to build hypotheses for the relationships among individuals. Examples will be discussed with both limitations and applications in mind. Main lecture topics: - A deeper view of evolutionary theories and their application - Buliding and interpreting phylogenies - The genomic basis of adaptation, detection and interpretation The second part, given by L. Duchatelet at UCLouvain, will apprehend the natural, sexual, and behavioral selection principles, the evolutionary convergence, the adaptation and evolution at different scale times. Across diverse case studies, students navigate between the concepts of evolutive biology, from methodological approaches to the integration of the different concepts and theories covered. Main lecture topics: - population genetic and evolutive forces - Natural selection versus sexual selection - Behavioural selection - convergence evolution",
+        "teaching_methods": "Classroom lectures, with bioinformatic exercices",
+        "assessment_methods": "The evaluation will be based on both in-class activities (Dennis) and a written exam (both parts)",
+        "online_resources": "site web Moodle LBOE2111",
+        "course_materials": "Diaporamas des cours théoriques sous forme de fichiers pdf, disponibles sur Moodle",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbrmc2202",
+        "title": "Cell culture technology",
+        "credits": "3.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Alsteens David",
+            "Hachez Charles",
+            "Hols Pascal"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Cours généraux de microbiologie et de biochimie Génie biologique et microbiologique",
+        "topics_covered": "Les différents types de cultures microbiennes, animales et végétales seront présentés. Les effets de la composition du milieu de culture et des contraintes des paramètres de l'environnement seront décrits. Les problèmes liés au scaling-up seront présentés. Quelques exemples d'application dans le domaine biomédical et industriel seront donnés.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'activité au référentiel AA (AA du programme) Cohérence des AA cours en regard de ceux du programme 1.2 2.2 3.1 6.1, 6.2, 6.4 b. Formulation spécifique pour cette activité des AA du programme A la fin de cette activité, l'étudiant est capable de : - expliquer les méthodes de culture de cellules microbiennes, animales ou végétales - expliquer les applications majeures des cultures cellulaires - exposer de manière critique des exemples d'application de cultures cellulaires dans les domaines microbien, animal et végétal tels que rapportés dans des périodiques scientifique anglais",
+        "content": "Cellules microbiennes : différents modes de cultures, effets du milieu et des paramètres physico-chimiques, approches combinées d'ingénierie métabolique et de modulation des conditions de culture, exemples de production de métabolites par fermentation. Cellules animales (mammifères et insectes) : caractéristiques, cellules adhérentes ou non-adhérentes, milieux de culture, milieux sans sérum, effets du milieu de culture et des paramètres physiques, contraintes du milieu, exemples de production de protéines, hybridomes et production d'anticorps monoclonaux. Cellules végétales: cultures de cellules, de tissus et d'organes; milieux de culture ; exemples de production de métabolites et de protéines pharmacologiques.",
+        "teaching_methods": "La partie théorique est présentée par l'enseignant à l' aide de fichiers PowerPoint. Ces présentations PowerPoint sont disponibles sur la page Moodle du cours.",
+        "assessment_methods": "L'évaluation se fait sous forme d'un examen écrit portant sur l'ensemble de la matière vue au cours (cellules végétales, animales ou bactériennes). A cette occasion, les étudiants peuvent être confrontés à des articles de la littérature scientifique en lien avec la matière présentée.",
+        "other_info": "Ce cours peut être donné en anglais.",
+        "online_resources": "La page Moodle du cours donne accès à toutes les ressources nécessaires pour suivre le cours (slides du cours, articles à préparer pour l'examen, ...)",
+        "bibliography": "Ouvrages de référence mentionnés lors des cours magistraux (dont la consultation est facultative et l'achat, non-obligatoire). Ces ouvrages sont généralement disponibles pour consultation auprès de la Bibliothèque des Sciences et Technologies",
+        "responsible_entity": "AGRO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2166",
+        "title": "Lutte biologique",
+        "credits": "3.00",
+        "hours": "12.0 h + 24.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Bragard Claude",
+            "Hance Thierry"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Après un historique illustré des exemples les plus marquants, l'analyse des mécanismes de croissance des populations et de leurs fluctuations sera entreprise. Les systèmes plantes-insectes, proies-prédateurs et hôte-parasitoïdes seront étudiés et leur modélisation exposée en vue de leur utilisation en lutte biologique. Le cours sera accompagné de discussions d'articles et de visites sur le terrain.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 La lutte biologique est de plus en plus utilisée dans le cadre de la protection des cultures. Cependant, sa mise en oeuvre requiert une technicité souvent plus importante et une connaissance approfondie des problèmes phytosanitaires (insectes et maladies) et de la possibilité d'y faire face avec des agents naturels de lutte (prédateurs, parasitoïdes, compétiteurs, entomopathogènes, etc.). En outre, des applications industrielles telles que la production des auxiliaires, leur diffusion et le contrôle de qualité correspondent à de nouveaux débouchés potentiels. Les objectifs du cours sont de faire comprendre les bases techniques nécessaires pour aborder les méthodes de luttes biologiques et de présenter les possibilités actuelles et les produits correspondant. De plus, une analyse des tenants et aboutissants de ce type d'intervention sera pratiquée. Les problèmes et limitations seront évoqués et les perspectives futures décrites.",
+        "content": "La lutte biologique sera étudiée comme un domaine appliqué de la biologie visant au contrôle des populations de ravageurs sans recours à l'utilisation de pesticides. Après une introduction sur l'histoire de la discipline, les trois grande méthodes de lutte seront analysées en profondeur à savoir la lutte biologique par introduction, par augmentation et par conservation. Des exemples seront pris dans différents type de cultures. Dans un second temps, le contrôle biologique des maladies dues à des virus, bactéries ou champignons phytopathogènes et l'analyse des possibilités et contraintes liées à la limitation du développement par l'introduction et/ou la stimulation d'organismes compétiteurs ou parasites seront analysés ainsi que par l'induction d'une résistance chez la plante, et paramètres techniques et réglementaires à prendre en considération.",
+        "teaching_methods": "Cours présentiel et travaux pratiques. Deux excursions sont également organisées.",
+        "assessment_methods": "Les AA sont évalués par un examen écrit et au cours de la présentation orale d'un travail.",
+        "other_info": "Préalables : formation de base en écologie Support : syllabus, texte de lois, articles, page web",
+        "online_resources": "Moodle",
+        "course_materials": "Supports de cours fournis sous forme de documents sur moodle",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2120",
+        "title": "Conservation de la biodiversité",
+        "credits": "4.00",
+        "hours": "36.0 h + 12.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Schtickzelle Nicolas"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Le cours aborde la biologie de la conservation, la branche de la science qui vise à fournir les fondements scientifiques nécessaire à la conservation de la biodiversité et à sa pratique au quotidien comme la gestion des milieux naturels et des populations menacées. Le cours privilégie une approche multi-disciplinaire intégrant la biologie (écologie, biogéographie, génétique) à une réflexion politique et socio-économique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 A travers ce cours, les étudiants vont acquérir une vision globale de la crise actuelle que subit la biodiversité, ses causes, ses conséquences et les moyens possibles pour la limiter.",
+        "content": "Le cours commence par définir les niveaux de la biodiversité, ses variations spatiotemporelles et son état actuel. La particularité de la crise d'extinction actuelle par rapport aux extinctions du passé est explicitée. Ensuite, les différentes menaces sur la biodiversité, conséquences des activités humaines sur l'environnement, sont détaillées, avec les risques encourus par la biodiversité et par l'humanité. S'ensuit un tour d'horizon des approches de conservation et de gestion des territoires et des espèces menacées.",
+        "teaching_methods": "Cours en auditoire pour la partie théorique. Les travaux pratiques consistent en deux demi-journées d'excursion sur le terrain au cours desquelles des problématiques concrètes de conservation de la biodiversité seront illustrées, impliquant une préparation par groupe d'une thématique à présenter lors de l'excursion. Un ou plusieurs séminaires par des conférencier.es invité.es sont aussi prévus. L'étudiant.e est encouragé.e à l'interactivité pour toutes ces activités.",
+        "assessment_methods": "L'évaluation se compose d'un examen (16/20) et d'un rapport sur les TPs (4/20). Examen oral sur le contenu du cours, sur base de questions choisies aléatoirement par l'étudiant. Un temps de préparation de 10 minutes sera prévu, suivi d'un échange de 10 minutes. Si les règles santaires imposent que l'examen soit organisé en distanciel, il se fera par Microsoft Teams, et le temps de préparation sera supprimé.",
+        "online_resources": "Les visuels présentés au cours du cours se trouvent sur Moodle. Une série complète de cours enregistrés lors d'une année antérieure sont disponibles sur Moodle.",
+        "course_materials": "Les visuels du cours et les articles complémentaires se trouvent sur le site Moodle du cours. Cours d'une année antérieure enregistrés et disponibles sur Moodle",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2185",
+        "title": "Evolutionary applications",
+        "credits": "2.00",
+        "hours": "20.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Van Dyck Hans"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "La célèbre citation de Theodosius Dobzhansky \" Rien n'a de sens en biologie, sauf à la lumière de l'évolution \" (en référence à son essai publié en 1973) est bien connue des étudiants en biologie. Cependant, l'importance de la pensée évolutionniste ne se limite en aucun cas à la biologie pure. Pendant près d'un siècle, l'évolution n'a joué aucun rôle significatif en psychologie, en sociologie, en agriculture, en gestion des ressources naturelles et en médecine. Mais les temps intellectuels changent. Il existe désormais de nouveaux manuels sur la psychologie évolutionniste, la médecine évolutionniste, l'agriculture darwinienne, etc. \"Evolutionary Applications\" est également le titre d'une jeune revue scientifique. Par conséquent, les étudiants qui sont bien formés à la pensée évolutionniste devraient être bien armés pour apporter des contributions significatives à plusieurs domaines appliqués qui sont très pertinents pour notre société et notre environnement actuel et futur. Dans ce cours, nous formerons la pensée évolutionniste dans le contexte de plusieurs applications couvrant des domaines tels que l'agriculture, l'aquaculture, la biomédecine, le changement climatique, la biologie de la conservation, la biologie des maladies, la foresterie, la biologie des invasions, la pêche, la gestion de la faune, la psychologie et la sociologie. Il n'y a pas de syllabus ou de manuel, mais nous utiliserons un certain nombre d'articles et de chapitres de livres comme matériel d'étude (disponible sur Moodle). Je donnerai des cours sur différents concepts et leur application, et nous discuterons fréquemment d'études de cas dans les différents domaines des sciences naturelles et humaines.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 1. Démontrer une maîtrise des processus de l'évolution des êtres vivants à long et court terme. 2. Se confronter à l'application des connaissances acquises en biologie évolutive dans une série de domaines en biologie et en dehors de la biologie dans le sens strict.",
+        "content": "Cette unité d’enseignement consiste à analyser, comprendre et appliquer une approche évolutionniste, donc de la biologie évolutive, dans plusieurs domaines (p.ex. agriculture, médicine, psychologie, pisciculture, etc.).",
+        "teaching_methods": "Cette unité d'enseignement comprend une série de cours en salle et de discussions interactives avec les étudiants sur les principes de l'évolution biologique, les nombreuses idées fausses sur ce cadre clé en biologie fondamentale et appliquée. Le cours vise surtout une meilleur compréhension de la manière d'appliquer la biologie évolutive dans des applications réelles (en gestion des ressources naturelles, en agriculture, médicine, bio-inspiration, etc.). \r\n\r\n\r\nLe cours es donné en anglais.",
+        "assessment_methods": "La connaissance et surtout la compréhension de la matière sont évaluées par un examen écrit.",
+        "online_resources": "Site web Moodle",
+        "course_materials": "Diapositives et articles scientifiques (sur Moodle)",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2105",
+        "title": "Protein engineering and directed evolution",
+        "credits": "5.00",
+        "hours": "36.0 h + 18.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Morsomme Pierre",
+            "Soumillion Patrice"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Les thèmes abordés concerneront : 1. Science des protéines 1.1. Stabilité, reploiement et dynamique des protéines- thermodynamique de la stabilité et du reploiement des protéines (théorie et méthodes d'investigation)- dénaturation réversible et irréversible - le reploiement des protéines in vivo (mécanisme de reploiement, formation des ponts disulfure, isomérisation des prolines, protéines chaperones, maladies conformationnelles)- méthodes spectroscopiques (FRET, BRET, spectroscopie de molécules uniques) 1.2. Enzymologie - les aspects pratiques (tests enzymatiques, inactivation, design expérimental) - l'estimation des constantes cinétiques (problèmes liés à l'expérience et à l'analyse) - simulation et optimisation (la dérivation des équations de vitesse à l'état stationnaire, l'intégration numérique, l'analyse et l'optimisation des données expérimentales) - les systèmes multi-substrats et multi-enzymes - l'utilisation d'isotopes (effets isotopiques, échange isotopique) - les réactions rapides (état pré-stationnaire, titrage du site actif, \" burst kinetics \", techniques expérimentales) 2. Ingénierie des protéines - les techniques de mutagénèse et de combinaison de mutations (mutagénèse dirigée, PCR mutagénisante, incorporation d'oligonucléotides dégénérés, PCR sexuelle) - le criblage de banques (caractéristiques des tests de criblage, criblage à haut débit, exemples) - la sélection in vivo (principe, exemples) - la sélection in vitro (le \" phage display \" et les méthodes apparentées, la compartimentalisation) - ingénierie de nouvelles interactions protéine-ligand- ingénierie des enzymes (spécificité, régulation, catalyse) - la modification chimique des protéines in vitro et in vivo - ingénierie des protéines in silico.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif de la formation est d'approfondir la compréhension des propriétés des protéines naturelles et d'introduire l'étudiant au domaine de l'ingénierie des protéines qui permet de les faire évoluer \" artificiellement \" vers des propriétés nouvelles. L'étudiant apprendra certaines des méthodes avancées d'investigation en enzymologie et en biochimie des protéines ainsi que les notions théoriques et pratiques permettant d'appréhender les problématiques de la stabilité et du reploiement des protéines. L'étudiant se familiarisera ensuite avec les différentes stratégies d'ingénierie actuellement utilisées ainsi que les biotechnologies qui y sont associées. Par des études de cas récents décrivant des approches dirigée, aléatoire, combinatoire et in silico, l'étudiant sera amené à comprendre les limitations et difficultés actuelles de l'ingénierie des protéines mais aussi ses possibilités et ses défis du futur. Les différences entre les propriétés obtenues par ingénierie et les propriétés naturelles des protéines seront identifiées. La notion d'évolution dirigée sera également abordée et la description d'exemples permettra d'acquérir une vision des mécanismes évolutifs artificiels (en laboratoire) et de les comparer avec nos connaissances des mécanismes naturels.",
+        "content": "Le cours commencera par un bref rappel de la biochimie des protéines. A l'aide d'exemples tirés de la littérature scientifique récente, une trentaine d'heure de cours seront ensuite consacrés à trois thèmes principaux : Méthodes modernes pour créer des variants protéiques : - mutagenèse dirigée et aléatoire, recombinogenèse (PCR sexuelle), incorporation d'oligonucléotides synthétiques, incorporation d'acides aminés non naturels, ligation peptidique chimique et/ou avec l'aide d'intéines, fusions génétiques avec ou sans modifications chimiques ultérieures in vitro ou in vivo. Criblages et Sélections : - les tests colorimétriques, fluorimétriques, microbiologiques et analytiques, le criblage à haut débit, la sélection in vivo, la sélection in vitro (phage display et compartimentalisation) (3) Nouveaux champs d'applications : - les études fines des relations structure-fonctions, nouveaux outils pour la biologie moléculaire et cellulaire, biocatalyse, biomédecine, biotechnologie Nouveaux champs d'applications : - les études fines des relations structure-fonctions, nouveaux outils pour la biologie moléculaire et cellulaire, biocatalyse, biomédecine, biotechnologie. Après les cours, les étudiants travailleront personnellement sur un article de recherches. Pendant un mois, des séances hebdomadaires de questions-réponses seront prévues pour discuter des différents aspects de l'article (état de l'art, pertinence stratégique, méthodologie expérimentale, rigueur dans le traitement et l'interprétation des résultats). Chaque étudiant présentera finalement son article au reste du groupe sous forme d'un cours d'une demi-heure.",
+        "teaching_methods": "Travail de groupe, classes inversées, coaching",
+        "assessment_methods": "Cette unité d'enseignement (LBBMC2105) est organisée sous forme de classe inversée, avec une évaluation continue du travail étudiant. Par conséquent, aucune autre évaluation n'est organisée pendant les sessions d'examen ;  la note obtenue est réputée attachée à chacune des sessions de l’année académique. Les étudiants feront trois présentations orales durant le quadrimestre.",
+        "other_info": "Préalables: - Biochimie des protéines (p. ex BBMC2101 - Biochimie structurale et fonctionnelle), - Bases en biologie moléculaire (p ex. BBMC2102 - Biologie moléculaire et cellulaire intégrée) Evaluation: Travail sur base d'articles Support: Présentations PowerPoint",
+        "online_resources": "Moodle",
+        "course_materials": "matériel sur moodle",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbrmc2101",
+        "title": "Génie génétique",
+        "credits": "5.00",
+        "hours": "37.5 h + 15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Chaumont François",
+            "Hachez Charles"
+        ],
+        "teaching_language": "Français > English-friendly",
+        "prerequisites": "Cours de biochimie et de génétique de BAC Cours de Notions de génie génétique ou de Biologie moléculaire",
+        "topics_covered": "La partie théorique approfondira les grandes étapes du génie génétique: préparation et criblage de génothèques, clonage de gènes, caractérisation et modification de gènes, expression de gènes dans des hôtes hétérologues. Des cas concrets de génie génétique dans les domaines microbien, animal et végétal seront traités de façon à faire appel aux connaissances acquises au cours de la partie théorique et lors de cours précédents. Des exemples de réalisations du génie génétique seront choisis dans la littérature récente et discutés.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a. Contribution de l'activité au référentiel AA (AA du programme) Cohérence des AA cours en regard de ceux du programme 1.2, 1.3 2.2 3.4, 3.9 6.1, 6.2 b. Formulation spécifique pour cette activité des AA du programme A la fin de cette activité, l'étudiant est capable de : - expliquer les méthodologies  principales du génie génétique - choisir, en fonction du problème de génie génétique posé, parmi différentes stratégies utilisées pour isoler un gène, le modifier et l'introduire dans d'autres organismes - proposer une démarche expérimentale intégrée permettant de répondre à des problèmes concrets de génie génétique dans les domaines microbien, animal et végétal - comprendre et d'exposer de manière critique des exemples d'application du génie génétique dans les domaines microbien, animal et végétal tels que rapportés dans des périodiques scientifique anglais.",
+        "content": "Théorie:Enzymes-clés, vecteurs, stratégies de clonage et techniques de biologie moléculaire associées - Méthodes d'analyse globale du génome et de son expression (génomique, transcriptomique, protéomique, métabolique) - Mutagenèse dirigée - Expression de gènes dans des hôtes hétérologues: E. coli, autres bactéries, micro-organismes eucaryotes (levures,...), eucaryotes pluricellulaires (lignées cellulaires et organismes transgéniques chez les animaux (mammifères, insectes) et les plantes) - Ingénierie des protéines - Thérapie génique. Les exercices visent à illustrer le cours par la simulation de problèmes de génie génétique rencontrés en recherche et en développement.",
+        "teaching_methods": "Le cours est organisé, pour partie, en classe inversée. Les étudiants sont répartis en groupes de travail lors d'une séance de cours (voir échéancier communiqué lors du premier cours) et doivent travailler sur les thématiques qui leur sont attribuées afin de préparer une présentation devant le reste de l'auditoire. Après une présentation par les titulaires du ocours de certains aspects théoriques liés au génie génétique (enzymes-clés, vecteurs, stratégies de clonage et techniques de biologie moléculaire associées - séquençage ADN et ARN - Mutagenèse dirigée - Expression de gènes dans des organismes hôtes, etc...), les étudiants seront amenés à s''intéresser à un organisme modèle utilisé en génie génétique et répondront à une question thématique de synthèse posée par les enseignants. Des séances de travaux pratiques illustrent, de façon très concrète, les bases du génie génétique. Des exercices en salle sont par ailleurs organisés. Ils simulent des problèmes concrets de génie génétique et sont résolus individuellement par les étudiants avant d'être résolus de manière collective.",
+        "assessment_methods": "L'évaluation prend en compte, d'une part, un examen écrit à livre ouvert sur la résolution d'exercices simulant des problèmes concrets de génie génétique et portant également sur la matière abordée lors des travaux pratiques (60%, 12 points sur 20 de la note finale) et, d'autre part, la préparation et la présentation en groupe d’une thématique de génie génétique devant la classe (activité organisée en classe inversée; 40%, 8 points sur 20 de la note finale). Existence d’une note absorbante : une cote minimale de 8/20 à l’examen écrit (soit 4,8 points sur 20 de la cote finale) est requise pour que la note liée à la partie classe inversée soit prise en compte dans le calcul de la note finale. L’activité organisée en classe inversée fait l’objet d'une évaluation continue du travail étudiant. Par conséquent, aucune autre évaluation n'est organisée pendant les sessions d’examen concernant cette partie. La note obtenue pour cette partie est réputée attachée à chacune des sessions de l’année académique. Dans le cadre de cette activité, les étudiants sont aussi amenés à auto-évaluer le travail de leur groupe (implication de chacun, dynamique…) et cette auto-évaluation peut être utilisée pour adapter la note des enseignants. En cas d’utilisation des IA génératives, l’étudiant·e est tenu d’indiquer systématiquement toutes les parties ayant fait l’objet d’une utilisation des IA, par ex. en note de bas de page ou sur les dias Power Point, en précisant si l’IA a été utilisée pour rechercher de l’information, pour la rédaction du texte ou pour la correction de celui-ci. Par ailleurs, les sources d’information doivent être systématiquement citées en respectant les normes de référencement bibliographique. L’étudiant·e reste par ailleurs responsable du contenu de sa production, indépendamment des sources utilisées.",
+        "other_info": "Ce cours peut être donné en anglais. La participation au premier cours est obligatoire pour l'organisation des classes inversées. La participation à toutes les séances de travaux pratiques est indispensable. En cas d'absence injustifiée ou dont la justification n'a pas été acceptée à une séance de TP en laboratoire, une pénalité est encourue sur la note finale de l'enseignement. La pénalité est proportionnelle au nombre d'absences. Les pénalités sont défintivement imposées et peuvent mener à une note finale de 0/20 pour LBRMC2101.",
+        "online_resources": "Moodle",
+        "bibliography": "Le syllabus et les notes de cours et de travaux pratiques rédigées par l'équipe d'enseignants et dont l'usage est jugé obligatoire sont disponibles sur Moodle. Le cours ne fait appel à aucun autre support particulier qui serait payant et jugé obligatoire. Les ouvrages payants qui seraient éventuellement recommandés le sont à titre facultatif et sont tous consultables à la Bibliothèque des Sciences et Technologies.",
+        "responsible_entity": "AGRO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-esboe2169",
+        "title": "Ecological proteomics and epigenetics (UNamur)",
+        "credits": "4.00",
+        "hours": "30.0 h + 18.0 h",
+        "quadrimester": "Q2",
+        "institution de référence": "> Université de Namur",
+        "code de l’ue dans l’institution de référence": "> SBOEM166",
+        "faculté ou entité en charge (uclouvain)": "> BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-essps2101",
+        "title": "Sciences, éthique et développement (UNamur)",
+        "credits": "3.00",
+        "hours": "18.0 h + 6.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Université de Namur",
+        "code de l’ue dans l’institution de référence": "> SSPSM101",
+        "faculté ou entité en charge (uclouvain)": "> SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-esboe2170",
+        "title": "Advances in applied and basic ecotoxicology (UNamur)",
+        "credits": "6.00",
+        "hours": "48.0 h + 32.0 h",
+        "quadrimester": "Q1",
+        "institution de référence": "> Université de Namur",
+        "code de l’ue dans l’institution de référence": "SBOEM170",
+        "faculté ou entité en charge (uclouvain)": "> BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ltheo2840",
+        "title": "Science et foi chrétienne",
+        "credits": "2.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Bourgine Benoît",
+            "Dos Santos Rodrigues Paulo Jorge"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Pour atteindre l'objectif visé, le cours abordera les trois thèmes suivants : a) bref historique des rapports entre sciences (de la nature et humaines) et christianisme dans ses aspects institutionnels et conceptuels, b) une typologie des modes de dialogue et de confrontation entre sciences et théologies avec leurs limites, leur portée et leurs fondements théologiques, c) une série d'études de cas récents.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 a) présenter les grandes étapes de l'évolution historique des rapports entre sciences et christianisme (événements et documents majeurs) ; 2 b) caractériser et évaluer les modes de rapports entre sciences et foi, religion, théologie chrétienne en en comprenant la portée et les limites spécifiques ; 3 c) analyser des cas précis de relations contemporaines entre sciences et théologies.",
+        "content": "Ce cours peut être choisi par les étudiants de l'EPL comme une alternative au cours Sociétés, cultures, religions. 2024/2025 Science et foi chrétienne Le cours offre l'opportunité d'effectuer une expérience d'interdisciplinarité, requise par le questionnement envisagé. Le prof. Paulo Rodrigues (Université catholique de Lille) et le prof. Benoît Bourgine (UCLouvain), interviendront pour tenter de clarifier la problématique des rapports entre sciences et foi chrétienne. Une typologie des modes de dialogue et de confrontation entre sciences et théologies est à élaborer et à éprouver de manière à en dessiner les limites, la portée et les fondements tant philosophiques que théologiques. Une mise en perspective historique ainsi qu'une présentation des enjeux contemporains seront proposées.",
+        "teaching_methods": "Les cours sont magistraux. Le syllabus du professeur Bourgine est à votre disposition sur le site Drive du cours: https://drive.google.com/drive/folders/1OZCoMW0VNypXPpzclRJacv3NJ-xlM0ns?usp=drive_link TITRE DU SYLLABUS: SCIENCES ET FOI CHRETIENNE",
+        "assessment_methods": "L'examen est un écrit de deux heures en session d’examen comportant deux questions ouvertes, dont la liste limitative est fournie aux étudiants : l’une posée par le prof. P. Rodrigues, l’autre posée par le prof. Bourgine, respectivement sur les exposés de l'un et de l'autre. Vous êtes invités à répondre à chacune des questions en 30 lignes environ.",
+        "other_info": "Calendrier Voici le calendrier des 7 séances qui ont lieu le mercredi de 16h15 à 18h15 [LECL60] : Prof. Benoît Bourgine: 18 septembre 25 septembre 2 octobre 9 octobre Prof. Paulo Rodrigues: 16 octobre 23 octobre 6 novembre",
+        "online_resources": "Avec ce lien, vous pouvez accéder à des ressources en ligne: https://drive.google.com/drive/folders/1OZCoMW0VNypXPpzclRJacv3NJ-xlM0ns?usp=drive_link",
+        "course_materials": "Sciences et foi chrétienne 2024/2025 - Syllabus Bourgine",
+        "responsible_entity": "TEBI"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2165",
+        "title": "Evolutionary genomics and transcriptomics",
+        "credits": "4.00",
+        "hours": "30.0 h + 18.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Dennis Alice",
+            "Page Melissa"
+        ],
+        "teaching_language": "Anglais",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Aujourd'hui, la biologie des systèmes est largement répandue dans les sciences environnementales. Ce cours est une introduction théorique et pratique à la génomique et à l'analyse protéomique telle qu'elle est le plus souvent appliquée en écologie et biologie des organismes. Il a pour principal objectif de donner à l'étudiant les bases scientifiques et les outils informatiques afin de comprendre la génomique et la protéomique et pouvoir l'appliquer.",
+        "content": "Ce cours est donné par deux titulaires en deux parties. Ce cours a 30 h de volume 1 et 18 heures de volume 2 : - 18 heures volume 1 + 12 heures volume 2 par Prof Van Doninck à UNamur - 12 heures de volume 1 + 6 heures de volume 2 par Prof. Melissa Page à UCLouvain Ce cours est partiellement en lien avec le cours de LBOE2124 Molecular Ecology. Partie Transcriptomique (Prof. Melissa Page, UCLouvain) : Théorie : History : Transcriptomics as one tool in the toolkit box- Why is transcriptomics such a huge success in Evolution and Ecology? Methodology : Experimental procedure - Differences between genomics and transcriptomics - Technological limitations and perspectives of transcriptomics; Another tool in the toolkit box : (e) Quantitative Trait Loci ; Case studies using transcriptomics in Evolutionary Ecology with a focus on studies done with data obtained from the wild : Transcriptomics for understanding the Anthropocene, Stickleback fishes Gasterosteus aculeatus case study, Transcriptomics in butterflies, General conceptual conclusions from these case studies; Conclusions at the methodological level. Partie TP : analyse d'un transcriptome publié et identification de gènes candidats impliqués dans la régénération tissulaire du poisson-turquoise africain (Nothobronchius furzeri). Partie Génomique (Prof. K Van Doninck, UNamur) : Théorie : - Histoire de la génomique - Evolution des génomes - Méthodes de séquençage à haut débit - Principes d'assemblage des génomes - Génomique comparative, génomique fonctionnelle - applications à des questions d'écologie et d'évolution. Partie TP : 1/ Introduction à la bio-informatique pour les biologistes 2/ Alignement, annotation et synthèse des génomes 3/ Comparaison entre génomes et application aux recherches en cours",
+        "teaching_methods": "Cours magistraux en salle ; travaux pratiques avec assistants en salle informatique. Fichiers ppt de support sur plateforme moodle UCL et UNamur.",
+        "assessment_methods": "Pour le Prof. Melissa Page ( partie transcriptomique ), c’est un examen formé de questions ouvertes et écrites. Pour la partie du Prof Alice Dennis ( partie génomique ), c’est une presentation orale suivie d'une période de questions Pour les deux parties des travaux pratiques, il faut remettre un rapport détaillé du TP. Il est nécessaire de participer à toutes les séances de travaux pratiques pour obtenir une cote de TP. Attention : En raison des deux modules qui composent ce cours (transcriptomique : théorique et pratique, et génomique : théorique et pratique), la note obtenue pour chaque module intervient dans le calcul de la note finale de l'évaluation.",
+        "other_info": "Préalables : - des connaissances de base en génétique et biochimie sont nécessaires - les dias vues au cours font office de support didactique - des articles scientifiques seront analysés au cours.",
+        "online_resources": "Accédez à la plateforme moodle en ligne de UCLouvain pour les contenus de cours et les infos concernant l'organisation pratique du cours.",
+        "bibliography": "Fichiers ppt des cours; livres et documents de référence sur la plateforme en ligne moodle",
+        "course_materials": "Fichiers ppt des cours; livres et documents de référence sur la plateforme en ligne moodle",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lboe2168",
+        "title": "Interactions plantes-environnement",
+        "credits": "3.00",
+        "hours": "24.0 h + 12.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Lutts Stanley",
+            "Quinet Muriel"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "L'importance biologique et économique de l'environnement biotique et abiotique sera précisée dans une partie introductive. Un exposé plus détaillé sera ensuite consacré à l'analyse des mécanismes d'établissement, de maintien, de terminaison et de fonctionnement des interactions entre la plante et les microorganismes, qu'il s'agisse de symbioses mutualistes ou de parasitisme. Quelques exemples d'interactions pour lesquelles les connaissances sont étendues seront utilisés pour mettre en évidence les grands principes. On détaillera aussi les principaux effets des stress abiotiques (stress hydriques, salins, thermiques (basses et hautes températures), toxicités minérales (aluminium et métaux lourds, pollutions atmosphériques). Les stratégies de résistance seront explicitées par quelques exemples en mettant l'accent, dans une perspective cinétique, sur les mécanismes de perception de l'agent de stress, sur l'activation des signaux de transduction et sur l'expression de gènes susceptibles de contribuer à la mise en place d'une stratégie de résistance.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le but du cours est de montrer, aux niveaux génétique, biochimique et physiologique, comment la plante réagit face à son environnement, qu'il s'agisse de l'établissement de relations avantageuses ou délétères avec d'autres êtres vivants, notamment des microorganismes, ou de mécanismes de résistance aux contraintes abiotiques.",
+        "content": "Ce cours portera essentiellement sur les interactions des plantes avec leur milieu abiotique. On détaillera les principaux effets des stress abiotiques (stress hydriques, thermiques, changements climatiques, etc.) et des toxicités minérales (salinité, métaux lourds, toxicité ferreuse, etc.) sur la croissance et le développement des plantes et les stratégies physiologiques, biochimiques et génétiques mises en place par la plante pour y répondre.",
+        "teaching_methods": "Cours théoriques en auditoires et travaux pratiques en serres, en laboratoire et sur le terrain.",
+        "assessment_methods": "La note finale est constituée de la note de l'examen théorique (examen oral) et de la note des travaux pratiques (rapport écrit). La note de l'examen théorique vaut pour 15/20 de la note finale et la note des travaux pratiques vaut pour 5/20 de la note finale. La participation aux travaux pratiques, aux travaux dirigés et séances d’exercices est obligatoire et indispensable pour valider l’unité d’enseignement. Toute absence injustifiée entraîne une pénalité à l’examen de l'UE qui peut aller jusqu’à l’annulation de la cote d’examen pour l’année d’étude considérée (0/20). En cas d’absences répétées même justifiées, l’enseignant peut proposer au jury de s’opposer à l’inscription à l’examen relatif à l’UE en respect de l’article 72 du RGEE.",
+        "other_info": "Préalables : cours de base en morphologie/morphogenèse et physiologie végétales, biochimie et génétique.",
+        "course_materials": "notes de cours disponibles sur moodle",
+        "responsible_entity": "BIOL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsst1001",
+        "title": "IngénieuxSud",
+        "credits": "5.00",
+        "hours": "15.0 h + 45.0 h",
+        "quadrimester": "Q1 et Q2",
+        "teachers": [
+            "Merle Stéphanie",
+            "Raskin Jean-Pierre"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Projets qui répondent à une problématique (technique, économique, socio-culturel), coopération au développement, approche systémique, responsabilité, engagement, éthique, solidarité, travail en équipe, innovations, technologies appropriables, citoyenneté scientifique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Contribution aux référentiels des programmes du secteur SST Acquis d'apprentissage disciplinaires : Au terme de la formation l'étudiant sera capable de : Elaborer des propositions, sous forme de projets, appropriées à une problématique de développement qui relève de l'identification et/ou la conception d'un dispositif technique, économique, socio-culturel : 1.       Identifier et définir les questions et problématiques 1.1    Elaborer un cahier des charges 1.2    Analyser un contexte 1.3    Analyser une problématique 1.4    S'initier au concept de la systémique 1.5    Découvrir les leviers et les contraintes d'un projet 1.6    Appréhender les étapes de la vie d'un groupe 2.       Elaborer des propositions innovantes 2.1    Découvrir et mettre en oeuvre des technologies qui favorisent l'innovation et la créativité 2.2    Découvrir les technologies appropriables et durables 2.3    S'initier aux principes du développement durable et de son application dans des projets techniques 2.4    Se préparer à la mission 2.5    S'imprégner du processus itératif 3.       Évaluer la faisabilité et l'impact des propositions élaborées 3.1    Appréhender l'équilibre technologique comme venant en soutien de l'évolution humaine 3.2    Identifier les possibilités pour mesurer l'impact d'un projet 3.3    Contribuer à la visibilité des projets IngénieuxSud Acquis d'apprentissage transversaux : Développer et adopter une attitude réflexive sur des questions et problématiques de développement et y apporter des solutions appropriées 1.1    Porter un regard critique sur ses propres compétences, connaissances et sur ses propres limites 1.2    Définir les différents enjeux du projet (culturels, sociaux, économiques, techniques) par une approche systémique 1.3    Faire le bilan de la progression de sa réflexion au fil du projet 2.       Travailler en équipe, collaborer de manière efficace avec des partenaires nationaux et internationaux. 2.1    Identifier les apports et intérêts complémentaires des différents partenaires dans la problématique du projet 2.2    Planifier son travail en équipe : construire un chronogramme, un programme d'apprentissage... 2.3    Autoévaluer son implication individuelle dans le groupe et la coopération au sein du projet et de son groupe 3.       Communiquer efficacement oralement et par écrit avec des publics divers nationaux et internationaux (experts scientifiques, pairs, enseignants, formateurs...) 3.1    Utiliser des moyens appropriées pour dialoguer avec les différents publics et partenaires 3.2    Faire un retour d'expérience et proposer des perspectives futures 3.3    Rédiger un Portfolio interculturel, cohérent, structuré, rigueur scientifique et esprit critique 3.4   Adapter sa communication en fonction de ses interlocuteurs (pairs, collègues, enseignants, formateurs, experts scientifiques...)",
+        "content": "-          Les sciences et technologies au service du développement durable -          La solidarité internationale -          L'adéquation moyens-objectifs d'un projet -          L'interculturalité : regard croisé sur une même problématique scientifique -          Le développement du projet dans le cadre d'un programme de coopération au développement -          L'application de l'approche systémique dans un projet scientifique -          Le développement d'un projet concret : du CDC à l'application concrète -          Les facteurs qui influencent le projet (contexte social, pays, population, contraintes externes, planification ') -          Les leviers du changement -          Le travail en équipe et la communication (avec les partenaires du Sud, avec les personnes du groupe, avec les experts techniques et de développement, les populations concernées)",
+        "teaching_methods": "Formation hybride (en ligne et en présentiel) -          Cours : multidisciplinaires, multi-acteurs, multiculturels -          Apprentissages actifs en groupes -          Apprentissages par le projet -          Coaching par le corps scientifique et académique, des professionnels de terrain (Nord et Sud) -          Interviews, recueil et analyse d'articles'",
+        "assessment_methods": "-          Portfolio (évaluation continue) de groupe avec parties individuelles -          Présentations orales en groupe devant un panel interdisciplinaire Nous précisons que l’usage des IA génératives telles que ChatGPT, Consensus, Perplexity,... est toléré mais il doit être clairement stipulé dans le document rendu par l'étudiant·e ou le groupe d'étudiant·es. Nous insistons sur le fait que le cours IngénieuxSud fait appel à votre créativité et que ces outils ne sont pas de grande aide pour cet objectif à atteindre.",
+        "other_info": "Le cours se termine par une mission pendant l'été qui suit le projet",
+        "online_resources": "Site du cours : http://icampus.uclouvain.be/claroline/course/index.php?cid=INGESUD_EPL",
+        "bibliography": "Ouvrage de référence : -          M. Ashby, (2016), « Materials and sustainable development », Elsevier Science and technology, UK. Revue Spore : Le magazine du développement agricole et rural des pays ACP -  http://spore.cta.int",
+        "responsible_entity": "EPL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lbbmc2104",
+        "title": "Animal physiological biochemistry",
+        "credits": "5.00",
+        "hours": "36.0 h + 18.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Morsomme Pierre",
+            "Page Melissa"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Chaque année, une situation physio-pathologique distincte ou un petit nombre ayant un lien logique entre elles, seront étudiées. Une introduction sera réalisée et une série d'articles récents liés au(x) thème(s) traité(s) sera ensuite analysée par les étudiants, présentés oralement devant le groupe et discutés ensemble. Parmi différents thèmes, un intérêt particulier sera porté à certains aspects plus spécifiques : - Mécanismes biochimiques par lesquels la nutrition humaine affecte différentes cibles moléculaires et cellulaires et peut ainsi être impliquée tant dans une régulation métabolique normale que dans des dérives pathologiques. - Mécanismes cellulaires et moléculaires qui permettent aux aliments \"majeurs\" de contrôler la gestion de l'appétit, de perturber le métabolisme des glucides et celui des lipides, d'induire des pathologies intestinales ou hépatiques mais aussi à des constituants \"mineurs\" de l'alimentation (polyphénols, vitamines), de toucher des cibles moléculaires précises et d'affecter ainsi la physiologie cellulaire. - Mécanismes cellulaires et moléculaires qui interviennent lors des interactions des agents pharmacologiques avec les cellules, d'une manière générale et dans le cadre d'applications à des tissus ou organes particuliers, tels les systèmes cardio-vasculaire ou nerveux ou des situations physio-pathologiques telle l'inflammation.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif sera d'apprendre à comprendre l'implication des mécanismes biochimiques dans la physio-pathlogie humaine et de saisir comment des approches moléculaire et cellulaire, mais intégrant également les aspects physiologiques, permettent d'appréhender ces situations et de dégager des pistes en vue d'un éventuel traitement.",
+        "content": "Le cours visera à analyser une situation physio-pathologique humaine du point de vue biochimique, ainsi que les implications nutritionnelles, pharmacologiques ou toxicologiques qui pourraient y être liées. L'objectif sera d'apprendre à comprendre l'implication des mécanismes biochimiques et de saisir comment des approches moléculaire et cellulaire, mais intégrant également les aspects physiologiques, permettent d'appréhender ces situations et de dégager des pistes en vue d'un éventuel traitement ou d'une meilleure prévention. Chaque année, une situation physio-pathologique distincte ou un petit nombre ayant un lien logique entre elles, seront étudiées. Une introduction sera réalisée et une série d'articles récents liés au thème traité sera ensuite analysée par les étudiants. Le thème change chaque année et est communiqué lors du premier cours. A titre d'exemples, ces dernières années les thèmes abordés étaient le microbiote, les lipides et stérols, le glucose, le système endocrinien. Anglais est la langue principale",
+        "teaching_methods": "Classes inversées, coaching, travail de groupe",
+        "assessment_methods": "Deux présentations orale du travail de groupe (intermédaire et finale). La présence à toutes les présentations est obligatoire. La participation au groupe est également prise en considération",
+        "other_info": "Préalables : Connaissances approfondies en biochimie et physiologie.",
+        "online_resources": "Moodle",
+        "responsible_entity": "BIOL"
+    }
+]

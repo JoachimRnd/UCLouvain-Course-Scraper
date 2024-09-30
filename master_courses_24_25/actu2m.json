@@ -1,0 +1,593 @@
+[
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2170",
+        "title": "Valorisation financière des engagements actuariels",
+        "credits": "7.00",
+        "hours": "45.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Hainaut Donatien"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Maîtrise des concepts de base en statistique et calcul des probabilités, du niveau des cours des programmes FSA1BA, INGE1BA, MATH1BA ou de la mineure d'accès en statistique, sciences actuarielles et science des données.",
+        "topics_covered": "Mathématiques de l’intérêt, courbe de taux, calcul stochastique, options, annuités variables, fonds en unité de compte avec garanties décès.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.1 ,1.5 ,1.6 ,2.3, 2.4 De manière secondaire les AA suivants : 2.1, 1.3, 2.5 Au terme de ce cours, les étudiants seront capables de Valoriser des flux financiers, les annuités usuelles et emprunts Construire une courbe de taux au comptant et à terme Isoler et tarifier les options dans un produit d’assurance vie et une annuité variable Evaluer des annuités variables ou garantie décès associées à un fonds en unité de compte",
+        "content": "Le cours comporte 8 sections : mathématiques de l’intérêt Taux de rendement interne, rentes, rentes indexées et fractionnaires Prêts « Bullets » et amortis Le marché des obligations et extraction des taux zéro-coupons Best estimate de passifs d’assurance vie Introduction à la duration et convexité Valorisation d’options implicites dans les contrats d’assurance Annuités variables Options : caractéristiques générales Valorisation par arbres Evaluation des annuités variables Valorisation analytique des options implicites Le mouvement Brownien Formule de Black & Scholes GMAB avec cliquet Eléments de calcul stochastique Processus et lemme d’Itô Application à l’assurance de portefeuille Changements de mesure Changement de P vers Q Assurance de portefeuille avec cap Changement de numéraire Assurance max-return Autres méthodes numériques Feynman-Kac équatio Simulation des actifs et instants de décès Modélisation des taux d’intérêts Modèles de Hull&White et de Vasicek Calibration des modèles Options sur taux d’intérêt Options sur zero-coupon et annuités variables Options sur obligations Arbres trinomiaux pour options sur taux Floatting rate note, swaps, swaptions Contrat avec participation bénéficiaires bornées",
+        "teaching_methods": "Le cours consiste en 11 leçons théoriques de 4h et en 7 séances de travaux pratiques auxquelles l'étudiant est tenu de participer.",
+        "assessment_methods": "L'étudiant réalisera un projet pendant le quadrimestre afin de mettre en pratique les concepts du cours. Il sera également évalué par un examen écrit portant sur la théorie et les travaux pratiques, pour lequel l'étudiant dispose d'un formulaire fourni par l’enseignant. L'enseignant se réserve le droit d'interroger oralement l'étudiant tant sur les réponses de l'examen que sur le contenu du projet.",
+        "online_resources": "site Moodle",
+        "bibliography": "Les diapositives disponibles sur moodle peuvent être complétées si besoin par Actuarial Mathematics for Life Contingent Risks. Dickson, D.C.M., Hardy, M.R., Waters, H.R. 2009, Cambridge University Press. Options, futures and other derivatives. J.C. Hull (Pearson). Interest Rate Models - Theory and Practice: With Smile, Inflation and Credit. Brigo D. Mercurio F. (Springer). Stochastic calculus for finance (vol 1 ,2) Shreve S ( Springer) Martingales Methods in Financial Modelling. Musiela M. Rutkowski M. (Springer) Introduction to Stochastic calculus applied to finance. Lamberton D. Lapeyre B. (Chapman&Hall)",
+        "course_materials": "Exercices (rédigés en Français) et diapositives (rédigées en Anglais), format pdf, disponible sur Moodle.",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2260",
+        "title": "Actuarial Enterprise Risk Management",
+        "credits": "3.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "De Longueville Philippe"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Maîtrise de l'anglais du niveau du cours LANGL1330. LACTU2010 Actuariat des assurances dommages LACTU2030 Actuariat de l'assurance-vie LACTU2210 Quantitative Risk Management",
+        "topics_covered": "Risk taxonomy. Enterprise Risk Management (ERM) process (identification, analysis, measurement and mitigation), with a focus on (re)insurance companies. Interaction among risks. Model risk and governance aspects of risk management. Economic capital model.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser • De manière prioritaire les AA suivants : 1.2, 1.6, 1.7, 2.1 • De manière secondaire les AA suivants : 2.2, 2.4, 3.1, 3.3 Au terme de ce cours, les étudiants seront capables de Comprendre la démarche et le processus ERM (identification, analyse, mesure et mitigation), en particulier pour les entreprises d’assurance et de réassurance Comprendre les interactions entre risques Comprendre les éléments de gouvernance en ERM Faire les liens entre les différentes techniques actuarielles Développer un modèle de capital économique simplifié.",
+        "teaching_methods": "Cours ex-cathedra et lectures supplémentaires discutées pendant les cours. Le cours se compose de 7 cours de 2 heures, et d'une session supplémentaire facultative de questions-réponses à la fin du cours.",
+        "assessment_methods": "Première session : l'évaluation se fera sur la base d'un examen et d'une étude de cas. Si le nombre d'étudiants le permet, l'examen et la présentation de l'étude de cas seront oraux. Dans le cas contraire, l'examen sera écrit et il n'y aura pas de présentation orale de l'étude de cas. Deuxième session : examen oral. Il n'est pas nécessaire de présenter une étude de cas pour la deuxième session, sauf si l'étudiant n'a pas présenté l'étude de cas pour la première session. Si l'étudiant utilise un outil d'intelligence artificielle pour réaliser l'étude de cas, il est prié d'indiquer quel outil il a utilisé et dans quel but.",
+        "other_info": "- Introduction - La gestion des risques en contexte - Gouvernance d'entreprise et gestion des risques - Risques liés au développement durable et ESG - Applications de la gestion des risques - Étude de cas",
+        "bibliography": "Lam, J. (2000). Enterprise Risk Management, From Incentives to Controls, second edition, Wiley, 2014. Regulatory texts (Solvency II directive, BNB circulars…) Practical insurance and reinsurance experience",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2280",
+        "title": "Réassurance et échanges de risque",
+        "credits": "3.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "De Longueville Philippe"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Maîtrise de l'anglais du niveau du cours LANGL1330. LACTU2010 Actuariat des assurances dommages LACTU2030 Actuariat de l'assurance-vie LACTU2210 Quantitative Risk Management LACTU2230 Actuariat des assurances de personnes",
+        "topics_covered": "Marché de la réassurance. Traités de réassurance et leurs caractéristiques. Calcul des primes de réassurance et provisionnement. Réassurance optimale. Méthodes alternatives de transfert de risques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser • De manière prioritaire les AA suivants : 1.1, 1.2, 1.3, 1.4, 2.1 • De manière secondaire les AA suivants : 1.6, 1.7, 1.8, 2.3, 2.4, 2.5 Au terme de ce cours, les étudiants seront capables de Comprendre et analyser les différentes formes de réassurance Identifier la forme optimale de réassurance du point de vue de la cédante Calculer les primes et les réserves en réassurance Intégrer la réassurance et les méthodes alternatives de transfert de risque dans la politique de gestion du risque d’un assureur.",
+        "content": "Introduction Différentes formes de réassurance Tarification des traités en excédent de sinistres, y compris les clauses particulières principales Clauses spécifiques aux traités proportionnels Insurance linked Securities Introduction du travail Réassurance et solvabilité 2 Impact du changement climatique sur les dommages aux biens et aux personnes et importance de la réassurance pour couvrir ces dommages",
+        "teaching_methods": "Cours ex-cathedra accompagné de documents à lire. Le cours consiste en 7 cours de 2 heures. Une session supplémentaire est organisée pour répondre aux questions éventuelles des étudiants. La majorité des supports de cours sont en anglais.",
+        "assessment_methods": "Première session : l’évaluation sera basée sur un examen et un travail. Si le nombre d’étudiants le permet, l’examen et la présentation du travail seront orales. Autrement l’examen sera écrit et il n’y aura pas de présentation orale du travail. Seconde session : examen oral. Il n’y a pas lieu de réaliser un travail pour la deuxième session sauf si l’étudiant n’a pas remis de travail pour la première session. Si l’étudiant/étudiante utilise un outil d’intelligence artificielle pour la réalisation du travail, celui-ci/celle-ci est prié/priée de mentionner quel outil il/elle a utilisé et à quelle fin.",
+        "bibliography": "Walhin J.F. (2012). La Réassurance, 2ème édition. Larcier. Bauwens, V., Walhin, J.F. (2008). La Titrisation du Risque d'Assurance. Larcier. Walhin, J. F., Herfurth, L., and De Longueville, P. (2001). The practical pricing of excess of loss treaties: actuarial, financial, economic and commercial aspects, Belgian Actuarial Bulletin Drieskens & all (2010). Stochastic projection for large individual losses, Scandinavian Actuarial Journal Textes réglementaires (Directive solvabilité 2, circulaires de la BNB…)",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2010",
+        "title": "Actuariat des assurances dommages",
+        "credits": "7.00",
+        "hours": "45.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Denuit Michel"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Maîtrise des concepts de base en statistique et calcul des probabilités, du niveau des cours des programmes FSA1BA, INGE1BA, MATH1BA ou de la mineure d'accès en statistique, sciences actuarielles et science des données.",
+        "topics_covered": "Modélisation des risques d’assurance, Partage et transfert des risques, Mesure et comparaison des risques, Crédibilité et bonus-malus, Provisionnement",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.1, 1.4, 2.3 De manière secondaire les AA suivants : 1.2, 1.3, 1.6, 1.7, 1.8, 2.1 À l'issue de ce cours, l'étudiant est capable de : Mettre en pratique les principes de base de la tarification et de la gestion actuarielle des produits d'assurance dommages. Déterminer la politique optimale de gestion des risques selon leurs caractéristiques, en ce compris le calcul des primes et leur révision sur base de la sinistralité passée l'évaluation des provisions techniques la projection des flux financier futurs le calcul des mesures de risque pour les produits classiques d'assurance dommages.",
+        "content": "Modélisation des risques Partage, mutualisation et transfert des risques Mesure et comparaison des risques Provisionnement",
+        "teaching_methods": "Le cours consiste en leçons théoriques illustrées de nombreux exemples, auxquelles l’étudiant est tenu de participer.",
+        "assessment_methods": "L’évaluation consiste en un examen écrit de deux heures portant sur l’ensemble de la matière, pour lequel l’étudiant peut disposer d’un formulaire d’une page A4 recto-verso qu’il aura lui-même rédigé ainsi que d’une calculatrice non-programmable.",
+        "bibliography": "Matériel disponible en ligne, complété si nécessaire par Denuit, M., Charpentier, A. (2004). Mathématiques de l'Assurance Non-Vie. Tome I: Principes Fondamentaux de Théorie du Risque. Collection Economie et Statistique Avancées, Economica, Paris. Denuit, M., Charpentier, A. (2005). Mathématiques de l'Assurance Non-Vie. Tome II: Tarification et Provisionnement. Collection Economie et Statistique Avancées, Economica, Paris. Denuit, M., Dhaene, J., Goovaerts, M.J., Kaas, R. (2005). Actuarial Theory for Dependent Risks: Measures, Orders and Models. Wiley, New York. Kaas, R., Goovaerts, M.J., Dhaene, J., Denuit, M. (2008). Modern Actuarial Risk Theory Using R. Springer, New York.",
+        "course_materials": "Syllabus, transparents, etc. sur moodle",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ldrop2021",
+        "title": "Droit des assurances",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Dubuisson Bernard"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Après une introduction comportant un bref historique et quelques considérations sur le rôle économique et social de l'assurance ainsi que sur le contrôle des activités d'assurance, le cours examine de manière systématique les règles générales applicables au contrat d'assurance, telles qu'elles découlent de la loi du 25 juin 1992 sur le contrat d'assurance terrestre.\r\rOn aborde en premier lieu les règles communes applicables à tous les contrats (déclaration du risque, paiement de la prime, déclaration du sinistre, règlement de la prestation, fin du contrat...) pour poursuivre par les règles applicables à certaines catégories particulières d'assurances (assurances à caractère indemnitaire ou forfaitaire ; assurances de dommages ou de personnes). A l'intérieur de la catégorie des assurances de dommages, les assurances de choses et de responsabilité civile font l'objet d'une attention particulière.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Approfondir Mobiliser et enrichir avec esprit critique les savoirs et compétences acquis au terme du programme de bachelier en droit. 1.1 . Mobiliser et enrichir avec esprit critique les savoirs et compétences acquis au terme du programme de bachelier en droit, dans une perspective à la fois interdisciplinaire, comparative et professionnelle. 2 Maîtriser et appliquer Maîtriser le contenu des principales règles du droit positif belge dans toutes ses branches, ainsi que celles du droit européen et du droit international, pouvoir en comparer les traits essentiels à quelques systèmes étrangers et être capable de passer de l’abstraction de la règle de droit aux faits, fussent-ils présentés de façon complexe, et inversement. 2.1 . Avoir une connaissance actuelle et une maîtrise générale des principes, règles, théories, doctrines et jurisprudences donnant corps aux différentes branches du droit, en particulier le droit fiscal et le droit comptable, le droit international privé, le droit international public, le droit des sociétés, le droit patrimonial de la famille, le droit de la sécurité sociale et le droit des sûretés. 2.4. Rechercher, lire et comprendre des documents juridiques écrits en néerlandais et en anglais. Être capable de suivre un cours universitaire dans une de ces langues. 2.6 . Etre capable de passer de l’abstraction de la règle de droit aux faits concrets, et inversement. 3 Expliquer et convaincre Passer aisément de la règle aux faits et inversement lors d’une discussion, communiquer de manière claire, précise, structurée et argumentée le fruit d’une recherche et le résultat d’une analyse juridiques et produire une étude juridique, dans le respect le plus absolu des règles gouvernant la production scientifique. 3.1 . Lors d’une discussion (colloque singulier, conversation collective, discours argumentatif, consultation écrite ou orale, etc.), être capable de passer de l’abstraction de la règle de droit aux faits concrets, et inversement.",
+        "content": "Cette unité d'enseignement fait partie d'un bloc cohérent composé de trois cours consacrés à l'assurance. Le cours de droit des assurances examine les règles communes applicables à l'ensemble des assurances terrestres, par opposition aux assurances maritimes. Le cadre légal est fourni par la partie IV de la loi relative aux assurances du 4 avril 2014. Celle-ci  comporte les dispositions communes applicables à tous les contrats d'assurance terrestre. Après une introduction visant à préciser le rôle économique et social que l'assurance joue dans les sociétés modernes en vue de discipliner le risque, quelques commentaires sont consacrés à la technique de l'assurance ainsi qu'au contrôle administratif dont cette activité fait l'objet lorsqu'elle est exercée en Belgique. Ensuite, l'essentiel du cours s'attache à l'analyse des spécificités du contrat d'assurance. Après une classification des principaux contrats d'assurance, la première partie définit les éléments essentiels du contrat d'assurance (l'assureur, le preneur, le risque, la prime, l'intérêt d'assurance). La deuxième partie examine le processus de formation du contrat d'assurance (négociations, conclusion, déclaration du risque, entrée en vigueur de la garantie'). La troisième concerne l'exécution du contrat et analyse les obligations respectives des parties contractantes (payement de la prime, déclaration des aggravations du risque, déclaration du sinistre,') ainsi que les questions particulières relatives à l'étendue de la garantie (exclusions, déchéances, faute intentionnelle, faute lourde,'). La quatrième partie analyse les différentes façons de mettre fin au contrat d'assurance (arrivée du terme, résiliation unilatérale'). Les questions diverses relatives au contentieux sont abordées dans une cinquième partie. On y examine en particulier la prescription des actions dérivant ou non du contrat d'assurance.",
+        "teaching_methods": "L'enseignement a lieu en présentiel. Il peut avoir lieu en comodal dans le respect des règles décidées en Faculté en faveur de certains publics ciblés. Comme le cours de droit des assurances assure la formation de base en la matière, le cours est enseigné de manière magistrale, ce qui n'exclut pas la participation active des étudiants sous forme de questions-réponses. Des questions sont fréquemment posées aux participants qui sont ainsi invités à participer activement au cours.",
+        "assessment_methods": "Examen oral organisé pendant la session d'examen. L'étudiant est invité à préparer deux questions par écrit penndant 15 minutes puis à présenter sa réponse devant le titulaire du cours. D'autres questions peuvent alors être posées.",
+        "other_info": "Le cours de droit des assurances suppose acquises les règles générales relatives au droit des contrats et de la responsabilité civile enseignées en baccalauréat. Il ne s'agit toutefois pas de prérequis. .Le cours peut donc être suivi par des non-juristes.",
+        "online_resources": "Il n'y a pas à proprement parler de syllabus. Un recueil de documents est cependant mis à la disposition des étudiants. Celui-ci comprend des polices d'assurance et d'autres documents utilisés dans la pratique quotidienne (avis d'échéance, quittance,'). Ces documents sont analysés au cours, ce qui permet de concrétiser l'approche. L'acquisition du Code des assurances publié aux éditions Larcier (collection Codes en poche) est vivement recommandée (cette acquisition vaut pour les trois cours du bloc optionnel). Ce dernier n'est pas disponible en ligne. Les étudiants qui souhaitent disposer d'une référence écrite sont invités à acheter le Précis de droit des assurances de Marcel Fontaine paru aux Editions Larcier. Le cours ne suit pas nécessairement la structure de ce Précis. Un recueil de polices d'assurance et documents en un volume, disponible au service cours et sur Moodle.",
+        "bibliography": "Ouvrage de référence conseillé : M. Fontaine, Droit des assurances, 4 e éd., Bruxelles, Larcier, 656 pp.",
+        "course_materials": "Code de droit des assurances (Larcier) mis à jour chaque année ainsi qu'un recueil de polices et documents.",
+        "responsible_entity": "BUDR"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-llsms2138",
+        "title": "Big data in finance",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Lassance Nathan"
+        ],
+        "teaching_language": "Anglais",
+        "other_info": "Ce cours est enseigné en anglais.  Merci de consulter la version anglaise du descriptif.",
+        "responsible_entity": "CLSM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsst1002m",
+        "title": "Informations et esprit critique - MOOC",
+        "credits": "3.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "De Kesel Myriam"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Cet enseignement aborde la question de l’esprit critique et de sa mise en oeuvre bans l’évaluation de la qualité d’une information.",
+        "content": "Le cours comporte 6 modules. Module 1 : Pourquoi développer son esprit critique ? Module 2 : Identifier ses préconceptions Module 3 :  Décoder le discours Module 4 : Évaluer la qualité des sources Module 5 : Comprendre la démarche scientifique Module 6 : Analyser les données Module 7 : Prendre conscience des limites de la science",
+        "teaching_methods": "Le cours est entièrement en ligne.",
+        "assessment_methods": "L'évaluation inclut des devoirs à réaliser en ligne dans le cadre du MOOC (Activité 1 : 50%) et une évaluation finale basée sur une analyse de cas (Activité 2 : 50%). Chacune des 2 activités doit être réussie avec une note égale ou supérieure à 10/20 pour que cette UE puisse être réussie. Le principe de la note abosrbante est appliquée à cette UE càd qu'une note d'échec dans une des activités entraîne une note d'échec pour la totalité de l'UE.",
+        "online_resources": "https://learning.edx.org/course/course-v1:LouvainX+Louv22x+1T2023/home",
+        "responsible_entity": "SC"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-linfo2275",
+        "title": "Data mining and decision making",
+        "credits": "5.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Saerens Marco"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Le cours est articulé autour de quatre thèmes, Compléments de fouille de données Prise de décision , Recherche d'information, A nalyse de liens et l'exploration du web / graphique .",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA du programme « Master ingénieur civil en informatique », ce cours contribue au développement, à l'acquisition et à l'évaluation des acquis d'apprentissage suivants : INFO1.1-3 INFO2.2-3 INFO5.2 Eu égard au référentiel AA du programme « Master [120] en sciences informatiques », ce cours contribue au développement, à l'acquisition et à l'évaluation des acquis d'apprentissage suivants : SINF1.M4 SINF2.2-3 SINF5.2 Les étudiants ayant suivi avec fruit ce cours seront capables de expliquer et appliquer des méthodes de fouille de données (data mining), tant qualitatives que quantitatives, dans le cadre de la prise de décision. avoir un jugement critique sur les méthodes de fouilles de données en fonction de leur champ d'application. maîtriser des méthodes d'extraction et recherche d'informations (information retrieval) dans de très larges collections de données, éventuellement enrichies d'une structure de liens (WEB, réseaux sociaux...). expliquer l'application de ces méthodes dans les moteurs de recherche et les systèmes de recommandation automatisée. mettre en oeuvre les algorithmes de fouille de données et d'extraction d'informations dans des logiciels de data mining ou de traitement statistique tels que S-Plus, R, SAS, Weka ou Matlab.",
+        "content": "Le contenu varie d'année en année, mais les chapitres précédés d'une * sont toujours enseignés. Les sections enseignées varient d'une année à l'autre. * Compléments de fouille de données (méthodes statistiques multivariées et données séquentielles) Analyse en composantes principales Analyse des corrélations canoniques Analyse des correspondances Modèles log-linéaires Analyse discriminante Multidimensional scaling Modèles de Markov et modèles de Markov cachés etc * Prise de décision Programmation dynamique et applications Processus de décision de Markov et l'apprentissage par renforcement Exploration / exploitation Théorie de l'utilité Modélisation des préférences multi-critères - la méthode Prométhée Raisonnement probabiliste avec des réseaux bayésiens Théorie des possibilités Théorie des jeux à deux joueurs Décisions collectives * Recherche d'information Modèle de base d'espace vectoriel Modèle probabiliste Pages Web Ranking: PageRank, HITS, etc. Modèles collaboratifs par recommandations (systèmes de recommandation). * Analyse de liens et l'exploration du web / réseaux Détection de la communauté réseau Mesures de similarité entre les noeuds Partitionnement de graphe spectral et cartographie * Modèles de réputation et de recommandation collaborative",
+        "assessment_methods": "Un seul projet important ou deux petits projets en cours d'annee comptant au total pour 6/20 à 10/20, selon l'ampleur et le nombre de ces projets (déterminé en début d'année académique, en leçon 1 ou 2). Examen oral ou écrit (selon la situation et le nombre d'étudiants): noté sur 14/20 à 10/20, selon le scénario du projet ci-dessus. L'examen est obligatoire , y compris en août. Vous êtes considéré comme absent si vous ne le passez pas. Concernant le projet/cas d'étude obligatoire et l'utilisation d'IA de type Chat GPT, assurez-vous que : \"En soumettant un travail pour évaluation, vous affirmez : (i) qu'il reflète fidèlement le phénomène étudié, et pour cela vous devez avoir vérifié les faits, surtout s'ils sont prétendus par une IA générative (dont vous devez mentionner explicitement l’utilisation en tant qu’outil de soutien à la réalisation de votre travail) ; (ii) avoir respecté toutes les exigences spécifiques du travail qui vous est confié, notamment les exigences pour la transparence et la documentation de la démarche scientifique mise en œuvre. Si l'une de ces affirmations n'est pas vraie, que ce soit intentionnellement ou par négligence, vous êtes en défaut de votre engagement déontologique vis-à-vis de la connaissance produite dans le cadre de votre travail, et éventuellement d’autres aspects de l’intégrité académique, ce qui constitue une faute académique et sera considéré comme tel\".",
+        "other_info": "Préalables : LBIR1304 ou LFSAB1105 : un cours de calcul des probabilités et de statistique mathématique, LBIR1200 ou LFSAB1101 : un cours de calcul matriciel et d'algèbre linéaire, LFSAB1402 : un bon cours de programmation Python, Un cours d'analyse multivariée (mathématiques).",
+        "online_resources": "Disponibles sur la page Moodle du cours",
+        "bibliography": "Some recommended reference books : Alpaydin (2004), \"Introduction to machine learning\". MIT Press. Bardos (2001), \"Analyse discriminante. Application au risque et scoring financier. Dunod. Bishop (1995), \"Neural networks for pattern recognition\". Clarendon Press. Bishop (2006), \"Pattern recognition and machine learning\". Springer-Verlag. Bouroche & Saporta (1983), \"L'analyse des données\". Que Sais-je. Cornuéjols & Miclet (2002), \"Apprentissage artificiel. Concepts et algorithmes\". Eyrolles. Duda, Hart & Stork (2001), \"Pattern classification, 2nd ed\". John Wiley & Sons. Dunham (2003), \"Data mining. Introductory and advanced topics\". Prentice-Hall. Greenacre (1984), \"Theory and applications of correspondence analysis\". Academic Press. Han & Kamber (2005), \"Data mining: Concepts and techniques, 2nd ed.\". Morgan Kaufmann. Hand (1981), \"Discrimination and classification\". John Wiley & Sons. Hardle & Simar (2003), \"Applied multivariate statistical analysis\". Springer-Verlag. Disponible à http://www.quantlet.com/mdstat/scripts/mva/htmlbook/mvahtml.html Hastie, Tibshirani & Friedman (2001), \"The elements of statistical learning\". Springer-Verlag. Johnson & Wichern (2002), \"Applied multivariate statistical analysis, 5th ed\". Prentice-Hall. Lebart, Morineau & Piron (1995), \"Statistique exploratoire multidimensionnelle\". Dunod. Mitchell (1997), \"Machine learning\". McGraw-Hill. Naim, Wuillemin, Leray, Pourret & Becker (2004), \"Réseaux bayesiens\". Editions Eyrolles. Nilsson (1998), \"Artificial intelligence: A new synthesis\". Morgan Kaufmann. Ripley (1996), \"Pattern recognition and neural networks\". Cambridge University Press. Rosner (1995), \"Fundamentals of biostatistics, 4th ed\".Wadsworth Publishing Company. Saporta (1990), \"Probabilités, analyse des données et statistique\". Editions Technip. Tan, Steinbach & Kumer (2005), \"Introduction to data mining\". Pearson. Theodoridis & Koutroumbas (2003), \"Pattern recognition, 3th ed\". Academic Press. Therrien (1989), \"Decision, estimation and classification\". Wiley & Sons. Venables & Ripley (2002), \"Modern applied statistics with S. Springer-Verlag. Webb (2002), \"Statistical pattern recognition, 2nd ed\". John Wiley and Sons.",
+        "responsible_entity": "INFO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2910",
+        "title": "Mémoire projet",
+        "credits": "15.00",
+        "hours": "",
+        "quadrimester": "Q1 ou Q2",
+        "teaching_language": "Français",
+        "prerequisites": "Activité d’intégration professionnelle Maîtrise des concepts de base de l'actuariat des assurances dommages (LACTU2010), vie (LACTU2030) et de personnes (LACTU2230) et des mathématiques financières (LACTU2170). Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "Travail d'application des concepts théoriques à la résolution de problèmes pratiques dans le cadre d'un projet intégré réalisé en collaboration avec une entreprise, sous la direction d'un maître de stage désigné au sein de l'institution d'accueil et sous la supervision d'un promoteur titulaire d'un cours figurant au programme ACTU2M.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.2, 1.7, 1.8, 3.1, 3.2 De manière secondaire les AA suivants : 1.3, 2.1, 2.4",
+        "content": "Le mémoire projet sera motivé par des problèmes pratiques rencontrés par l’entreprise partenaire et doit comporter une revue critique des connaissances théoriques et des méthodes actuarielles spécifiques au sujet traité. Les fondements méthodologiques du travail doivent être clairement présentés et discutés. comprendre un volet numérique original exploitant les données de l’entreprise partenaire ou basé sur des simulations.",
+        "teaching_methods": "L’étudiant ayant opté pour un mémoire projet séjourne dans une entité extérieure à l'UC Louvain pour y réaliser un travail qui lui a été proposé, sous la direction d’un maître de stage désigné parmi les membres de cette entité. Le travail aura une finalité précise et ne comportera pas nécessairement d’innovations méthodologiques. L'étudiant tiendra son promoteur régulièrement informé de l'état d’avancement de son travail. Le stage en entreprise peut être effectué en Belgique ou à l'étranger, moyennant l’accord du Jury. La recherche du stage incombe à l’étudiant souhaitant réaliser un mémoire projet. En parallèle à ses travaux personnels, l’étudiant participera activement au séminaire de méthodologie organisé par la LSBA présentant les outils de gestion de projet et d’analyse bibliographique lui permettant de structurer sa recherche.",
+        "assessment_methods": "Le mémoire projet requiert la rédaction d’un rapport détaillé faisant l’objet d’une défense orale. Le texte du rapport gagne à être concis : 50 pages maximum, hors annexes. Le rapport décrit le travail réalisé durant le stage et démontre la maîtrise par l'étudiant des aspects actuariels du sujet traité. Le mémoire projet fait l'objet d'une présentation publique. L'étudiant défend son travail devant un jury composé du promoteur, du maître de stage et d’un académique de la LSBA, à une date fixée par le secrétariat. La défense dure 45 minutes et comprend une présentation de 15 minutes suivie d'une séance de 20 minutes de questions des membres du jury et d’une délibération à huis clos au cours de laquelle les membres du jury décident de la note à attribuer au travail. Cette note tient à la fois compte de la valeur du contenu, de la qualité de rédaction du texte, de la présentation et de la défense orales. L'évaluation tient également compte de la qualité de l'intégration de l'étudiant au sein de l'entité. La langue utilisée, tant pour la rédaction du texte que pour la présentation publique, est choisie de commun accord par l'étudiant, le maître de stage et le promoteur. Cette activité peut prévoir une évaluation continue, tout au long de l’année académique. Dans ce cas, les modalités de cette évaluation seront communiquées par le promoteur en même temps que les sujets qu’il propose. Une évaluation intermédiaire pourra ainsi être effectuée par le promoteur sur base du travail réalisé dans le cadre du séminaire méthodologique. Le jury tiendra compte de cette évaluation dans la fixation de la note à attribuer au travail.",
+        "bibliography": "L’étudiant effectuera les recherches bibliographiques nécessaires à son mémoire projet sous la direction de son maître de stage, avec le soutien de son promoteur.",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2900",
+        "title": "Mémoire recherche",
+        "credits": "15.00",
+        "hours": "",
+        "quadrimester": "Q1 ou Q2",
+        "teaching_language": "Français",
+        "prerequisites": "Activité d’intégration professionnelle Maîtrise des concepts de base des assurances dommages, du niveau du cours LACTU2010, des assurances de personnes, du niveau du cours LACTU2030 et LACTU2230, et de la finance stochastique, du niveau du cours LACTU2170. Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "Travail à contenu principalement méthodologique motivé par un problème concret et réalisé sous la direction d'un promoteur, titulaire d'un cours figurant au programme ACTU2M, au sein d'une équipe de recherche de l'UCLouvain.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.2, 1.3, 1.7, 3.2 De manière secondaire les AA suivants : 1.8, 2.1, 2.2, 2.4",
+        "content": "Le mémoire recherche sera motivé par des problèmes pratiques et doit comporter une revue critique des connaissances théoriques et des méthodes actuarielles spécifiques au sujet traité. Les fondements méthodologiques du travail doivent être clairement présentés et discutés. comprendre un volet numérique original exploitant des données existantes ou basé sur des simulations",
+        "teaching_methods": "Le mémoire recherche est réalisé par un ou conjointement par deux étudiants sous la direction d’un promoteur, titulaire d’un cours figurant au programme ACTU2M. L'étudiant est invité à établir clairement avec son promoteur, dès le début de l'année académique, les modalités et la fréquence de leurs contacts. La responsabilité d'assurer des contacts suffisamment fréquents avec les personnes qui assurent l'encadrement du mémoire incombe à l'étudiant qui l'effectue. En parallèle à ses travaux personnels, l’étudiant participera activement au séminaire de méthodologie organisé par la LSBA présentant les outils de gestion de projet et d’analyse bibliographique lui permettant de structurer sa recherche.",
+        "assessment_methods": "Le mémoire recherche requiert la rédaction d’un rapport détaillé faisant l’objet d’une défense orale. Le texte du rapport gagne à être concis : 50 pages maximum, hors annexes, pour un étudiant travaillant seul, 75 pages maximum pour un travail à deux. Le mémoire recherche fait l'objet d'une présentation publique. L'étudiant défend son travail devant un jury composé du promoteur et d’un académique de la LSBA, à une date fixée par le secrétariat. La défense dure 45 minutes et comprend une présentation de 15 minutes suivie d'une séance de 20 minutes de questions des membres du jury et d’une délibération à huis clos au cours de laquelle les membres du jury décident de la note à attribuer au travail. Cette note tient à la fois compte de la valeur du contenu, de la qualité de rédaction du texte, de la présentation et de la défense orales. Lorsque le travail a été réalisé par deux étudiants, il donne lieu à une seule présentation. Le temps total alloué pour la présentation publique est alors de 60 minutes, comprenant la présentation proprement dite (30 minutes maximum pour une présentation à deux) suivie de la discussion avec les membres du jury et de la délibération. La langue utilisée, tant pour la rédaction du texte que pour la présentation publique, est choisie de commun accord par l'étudiant et le promoteur. Cette activité peut prévoir une évaluation continue, tout au long de l’année académique. Dans ce cas, les modalités de cette évaluation seront communiquées par le promoteur en même temps que les sujets qu’il propose. Une évaluation intermédiaire pourra ainsi être effectuée par le promoteur sur base du travail réalisé dans le cadre du séminaire méthodologique. Le jury tiendra compte de cette évaluation dans la fixation de la note à attribuer au travail.",
+        "bibliography": "L’étudiant effectuera les recherches bibliographiques nécessaires à son travail, avec le soutien de son promoteur.",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2150",
+        "title": "Analyse statistique des données d'assurance",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Barigou Karim"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Maîtrise des concepts de base en statistique et calcul des probabilités, du niveau des cours des programmes FSA1BA, INGE1BA, MATH1BA ou de la mineure d'accès en statistique, sciences actuarielles et science des données.",
+        "topics_covered": "Modélisations des occurrences, nombres, coûts et durées des sinistres à l’aide des modèles linéaires généralisés (GLM), des modèles additifs généralisés (GAM et GAMLSS), des modèles mixtes (GLMM) et des modèles généralisés non-linéaires (GNM).",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser • De manière prioritaire les AA suivants : 1.1, 1.2, 1.3, 1.4, 1.7, 2.1, 2.3 • De manière secondaire les AA suivants : 1.6, 2.2, 3.1, 3.3 Au terme de ce cours, les étudiants seront capables de Maîtriser les techniques statistiques classiques utilisées en assurance, y compris GLM, GAM et GAMLSS, Modèles mixtes GLMM, et GNM appliquées aux occurrences, nombres, coûts et durées des sinistres. Les appliquer à la tarification et à la gestion des produits d'assurances dommages, vie et de personnes",
+        "content": "Le cours couvre les chapitres suivants: Segmentation en assurance Modèles de dispersion exponentielle Estimation par maximum de vraisemblance Modèles linéaires généralisés (GLM) Modèles additifs généralisés (GAM) Modèles mixtes Modèles non-linéaires généralisés (GNM)",
+        "teaching_methods": "Le cours consiste en leçons théoriques illustrées de nombreux cas pratiques auxquelles l’étudiant est tenu de participer.",
+        "assessment_methods": "L'évaluation consiste d'une part en un examen écrit portant sur le cours théorique et les travaux pratiques pour lequel l'étudiant dispose des supports du cours (syllabus, slides, exercices, etc.). et d'autre part d'un projet à remettre en cours d'année.",
+        "online_resources": "Moodle website",
+        "bibliography": "Denuit, M., Hainaut, D., Trufin, J. (2019). Effective Statistical Learning Methods for Actuaries. Volume 1: GLMs and their Extensions. Springer Actuarial Lecture Notes Series.",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ldats2360",
+        "title": "Data Management I: programmation de base en SAS",
+        "credits": "4.00",
+        "hours": "15.0 h + 10.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Bugli Céline"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Concepts et outils équivalents à ceux enseignés dans l'UE LSTAT2020 Logiciels et programmation statistique de base Connaissance passive de l'anglais (évaluation via QCM en anglais).",
+        "topics_covered": "Introduction au système SAS et à la programmation en SAS/Base ' Création et manipulation de fichiers de données en SAS (importation, définition de formats, fusion de tables, manipulation, création et transformation de variables, ') ' préparation de tableaux résumés des données, production de rapports sous différents formats (texte, html, ') ' Passage de la Certification « SAS Base Programming » [ http://support.sas.com/certify/creds/bp.html ].",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 A. Eu égard au référentiel AA du programme de master en statistique, orientation générale, cette activité contribue au développement et à l'acquisition des AA suivants : De manière prioritaire : 5.3 De manière secondaire : 1.3, 2.2, 3.3 Eu égard au référentiel AA du programme de master en statistique, orientation biostatistique, cette activité contribue au développement et à l'acquisition des AA suivants : de manière prioritaire : 3.5 de manière secondaire : 1.3, 2.2, 3.3. B. Au terme de ce cours, l'étudiant maitrisera la programmation avec le module BASE du logiciel SAS et sera capable de mettre en oeuvre ses compétences sur de grandes bases de données. Il aura de plus acquis les connaissances nécessaires pour réussir la certification « SAS Base Programming ».",
+        "content": "SAS Programming 1: Essentials Use SAS Studio and SAS Enterprise Guide to write and submit SAS programs. Access SAS, Microsoft Excel, and text data. Explore and validate data. Prepare data by subsetting rows and computing new columns. Analyze and report on data. Export data and results to Excel, PDF, and other formats. Use SQL in SAS to query and join tables. SAS Programming 2: Data Manipulation Techniques understand and control DATA step processing create an accumulating column and process data in groups manipulate data with functions convert column type create custom formats concatenate and merge tables process repetitive code restructure tables.",
+        "teaching_methods": "En addition aux cours magistraux et aux exercices en salle informatique, une grande partie de la formation est réalisée de manière autonome à l'aide du syllabus, de la documentation SAS, et d'outils e-learning fournis par SAS. Les cours magistraux seront donnés en comodal (retransmission simultanée du cours donné en auditoire sur Teams) et les travaux pratiques seront donnés en présentiels uniquement.",
+        "assessment_methods": "L'examen de ce cours consiste en un examen sur ordinateur (QCM et questions de programmation, examen sur ordinateur). Le passage de la Certification SAS Base Programming à la place de l'examen de janvier est possible pour les étudiants qui le souhaitent. SAS sponsorise la première certification SAS BASE pour les étudiants inscrits au cours. La tentative suivante sera facturée à un prix réduit  (basé sur les réductions disponibles à ce moment-là).",
+        "other_info": "Une grande partie de la formation est réalisée de manière autonome à l'aide de matériel disponibles sur le site de SAS (programme SCYP). Ce cours est uniquement accessible aux étudiants inscrits (pas d'élèves libres) et possédant une bonne maîtrise de l'anglais passif.",
+        "online_resources": "https://moodleucl.uclouvain.be/course/view.php?id=8018 Ce cours est ouvert à tous les étudiants des universités belges après inscription au programme académique (étudiants en Master ou Doctorats). Néanmoins le nombre de places étant limités les inscriptions pour les étudiants autres que ceux du Master en statistique, orientation générale ou biostatistique et ceux du Master en data sciences , ne peut se faire que après accord du titulaire du cours. Ce cours est également accessible aux étudiants du Certificat Universitaire en Statistique de l'UCLouvain sous certaines conditions. Le contenu du cours n'est disponible qu'après inscription officielle.",
+        "bibliography": "Syllabus du cours en vente au début du cours. Accès à la documentation SAS.",
+        "course_materials": "Syllabus du cours en vente au début du cours. Accès à la documentation SAS.",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lstat2020",
+        "title": "Logiciels et programmation statistique de base",
+        "credits": "4.00",
+        "hours": "15.0 h + 15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Bugli Céline"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Notions de base de probabilité, de statistique descriptive, d'inférence statististique et de calcul matriciel. Concepts mathématiques: calcul matriciel (notion de matrice, opérations de bases sur des matrices, déterminant, valeur propre, vecteur propre),dérivée et intégrale, dérivées partielles, équation d'une droite. Formation de base en probabilité et statistique : statistiques descriptives (dont mesures de localisation  mesures de dispersion, graphiques), distributions statistiques, inférence (principe du test d'hypothèse, hypothèse H0 et H1, statistique de test, p-valeur  ainsi que leur interprétation), régression linéaire simple et multiple, analyse de la variance à un critère Capacité d'utiliser couramment un ordinateur personnel : manipulation de fichiers, connaissance (élémentaire) de l'utilisation de Windows, Word, Excel, Internet Explorer, ainsi que de la plate-forme Moodle.",
+        "topics_covered": "Les thèmes abordés dans les cours et exercices sont les suivants : - Etapes d'une analyse statistique de données sur ordinateur. - Classes de logiciels de statistique. - Graphisme en statistique : les graphiques utiles et leur mise en oeuvre efficace. - Utilisation de logiciels statistiques à menus pour la réalisation d'analyses statistiques de base. - Nettoyage de données. - Programmation avec le langage R. - Programmation en SAS.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 A. Eu égard au référentiel AA du programme de master en statistique, orientation générale, cette activité contribue au développement et à l'acquisition des AA suivants: de manière prioritaire : 1.3, 2.2, 2.5, 3.2, 3.3, 3.4, 4.1, 4.2, 4.4, 5.2, 5.3, 5.5 de manière secondaire : 2.3 Eu égard au référentiel AA du programme de master en statistique, orientation biostatistique, cette activité contribue au développement et à l'acquisition des AA suivants: de manière prioritaire : 1.3, 2.2, 2.5, 3.2, 3.3, 3.4, 3.5, 4.1, 4.2, 5.2, 5.4, 5.6 de manière secondaire : 2.3 B. Au terme du cours, les étudiants auront acquis une vue critique des différentes classes de logiciels de statistique disponibles sur le marché et des connaissances en graphisme statistique. Ils seront aussi capables de réaliser des analyses statistiques de base sur ordinateur à l'aide de divers logiciels (SAS, R, Excel, SPSS, JMP) et de programmer des algorithmes et manipuler des fichiers de données complexes avec des logiciels plus avancés (SAS et R).",
+        "content": "Cours magistral : Etapes d'une analyse statistique de données sur ordinateur. Introduction au différentes classes de logiciels de statistique.  Présentation graphique de données.  Introduction aux logiciels statistiques, Initiation à l'utilisation de la salle informatique. Etudes de cas d'analyse d'ensemble de données par des méthodes statistiques de base. Génération de nombres aléatoires. Problème numériques rencontrés en régression. Introduction à R et SAS. Communication entre les différents logiciels et langages (R, SAS, etc...). Exercices : Exercices de programmation en SAS et R. Etudes de cas avec les logiciels SPSS ou JMP.",
+        "teaching_methods": "Le cours est composé d'exposés magistraux étoffés de démonstrations de logiciels statistiques et de séances d'exercices d'utilisation des logiciels qui visent à donner une autonomie maximum à l'étudiant : chaque étudiant travaille à son rythme sur base de documents évolutifs.",
+        "assessment_methods": "Dans le cadre de ce cours, les étudiant·es sont évalué·es de deux manières : Activité A : l’évaluation continue certificative consistant en 2 travaux obligatoires à remettre en cours de quadrimestre selon un calendrier fixé en début de quadrimestre (10% de la note finale) Activité B : un examen écrit sur ordinateur en session (90% de la note finale) La note finale est la moyenne pondérée des notes A et B. Dans la note finale, la partie A vaut pour 2/20 et la partie B vaut pour 18/20. Détails concernant l’activité A : Les deux travaux OBLIGATOIRES sont des projets de programmation en SAS et R. Attention, les travaux obligatoires sont à réaliser pendant le premier quadrimestre suivant un calendrier qui vous sera communiqué au début de cours. En cas de non réalisation d’au moins un des travaux ou de remise tardive, une note d'absence \"A\" sera la note finale du cours. Détails concernant l’activité B : L'examen écrit, à livre ouvert et sur ordinateur consiste en 2 parties : la résolution d'études de cas de statistique de base avec le et SPSS ou JMP, des questions de programmation SAS et des questions de programmation R. La note finale de l’examen écrit sera constituée de 2 parties intégrées. La réussite de ces deux parties est indispensable pour démontrer les compétences et connaissances définies dans les acquis d’apprentissage de l’unité d’enseignement. La réussite de l’examen écrit ne peut être obtenue que moyennant la réussite à chacune des parties d’évaluation.",
+        "online_resources": "Site Moodle: https://moodleucl.uclouvain.be/course/view.php?id=7551",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2040",
+        "title": "Actuariat de la sécurité sociale et des régimes de retraite",
+        "credits": "5.00",
+        "hours": "30.0 h + 7.5 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Devolder Pierre"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Maîtrise des concepts de base en statistique et calcul des probabilités, du niveau des cours des programmes FSA1BA, INGE1BA, MATH1BA ou de la mineure d'accès en statistique, sciences actuarielles et science des données.",
+        "topics_covered": "Modèles actuariels pour la sécurité sociale. Régimes publics et privés de prévoyance. Evaluation actuarielle : répartition, capitalisation collective, prestations définies, contributions définies, comptes notionnels.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.1, 1.2, 1.8,2.3 De manière secondaire les AA suivants : 1.7,2.1,2.2,3.3 Au terme de ce cours, les étudiants seront capables de Modéliser et évaluer le coût des prestations comprises dans les régimes de sécurité sociale Comprendre et analyser les différents types de régime de retraite, publics et privés En poser l'équation d'équivalence actuarielle Calculer les contributions et les provisions à constituer dans les différentes méthodes de capitalisation individuelle Déterminer le plan de financement en capitalisation collective",
+        "content": "Première Partie : Généralités sur les régimes de retraite Chapitre 1 : Régimes de retraite Chapitre 2 : Eléments de démographie Chapitre 3 : Systèmes généraux de financement Deuxième Partie : Les régimes en capitalisation Chapitre 4 : Méthodologie générale de la capitalisation Chapitre 5 : Capitalisation individuelle Chapitre 6 : Capitalisation collective Troisième Partie : Comptabilisation actuarielle Chapitre 7 : Gains et pertes actuarielles Chapitre 8 : Normes FAS et  IAS Quatriéme partie : Les régimes de sécurité sociale en répartition Chapitre 9 : Répartition par points Chapitre 10 : Comptes notionnels Chapitre 11 : Systèmes hybrides",
+        "assessment_methods": "L'évalauation des étudiants sera basée d'une part sur un projet à remettre courant de quadrimestre ( 20% de la note ) d'autre part sur un examen écrit en session sans notes avec formulaire ( 80% de la note )",
+        "bibliography": "•Pierre DEVOLDER (2005) : Le financement des régimes de retraite (Economica) •Pierre DEVOLDER (2019) : Nouveaux horizons des retraites (Kluwer)",
+        "course_materials": "transparents sur moodle",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2210",
+        "title": "Quantitative Risk Management",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Hafner Christian"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Maîtrise de l'anglais du niveau du cours LANGL1330. Maîtrise des concepts de base en statistique et calcul des probabilités, du niveau des cours des programmes FSA1BA, INGE1BA, MATH1BA ou de la mineure d'accès en statistique, sciences actuarielles et science des données.",
+        "topics_covered": "Statistical risk analysis in financial and alternative markets. Estimation of risk measures. Empirical properties of financial time series. Volatility and dependence models. Extreme value theory.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.1, 1.2, 1.3, 1.5, 1.6, 2.3, 3.2 De manière secondaire les AA suivants : 1.7, 1.8, 2.1, 2.2, 2.4, 2.5, 3.1, 3.3 Au terme de ce cours, les étudiants seront capables de Expliquer les différents concepts de risque Identifier et analyser des dépendances entre différents risques et les modéliser Appliquer des modèles de séries temporelles pour mesurer et prédire les volatilités Utiliser la théorie des valeurs extrêmes pour calculer des mesures de risque d'événements extrêmes Implémenter des algorithmes de calcul de risque en un logiciel statistique permettant d'appliquer les concepts aux données réelles",
+        "content": "Statistical risk analysis in financial and alternative markets. Estimation of risk measures. Empirical properties of financial time series. Volatility and dependence models. Extreme value theory.",
+        "teaching_methods": "Le cours comprend des sessions théoriques et méthodologiques, ainsi que des sessions d'exercices et d'applications aux données réelles sur une plateforme statistique.",
+        "assessment_methods": "70% Examen écrit 30%: Deux projets, 15% chacun, utilisant des données empiriques et un logiciel statistique. L'utilisation d'une intelligence artificielle telle que ChatGPT n'est pas permise pour ces projets.",
+        "online_resources": "MOOC Introduction to econometrics (in french) on edx: https://learning.edx.org/course/coursev1: LouvainX+Louv14x+3T2024/home, to acquire the prerequisites in probability, econometrics and statistics Tests QCM optionnels, pas évalués, à la fin de chaque chapitre pour vérifier si l'étudiant a acquis le matériel du chapitre. R code et scripts et données des exemples montrés en classe. Exercices analytiques et numériques discutés en classe.",
+        "bibliography": "Main reference: McNeil, A., Frey, R. and Embrechts, P. (2015) Quantitative Risk Management, revised edition, Princeton UP. Complementary literature Bauwens, L., Hafner, C.M. and Laurent, S. (2012) Volatility Models and Their Applications, Handbook in Financial Engineering and Econometrics, Wiley. (in particular the first review chapter of this handbook) Franke, J., H¨ardle, W. and Hafner, C.M. (2015) Statistics of financial markets, 4th ed., Springer. Ruppert, D. (2011) Statistics and Data Analysis for Financial Engeneering, Springer. Tsay, R.S. (2010) Analysis of Financial Time Series, Wiley. Tsay, R.S. (2013) An Introduction to Analysis of Financial Data with R, Wiley.",
+        "course_materials": "transparents sur moodle",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lstat2170",
+        "title": "Time series",
+        "credits": "5.00",
+        "hours": "30.0 h + 7.5 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "von Sachs Rainer"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Concepts et outils équivalents à ceux enseignés dans les UEs LSTAT2020 Logiciels et programmation statistique de base LSTAT2120 Linear models",
+        "topics_covered": "Les principaux thèmes de cette introduction aux séries chronologiques incluent la modélisation, l'estimation et la prédiction de deux types de processus - les processus linéaires et les modèles hétéroscédastiques non-linéaires. L'approche pour les deux modélisations sera essentiellement paramétrique - l'étudiant va apprendre comment quantifier l'incertitude statistique en estimation des paramètres du modèle stochastique pour la série observée dans le problème de l'objectif ultimatif, la prédiction des valeurs futures de cette série.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 A. Eu égard au référentiel AA des programmes de master en statistique, orientation générale et orientation biostatistique, cette activité permet aux étudiants de maîtriser de manière prioritaire les AA : 1.2, 2.2, 2.3, 3.2, 3.3. B. Après avoir suivi ce cours, l'étudiant aura acquis une compréhension logique et une maîtrise opérationnelle des modèles stochastiques utilisables pour la prévision quantitative des séries chronologiques. Il sera capable d'appliquer les principes de l'analyse Box-Jenkins et la modélisation (G')ARCH aux données réelles.",
+        "content": "Modélisation des séries chronologiques : introduction Processus linéaires - modèles paramétriques simples (ARMA) Estimation et prédiction dans des modèles ARMA Méthodologie de Box et Jenkins modèle (S) ARIMA analyse des séries multivariées (bivariées) Processus non-linéaires modèles hétéroscédastiques (G)ARCH Application dans le domaine des finances",
+        "teaching_methods": "Des modèles de base pour des processus linéaires seront discutés dans la première partie du cours. L'analyse des données observées à l'aide de l'estimation des paramètres du modèle ajusté se fera essentiellement avec les méthodes selon Box-Jenkins. Un traitement en pratique sur ordinateur va accompagner le développement théorique. Dans la deuxième partie du cours, on discutera quelques éléments de la modélisation non linéaires du type ARCH et GARCH avec des applications dans le domaine des données financières. Cette partie sera inclue dans l'analyse pratique sur ordinateur (à l'aide du logiciel R). Une dernière partie du cours portera sur l'extension de l'analyse sur des séries multivariees (bivariées).",
+        "assessment_methods": "L'examen se réalise comme une interrogation orale. La réalisation d'un travail pratique sur ordinateur est prévue.",
+        "other_info": "Préalables: Une connaissance générale des concepts de base de la statistique (du niveau d'un premier cours introductif en statistique).",
+        "online_resources": "https://moodle.uclouvain.be/course/view.php?id=1960",
+        "bibliography": "Brockwell, P. and R. Davis (1996), Introduction to Time Series and Forecasting. Springer, New York Brockwell, P and R. Davis (1991), Time Series, Theory and Methods. Springer, New York Gourieroux, Ch. (1992), Modèles ARCH et applications financières. Economica, Paris",
+        "course_materials": "Transparents sur moodle",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-langl1330",
+        "title": "Anglais niveau moyen 1ère partie",
+        "credits": "3.00",
+        "hours": "20.0 h",
+        "quadrimester": "Q1 ou Q2",
+        "teachers": [
+            "Brabant Stéphanie",
+            "Coduti Charline",
+            "Dagneaux Estelle",
+            "Delghust Jean-Luc",
+            "Deneumoustier Aurélie",
+            "Desterbecq Fanny",
+            "Duelz Marie",
+            "Grommersch Claudine",
+            "Mulkers Sandrine",
+            "Paquin Yannick",
+            "Piwnik Marc",
+            "Stas Françoise",
+            "Toubeau Anne-Julie"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Avoir suivi un cours correspondant au niveau A2 supérieur du 'Cadre Européen commun de référence pour les langues' (Conseil de l'Europe).",
+        "topics_covered": "Le cours est articulé sur différents thèmes (l'éducation, la famille, la santé, la publicité, les médias, les nouvelles technologies, la science, l'environnement).",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : Au terme du cours (en fin de BAC 1), l'étudiant devra avoir atteint le niveau B1 (inférieur) du 'Cadre Européen commun de référence pour les langues' (Conseil de l'Europe) et cela dans les 3 aptitudes suivantes: compréhension à la lecture, compréhension à l'audition et expression orale.",
+        "content": "Cours d'anglais général destiné à donner aux étudiants le vocabulaire, la grammaire, les techniques de lecture et d'audition requises pour le niveau intermédiaire en BAC 2. Au terme de cet apprentissage (en fin de BAC 1), l'étudiant devra avoir atteint le niveau B1 (inférieur) du 'Cadre Européen commun de référence pour les langues' (Conseil de l'Europe) et cela dans les 3 aptitudes suivantes: compréhension à la lecture, compréhension à l'audition, expression orale.",
+        "teaching_methods": "L'apprentissage se fait en contexte sur la base de documents authentiques (compréhension à la lecture et à l'audition) et implique l'interaction des étudiants lors des activités de compréhension. Le vocabulaire et les structures de base sont exercés et consolidés par le biais d'exercices écrits et oraux.",
+        "assessment_methods": "Les étudiants en BAC 1 sont interrogés de manière suivante: Test d'entrée et test dispensatoire : Tous les étudiants doivent passer un test d'entrée sur MoodleUCL lors de la première semaine de cours. Les étudiants classés en ordre utile à ce test seront invités à présenter le test dispensatoire de la deuxième semaine.  Le test dispensatoire est du même niveau que l'examen. Il permet sur base de leurs résultats de dispenser les étudiants, qui ont le niveau requis, du cours et de l'examen final. Aucune séance de rattrapage ne sera prévue pour le test dispensatoire. Une absence au test dispensatoire, justifiée ou non, entrainera automatiquement le non-octroi de la dispense. Test oral de mi-quadrimestre : Vers la moitié du quadrimestre, les étudiants non dispensés présenteront un test oral. Cette évaluation certificative intervient dans la note finale. Examen écrit de fin de quadrimestre : L'examen écrit de fin de quadrimestre porte sur (a) les textes, les vidéos et toute la grammaire du syllabus et (b) le vocabulaire du livre \"English Vocabulary in Use\" (pre-intermediate to intermediate) de Stuart Redman, Cambridge University Press, Fourth Edition. L'évaluation continue certificative est calculée sur base du travail régulier et de la participation au cours. L'évaluation continue n'est plus prise en compte à la troisième session d'examens (août/septembre).",
+        "other_info": "Présence obligatoire au cours. Un monitorat ( ENGLISH + ) facultatif destiné aux étudiants les plus faibles est organisé toute l'année à raison d'une heure / semaine. Des séances d’Aide à la Réussite facultatives sur des aspects ciblés de la matière sont organisées en présentiel et/ou sur TEAMS durant chaque quadrimestre. ( https://moodle.uclouvain.be/course/view.php?id=4581 ) Chaque professeur a au moins une heure de réception.",
+        "online_resources": "Sur MoodleUCLouvain : - le cours LANGL1330P – English for ESPO11 Students 2024-2025 Q1 , https://moodle.uclouvain.be/course/view.php?id=9591 - le cours LANGL1330S – English for ESPO11 Students 2024-2025 Q2 , https://moodle.uclouvain.be/course/view.php?id=9776",
+        "course_materials": "Syllabus d'anglais ESPO 11 - LANGL1330 Niveau Moyen – 1° partie English Vocabulary in Use (pre-intermediate to intermediate), Stuart Redman, Cambridge University Press, 4th Edition English Grammar in Use, Raymond Murphy, Cambridge University Press,  5th Edition A partir de MoodleUCLouvain : le cours LANGL1330P – English for ESPO11 Students (Q1) ou LANGL1330S – English for ESPO11 Students (Q2)",
+        "responsible_entity": "ILV"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-llsms2226",
+        "title": "Credit and interest rate risk",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Vrins Frédéric"
+        ],
+        "teaching_language": "Anglais",
+        "other_info": "Ce cours est enseigné en anglais.  Merci de consulter la version anglaise du descriptif.",
+        "bibliography": "Slides, Excel workbook and R code - Hull, J. Options, Futures and Other derivatives. - Portrait & Poncet, Finance de marché, Dalloz, 2009. - Joshi, M. : Concepts and Practice of Mathematical Finance, Cambridge University Press, 2003. - Shreve, S. : Stochastic calculus for Finance I & II, Springer 2004.",
+        "course_materials": "Slides, Excel workbook and R code",
+        "responsible_entity": "CLSM"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2230",
+        "title": "Actuariat des assurances de personnes",
+        "credits": "7.00",
+        "hours": "45.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Denuit Michel",
+            "Lucas Nathalie"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "LACTU2030 Actuariat de l'assurance-vie.",
+        "topics_covered": "Calcul des primes et des réserves en assurances de personnes à l’aide des modèles multi-états, markoviens et semi-markoviens. Modèles à sorties multiples. Modèles hiérarchiques. Modèle actif-invalide-décédé.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.1, 1.2, 1.4, 1.7, 2.3 De manière secondaire les AA suivants : 1.3, 1.6, 1.8, 2.1, 2.2, 3.3 Au terme de ce cours, les étudiants seront capables de Comprendre les principes de base de la tarification et de la gestion actuarielle des produits d'assurance de personnes Maîtriser les techniques de modélisation de tels risques à l'aide de processus (semi-)-markoviens Les appliquer notamment à la tarification et à la gestion actuarielle de l'assurance complémentaire du risque d'accident (ACRA) de l'assurance dépendance, ou perte d'autonomie de l'assurance contre les maladies redoutées (Dread disease coverage) de l'assurance complémentaire maladie-invalidité (ACRI, Permanent Health Insurance, Income Protection) de l'assurance complémentaire couvrant les frais d'hospitalisation Calculer les réserves, valeurs de rachat et transformations de ces produits.",
+        "content": "Modèles à sorties multiples, l'assurance-vie revisitée Modèles hiérarchiques, application à l'assurance perte d'autonomie Modèle actif-invalide-décédé Assurance maladie",
+        "teaching_methods": "Le cours consiste en leçons théoriques illustrées de nombreux exemples, auxquelles l’étudiant est tenu de participer.",
+        "assessment_methods": "L’évaluation consiste en un examen écrit de deux heures portant sur l’ensemble de la matière, pour lequel l’étudiant peut disposer d’un formulaire d’une page A4 recto-verso qu’il aura lui-même rédigé ainsi que d’une calculatrice non-programmable.",
+        "bibliography": "Matériel disponible en ligne, complété si nécessaire par Denuit, M., Robert, C. (2007). Actuariat des Assurances de Personnes: Modélisation, Tarification et Provisionnement. Collection Audit-Actuariat-Assurance, Economica, Paris.",
+        "course_materials": "Syllabus, transparents, etc. sur moodle",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2310",
+        "title": "Statistical learning methods for insurance",
+        "credits": "3.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Barigou Karim"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Maîtrise de l'anglais du niveau du cours LANGL1330. LACTU2150 Analyse statistique des données d'assurance",
+        "topics_covered": "Classification and regression trees for claim propension, claim counts, claim severities and claim duration. Ensemble methods: Bagging, Random forests, Boosting. Applications to risk classification.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser • De manière prioritaire les AA suivants : 1.1, 1.2, 1.3, 1.4, 1.7, 2.1, 2.3 • De manière secondaire les AA suivants : 1.6, 2.2, 3.1, 3.3 Au terme de ce cours, les étudiants seront capables de Maîtriser les techniques statistiques basées sur les arbres CART Baggin et Random Forests Boosting appliquées aux occurrences, nombres, coûts et durées des sinistres. Les appliquer à la tarification et à la gestion des produits d'assurances dommages, vie et de personnes.",
+        "content": "Arbres de classification et de régression pour la propension aux sinistres, le nombre de sinistres, la gravité des sinistres et la durée des sinistres. Méthodes d'ensemble : Bagging, forêts aléatoires, Boosting. Applications à la classification des risques.",
+        "teaching_methods": "Le cours consiste en leçons théoriques illustrées de nombreux cas pratiques auxquelles l’étudiant est tenu de participer.",
+        "assessment_methods": "L'évaluation est basée sur un rapport individuel dans lequel les méthodes vues pendant les lectures sont appliquées à un jeu de données réelles. Le rapport sera défendu oralement.",
+        "online_resources": "Moodle website",
+        "bibliography": "Denuit, M., Hainaut, D., Trufin, J. (2020). Effective Statistical Learning Methods for Actuaries. Volume 2: Tree-Based Methods. Springer Actuarial Lecture Notes Series.",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2240",
+        "title": "Actuariat de la finance: processus avancés et ingénierie de l'assurance vie",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Hainaut Donatien"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "LACTU2030 Actuariat de l'assurance-vie LACTU2170 Valorisation financière des engagements actuariels.",
+        "topics_covered": "Processus de diffusion avec sauts et de Lévy ou volatilité stochastique. Evaluation des contrats participatifs en présence de taux d’intérêt et mortalité stochastique et couverture.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.2,1.3,1.6,2.1,2.3,2.4 De manière secondaire les AA suivants : 1.1,1.5,1.8,3.2 Au terme de ce cours, les étudiants seront capables de Construire un modèle d’actif mixte, diffusion et sauts, Lévy ou avec volatilité stochastique. Tarifier des options à l’aide de la transformée de Fourier Valoriser des contrats d’assurance vie lorsque les taux d’intérêt et la mortalité sont stochastiques Construire une politique d’investissement de couverture.",
+        "content": "Le cours comporte 2 parties respectivement consacrées aux processus de Lévy et à la valorisation de contrats d’assurance vie dans des modèles hybrides taux-actions Partie 1 : Processus de Lévy Introduction & révision des concepts de probabilités Processus de Lévy : premier contact Valorisation par simulation d’un processus de diffusion par saut (Ratchet GMAB) Estimation  d’un processus de diffusion par saut sous la mesure réelle Processus de Lévy & distributions infiniment divisibles Subordination Valorisation (contrat unit-linked avec garantie lookback) par simulation de processus Variance Gamma (VG) et Normal Inverse Gaussien (NIG) Estimation d’un VG et NIG sous la mesure réelle Mesure de probabilité par saut & décomposition de Lévy-Itô Eléments de calcul stochastique pour les processus de Lévy Part 2 : Ingénière de l’assurance vie & modèles hybrides Révision sur les modèles de taux et changements de numeraire Valorisation d’une GMAB dans un modèle Hull & White hybride Estimation du modèle Hull & White hybride & valorisation numérique d’une GMAB Heath Jarrow  Morton (HJM) model pour les taux Valorisation d’un GMAB dans un modèle hybride  HJM G2++ Taux forward et Libor forward model (LFM) Calibration du LFM sous mesure réelle Contrats d’assurance avec caps, floors dans le LFM, (Cash-Max assurance) Valorisation du GMAB dans un modèle LFM hybride Estimation du modèle LFM hybride sous P Introduction à la volatilité stochastique: le modèle d’Heston",
+        "teaching_methods": "Le cours consiste en 13 leçons théoriques auxquelles l'étudiant est tenu de participer.",
+        "assessment_methods": "L'étudiant réalisera un projet pendant le quadrimestre afin de mettre en pratique les concepts du cours. Il sera également évalué par un examen écrit pour lequel l'étudiant dispose d'un formulaire. L'enseignant se réserve le droit d'interroger oralement l'étudiant tant sur les réponses de l'examen que sur le contenu du projet.",
+        "online_resources": "Site Moodle du cours",
+        "bibliography": "Les diapositives disponibles sur moodle peuvent être complétées si besoin par Lévy processes in Finance : Pricing Financial Derivatives. Schoutens W. 2003, Wiley Series in Probability and Statistics. Interest rate models : Theory and Practice (with Smile, Inflation and Credit). Brigo D., Mercurio F. 2016. Springe Finance. Actuarial Mathematics for Life Contingent Risks. Dickson, D.C.M., Hardy, M.R., Waters, H.R. 2009, Cambridge University Press.",
+        "course_materials": "Diapositives (rédigées en anglais), sous format pdf, disponible sur Moodle.",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2160",
+        "title": "Méthodes actuarielles de segmentation",
+        "credits": "7.00",
+        "hours": "45.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Denuit Michel"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Maîtrise des concepts de base en statistique et calcul des probabilités, du niveau des cours des programmes FSA1BA, INGE1BA, MATH1BA ou de la mineure d'accès en statistique, sciences actuarielles et science des données.",
+        "topics_covered": "Segmentation en assurance : aspects techniques, réglementaires et enjeux éthiques. Sélection adverse et équité actuarielle. Méthodes des totaux marginaux et de calibration. Mesures de performance.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser • De manière prioritaire les AA suivants : 1.1, 1.2, 1.3, 1.4, 1.7, 1.8, 2.1, 2.3 • De manière secondaire les AA suivants : 1.6, 2.2, 3.1, 3.3 Au terme de ce cours, les étudiants seront capables de Comprendre les principes de base de la segmentation des risques en assurance. Analyser les dispositifs de segmentation sous l’angle technique, réglementaire et éthique. Évaluer les performances d’un dispositif de segmentation.",
+        "content": "Analyse actuarielle du cadre légal et réglementaire Techniques de segmentation a priori Réévaluation des risques en cours: crédibilité, bonus-malus et techniques de personnalisation a posteriori",
+        "teaching_methods": "Le cours consiste en leçons théoriques illustrées de nombreux exemples, auxquelles l’étudiant est tenu de participer.",
+        "assessment_methods": "L’évaluation consiste en un examen écrit de deux heures portant sur l’ensemble de la matière, pour lequel l’étudiant peut disposer d’un formulaire d’une page A4 recto-verso qu’il aura lui-même rédigé ainsi que d’une calculatrice non-programmable.",
+        "bibliography": "Matériel disponible en ligne, complété si nécessaire par Denuit, M., Charpentier, A. (2005). Mathématiques de l'Assurance Non-Vie. Tome II: Tarification et Provisionnement. Collection Economie et Statistique Avancées, Economica, Paris. Denuit, M., Maréchal, X., Pitrebois, S., Walhin, J.-F. (2007). Actuarial Modelling of Claim Counts: Risk Classification, Credibility and Bonus-Malus Systems. Wiley, New York. Denuit, M., Hainaut, D., Trufin, J. (2019). Effective Statistical Learning Methods for Actuaries Volume 1: GLM and Extensions. Springer Actuarial Lecture Notes Series.",
+        "course_materials": "Syllabus, transparents, etc. sur moodle",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ldats2350",
+        "title": "Data Mining",
+        "credits": "4.00",
+        "hours": "15.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Van Oirbeek Robin"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Concepts et outils équivalents à ceux enseignés dans les UEs LSTAT2020 Logiciels et programmation statistique de base LSTAT2120 Linear models LSTAT2110 Analyse des données LSTAT2100 Modèles linéaires généralisés et données discrêtes",
+        "topics_covered": "- Domaines d'application du data mining. - Etapes types de la méthodologie du data mining. - Echantillonnage et partitionnement de la base de données. - Prétraitement et validation des données. - Exploration, réduction et transformation des variables. - Outils de modélisation et de classification du data mining (présentation générale). - Arbres de décision. - Réseaux de neurones. - Outils de validation du modèle. - Etudes de cas.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 A. Eu égard au référentiel AA du programme de master en statistique, orientation générale, cette activité contribue au développement et à l'acquisition des AA suivants : de manière prioritaire : 1.2, 1.3, 2.1, 2.2, 2.3, 2.5, 3.1, 3.3, 5.5, 6.3, 6.4 de manière secondaire : 2.4, 3.4, 5.1, 5.2 Eu égard au référentiel AA du programme de master en statistique, orientation biostatistique, cette activité contribue au développement et à l'acquisition des AA suivants : de manière prioritaire : 1.2, 1.3, 2.1, 2.2, 2.3, 2.5, 3.1, 3.3, 6.1, 6.2. de manière secondaire : 2.4. B. Au terme du cours l'étudiant aura acquis des connaissances de base sur la méthodologie et les outils du data mining pour le traitement de grandes bases de données d'entreprises. Il aura conscience des spécificités et de l'apport du data mining par rapport à la statistique classique et sera capable de traiter des études de cas avec un logiciel dédicacé.",
+        "content": "Introduction au data mining Data et systèmes du data mining Domaines d'application du data mining Processus et méthodologie du data mining Data mining dans le domaine du Customer Relationship Management (CRM) Statistique classique et data mining Préparation des données pour data mining Principales étapes dans la préparation des données Spécification des données pour le data mining Extraction et agrégation des données Audit et exploration des données Pré-traitement des données Modélisation prédictive Arbres de décision Réseaux de neurones Validation et choix de modèles Modélisation descriptive Clustering K-means Kohonen Self-Organising Map Etudes de cas",
+        "bibliography": "1. Berry M. and G. Linoff (2000), \"Matering Data Mining, The Art and Science of Customer Relationship Management\", John Wiley. 2. Bishop, C.M. (1995), Neural Networks for Pattern Recognition, Oxford. 3. Breiman, L., Friedman, J.H., Olshen, R.A., and Stone, C.J. (1984), \"Classification and Regression Trees\", Wadsworth, Inc., Belmont, California. 4. Han J. and M. Kamber (2000), \"Data Mining: Concepts and Techniques\", Morgan Kaufmann,. 5. Hastie Tr., R. Tibshirani and J. Friedman (2001), \"The Elements of Statistical Learning -Data Mining, Inference and Prdiction\", Springer. 6. Haykin S., \"Neural Networks: A comprehensive Foundation\", Prentice Hall, 1999 7. Kohonen T. (1995), \"Self-Organizing Maps\", Springer Series in Information Sciences, Oxford University Press. 8. Piatetsky-Shapiro G. and W. J. Frawley (1991), \"Knowledge Discovery in Databases\", AAAI/MIT Press. 9. Piatetsky-Shapiro G., U. Fayyad, and P. Smith (1996). \"From data mining to knowledge discovery: An overview\", In U.M. Fayyad, et al. (eds.), Advances in Knowledge Discovery and Data Mining, 1-35. AAAI/MIT Press,. 10. Pyle D. (2000), \"Data Prepation for Data Mining\", Morgan Kaufman. 11. Richard O. Dula, Pete E. Hart and David G. Stork (2000), \"Pattern Classification\", John Wiley, Second edition. 12. Van Hulle M. (2000), \"Faithful Representations and Topographic Maps: From Distortion- to Information-Based Self-Organization\", John Willey",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2220",
+        "title": "Asset and Liability Management",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Barbarin Jérôme"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Maîtrise de l'anglais du niveau du cours LANGL1330. LACTU2170 Valorisation financière des engagements actuariels.",
+        "topics_covered": "Liquidity risk, interest rate risk, duration-convexity, immunization, interest rate derivatives, hedging strategies.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants :1.1, 1.2, 1.4, 1.8, 2.3, 2.4 De manière secondaire les AA suivants :1.6, 2.1, 2.5, 3.1 Au terme de ce cours, les étudiants seront capables de Utiliser les mesures de risque adéquates pour la gestion ALM Analyser, mesurer et anticiper le risque de liquidité Analyser et couvrir le risque de taux d’intérêt Utiliser des actifs hors bilan pour gérer le risque ALM",
+        "content": "Le but de ce cours vise à présenter les principes de base de la gestion Actif-Passif en assurance (ALM). A la fin de ce cours, les étudiants devront être capables de comprendre les principaux problèmes Actif-Passif d'une compagnine d'assurance ainsi que les outils que l'on peut utiliser pour gérer ceux-ci. Plus précisément, ce cours couvre les sujets suivants: Les actifs et les passifs d'une compagnie d'assurance et les risques associés à ceux-ci. Les outils Actif-Passif déterministes principaux: gap analysis, duration et convexité, key-rate durations et key-rate convexités,... Les outils Actif-Passif stochastiques principaux: Modélisation stochastique des actifs et des passifs, évaluation risk-neutre et delta-hedging, mesures de performance et de risque (value-at-risk, capital économique et réglementaire), portefeuille de réplication et least-square Monte-Carlo.",
+        "teaching_methods": "Le cours se compose de 10 leçons durant lesquelles les concepts théoriques seront exposés et illustrés à travers divers exemples.",
+        "assessment_methods": "L'évaluation est basée sur une étude de cas dont l'énoncé sera donné en cours d'année. Les étudiants devront alors remettre un rapport écrit qui devra ensuite être défendu oralement.",
+        "course_materials": "transparents sur moodle",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2270",
+        "title": "Aspects actuariels des normes de solvabilité et comptables",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Courtois Cindy"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "LACTU2010 Actuariat des assurances dommages LACTU2030 Actuariat de l'assurance-vie",
+        "topics_covered": "Comptabilité des entreprises d’assurance. Introduction aux normes de solvabilité européennes (Solvabilité 2) et leur transposition en Belgique. Aspects quantitatifs et rôle de l’actuaire. Aspects actuariels des normes IFRS.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.1, 1.8, 2.4, 3.2 De manière secondaire les AA suivants : 2.5, 3.1 Au terme de ce cours, les étudiants seront capables de Comprendre et interpréter les comptes d'une compagnie d'assurance au regard de l'environnement économique et réglementaire. Comprendre le cadre institutionnel, réglementaire et économico-financier (essentiellement la gestion des risques et la protection du capital de la firme) qui mène à une certaine présentation des états financiers comptables et réglementaires.",
+        "content": "Particularités du secteur de l'assurance et implications comptables. Introduction aux normes de solvabilité européennes (Solvabilité 2) et leur transposition en Belgique, aspects quantitatifs et rôle de l’actuaire Aspects actuariels des normes IFRS",
+        "teaching_methods": "Le cours consiste en leçons théoriques illustrées de cas pratiques, auxquelles l'étudiant est tenu de participer. Des travaux à domicile, lectures et interventions des étudiants sont demandées afin de préparer les leçons théoriques.",
+        "assessment_methods": "L'évaluation consiste en un examen écrit en français pour lequel l'étudiant dispose des supports du cours (slides, réglementation, etc.) en version papier. Pour la seconde session, l'examen est en principe écrit également. L'enseignant se réserve le droit d'interroger oralement si le nombre d'étudiants inscrit est limité. Les étudiants auront également un projet de groupe à rendre intervenant dans la note finale pour 25%. Si le travail n'est pas rendu, un travail de rattrapage sera proposé pour la session d'août. L'enseignant se réserve le droit d'interroger oralement l'étudiant tant à l'exament que pour son travail.",
+        "other_info": "Outre la réglementation, les transparents se basent principalement sur les livres suivants : Cerrada K., De Rongé Y., De Wolf M. (2016), Comptabilité et analyse des états financiers: principes, applications et exercices (2è édition), De Boeck. F. Couilbault, S. Couilbault-Di Tommasco, V. Huberty (2017), Les grands principes de l'assurance (13ème édition), L'argus de l'assurance E. Williot (2016), Les grands principes de la comptabilité d'assurance, L'argus de l'assurance P. Trainar, P. Thourot (2017), Gestion de l'entreprise d'assurance (2ème édition), Dunod",
+        "online_resources": "Via la plateform Moodle",
+        "bibliography": "Les transparents et documents fournis renvoient aux textes réglementaires et à la littérature spécialisée.",
+        "course_materials": "Matériel disponible en ligne",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ldats2030",
+        "title": "Statistique et data sciences avec R: Programmation avancée",
+        "credits": "4.00",
+        "hours": "15.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "El Ghouch Anouar"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Concepts et outils équivalents à ceux enseignés dans l'UE LSTAT2020 : Logiciels et programmation statistique de base L'étudiant devrait avoir suivi un cours sur les bases de R/Rstudio (Data.frame, Factor, boucles, indexation, fonctions et scripts, répertoire de travail) ainsi qu'une formation en statistique méthodologique, comprenant un cours d'introduction en probabilité (distributions classiques, lois des grands nombres, théorème central limite) et statistique (tests et intervalles de confiances, maximum de vraisemblance, régression (non-)linéaire). De préférence, l'étudiant aura également suivi un cours sur l'analyse multivariée.",
+        "topics_covered": "Ce cours propose une formation intermédiaire à R/Rstudio et aux techniques de calcul statistique les plus fréquemment utilisées en pratique. Il s'adresse aux étudiants qui ont déjà acquis les bases du calcul statistique et manipulation de données en R et souhaites développer leurs compétences dans ce domaine. Le cours s'articule autour de deux axes: 1- développer des compétences de programmation R plus avancées et 2- apprendre des méthodes statistiques modernes qui nécessitent des calculs intensifs. Ce cours présentera ces concepts de manière pratique en évitant, le plus possible, les développements techniques et en utilisant des ensembles de données du monde réel et des problèmes statistiques courants. À la fin du cours, l'étudiant devrait être capable de mettre en 'uvre ces compétences de programmation en R pour effectuer des simulations et résoudre numériquement des problèmes d'inférence ou d'optimisation dont il est difficile ou impossible de trouver une solution sous forme fermée. L'étudiant devrait aussi être capable d'écrire un rapport automatisé et dynamique en utilisant R Markdown, de diffuser ces analyses et de partager son code R sous forme d'un Package.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA du programme « Le master en statistique, orientation biostatistique», , cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants: 1.3, 2.2, 2.5, 3.3, 4.3 De manière secondaire les AA suivants: 3.2, 3.4, 3.5 Eu égard au référentiel AA du programme de « Le master en statistique, orientation générale», cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.3, 2.2, 2.5, 3.3, 4.4, 5.3 De manière secondaire les AA suivants : 3.2, 3.4, 4.1, 4.2",
+        "content": "Visualisation avec ggplot Rmarkdown Développement d’un package R sous Windows Introduction à Shiny",
+        "teaching_methods": "Le cours sera constitué - d'exposés qui présenteront la matière sur base d'exemples, - de séances d'exercices visant à mettre systématiquement en pratique les différentes notions vues au cours sur des cas bien ciblés. L'approche pédagogique utilisée privilégiera l'apprentissage actif des étudiants et tentera de respecter les orientations pédagogiques proposées par la Faculté.",
+        "assessment_methods": "Pendant la session des examens : Examen écrit assisté par ordinateur",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-ldats2310",
+        "title": "Deep learning pour l'assurance et la finance",
+        "credits": "3.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Hainaut Donatien"
+        ],
+        "teaching_language": "Français > English-friendly",
+        "prerequisites": "Maîtrise des concepts de base en statistique et calcul des probabilités ainsi que de la programmation, du niveau des cours des programmes FSA1BA, INGE1BA, MATH1BA ou de la mineure d'accès en statistique, sciences actuarielles et science des données.",
+        "topics_covered": "Réseaux de neurones artificiels, Deep learning, auto-encoder, LSTM, réseaux de convolution, tarification et prévision.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Programmer un réseau neurones artificiels de régression/classification pour la tarification ou la prévision en assurance/finance Choisir l’algorithme de calibration, le critère d’optimisation, ainsi que les contraintes, les plus appropriés aux données Implémenter un réseau de neurones réduisant la dimension d’un dataset Utiliser un réseaux pour modéliser des séries temporelles",
+        "content": "Réseaux neurones (RN), généralités RN pour l’assurance et le risque crédit : déviance et fonction de perte personnalisée, régularisation du biais. RN et haute dimension : pénalisation ridge et lasso ainsi que « embedding layers » Biais-variance : bootstrapping, randomization drop-out Interpretation des modèles: PDP, ICE, feature importance, LIME, SHAP Auto-encoders neuronaux et auto-encoders variationels Prévisions de séries temporelles avec réseaux récurrents et LSTM Régression avec réseau de convolution",
+        "teaching_methods": "Lecture avec diapositives Programmes en Python (KERAS & TENSORFLOW) Etudes de cas",
+        "assessment_methods": "L'évaluation est basée sur un rapport individuel dans lequel les méthodes vues pendant les lectures sont appliquées à un jeu de données réelles. Notez que le professeur se réserve le droit d'interroger oralement les étudiants sur le contenu de leur travail.",
+        "online_resources": "Moodle website",
+        "bibliography": "Denuit M., Trufin J. , Hainaut D. 2019. Effective statistical learning III : neural networks and extensions. Springer actuarial lectures notes.",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lsst1001",
+        "title": "IngénieuxSud",
+        "credits": "5.00",
+        "hours": "15.0 h + 45.0 h",
+        "quadrimester": "Q1 et Q2",
+        "teachers": [
+            "Merle Stéphanie",
+            "Raskin Jean-Pierre"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Projets qui répondent à une problématique (technique, économique, socio-culturel), coopération au développement, approche systémique, responsabilité, engagement, éthique, solidarité, travail en équipe, innovations, technologies appropriables, citoyenneté scientifique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Contribution aux référentiels des programmes du secteur SST Acquis d'apprentissage disciplinaires : Au terme de la formation l'étudiant sera capable de : Elaborer des propositions, sous forme de projets, appropriées à une problématique de développement qui relève de l'identification et/ou la conception d'un dispositif technique, économique, socio-culturel : 1.       Identifier et définir les questions et problématiques 1.1    Elaborer un cahier des charges 1.2    Analyser un contexte 1.3    Analyser une problématique 1.4    S'initier au concept de la systémique 1.5    Découvrir les leviers et les contraintes d'un projet 1.6    Appréhender les étapes de la vie d'un groupe 2.       Elaborer des propositions innovantes 2.1    Découvrir et mettre en oeuvre des technologies qui favorisent l'innovation et la créativité 2.2    Découvrir les technologies appropriables et durables 2.3    S'initier aux principes du développement durable et de son application dans des projets techniques 2.4    Se préparer à la mission 2.5    S'imprégner du processus itératif 3.       Évaluer la faisabilité et l'impact des propositions élaborées 3.1    Appréhender l'équilibre technologique comme venant en soutien de l'évolution humaine 3.2    Identifier les possibilités pour mesurer l'impact d'un projet 3.3    Contribuer à la visibilité des projets IngénieuxSud Acquis d'apprentissage transversaux : Développer et adopter une attitude réflexive sur des questions et problématiques de développement et y apporter des solutions appropriées 1.1    Porter un regard critique sur ses propres compétences, connaissances et sur ses propres limites 1.2    Définir les différents enjeux du projet (culturels, sociaux, économiques, techniques) par une approche systémique 1.3    Faire le bilan de la progression de sa réflexion au fil du projet 2.       Travailler en équipe, collaborer de manière efficace avec des partenaires nationaux et internationaux. 2.1    Identifier les apports et intérêts complémentaires des différents partenaires dans la problématique du projet 2.2    Planifier son travail en équipe : construire un chronogramme, un programme d'apprentissage... 2.3    Autoévaluer son implication individuelle dans le groupe et la coopération au sein du projet et de son groupe 3.       Communiquer efficacement oralement et par écrit avec des publics divers nationaux et internationaux (experts scientifiques, pairs, enseignants, formateurs...) 3.1    Utiliser des moyens appropriées pour dialoguer avec les différents publics et partenaires 3.2    Faire un retour d'expérience et proposer des perspectives futures 3.3    Rédiger un Portfolio interculturel, cohérent, structuré, rigueur scientifique et esprit critique 3.4   Adapter sa communication en fonction de ses interlocuteurs (pairs, collègues, enseignants, formateurs, experts scientifiques...)",
+        "content": "-          Les sciences et technologies au service du développement durable -          La solidarité internationale -          L'adéquation moyens-objectifs d'un projet -          L'interculturalité : regard croisé sur une même problématique scientifique -          Le développement du projet dans le cadre d'un programme de coopération au développement -          L'application de l'approche systémique dans un projet scientifique -          Le développement d'un projet concret : du CDC à l'application concrète -          Les facteurs qui influencent le projet (contexte social, pays, population, contraintes externes, planification ') -          Les leviers du changement -          Le travail en équipe et la communication (avec les partenaires du Sud, avec les personnes du groupe, avec les experts techniques et de développement, les populations concernées)",
+        "teaching_methods": "Formation hybride (en ligne et en présentiel) -          Cours : multidisciplinaires, multi-acteurs, multiculturels -          Apprentissages actifs en groupes -          Apprentissages par le projet -          Coaching par le corps scientifique et académique, des professionnels de terrain (Nord et Sud) -          Interviews, recueil et analyse d'articles'",
+        "assessment_methods": "-          Portfolio (évaluation continue) de groupe avec parties individuelles -          Présentations orales en groupe devant un panel interdisciplinaire Nous précisons que l’usage des IA génératives telles que ChatGPT, Consensus, Perplexity,... est toléré mais il doit être clairement stipulé dans le document rendu par l'étudiant·e ou le groupe d'étudiant·es. Nous insistons sur le fait que le cours IngénieuxSud fait appel à votre créativité et que ces outils ne sont pas de grande aide pour cet objectif à atteindre.",
+        "other_info": "Le cours se termine par une mission pendant l'été qui suit le projet",
+        "online_resources": "Site du cours : http://icampus.uclouvain.be/claroline/course/index.php?cid=INGESUD_EPL",
+        "bibliography": "Ouvrage de référence : -          M. Ashby, (2016), « Materials and sustainable development », Elsevier Science and technology, UK. Revue Spore : Le magazine du développement agricole et rural des pays ACP -  http://spore.cta.int",
+        "responsible_entity": "EPL"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lactu2030",
+        "title": "Actuariat de l'assurance-vie",
+        "credits": "5.00",
+        "hours": "30.0 h + 7.5 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Hainaut Donatien"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Maîtrise des concepts de base en statistique et calcul des probabilités, du niveau des cours des programmes FSA1BA, INGE1BA, MATH1BA ou de la mineure d'accès en statistique, sciences actuarielles et science des données.",
+        "topics_covered": "Tarification des produits d’assurance vie de type épargne, décès et en unités de compte. Provisionnement, rachat, réassurance et profit testing.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Eu égard au référentiel AA (AA du programme de master en sciences actuarielles), cette activité permet aux étudiants de maîtriser De manière prioritaire les AA suivants : 1.1, 1.3, 1.4, 1.7, 2.3 De manière secondaire les AA suivants : 1.8, 3.1, 3.2 Au terme de ce cours, les étudiants seront capables de Valoriser des engagements viagers en cas de vie et décès sur une ou plusieurs têtes Calculer les provisions mathématiques de produits d’assurance vie Evaluer la rentabilité de produits d’assurance vie Construire et valoriser des produits en unité de compte",
+        "content": "Le cours comporte 6 volets : Introduction à la mathématique de l’intérêt Tables de mortalité et aspects réglementaires Valorisation des primes et réserves nettes de produits vie et décès, primes uniques et périodiques Valorisation des primes et réserves brutes Gains techniques, participations bénéficiaires, réassurance et altération. Embedded value, produits unit-linked, universal life et provision pour risque de taux",
+        "teaching_methods": "Le cours consiste en 13 leçons théoriques et en 4 séances de travaux pratiques auxquelles l'étudiant est tenu de participer.",
+        "assessment_methods": "L'évaluation consiste en un examen écrit portant sur la théorie et les travaux pratiques,  pour lequel l'étudiant dispose d'un formulaire fourni par l’enseignant.",
+        "online_resources": "Site Moodle",
+        "bibliography": "Les diapositives disponibles sur moodle peuvent être complétées si besoin par Théorie et pratique de l’assurance vie. Michel Fromenteau et Pierre Petauton. 5ième édition 2017, Dunod. Actuarial Mathematics for Life Contingent Risks. Dickson, D.C.M., Hardy, M.R., Waters, H.R. 2009, Cambridge University Press.",
+        "course_materials": "Exercices (rédigés en Français) et diapositives (rédigées en Anglais), format pdf, disponible sur Moodle.",
+        "responsible_entity": "LSBA"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lmat2470",
+        "title": "Processus stochastiques (statistique)",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Français > English-friendly",
+        "prerequisites": "Les cours MAT1322 Théorie de la mesure and MAT1371 Probabilités sont un pré-requis absolu",
+        "topics_covered": "Processus, martingales et chaine de Markov en temps discret et continu. Temps d’arrêts. Processus de Poisson, mouvement Brownien et équation d’Itô",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Choisir le processus le plus adapté pour modéliser un phénomène aléatoire. D’analyser les propriétés des processus discrets et continus. De construire des processus ayant la propriété de martingale. D’analyser les conditions de stabilité d’une chaîne de Markov. D’utiliser les processus de comptage du type Poisson homogène et inhomogène. De déduire le comportement infinitésimal d’une fonction d’un mouvement Brownien à l’aide du calcul différentiel stochastique.",
+        "content": "Ce cours est une introduction approfondie aux processus stochastiques en temps discrets et continus. Partie I: Rappel de probabilités Martingales en temps discret Chaines de Markov en temps discret (nombre fini d'états) Partie II: Processus et mesures de Poisson Chaines de Markov en temps continu (nombre fini détats) Mouvement Brownien et calcul d'Itô Martingale en temps continu Processus de Markov en temps continu avec un espace continu d'états",
+        "teaching_methods": "15 lectures de 2 heures",
+        "assessment_methods": "Examen écrit",
+        "other_info": "Un premier cours en probabilités et statistiques : \"LMAT1271 Calcul des probabilités et analyse statistique\"   ou équivalent, et éventuellement \"LMAT1371 Théorie des probabilités\".",
+        "online_resources": "Support de cours disponibles sur Moodle",
+        "bibliography": "NEVEU, J., Martingales à temps discret, Masson, 1972. BREIMAN, L., Probability, Addison-Wesley, 1968. CHOW, Y.S. and M. TEICHER, Probability Theory: Independence, Interchangeability, Martingales, Springer-Verlag, 1987. CHUNG K.L., A Course in Probability Theory. Harcourt, Brace & World Inc., 1968. KARLIN S. and H.M. TAYLOR, A First Course in Stochastic Processes, Academic Press, 1975.",
+        "course_materials": "matériel sur moodle",
+        "responsible_entity": "MATH"
+    }
+]

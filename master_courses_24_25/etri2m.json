@@ -1,0 +1,995 @@
+[
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2605",
+        "title": "Capital Markets Theory",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "topics_covered": "We will start to investigate the basic concepts in a simple binomial model in discrete time before generalizing them to general dynamic markets in discrete time. Before extending the concepts to continuous time, we will introduce the main mathematical tools of stochastic calculus. We will analyze applications to pricing of options on stocks and on interest rates via change of numeraire techniques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 The student will be able to master financial concepts related to modern asset pricing theory by arbitrage. This will allow him to get the knowledge necessary to evaluate most prices of financial derivatives on stock and in-terest rates.",
+        "content": "We will present the main theoretical concepts and apply them in exercises to help for a better understanding.",
+        "other_info": "The students should have basic knowledge in probability and statistics, mathematics, and finance. The evaluation will be an oral exam. The support is made of slides and exercises with their correc-tions.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2600",
+        "title": "Dynamical Methods in Economics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Oikonomou Rigas"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Le cours clarifie au début les caractéristiques des systèmes dynamiques les plus courants en économie (systèmes différentiels ou en différence, déterministes ou stochastique), et présente quelques méthodes de résolution stan-dard. Suit alors une présentation détaillée des concepts de stabilité en mathématique et leur interprétation, ce qui débouche sur une séries de tests de stabilité, notamment asymptotique. L'absence de stabilité peut donner lieu à des dynamiques irrégulières, voire étranges, et la second partie du cours s'attèle précisément à développer des méthodes de détection de ces dynamiques complexes (notamment  autour du concept opérationnel de bifurca-tion).  Enfin le dernier tiers cours est consacré à l'optimisation dynamique : calcul des variations, contrôle opti-mal, et quelques rudiments de programmation dynamique (équations de Bellman) dans un cadre déterministe.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif de ce cours est de décrire  rigoureusement les principales méthodes d'analyse des modèles dynami-ques courants en économie. L'accent est mis sur trois champs d'analyse essentiellement : les méthodes d'étude de la stabilité des systèmes dynamiques, les méthodes de détection des dynamiques complexes (notamment chaotiques), et enfin les techniques d'optimisation dynamique (notamment de contrôle optimal). L'étudiant sera évalué principalement sur ces thèmes et devra donc en maîtriser les aspects théoriques et opérationnels les plus fondamentaux.",
+        "bibliography": "Barro, R. and Sala i Martin (2003) Economic Growth, MIT Press second edition . Lars Ljungqvist and Thomas J. Sargent (2012) Recursive Macroeconomic Theory , MIT Press, 3rd Edition Adda, J. and Cooper, R. (2003) ‘Dynamic Economics’, MIT Press.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1216",
+        "title": "Croissance et développement",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "De la Croix David",
+            "Lefèvre Mélanie"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Traits fondamentaux de la croissance économique, couvrant un double aspect : la transition vers un monde de croissance (révolution industrielle et transition démographique) et les écarts de revenus entre pays. Outre la dimension du revenu par habitant, il convient d'aborder les aspects démographiques, technologiques, de distribution du revenu et d'égalité des genres. Les différents modèles : Malthus (non-croissance), croissance néoclassique, croissance endogène. Les facteurs de la croissance et la politique de développement : le capital et l'aide au développement, la technologie, le capital humain et l'éducation, le contrôle des naissances, et les institutions (corruption, fragmentation sociale, démocratie).",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ces vingt dernières années, la compréhension des mécanismes à la base du processus de croissance et de développement s'est considérablement développée. Le cours de croissance et développement a pour objectif de rendre familier pour l'étudiant les principaux mécanismes invoqués dans la littérature, ainsi que leur contrepartie empirique. Au terme du cours, l'étudiant devra pouvoir distinguer les apports des différents modèles et discuter des facteurs sous-jacents aux écarts de revenus entre pays.",
+        "content": "Le cours aborde la question du développement économique et de la croissance sous deux angles : l'aspect temporel qui analyse le décollage et la croissance des pays développés au cours des derniers siècles ; l'aspect instantané qui s'intéresse aux écarts actuels de développement entre pays riches et pauvres. Dans une première étape nous étudierons une série de données se rapportant à l'évolution du revenu et de la population sur longue période, ainsi qu'à d'autres aspects du processus de développement. Une deuxième étape est consacrée à l'analyse des mécanismes de développement, incluant le modèle de stagnation - modèle Mathusien, le modèle de croissance classique, le modèle de croissance endogène et le modèle de croissance unifiée. Dans une troisième et dernière étape, on détaillera une série de facteurs jugés importants pour la croissance : épargne, progrès technique, éducation, institutions.",
+        "teaching_methods": "Cours ex cathedra",
+        "assessment_methods": "L'évaluation finale se fera sous forme d'examen écrit ou oral en fonction des sessions et/ou du nombre d'étudiants inscrits. Une attention particulière sera portée à vérifier la bonne compréhension des mécanismes vus au cours",
+        "other_info": "Pré-requis : Economie politique, connaissance passive de l'anglais, mathématiques niveau secondaire",
+        "bibliography": "Portefeuille de transparents I. Morris, Why the West Rules – For Now, Farrar, Straus and Giroux, 2010 Williamson, Macroeconomics, chapitre 7-8, Pearson, 2018 O. Galor, Unified Growth Theory, Princeton, 2015 W. Easterly, The Elusive Quest for Growth, Economists' Adventures and Misadventures in the Tropics, MIT Press, 2002 A. Maddison, The World Economy, A millennial perspective, OECD, 2001 G. Clark, A Farewell to Alms, Princeton University Press, 2007",
+        "course_materials": "Portefeuille de transparents",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2374",
+        "title": "Firm-Level analysis of labour and related issues",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2652",
+        "title": "Advanced developement Economics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "topics_covered": "Course description: https://directory.unamur.be/teaching/courses/ECONM652",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1228",
+        "title": "Regional Economy",
+        "credits": "5.00",
+        "hours": "30.0 h + 10.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Gomes Joseph"
+        ],
+        "teaching_language": "Anglais",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Les villes, dont les frontières économiques s'étendent bien au-delà de leur limite administrative, jouent un rôle central dans les économies modernes. Partant, l'objectif de ce cours est d'introduire les étudiants aux principes économiques de base permettant d'expliquer, d'une part, la formation des villes et, d'autre part, la répartition des activités (logement, services, transport, emplois) au sein de celles-ci. Pour cela, on mobilisera simultanément les outils de la microéconomie et l'histoire économique. Dans la mesure où les emplois sont prioritairement localisés en milieu urbain, l'étude des systèmes urbains permettra d'aborder les questions régionales. Un bref panorama des économies régionales européennes sera ensuite présenté. Enfin, on terminera en étudiant les évolutions les plus récentes qui mettent à jour une structuration nouvelle des espaces, à savoir la péri-urbanisation.",
+        "content": "Ce cours propose une introduction à la théorie (et à l'empirique) de l'économie urbaine et régionale. Parmi les sujets abordés figurent : l'urbanisation, la transition démographique, la décentralisation, les inégalités régionales et spatiales, le rôle de la géographie économique et des accidents historiques dans l'explication des inégalités, l'espace et les coûts économiques, les économies d'agglomération, ainsi que les nouveaux modèles de géographie économique.",
+        "teaching_methods": "The course will take the form of lectures that will cover theoretical and empirical aspects of the course. The professor will subsequently share all the lecture notes and slides with the students.",
+        "assessment_methods": "L'évaluation repose sur deux composantes : un devoir et un examen final. Chaque composante compte pour 50 % de la note finale. Devoir (50%) : Les étudiants devront soumettre un essai de 4 à 5 pages sur un sujet (à choisir parmi deux ou trois options proposées par le professeur). Une bibliographie non exhaustive sera mise à disposition sur Moodle. Les sujets seront disponibles en février et la date limite de soumission sera fixée vers la fin du mois d'avril (généralement le 21 avril, à confirmer par le professeur lors de la première séance). Examen final (50%) : L'examen final en juin sera un examen écrit comprenant un ensemble de questions visant à vérifier que les principaux concepts du cours ont été assimilés par les étudiants. Les étudiants auront la possibilité de repasser l’examen écrit en août si nécessaire. L'examen d'août comptera également pour 50 % de la note finale, les 50 % restants étant basés sur le devoir précédemment soumis. Il n'y a pas de deuxième session pour le devoir : tout devoir non soumis se verra attribuer une note de 0, qui sera maintenue lors de la deuxième session ! Note: Students are discouraged from using generative artificial intelligence (AI) systems in this course. However, if AI systems are used during assessments or class activities, they must adhere to the rules outlined in the faculty memorandum on this subject, which is available on the faculty’s intranet site: Note sur l’utilisation responsable des IA — Juillet 2024 .",
+        "other_info": "Prérequis du cours : Les étudiants sont censés avoir acquis avec succès les concepts fondamentaux de la microéconomie et être capables de les utiliser pour étudier de nouvelles problématiques.",
+        "bibliography": "There is no specific reference manual for this course. The professor will provide lecture notes in addition to references that can aid a deeper understanding of the issues.",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2165",
+        "title": "Seminar : Economic Theory",
+        "credits": "5.00",
+        "hours": "",
+        "quadrimester": "Q1 et Q2",
+        "teaching_language": "Français",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1333",
+        "title": "Game theory and information in economics",
+        "credits": "5.00",
+        "hours": "30.0 h + 10.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "topics_covered": "La première partie du cours donne les éléments de théorie de la décision et de théorie des jeux indispensables. La seconde partie est consacrée à l'économie de l'incertain. La troisème partie est consacrée à l'économie de l'information.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce cours s'adresse aux étudiants de l'orientation en économie du Bac ECGE (BAC3) qui veulent approfondir l'ana-lyse des problèmes économiques associés à l'incertain et à l'information en se basant sur les outils des théories de la décision et des jeux.\rLes thèmes de l'incertain et de l'information sont vastes. Nous avons choisi de traiter les plus importants durant les dix premières semaines de cours. Nous suggérons un ensemble de sujets d'intérêts pour les autres semaines : à cha-que année, des sujets spécifiques seront traités en fonction des besoins et des goûts des étudiants qui suivront le cours. Une première liste de sujets d'intérêts est suggérée. \rAu terme du cours, les étudiants devront maîtriser les concepts de théorie des jeux utilisés en économie de l'incertain et de l'information et être capables de les appliquer à des problèmes économiques concrets pour lesquels ils sont pertinents comme outils d'analyse et d'aide à la décision.",
+        "content": "The course is divided into five chapters: Chapter 1 Decision theory: preferences, utility, loteries, uncertainty, risk aversion Chapter 2 Non-cooperative games: strategic form, best replies, dominant strategy, Nash equilibria, extensive form, backward induction, subgame perfection, Chapter 3 Two-player bargaining: axiomatic solutions. Chapter 4 Cooperative games with transferable utility: characteristic function, cost sharing, core, Shapley value, normative applications. Chapter 5 Voting games: weighted majority voting games, power indices.",
+        "bibliography": "",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2653",
+        "title": "Research Seminar I : Microeconomics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "topics_covered": "Course description: https://directory.unamur.be/teaching/courses/ECONM653",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1112",
+        "title": "Mathématiques en économie et gestion I",
+        "credits": "6.00",
+        "hours": "45.0 h + 30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Lambrechts Pascal",
+            "Van Vyve Mathieu"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Partie 1 : Ensembles, Relations et Eléments de logique formelle \rEnsembles. Nombres. Relation d'ordre.  Théorèmes et méthodes de démonstration. \rPartie 2 : Géométrie Plane : lien algèbre - géométrie\rDistance dans le plan. Droites et cercles. Equations et Inéquations. \rPartie 3 : Fonctions réelles d'une variable réelle, éléments d'analyse.\rDéfinition. Graphes de fonction. Limites. Continuité. Dérivées. Applications de la dérivée. Optimisation de fonc-tions d'une variable. Fonctions puissances, polynômes,  exponentielles et logarithmes.\rDérivées d'ordre supérieur. Approximations linéaires (différentielle) et polynomiales (Taylor). Intégration. \rPartie 4 : Introduction aux fonctions de plusieurs variables\rReprésentation des fonctions à deux variables. Dérivées partielles, Applications économiques. Outils de statique comparative : Règle de dérivation en chaîne, Elasticités.\rPartie 5 : Introduction au calcul matriciel\rMatrices. Résolution de systèmes linéaires. Inverse.  Déterminant.\r\r\rL'enseignement met l'accent sur la démarche de modélisation, et sur la résolution d'applications ou problèmes en sciences économiques, politiques et sociales à l'aide de méthodes mathématiques ou de logique formelle. Il vise à développer une démarche systématique d'analyse et de résolution",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce premier cours de mathématiques est consacré principalement à l'étude des fonctions réelles à une variable réelle. Le cours introduit également à l'étude des fonctions à plusieurs variables réelles et au calcul matriciel, et parcourt une large palette de techniques et concepts mathématiques essentiels pour les praticiens de l'économie et de la ges-tion.   \rOn peut résumer les objectifs et finalités du cours à deux dimensions essentielles :\r- L'apprentissage de l'outil mathématique (ce qui vise directement un ensemble de savoirs). L'acquis devrait être une capacité raisonnable à manipuler les notions étudiées dans le cours, qui sont les notions fondamenta-les utilisées dans les modèles et méthodes quantitatifs en sciences sociales.\r- L'apprentissage d'un raisonnement formalisé et rigoureux (ce qui est plus difficile à \ratteindre et vise davantage des \" savoir faire \" de modélisation mathématique)\rLe cours a aussi une fonction de mise à niveau de la formation mathématique que les étudiants ont reçue en huma-nités. Pour une partie des étudiants, il s'agira d'une révision dans le contexte spécifique des sciences sociales, pour une autre partie, il s'agira d'une mise à niveau.",
+        "teaching_methods": "Le cours est donné sous forme - d'exposés magistraux (l'enseignant y définit les concepts, démontre les résultats, et les illustre à l'aide d'une application); pendant ces cours magistraux l'enseignant amène régulièrement les étudiants à se poser des questions liées au cours; - des séances d'exercices que les étudiants devront préparer à l'avance; les encadrants des séances seront là pour valider les solutions proposées par les étudiants et les aider à avancer sur les exercices sur lesquels ils ont été bloqués lors de la préparation.",
+        "assessment_methods": "L'évaluation consiste en un examen écrit. Un test facultatif sera proposé au cours du quadrimestre; la note du test pourra éventuellement remplacer une partie de note d'une des questions de l'examen si cela avantage l'étudiant-e. Le test et l'examen pourront contenir une partie à rédiger et/ou une partie sous forme de QCM.",
+        "other_info": "Pré-requis : Le cours n'a pas d'autres prérequis que le bagage mathématique correspondant à un programme d'au moins 4h de mathématiques en années terminales d'humanités. Evaluation : L'évaluation prend en compte les résultats des tests et les résultats d'un examen écrit.",
+        "online_resources": "Des ressources en ligne sont proposées sur la plateforme moodle de l'UCLouvain: https://moodleucl.uclouvain.be/course/view.php?id=10228 . Les étudiants sont invités à s'inscrire au cours sur cette plateforme et à y suivre les actualités.",
+        "bibliography": "Livre \"Mathématiques pour l'économie\" K. Sydsaeter, P. Hammond (collab. Arne Strom) édité par Pearson",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2701",
+        "title": "Advanced course in economics I",
+        "credits": "5.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            ". SOMEBODY",
+            "Parienté William"
+        ],
+        "teaching_language": "Anglais",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2703",
+        "title": "Advanced course in economics III",
+        "credits": "5.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Monti Francesca"
+        ],
+        "teaching_language": "Anglais",
+        "content": "This course will focus on methods in time series econometrics designed to handle “big data.” We will talk about univariate predictive regressions with many regressors, discussing various dense and sparse regularization techniques, such as principal components, ridge, lasso and others.  We will discuss Bayesian inference in the context of these regressions and explore the connection between Bayesian shrinkage and regularization. The course will then cover some of the most popular multivariate econometric models for big data. We will talk about dynamic factor models, looking at different estimation techniques, including Bayesian. The course will also cover Bayesian VARs, detailing in particular how they can be used to deal with mixed-frequency and irregularly sampled data. We will discuss applications of these models and methods to nowcasting and forecasting in macroeconomics and finance. We will also touch on machine learning for macroeconomic forecasting, if time permits.",
+        "teaching_methods": "This is an advanced course based mostly on the papers listed below. Students are expected to engage actively in the class, read the material ahead and participate in discussions. The expectation is that the class will be taught in person, subject to the evolving situation with Covid-19.",
+        "assessment_methods": "For the evaluation students will prepare and present in class an extended \"discussion\" of a relevant paper to be chosen in agreement with the teacher of the course. The final grade is awarded based on the presentation. What does \"discussion\" mean exactly? Academic conferences often feature a discussant, who speaks after the presenter of a paper. They generally summarise the paper and provide in depth comments on the paper being presented, highlighting the key contributions as well as the drawbacks and issues with the paper.",
+        "online_resources": "Slides and other relevant material will be made available via Moodle",
+        "bibliography": "The course is based on these papers and books: Antolin-Diaz, J., T. Drechsel and I. Petrella (2021) « Advances in Nowcasting Economic Activity : Secular Trends, Large Shocks and New Data » http://econweb.umd.edu/~drechsel/papers/advances.pdf Bai, Jushan, and Serena Ng. 2002. “Determining the Number of Factors in Approximate Factor Models.” Econometrica 70(1): 191–21. Giannone, D., Banbura, M. and Reichlin, L., “Large Bayesian VARs”, Journal of Applied Econometrics, 2010. Cimadomo, Jacopo and Giannone, Domenico and Lenza, Michele and Monti, Francesca and Sokol, Andrej, Nowcasting with Large Bayesian Vector Autoregressions (February 1, 2021). CEPR Discussion Paper No. DP15854, Available at SSRN: https://ssrn.com/abstract=3795250 De Mol, C., D. Giannone, and L. Reichlin (2008): “Forecasting using a large number of predictors: Is Bayesian shrinkage a valid alternative to principal components?” Journal of Econometrics, 146, 318–328. Giannone, D., M. Lenza and G.Primiceri  “Economic Predictions with Big Data: The Illusion of Sparsity, ” January 2021, forthcoming, Econometrica. https://faculty.wcas.northwestern.edu/~gep575/illusion5-1-colors.pdf Gelman, A., J. B. Carlin, H. S. Stern, and D. B. Rubin (2004): Bayesian Data Analysis, London: Chapman and Hall. Geweke, J. F. (2005): Contemporary Bayesian Econometrics and Statistics, New York: Wiley. Leamer, E. E. (1973): “Multicollinearity: A Bayesian Interpretation,” The Review of Economics and Statistics, 55, 371–380. Trevor Hastie, Robert Tibshirani, Jerome Friedman (2001). The Elements of Statistical Learning, Available at http://www-stat.stanford.edu/∼tibs/ElemStatLearn/ Reichlin, L., Giannone, D., Doz, C., (2012). \"A Quasi Maximum Likelihood Approach for Large Approximate Dynamic Factor Models\", Review of Economics and Statistics,. MIT Press, vol. 94(4), pages 1014-1024, November Schorfheide, Frank and Dongho Song, “Real-Time Forecasting with a Mixed-Frequency VAR, ” Journal of Business and Economic Statistics, Volume 33, Issue 3, p.366-380, (2015) Stock, J.H. et M.H. Watson (2016), “Factor Models and Structural Vector Autoregressions in Macroeconomics” in Handbook of Macroeconomics, Vol2A, John B. Taylor and Harald Uhlig (eds), 2016, Chapter 8, pp 415-526 Stock, James H., and Mark W. Watson (2002). \"Forecasting Using Principal Components from a Large Number of Predictors.\" Journal of the American Statistical Association 97, no. 460 (2002): 1167-179. Accessed August 27, 2021. http://www.jstor.org/stable/3085839 . Stock, J. H. and M. W. Watson (2002b): “Macroeconomic Forecasting Using Diffusion Indexes,” Journal of Business and Economics Statistics, 20, 147–162.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lcops1114",
+        "title": "Statistiques et éléments de probabilité",
+        "credits": "5.00",
+        "hours": "30.0 h + 30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Delacre Marie",
+            "Delacre Marie",
+            "von Sachs Rainer"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "1 : Statistique Descriptive. Elle regroupe les méthodes permettant de condenser les données d'un échantillon ou d'une population en quelques caractéristiques utiles ou estimations. Les distributions de fréquences, les fonctions de densité et de répartition et les caractéristiques paramétriques et non paramétriques sont abordées dans les échantillons. 2 : Introduction au Calcul des Probabilités. Selon le procédé de sélection de l'échantillon, ces méthodes assurent le lien entre la population et son échantillon. Les matières abordées sont les règles de calcul des probabilités (conditionnelles, totales, formule de Bayes,...), la quantification des événements en variables aléatoires univariées et la distribution des probabilités associées, pour des ensembles finis. Les dénombrements issus de schémas expérimentaux qui génèrent les lois uniforme discrète, binomiale et hypergéométrique sont approfondis. 3 : Introduction à l'Inférence Statistique. Pour confronter les observations avec les hypothèses émises sur les paramètres d'une population, l'inférence statistique utilise des estimateurs. Cette partie du cours analyse ces estimateurs statistiques, leurs caractéristiques et leurs qualités d'inférence. La statistique est la science qui permet de confronter les données d'un échantillon (réalité des estimations ou données numériques recueillies en observant ou en expérimentant une partie de la population) avec la théorie (énoncé d'hypothèses abstraites sur des paramètres de population). C'est la science d'analyse de données quantitatives, qui s'applique très largement à l'ensemble des sciences économiques, politiques et sociales. Ce cours est une introduction à la statistique. L'enseignement est centré sur la résolution d'applications ou problèmes d'analyse des données en sciences économiques, politiques et sociales soumis aux étudiants et visant à développer une démarche systématique de résolution : Quelle est la question en termes quantitatifs ? Quels sont les outils utiles ? Les conditions de validité sont-elles respectées ? Comment calculer ces outils ? Quelle est la réponse à la question ?",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1. Décrire et d'analyser un échantillon ; 3. Identifier les procédures simples d'échantillonnage ; 4. Etablir les caractéristiques opérationnelles des statistiques de base (moyenne, déviation, proportion) dans ces procédures ; 2. Maîtriser les bases du calcul des probabilités appliqué à des dénombrements ; 5. Préciser les qualités des caractéristiques opérationnelles de statistiques de base qui permettent l'inférence sur des paramètres de la population.",
+        "content": "Cette unité d'enseignement consiste en une introduction à la statistique. La statistique est la science qui permet de confronter les données d'un échantillon (données numériques recueillies en observant ou en expérimentant une partie de la population) avec la théorie (énoncés et tests d'hypothèses sur des caractéristiques de population). C'est la science d'analyse de données, qui s'applique très largement à l'ensemble des sciences économiques, politiques et sociales. Ce cours s'articule autour de la statistique descriptive, la théorie des probabilités et l'inférence statistique (introduction).",
+        "teaching_methods": "Le cours est donné sous forme d'exposés magistraux (présentation des concepts, d'exemples d'applications, de résolutions de problèmes) et de séances d'exercices en petits groupes (résolutions d'exercices), complétés par une participation active des étudiants sous forme de lectures, de visualisation de vidéos, de préparation d'exercices et de réalisation de tests de connaissances. Le cours Moodle LCOPS1114 constitue le site de référence. Les étudiants sont invités à le consulter régulièrement. Des canaux spécifiques de communication et d'échanges entre les étudiants et l'équipe pédagogique sont mis en place (Forum Moodle, canaux Teams, réunions Teams, ...). Cet enseignement est conçu de façon à s'adapter rapidement à l'évolution sanitaire (enseignement en présentiel, comodal ou à distance). Les étudiants sont invités à vérifier régulièrement leur horaire de cours sur ADE ainsi que les informations disponibles sur Moodle. Durant la semaine Win Week, l'enseignant présente 1) les informations générales, pédagogiques et évaluatives relatives au cours ; 2) le contenu du cours et ses objectifs ainsi que les pré-requis nécessaires. Un auto-test de connaissances des pré-requis mathématiques à la matière sera proposé et, selon leurs résultats les étudiants seront invités à participer à des séances de remise à niveau mathématique. Les étudiants participent activement aux activités présentées sur un site spécialement dédié à la mise à niveau des étudiants.",
+        "assessment_methods": "Examen final écrit (format papier ou sur ordinateur) : QCM et/ou questions numériques (avec réponses courtes) et/ou questions ouvertes en session d'examen. Ces modalités d'examen final sont identiques en seconde et troisième session.L'examen peut éventuellement être différent entre les auditoires COMU et HUSO/SOCA/SPOL.",
+        "online_resources": "MOODLEUCL : cours LCOPS1114.",
+        "bibliography": "Livre de référence : Notions de statistique, Christiane Simard, 3ème édition, Modulo Inc.",
+        "course_materials": "Livre de référence : Notions de statistique, Christiane Simard, 3ème édition, Modulo Inc Slides du cours disponibles sur Moodle Ressources diverses sur Moodle",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1115",
+        "title": "Economie politique",
+        "credits": "5.00",
+        "hours": "45.0 h + 15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Oikonomou Rigas",
+            "Vannoorenberghe Gonzague"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Le cours commence avec la présentation des grands principes de l'économie, de la manière de penser des économistes et des gains à l'échange. Le premier grand chapitre concerne le fonctionnement des marchés (demande, offre, élasticité, efficience des marchés). Le deuxième chapitre traite du rôle du secteur public (externalités, biens publics et ressources communes, système fiscal). On se tourne ensuite, dans un troisième chapitre, vers l'économie industrielle et l'analyse du comportement des entreprises dans différentes structures de marché (concurrence parfaite, monopole, oligopole). Vient alors, dans un quatrième chapitre, l'analyse de deux sujets plus approfondis : le marché du travail et le choix du consommateur. Les derniers chapitres couverts dans le cours concernent l'analyse macro-économique : l'économie réelle à long terme (production et croissance, système financier), le système monétaire, l'analyse de l'économie ouverte et les fluctuations économiques de court terme.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Les économistes ont une façon d'étudier la réalité économique et sociale qui leur est propre, et que l'on peut présenter correctement, sans entrer immédiatement dans les détails de la théorie micro-économique parfois trop abstraite du consommateur, du producteur et de l'équilibre général et des modèles théoriques en macro-économie. Ce premier cours d'économie politique offre un aperçu des principes économiques et de ce qu'il est vraiment important de connaître pour démarrer en économie. Le cours adopte une démarche inductive, au sens où le point de départ repose sur des questions qui interpellent directement les étudiants, pour au travers de ces questions présenter les concepts importants de l'économie et illustrer la particularité de la discipline. Ainsi le cours vise à répondre aux questions suivantes : Que sont effectivement les forces du marché ? Pourquoi le marché est-il, dans certaines circonstances, une organisation efficace de l'activité économique ? Quels sont les avantages et limites du libre échange ? Comment l'impôt influe-t-il sur les mécanismes de marché ? Quel est le rôle de la monnaie ? Comment expliquer la diversité des niveaux de vie dans le monde ? Quel est le rôle de l'état dans une économie de marché ? Le cours présente aussi le rôle joué par les économistes en matière de politique économique. Cette approche inductive contraste radicalement avec l'approche déductive des cours de micro et macro. Nous pensons que les deux approches se complètent harmonieusement pour ceux qui souhaitent poursuivre dans le Bac ECGE, et que l'approche inductive permet aux autres, moins enclins à la formalisation, de comprendre les grands principes de l'économie et la façon particulière de penser des économistes.",
+        "content": "Ce premier cours d'économie a pour objectif d'introduire les principes et concepts économiques de bases. Le cours est divisé en deux parties qui correspondent à deux manières, différentes mais complémentaires, d'appréhender la réalité économique: l'analyse microéconomique et l'analyse macroéconomique. La microéconomie étudie les choix individuels des agents économiques (consommateurs, travailleurs, investisseurs, entreprises,…) et le fonctionnement des marchés (biens de consommation, biens intermédiaires, travail, capitaux,…). La macroéconomie étudie l'économie dans son ensemble et les relations entre les variables économiques agrégées (croissance, chômage, inflation,...). Les diapositives utilisées au cours seront mises en ligne sur Moodle. Si vous désirez utiliser un manuel en complément, \" Introduction à l'économie \" d'Acemoglu, Laibson et List, édité par Pearson est une bonne référence.",
+        "assessment_methods": "L'évaluation finale est un examen écrit.",
+        "course_materials": "\"Economics\" by Acemoglu, Laibson et List",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1224",
+        "title": "Statistique en économie et gestion II",
+        "credits": "5.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Heuchenne Cédric"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "Partie 1 : Méthodes de base de l'analyse statistique. \rAprès une introduction au modèle statistique (modèle de population et modèle d'échantillonnage), on montre comment les distributions d'échantillonnage de statistiques sont à la base de l'inférence. Ces propriétés permettent de contrôler la précision d'estimateurs ponctuels de construire des intervalles de confiance et de contrôler les risques d'erreur dans une procédure de test d'hypothèses.\rPartie 2 : Application à quelques problèmes types. \rLes méthodes de base peuvent alors être adaptées à l'analyse de problèmes d'application utiles en économie et gestion : Analyse de la variance (comparaison de plusieurs moyennes) ; Modélisation de relation entre variables (modèles linéaires) ; Etudes de variables catégorielles y compris un test d'indépendance entre variables. On introduira aussi à travers quelques exemples simples la méthode générale d'estimation par maximum de vraisemblance qui est particulièrement utile dans des modèles plus complexes abordés dans les cours d'économétrie qui suivront. Nous considérons finalement le problème d'une mauvaise spécification du modèle et le cas d'une régression non-linéaire.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif de ce cours est d'introduire les raisonnements et les méthodes de base de l'analyse statistique, ainsi que ses applications à la résolution de problèmes statistiques simples rencontrés dans le domaine de l'économie et de la gestion. Ce cours vise aussi à enseigner la matière de base qui sera utilisée dans les cours de statistique et d'économétrie qui suivront dans le curriculum de l'étudiant.\rA l'issue du cours l'étudiant devra être capable de comprendre les mécanismes de base de l'inférence statistique et de résoudre pratiquement les problèmes standards d'estimation, de construction d'intervalles de confiance et de tests d'hypothèses sur des moyennes, variances et proportions. Il sera également capable de modéliser des relations entre variables par des modèles de régression linéaire simple, avec une introduction aux aspects multivariés.",
+        "content": "Modèle statistique et distribution d'échantillonnage, Estimation ponctuelle, Estimation par intervalle, Tests d'hypothèses, Comparaison de moyennes, Modèle linéaire, y compris notation matricielle, Méthodes d'estimation y compris Maximum de vraisemblance, Propriétés d'estimateurs, Inférence dans la régression simple, Régression nonlinéaire Méthode : Le cours est donné sous forme : - d'exposés magistraux (sur base de vidéos préalablement visionnées par les étudiants, l'enseignant réintroduit et réinterprète les concepts avant d'engager le débat avec les étudiants qui répondent à des questions préparées -résolution autonome de problèmes-), - de séances d'exercices (l'enseignant y soumet des applications/problèmes aux étudiants et propose une démarche de résolution).",
+        "teaching_methods": "Voir introduction du cours LECGE1224 sur moodle. Mode présentiel et distanciel combinés",
+        "assessment_methods": "Evaluation en première session : deux cas de figures 1) Si l'étudiant est interrogé pendant l'année (système d'interrogation aléatoire lors de chaque cours), il obtient une note d'évaluation continue représentant 25% de la note finale de première session, les 75% restants correspondant à l'examen écrit final (QCM) programmé durant la première session d'examens. 2) Si l'étudiant n'est pas interrogé pendant les cours, 100% de sa note de première session correpondent à l'examen écrit final (QCM) programmé durant la première session d'examens. Evaluation en seconde session 100% de la note de seconde session correspondent à l'examen écrit final (QCM) programmé durant la seconde session d'examens. Langue de l'évaluation : français",
+        "other_info": "Pré-requis : LECGE1114 Statistique en économie et gestion I ou cours jugé équivalent.",
+        "online_resources": "Cours LECGE1224 sur moodle.",
+        "bibliography": "Mathematical Statistics with Applications, 7ème édition. Wackerly, Mendenhall, Scheaffer.",
+        "course_materials": "vidéos et documents (transcriptions, exercices, démonstrations sur logiciel) relatifs sur moodle/videos and related documents (transcriptions, exercices, software demonstrations) on moodle",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2122",
+        "title": "Advanced Macroeconomics II : Growth, Dynamics and Policy",
+        "credits": "5.00",
+        "hours": "30.0 h + 6.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Oikonomou Rigas"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "The following topics will be covered :\r\rPart I: The overlapping generations approach to capital accumulation\rCompetitive equilibria & Optimality \rPolicies: pensions, public debt, fiscal policy\rEducation, altruism\rPart II: Infinite horizon models of economic growth\rEndogenous growth theory, an introduction\rTechnological progress, the \"embodiment controversy\" and growth\rSchumpeterian models of economic growth and fluctuations",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 The aim of this course is to teach to the students how and when to use the building blocks of modern growth theory. These are taken from two different approaches: the first one considers that agents have an infinite hori-zon. The second one analyzes the case of an economy in which agents have finite lives ( overlapping genera-tions models ).",
+        "bibliography": "Main TextBook- Lars Ljungqvist and Thomas J. Sargent (2012) Recursive Macroeconomic Theory , MIT Press, 3rd Edition Dynamic Programming: Solving the Stochastic growth model through value function Iteration. Slides and Lecture Notes and the Ljungqvist-Sargent book are the main sources of reading. Models of Heterogeneous agents without aggregate risk: Theory *Aiyagari, R.   ‘Uninsured Idiosyncratic Risk and Aggregate Saving’ The Quarterly Journal of Economics, Vol. 109, No. 3. (Aug., 1994), pp. 659-684 Huggett Mark (1993) ‘ The Risk-Free Rate in Heterogeneous-Agent Incomplete-Insurance Economies ’ Journal of Economic Dynamics and Control 17, 953- 969 Lars Ljungqvist and Thomas J. Sargent (2012) Recursive Macroeconomic Theory , MIT Press, 3rd Edition Models of Heterogeneous Agents without Aggregate Risk: Applications Wealth Distribution: *Huggett Mark (1996) ‘ Wealth Distribution in Life-Cycle Economies ’, Journal of Monetary Economics 38, 469-94 *De Nardi M-C. ‘Wealth Inequality and Intergenerational Links’ . Review of Economic Studies, July 2004, vol. 71, n. 3, pages 743-768 *Castaneda, A. Diaz- Jimenez, J and Rios Rull,J (2003). ‘Accounting for the US Earnings and Wealth Inequality’  Journal of Political Economy, 4 818-857 *Cagetti, M. de Nardi M-C. (2006) Entrepreneurship, Frictions, and Wealth Journal of Political Economy, October, vol. 114, n. 5, pages 835-870 Income and Consumption Inequality. *Storesletten, Kjetil & Telmer, Christopher I. & Yaron, Amir, 2004. \" Consumption and risk sharing over the life cycle ,\" Journal of Monetary Economics , Elsevier, vol. 51(3), pages 609-633, April. Kaplan, G. and Violante, G. How Much Consumption Insurance Beyond Self-Insurance? American Economic Journal: Macroeconomics, Vol. 2(4), October 2010, 53-87 *Heathcote, J. Storesletten and Violante, G. The Macroeconomic Implications of Rising  Wage Inequality in the United States, Journal of Political Economy , University of Chicago Press, vol. 118(4), pages 681-722, 08. Fiscal Policies: Taxation of Heterogeneous Households. Capital and Labor Taxation. Juan Carlos Conesa and Dirk Krueger (2006). On the optimal progressivity of the income tax code. Journal of Monetary Economics, 53(7):1425-1450. *Juan Carlos Conesa, Sagiri Kitao, and Dirk Krueger. Taxing Capital? Not a Bad Idea after All! American Economic Review, 99(1):25-48, March 2009. *David Domeij and Jonathan Heathcote. On the Distributional Effects of Reducing Capital Taxes. International Economic Review, 45(2):523{554, 2004. Andres Erosa and Martin Gervais. Optimal Taxation in Life-Cycle Economies. Journal of Economic Theory, 105(2):338-369, 2002. Nezih Guner, Remzi Kaygusuz, and Gustavo Ventura (2012 a). Taxation and Household Labor Supply. Review of Economic Studies, 79(1):1-37, January Nezih Guner, Remzi Kaygusuz, and Gustavo Ventura (2012 b). Taxing women: A macroeconomic analysis. Journal of Monetary Economics, 59(1):111-128, January Davila, J., Jong J.H., Krusell, P. and  Ríos Rull, J.V. Constrained Efficiency in the Neoclassical Growth Model with Uninsurable Idiosyncratic shocks Econometrica . 5. Models of Heterogeneity with Aggregate Risk.  Theory and Applications a) Theory Krusell, P., Smith Jr., A.A., 1998.  Income and Wealth Heterogeneity in the Macroeconomy, Journal of Political Economy Vol. 106, No. 5 (October 1998), pp. 867-896 b) Welfare Costs of Business Cycles. De Santis, M., 2007, Individual Consumption Risk and the Welfare Cost of Business Cycles, American Economic Review 97(4): 1488-1505. Krusell, P., Mukoyama  T.,  Sahin, A., and Smith A. J (2009)  ‘Revisiting the welfare effects of eliminating business cycles’ Review of Economic Dynamics 12 (2009) 393–404 Krusell, P., Smith Jr., A.A., 1999. On the welfare effects of eliminating business cycles. Review of Economic Dynamics 2, 245–272. c) Hours and Labor Wedges. Chang Y and Kim S-B (2007). Heterogeneity and Aggregation: Implications for Labor-Market Fluctuations , American Economic Review, 97 (5), 1939-1956.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1334",
+        "title": "Seminar : International Trade and environment",
+        "credits": "5.00",
+        "hours": "30.0 h + 10.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Vannoorenberghe Gonzague"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Le séminaire sera consacré à l'étude théorique et empirique du commerce international. Nous aborderons de manière interactive un nombre de questions liées aux grands enjeux du commerce international, par exemple l'impact du commerce sur la croissance, le développement ou les inégalités. Les étudiants utiliseront des méthodes empiriques, avec un travail sur des bases de données standards de commerce international, et relieront leurs résultats empiriques aux théories du commerce existantes.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le séminaire a pour objectifs d'apprendre aux étudiants : (i) à gérer des bases de données et en distiller l'information essentielle, (ii) à présenter des statistiques de façon claire et efficace, (iii) à développer une argumentation économique précise et cohérente, (iv) à travailler collectivement et présenter oralement ces travaux et (v) à rédiger dans un anglais de qualité.",
+        "content": "Lors de ce séminaire, les étudiants écrivent un rapport analysant les flux de commerce d’un pays, évaluent les bénéfices et les risques associés à ces flux et tirent les conclusions de leur analyse en termes de recommandations de politiques économiques pour le pays. Le travail a une importante composante quantitative et requiert que les étudiants analysent de larges bases de données à l’aide d’un logiciel statistique. Les étudiants doivent montrer leur capacité à appliquer un raisonnement économique rigoureux pour tirer les conclusions et les recommandations de politique économique de leur analyse. A travers leurs travaux, les étudiants seront exposés aux principales théories du commerce international et aux principaux débats contemporains de politique commerciale.",
+        "teaching_methods": "Après quelques cours magistraux et sessions d’introduction à Stata, les étudiants travaillent en groupe durant le semestre avec deux rendez-vous obligatoires avec le professeur pour obtenir des commentaires sur l’avancée de leurs travaux. A la fin du semestre, tous les groupes rendent leur rapport et le présentent devant le professeur et les autres étudiants du cours.",
+        "assessment_methods": "L’évaluation des étudiants se fait principalement sur la base des rapports qu’ils écrivent en groupe et sur la présentation de ces rapports. La participation aux meetings intermédiaires avec le professeur et aux présentations en fin de semestre est obligatoire. La participation active lors des cours sera aussi prise en compte dans la note finale. Les modalités exactes de l’évaluation seront annoncées sur la plateforme Moodle en début de semestre.",
+        "other_info": "Des connaissances préalables en microéonomie et en économétrie sont recommandées. La communication entre les élèves et le professeur passe par la plate-forme électronique Moodle. Vous devez s'inscrire au cours sur Moodle pour avoir accès aux documents en ligne, comme les notes de cours, les diapositives, ou tout matériel additionnel.",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2163",
+        "title": "Seminar : Econometrics",
+        "credits": "5.00",
+        "hours": "",
+        "quadrimester": "Q1 et Q2",
+        "teaching_language": "Français",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2621",
+        "title": "Advanced Industrial Economics - KU Leuven",
+        "credits": "5.00",
+        "hours": "",
+        "quadrimester": "> Horaire",
+        "teaching_language": "Français",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1226",
+        "title": "Séminaire : Problématiques du marché du travail",
+        "credits": "5.00",
+        "hours": "30.0 h + 10.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Dejemeppe Muriel"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Les thèmes retenus sont choisis de façon à faire appel aux notions déjà acquises par les étudiants dans les cours antérieurs en économie. Il s'agit d'aborder des questions d’actualité dans le domaine du marché du travail dont l'enjeu socio-économique est clair et donc motivant: les nouvelles formes de travail, les pénuries de main d’œuvre, la discrimination à l’embauche, l’impact des formations sur l’accès à l’emploi, les inégalités salariales, etc.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le but de l'atelier est de faire travailler les étudiants sur des thèmes précis, afin de leur apprendre à développer une argumentation économique cohérente, à lire et synthétiser, à argumenter et rédiger et enfin à exposer une argumentation. Comme le nombre d'étudiants rendra un travail en groupe probablement nécessaire, la capacité à travailler collectivement sera aussi développée par l'atelier.",
+        "content": "L’objectif du séminaire est d'amener les étudiants à réfléchir de façon argumentée sur une problématique d’actualité dans le domaine du marché du travail. Faut-il renforcer la migration légale pour raison économique pour faire face aux pénuries de main d'oeuvre ? L’ouverture des magasins le dimanche crée-t-elle de l'emploi ? Uber permet-il de créer de nouveaux emplois ? Quelle est l’ampleur de la discrimination raciale à l’embauche ? Les bureaux en open space améliorent-ils la productivité des employés ? Le phénomène de la \"grande démission\" est-il à l'oeuvre en Belgique ? Par groupe, les étudiants réalisent deux productions complémentaires : 1) Un travail écrit (de 3 à 5 pages) qui propose une analyse économique de la question de recherche posée (choisie par le groupe) à partir d'articles publiés dans la littérature économique. 2) Un reportage audio (+/- 2 minutes audio) dont l'objectif est de transmettre le message essentiel du travail écrit, de façon accrocheuse et convaincante. Pour cela, vous devez vous appuyer sur l'analyse économique développée dans votre travail, tout en étayant vos propos par le témoignage d'un acteur du terrain et par celui d'un expert de la problématique posée.",
+        "teaching_methods": "Durant le quadrimestre, des séances obligatoires en salle sont organisées. Lors de ces séances, l'enseignant donne des consignes aux étudiants concernant la réalisation de leur travail écrit et audio, et commente des notes intermédiaires obligatoires avec l'aide d'un assistant. Pour favoriser les échanges entre les groupes, les étudiants sont aussi invités à lire et commenter les notes produites par d'autres groupes. Par ailleurs, des discussions sont organisées avec l'ensemble des étudiants et l'enseignant sur des problématiques transversales à l'ensemble des groupes. Les deux dernières séances du séminaire sont consacrées à l'écoute et la discussion des reportages audio. Afin d'aider les étudiants à réaliser le reportage audio, ils reçoivent les conseils avisés d'un journaliste économique lors d'une séance du séminaire. Concernant les aspects pratiques, des membres du Radiokot forment les étudiants à un logiciel de montage audio (Audacity) lors d'une autre séance du séminaire. L'assistant organise également des séances facultatives de questions/réponses avec les étudiants durant le quadrimestre. Si la situation sanitaire se détériore, ces modalités d'enseignement pourront évoluer vers un enseignement exclusivement à distance.",
+        "assessment_methods": "L'évaluation individuelle porte sur 20 points et est réalisée à la session de juin. L'étudiant qui n'a pas participé régulièrement aux séances obligatoires du séminaire* obtient une cote de présence (0/20). L'étudiant est évalué sur la base (1) de sa présence et participation active lors des séances du séminaire, (2) de la qualité du travail écrit de son groupe et (3) de la qualité du reportage audio de son groupe. S’il apparaît une différence évidente d’implication entre les membres d’un même groupe pour la réalisation du travail, une évaluation différenciée au sein de celui-ci sera appliquée pour les points (2) et (3). Une seconde session au mois d'août n'est possible que pour l'étudiant qui a participé régulièrement aux séances obligatoires du séminaire*. Les modalités d'évaluation à la session d'août sont les mêmes que pour celles de juin. L'utilisation des intelligences artificielles lors des épreuves d'évaluation de ce cours est balisée par les règles mentionnées dans la note facultaire à ce sujet et duisponible sur le site intranet de la faculté dans les informations à destination des étudiant.es. * Une participation régulière aux séances obligatoires du séminaire signifie que l'étudiant n'a pas plus de 2 absences non dûment justifiées.",
+        "other_info": "Pour participer au séminaire, il est vivement souhaité, mais pas obligé, d'avoir validé les crédits du cours d'économie politique (LECGE1115) et de suivre le cours de macroéconomie (LECGE1212).",
+        "online_resources": "Voir Moodle UCL ( http://moodleucl.uclouvain.be/ ).",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2121",
+        "title": "Advanced Macroeconomics I : Intertemporal Behavior and Business Cycles",
+        "credits": "5.00",
+        "hours": "30.0 h + 6.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Pensieroso Luca"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "ECON2021 Fluctuations économiques et fondements de la politique macro (ou identique)",
+        "topics_covered": "Le cours couvrira les modèles importants pour la politique économiques, comme les modèles avec imperfections sur le marché du travail et des biens, ainsi que les modèles avec des rigidités sur les prix. Le cours couvre également les applications de l’équilibre général dynamique aux modèles stochastiques, comme les modèles RBC (real business cycle) ou néo-keynésiens. Enfin, nous étudierons comment simuler tous ces modèles.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L’objectif de ce cours est de couvrir à un niveau avancé les principaux sujets de la théorie macroéconomique moderne et de l’équilibre général dynamique. Nous regarderons en particulier les modèles relevants pour la politique économique. Les étudiants devront également être capables d’appliquer et de simuler les modèles étudiés.",
+        "bibliography": "The textbook is: Wickens M. , Macroeconomic Theory. A Dynamic General Equilibrium Approach , Princeton University Press, 2011. Useul complements to the textbook are: Benassy J. P. , Macroeconomic Theory , Oxford University Press, 2011. Blanchard O. J. and S. Fisher , Lectures on Macroeconomics , The MIT Press, 1989. Heijdra B. J. , Foundations of Modern Macroeconomics , Oxford University Press, 2009. McCandless G. , The ABCs of RBCs , Harvard University Press, 2008. Romer D. , Advanced Macroeconomics , McGraw-Hill, 2019. An advanced undergraduate textbook in Macroeconomics: Chugh S. K. , Modern Macroeconomics , The MIT Press, 2015. Additional readings about the open economy: Obstfeld M. and K. Rogoff , Foundations of International Macroeconomics , The MIT Press, 1996. Uribe M. and S. Schmitt-Grohé , Open Economy Macroeconomics , Princeton University Press, 2017. Additional readings about DSGE Models Chari V. V., P. J. Kehoe and E. R. McGrattan (2007), “Business Cycle Accounting”, Econometrica , 75, 781-836. Galì J. , Monetary Policy, Inflation and the Business Cycle. An Introduction to the New Keynesian Framework , Princeton University Press, 2015. Farmer R. E. A. , Macroeconomics of Self-fulfilling Prophecies , The MIT Press, 2002. Nicoletti, G. and L. Pensieroso (forthcoming) , “Exogenous fluctuations: DSGE models”, mimeo . Smets F. and R. Wouters (2003) , “An Estimated Dynamic Stochastic General Equilibrium Model of the Euro Area”, Journal of the European Economic Association , 1, 1123-1175. Walsh C. E. , Monetary Theory and Policy , The MIT Press, 2010. Additional readings about economic growth Barro R. J.  and X. Sala-i-Martin , Economic Growth, The MIT Press, 2004 Additional readings about the Great Depression Cole, H. L., and L. E. Ohanian (1999): “The Great Depression in the United States from a Neoclassical Perspective,” Federal Reserve of Minneapolis Quarterly Review , 23, 2–24. Kehoe, T. J., and E. C. Prescott (2002): “Great Depressions of the 20th Century,” Review of Economic Dynamics , 5, 1–18. Pensieroso, L. (2011): “Real Business Cycle Models of the Great Depression”, Cliometrica , 5, 101-119. Pensieroso L . , and R. Restout (forthcoming), “The Gold Standard and the international dimension of the Great Depression”, Macroeconomic Dynamics . Published online 2023:1-25. doi:10.1017/S1365100523000494 The models we are dealing with in the class can all be solved numerically and simulated using the (free) code package Dynare. You can download Dynare here: https://www.dynare.org/download/ . In case you have an Apple computer, you need to download the MacOS version. To run Dynare code you need to install the software Matlab.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-letri2800",
+        "title": "Essay paper",
+        "credits": "15.00",
+        "hours": "",
+        "quadrimester": "Q1 et Q2",
+        "teaching_language": "Anglais",
+        "topics_covered": "L'Essay Paper est un premier travail personnel sur une question de recherche en économie quantitative. Il a pour but de développer l'autonomie et la créativité de l'étudiant face à une question ouverte en économétrie, ainsi que de lui donner les bases nécessaires pour l'écriture scientifique.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2167",
+        "title": "Séminaire économique de Louvain",
+        "credits": "5.00",
+        "hours": "",
+        "quadrimester": "Q1 et Q2",
+        "teaching_language": "Français",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2111",
+        "title": "Advanced Microeconomics I: Individual Decision and General Equilibrium",
+        "credits": "5.00",
+        "hours": "30.0 h + 6.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Panin Amma"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Ce cours, comme le deuxième cours obligatoire en microéconomie, vise à fournir aux étudiants les techniques essentielles de la microéconomie, c'est-à-dire la théorie de la décision individuelle et la théorie de jeux. En ce qui concerne la théorie de la décision, on mettra l'accent premièrement sur l'équivalence des approches basés sur les choix et sur les préférences pour la modélisation des choix individuels, et deuxièmement sur la dérivation des conséquences des hypothèses de rationalité  à partir d'axiomes. En théorie de jeux, on mettra l'accent sur la modélisation de situations d'interactions stratégiques et sur les techniques de base pour l'analyse de ces situations pour obtenir les stratégies d'équilibre.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 On expliquera aux étudiants les principes essentiels des théories qui expliquent les décisions prises par des individus rationnels, ainsi que le résultat de l'interaction de ceux-ci, c'est-à-dire les theories de la decision et de jeux. A l'issue du cours les étudiants seront capables de résoudre des problèmes d'un niveau de difficulté intermédiaire dans ces deux domaines, ce qui comprend la maitrise des techniques mathématiques nécessaires. Les étudiants pourront donc utiliser après ce cours les théories de la décision et de jeux pour formaliser des situations d'interactions sociales.",
+        "content": "Ce cours se déroule en 13 séances magistrales de deux heures et 6 séances d'exercices. Le contenu du cours est : théorie des décision économiques et la loi de la demande, la théorie classique de la demande et l'approche duale de la demande, décisions rationnelles en incertitude et aversion au risque, équilibre général et les deux théorèùes fondamentaux du bien-être.",
+        "assessment_methods": "1) L'évaluation principale se fait lors d'un examen à livre fermé. L'examen porte sur toute la maitère. 2) Des points bonus peuvent être obtenus par les étudiants durant le quadrimestre en fonction de la participation active aux cours et exercices donnés par les enseignants.",
+        "other_info": "Une formation de base en économie et mathématiques est réquise.\r\r\r\rExamen écrit, sur la théorie et les exercices\r\r\rA. Mas-Colell, M. D. Whinston and J. R. Green, 'Microeconomic theory', O.U.P.: New York - Oxford, 1995.\r\r\rLes séances d'exercices seront à charge d'un assistant.",
+        "bibliography": "A. Mas-Colell, M. D. Whinston and J. R. Green, 'Microeconomic theory', O.U.P.: New York - Oxford, 1995.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2608",
+        "title": "Advanced Labour Economics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            ". SOMEBODY",
+            "Vandenberghe Vincent"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "It is widely accepted that the labour market does not function as a standard purely competitive market. The course discusses why actual labour markets are far more complex than this convenient reference model. It ad-vances four main channels through which the relationship between wages, employment and unemployment is affected (1) employees bargaining power (due to unionisation, turnover costs or investment); (2) risk aversion; (3) imperfect information; (4) monopsony power; (5) \"social norms\". The courses therefore cover a wide spec-trum of theories. Within the time available, it is only possible to provide an introduction to these theories.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 The objective of the course is to develop graduate students' abilities in acquiring a better understanding of the functioning of labour markets on the basis of the recent literature of the profession. This literature is usually formulated in terms of formal mathematical models. The lectures aim at helping the student to use and under-stand the intuition of these formal models as tools for the analysis of the labour market. Moreover, they endeav-our to foster the students' understanding of the methodological issues involved when going from the theoretical analysis to the empirical testing of hypotheses formulated by theory.",
+        "content": "It is widely accepted that the labour market does not function as a standard purely competitive market. The course LECON2608 discusses why actual labour markets are far more complex than this convenient reference model. It explores the main channels through which the relationship between wages, employment and unemployment are affected: - heterogeneity, - search costs, - imperfect information; - \"social norms\" including prejudices/stereotypes. The courses, therefore, cover a wide spectrum of theories* but also their assessment using advanced micro-econometric methods. ------------------------------ *due to time constraints, it is only possible to provide an introduction to some of them.",
+        "teaching_methods": "The course consists of lectures on the above-listed theories and assignments,  some of them implying econometric analysis of microdata.",
+        "assessment_methods": "End-of-term evaluation + continuous evaluation 1. The course material of the lectures will be evaluated on the basis of a written final exam. 2. Occasionally, there will be a homework assignment. Typically, you will have to solve (an) exercise(s) or quantify the magnitude of a predicted outcome. You could also have to read a paper. Grading is based on the following weights: Homework assignments: 3/20 Final/end-of-term exam: 17/20 You are allowed to present the final exam twice during a single academic year.",
+        "other_info": "Math: A course in algebra and some familiarity with calculus, especially, with the concept of derivatives. Economics: Intermediate microeconomics and econometrics Although it is not a prerequisite, some students have already followed an introduction to labour economics at the undergraduate level or in a professional master's (e.g. at ESL/UNamur courses forming OS10. Labour and Human Resources Economics ). If not, the student should be aware that some basic topics in labour economics are not covered by  LECON2608: labour supply, labour demand and human capital theory in particular. Often, they have to some extent been introduced in a course in microeconomics or in macroeconomics. It is assumed that students have at least a basic knowledge about static labour demand and supply, and perfect competition theory. Having heard about compensating wage differentials and human capital theory is an advantage but not a prerequisite. Participants are all expected to be familiar with the use of a statistical package (Stata, SAS, R…).",
+        "online_resources": "Slides, exercises, compulsory readings will be available on the course webpage on Moodle UCL (https://moodle.uclouvain.be/).",
+        "bibliography": "Ackerberg, Daniel A., Kevin Caves, and Garth Frazer (2015). “Identification Properties Of Recent Production Function Estimators”. In: Econometrica 83.6, pp. 2411–2451. Becker, Gary (1971). The Economics of Discrimination . 2nd ed. University of Chicago Press. Cahuc, P., S. Carcillo and A. Zylberberg (2014): Labour Economics, 2nd edition, MIT Press Gelbach, Jonah B. (2016). “When Do Covariates Matter? And Which Ones, and How Much?” In: Journal of Labor Economics 34.2, pp. 509–543. Hellerstein, Judith K., David Neumark, and Kenneth R. Troske (1999). “Wages, Productivity, and Worker Characteristics: Evidence from Plant-Level Production Functions and Wage Equations”. In: Journal of Labor Economics 17.3, pp. 409–446",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1331",
+        "title": "European Economy",
+        "credits": "5.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Gomes Joseph"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Le cours aborde les principes micro- et macro-économiques qui sous-tendent la dynamique d’intégration européenne, la conduite des politiques économiques de l’Union européenne, ainsi que la conception et le fonctionnement des institutions centrales de l’Union. De toute évidence, la portée du mandat de l’Union européenne dans le domaine des politiques économiques est trop vaste pour être couverte en un seul cours. Trois considérations fondamentales façonnent le contenu du cours qui peut varier en fonction des questions d’actualité. Premièrement, l’intégration économique libère des forces puissantes qui, si elles sont bien gérées, peuvent favoriser la prospérité. Deuxièmement, l’intégration économique sans intégration politique exige une coordination internationale des politiques économiques pour internaliser les interdépendances résultant de l’intégration. Troisièmement, le cadre de gouvernance qui soutient cette coordination influence à son tour le processus d’intégration. En particulier, une gouvernance inadéquate peut nuire à l’intégration économique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif de ce cours est de fournir aux étudiants un cadre de référence de la réalité européenne leur permettant de comprendre la nature et les spécificités des enjeux économiques européens et des politiques économiques adoptées. Ce cadre leur permettra d'avoir un regard critique sur la nature des hypothèses des modèles théoriques développés dans les cours spécialisés (économie internationale, économie du travail, économie régionale, économie indus-trielle,) et de leur pertinence pour la compréhension et la mise en uvre des politiques européennes.",
+        "content": "Ce cours met l'accent sur l'Union européenne et sur l'économie européenne. Alors que l'union européenne est aujourd'hui déjà tout à fait un marché bien intégré, le processus d'intégration a été constante et n'est pas plus encore.  La formation de l'union douanière européenne a entraîné une forte augmentation dans le commerce interne de l'UE et a stimulé la protection sociale pour la plupart des pays. Le bon fonctionnement de la zone euro est fortement tributaire de la question de savoir si l'Europe peut être considérée comme une zone monétaire optimale. Il s'agit d'un ensemble de conditions qui doivent être remplies chaque fois qu'un certain nombre de pays décide d'abandonner leur monnaie nationale et ont un commun où ils donnent le droit d'exercer une politique monétaire indépendante. Ce cours traite du processus d'intégration européenne et à la formation de l'euro d'un point de vue économique. Les défis auxquels l'Europe est confrontée à seront également discutés à l'aide d'un cadre économique./",
+        "teaching_methods": "Cours magistraux et travaux pratiques",
+        "assessment_methods": "Examen écrit, et participation aux travaux dans le cadre des TPs. Note: Students are discouraged from using generative artificial intelligence (AI) systems in this course. However, if AI systems are used during assessments or class activities, they must adhere to the rules outlined in the faculty memorandum on this subject, which is available on the faculty’s intranet site: Note sur l’utilisation responsable des IA — Juillet 2024 .",
+        "other_info": "Des bases en micro-économie et en macro-économie sont nécessaires pour ce cours communication entre les élèves et le professeur passe par la plate-forme électronique Moodle. Vous devez vous inscrire dans le cours pour avoir accès à des documents en ligne comme les diapositives ou autre matériel complémentaire.",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2610",
+        "title": "Industrial Organization",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Johnen Johannes"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Un cours avancé en micro-économie Un cours d'introduction à l'organisation industrielle",
+        "topics_covered": "Pouvoir de marché Sources du pouvoir de marché Stratégies de prix et segmentation de marché Qualité de produit et information Théorie de la politique de concurrence Recherche et développement, propriété intellectuelle Réseaux, standards et systèmes Intermédiation de marché",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 En termes de connaissances, les étudiants seront capables, à la fin de l'activité : (i) de comprendre pourquoi et comment les firmes en oligopole parviennent à fixer des prix d'équilibre supérieurs aux couts marginaux ; (ii) d'analyser des problèmes d'information asymétrique dans lesquels les firmes choisissent leur stratégie de marketing pour informer les consommateurs sur la qualité des produits ; (iii) d'appréender des questions de politique de concurrence (cartels, collusion, pratiques d'exclusion) ; (iv) d'analyser des questions d'actualités relatives aux marchés en réseau et aux marchés de plateformes. Sur le plan des compétences, les étudiants seront capables, à la fin de l'activité : (v) de lire et discuter des contributions récentes à la littérature (empirique et théorique) en organisation industrielle.",
+        "content": "The goal of the class is to introduce students to current research topics in industrial organization, to make students read and discuss research papers, and to help students develop research questions. We will start with some basic topics but will move quickly to topics in which a lot of research is going on these days, and which are highly relevant to understand our modern complex and digital economy. I plan to cover the following topics. The focus can be adjusted based on student interests. Price Discrimination and Targeted Pricing (2 weeks) Behavioral Economics and Industrial Organization(5-6 weeks) We will discuss the role of consumer mistakes and more realistic, psychology-based, models of human behavior for market performance and competition. Does competition induce firms to mitigate, or to exploit consumer mistakes? How can regulation help to mitigate exploitation of consumer mistakes? What is the role of big data and targeted pricing when consumers mispredict their own future behavior? Platforms and Two-Sided Markets (2 weeks) Consumer Search (1-2 weeks) Student Presentations (1-2 weeks)",
+        "teaching_methods": "For each week, the students have to read research papers that we will discuss in class. This enables lively interaction and a critical discussion of these papers. At the end of the class, the students have to present research papers themselves, which they can choose from a reading list. Students can also propose papers to present. We will mostly focus on papers that use theoretical models, but we will also discuss empirical work. The goal of the class is to inspire research questions. To encourage students to develop research questions, the students will submit a research proposal in which they develop a research question, motivate why it is interesting and fills a gap in the Literature, discuss the methods they would use to approach this question and explain expected results. The teaching will start in the second week of the first term (Q1) in the classroom.",
+        "assessment_methods": "The final grade depends on i) participation in class (10%), ii) the students’ presentation of a research paper (40%), and iii) the research proposal (50%). The evaluation for the third exam session will be decided based on the number of students enrolled in that session.",
+        "other_info": "The language of the class is English. The course starts in the second week of the term. L’utilisation des intelligences artificielles lors des épreuves d’évaluation de ce cours est balisée par les règles mentionnées dans le note facultaire à ce sujet et disponible sur le site intranet de la faculté dans les informations à destination des étudiant.es.",
+        "online_resources": "Available on Moodle: https://moodleucl.uclouvain.be/",
+        "bibliography": "A reading list will be made available at the beginning of the course.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2609",
+        "title": "Game Theory",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Vannetelbosch Vincent"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Game theory is a bag of analytical tools designed to help us to undestand the phenoma that we observe wen decision makers interact.",
+        "content": "Topics in Game Theory Part A Network Science and Economics Representing, Measuring and Analyzing Networks Learning and Diffusion on Networks Games and Behavior on Networks Game-Theoretic Modeling of Network Formation Part B Market Design and Matching The Basic Matching Model The Medical Match Assignment Markets School Allocation Course Allocation Kidney Exchange",
+        "teaching_methods": "The course consists of lectures. The topics will be introduced during the lectures. Compulsory homeworks will be assigned to students. Reading assignments are also possible.",
+        "assessment_methods": "Homework (50%) + Presentation of a research article (50%)",
+        "online_resources": "Slides, homeworks, exercises, compulsory readings will be available on the course webpage on Moodle UCL (http://moodleucl.uclouvain.be/).",
+        "bibliography": "Social and economic networks by Matthew O. Jackson, Princeton University Press (2008). Connections by Sanjeev Goyal, Princeton University Press (2007). Network science by Albert-Laszlo Barabasi, Cambridge University Press (2016). The Oxford handbook of the economics of networks edited byYann Bramoullé, Andrea Galeotti and Brian W. Rogers, Oxford University Press (2016). Market design: auctions and matching, by Guillaume Haeringer, MIT Press (2018).",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-letri2910",
+        "title": "Tutorial",
+        "credits": "5.00",
+        "hours": "0 h + 6.0 h",
+        "quadrimester": "> Horaire",
+        "teaching_language": "Anglais",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2603",
+        "title": "Research Seminar I: Econometrics Workshop",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "San Martin Gutiérrez Ernesto"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Une connaissance solide, théorique et pratique, de l'économétrie. Le cours Advanced Econometrics I du Research Master correspond au niveau pré-requis.",
+        "topics_covered": "Les thèmes sont choisis en économétrie des séries temporelles, économétrie de la finance, et micro-économétrie, avec un mélange d'économétrie théorique et appliquée.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le but du séminaire est de familiariser les étudiants avec les sujets à la pointe de la recherche en économétrie.",
+        "content": "Identification problems due to different missing data patterns; identification problems due to contaminated or measured with error data; identification problems in political sciences, particularly presidential election; identification problems due to extrapolation of randomized control trials; identification problems due to evaluation of public policies.",
+        "teaching_methods": "Each lecture will focus on a specific empirical research problem: the anatomy of the identification problem will be made explicit and its solution using partial identification tools will be discussed.",
+        "assessment_methods": "The evaluation will consist of analyzing a real database using one of the proposals discussed in the seminar; students are expected to generate a draft paper; the main conclusions will be discussed with each student in person during the June exam session.",
+        "bibliography": "A syllabus will be provided at the beginning of the course.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2654",
+        "title": "Advanced Monetary Economics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "topics_covered": "Course description: https://directory.unamur.be/teaching/courses/ECONM654",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2601",
+        "title": "Advanced Econometrics II - Time Series Econometrics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Van Bellegem Sébastien"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "The course must cover the important and essential  themes of the econometrics of time series analysis and their application in some fields of economics, like macroeconomics and finance.\r\rThe basic concepts of stationarity and ergodicity are taught in the prerequisite course.\r\rThe main themes for this course are those of linear time series models (autoregressive and moving average models), unit roots and cointegration. Both univariate and multivariate models must be taught.\r\rFor non linear time series models, a selection of topics has to be done mainly among ARCH models, Makov-switching models, and state-space models.\r\rIn all topics, the themes of model building, evaluation and prediction are included.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 The purpose is to train the students in the tools and models useful for the econometric analysis of economic \rtime-series.\r\rStudents will learn to understand in depth and apply correctly the techniques. The course prepares to research in the field of time-series analysis and its applications.",
+        "content": "The course aims to find models that explain dynamical observations in economics. It considers the model-based method and attempts to infer model parameters by iteratively fitting observations with theoretical predictions from trial models. To this aim, it provides a necessary introduction to the basic theory of the following three types series: discrete-time Markov chain, continuous-time Markov chain, and continuous-time and continuous-state Markov processes. The structure of the course is given as follows (subject to change) 1. Numerical methods 2. Stochastic numerical methods 3. Markov chains 4. Branching process 5. Continuous-time Markov chains 6. Birth and death processes 7. Continuous time Markov processes 8. Diffusion processes 9. Stochastic differential equations 10. Applications: competition, epidemic, population and spatial models",
+        "teaching_methods": "Weekly lecture.",
+        "assessment_methods": "Students are expected to complete a take-home final project by themselves. The project will consist of both analytical and empirical questions.",
+        "online_resources": "Moodle UCL ( > https://moodleucl.uclouvain.be/ ).",
+        "bibliography": "William J. Stewart (2009), Probability, Markov Chains, Queues, and Simulation: The mathematical basis of performance modeling, Princeton University Press Crispin Gardiner (2009), Stochastic Methods: A handbook for the natural and social sciences, 4th Edition , Springer",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2624",
+        "title": "Current Development in European Integration - KU Leuven",
+        "credits": "5.00",
+        "hours": "",
+        "quadrimester": "> Horaire",
+        "teaching_language": "Français",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1212",
+        "title": "Macroéconomie",
+        "credits": "5.00",
+        "hours": "45.0 h + 15.0 h",
+        "quadrimester": "Q1 ou Q2",
+        "teachers": [
+            "Mariani Fabio",
+            "Monti Francesca"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "La première partie du cours propose une étude approfondie des modèles macroéconomiques de court terme. Elle analyse tout d'abord les déterminants des comportements de consommation et d'investissement. Elle cherche ensuite des réponses aux questions : Quelles explications donner à l'existence de fluctuations de l'activité, de l'emploi et de l'inflation,...? Quelles sont les causes et conséquences des déficits extérieur et budgétaire? Face à des dysfonctionnements tels que le chômage, quelles sont les politiques économiques possibles et leur efficacité, en particulier pour des économies largement ouvertes reste du monde ? La deuxième partie du cours met l'accent sur la formation endogène des prix et salaires et cherche à comprendre les mécanismes qui expliquent l'apparition et la persistance d'un équilibre macroéconomique avec chômage élevé, tel qu'on l'observe encore aujourd'hui dans plusieurs économies industrialisées. Bien qu'elle introduise un certain nombre de matières en principe nouvelles pour l'étudiant, la première partie du cours reprend aussi en partie des modèles normalement au programme des cours de macroéconomie en première ou deuxième candidature. Elle les présente toutefois de façon beaucoup plus formelle et systématique en cherchant à développer chez l'étudiant une réelle maîtrise de ces outils de base de l'analyse macroéconomique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le cours de macroéconomie présente les outils de base d'une analyse des problèmes macroéconomiques de court et moyen termes dans une économie industrialisée de marché. En particulier l'objectif est de donner aux étudiants les moyens d'appréhender le discours macroéconomique d'institutions telles les banques centrales, le FMI, l'OCDE ... et aussi d'y jeter un regard critique.",
+        "content": "Programme du cours 0. Introduction 0.1 : Les variables de la macroéconomie. 1. Le court et le moyen terme 1.1 : Le marché de la monnaie, le marché des biens, et le modèle IS/LM. 1.2 : Le marché du travail et le modèle AS/AD. 1.3 : La courbe de Phillips et le modèle IS/LM/PC. 2. Les anticipations (et les choix intertemporels) 2.1 : Marchés financiers et anticipations 2.2 : Le rôle des anticipations dans les décisions de consommation et d'investissement. 2.3 : Un simple modèle de choix intertemporel : consommation, épargne et pensions. 2.4 : Le modèle IS/LM avec anticipations: les effets des politiques macroéconomiques. 3. L'économie ouverte 3.1 : Les marchés des biens et des capitaux en économie ouverte. 3.2 : Production, taux d'intérêt et taux de change: les politiques macroéconomiques en économie ouverte. 3.3 : Taux de change, mécanismes d'ajustement, crises et régimes de change. 4. Dysfonctionnements et politique économique 4.1 : La Grande Dépression, la crise de la dette en Europe, la crise liée à la pandémie Covid-19, etc.",
+        "teaching_methods": "Cours magistraux et travaux pratiques.",
+        "assessment_methods": "L'évaluation est basée sur un examen QCM, avec application d'une formule de \"standard setting\". L'examen consiste en 21 questions. Pour chacune de ces questions, trois options de réponse seront proposées, avec une seule proposition correcte. Les participants à l'examen qui répondront correctement à 14 questions obtiendront la note de 10/20. Ce seuil de maitrise minimum des acquis d’apprentissages (s=14) est calculé à l'aide de la formule suivante: s = ((n+1)/2n) x q, où q=21 est le nombre total de questions et n=3 est le nombre d'options alternatives. La formule pour calculer la note finale de l'examen est la suivante: note = Max[c x (10/14) , c x (10/7) - 10], où c est le nombre de réponses correctes. On aura donc: note=5 si c=7, note=10 si c=14, note=20 si c=21, etc. Lors du cours, l'enseignant fournira aux étudiants plus de détails sur les motivations et l'application pratique de cette méthode d'évaluation.",
+        "other_info": "Le cours LECGE1212C (2ème quadrimestre, donné par M. Etienne de Callataÿ) a le même contenu que le cours LECGE1212B (1er quadrimestre, donné par M. Fabio Mariani). L'examen de la seconde session est commun aux deux cours.",
+        "online_resources": "Les slides seront mises à disposition des étudiants sur Moodle.",
+        "bibliography": "Livre de référence: Blanchard, O. et D. Cohen (2017, 2020): Macroéconomie (7e, 8e édition), Pearson Education France.",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1312",
+        "title": "Economie publique",
+        "credits": "5.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Hindriks Jean"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Le cours commence par  une analyse descriptive de la taille du secteur public et du rôle de la taxation et sécurité sociale dans la redistribution des revenus. L'analyse descriptive met en évidence les différentes mesures d'inégalité et de pauvreté.\rL'analyse normative pose la question de l'opportunité et de la forme optimale des politiques d'intervention publique dans une économie de marché dont les défaillances sont liées aux effets externes, biens publics, concurrence imparfaite, et problèmes d'information. On pose aussi la question de la forme souhaitable de taxation (TVA et IPP) et d'assurance sociale. Dans ce cadre théorique, on pose les questions importantes touchant à la réforme fiscale, de la Sécurité Sociale et d'autres politiques de redistribution : privatisation de la Sécurité Sociale, financement de pensions de retraites de répartition versus capitalisation compte tenu du vieillissement de la population, universalité versus sélectivité, redistribution en argent versus en nature, impact de la mobilité sur les possibilité de taxation et de redistribution, concurrence fiscale.\rL'analyse positive étudie le rôle des processus politiques dans le choix et la forme des politiques de dépense et d'imposition.  On y étudie notamment le choix des politiques de taxation et assurance sociale par vote majoritaire.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le cours vise à apprendre aux étudiants comment ils peuvent exploiter des outils d'analyse économique pour étudier des questions dans le domaine de l'économie du secteur public sous l'angle de l'efficacité de l'intervention publique (comme remède aux défaillances du marché) et sous l'angle redistributif en discutant de la taxation et sécurité sociale. L'accent sera mis sur l'apprentissage de la formulation d'une argumentation logique et cohérente.",
+        "content": "Contenu Le cours s'articule en trois activités: des lectures, des activitées en ligne (exercises et serious games) et un travail de groupe sur données PISA 2018 avec logicile Stata.  Le cours présente une analyse normative et positive des politiques publiques dans un contexte de défaillance des marchés et de défaillance de la rationalité individuelle. Les domaines étudiés sont notamment l'économie publique comportementale, les biens publics, les externalités, et la fraude fiscale. Une partie plus pratique du cours analyse l'économie de l'enseignement avec une analyse empirique de l'enseignement sur base des données PISA 2018. L'approche vise à mesurer la mobilité sociale et les inégalités dans les sytèmes scolaires des pays de l'OCDE. Le cours consiste en un ensemble de lectures et des activités pratiques. L'enseignant synthétisera et commentera ces lectures dans les cours. L'étudiant est encouragé à assimiler la matière en résolvant des exercices et des questions posées pendant le cours. Le cours se divise en deux parties: le tronc commun qui recouvre la théorie de base et la méthode de l'économie publique et la partie pratique qui consiste en un travail de groupe empirique. Selon le temps disponible, le cours procédera aussi à un inventaire détaillé de l'Etat des finances publiques belges en anaysant la fiscalité, les dépenses publiques et la dette. Cette partie se basera sur le récent Manuel des Finances Publiques  du titulaire. Cette partie \"Finances Publiques\" sera couverte sous le format de classe inversée.",
+        "teaching_methods": "La méthode d'enseignement combine: des exposée magistraux, des exercises en ligne avec solutions sur Youtube, des serious games et lab experiments en ligne, un jeu interactif et un travail de groupe sur base de données empiriques et du logicile stata. Le cours est dispensé en FR mais les supports du cours (ainsi que les slides) sont principalement en EN.",
+        "assessment_methods": "La note finale est basée sur (1) un examen écrit à livre fermé (60%); un examen intermédaire (15%) et un travail de groupe (25%). Le questionnaire d'examen est en EN (en cohérence avec le support écrit du cours) mais les étudiant.es sont libres de répondre en FR ou EN. (Note : l'examen écrit à livre fermé est susceptible de se faire à distance si la situation sanitaire du moment l'exige). -",
+        "other_info": "Support : Hindriks and Myles (2013) Intermediate Public Economics 2nd edition , The MIT Press.  Toutes les deux semaines a lieu une séance avec des exercices basés sur le manuel de solutions du livre mis en référence et dont les solutions sont disponibles sur Youtube. Des activités en ligne sont organisées qui visent à illustrer la section du cours consacrée à l'économie publique \"comportementale\". Un jeu interactif est organisé qui vise à illustrer le dilemme social de la coordination.",
+        "online_resources": "l'ensemble des ressources du cours sont postées sur moodle.",
+        "course_materials": "Hindriks and Myles (2013) Intermediate Public economics, 2nd edition, The MIT Press. Hashimizade, Hindriks & Myles (2013) Solutions Manual to Accompany Intermediate Public Economics, 2nd edition, The Mit Press Manuel des Finances Publiques (Politeia 2024)",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2069",
+        "title": "Ethics and Social Choice",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Maniquet François"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "The course should study social ethics and welfare economics issues using the axiomatic tools of Social Choice Theory. Both  welfarist and non-welfarist approaches should be presented. The static and the intertemporal so-cial choice frameworks should be introduced and equity conditions analyzed in both frameworks.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 The objective of the course is to provide a basic training in the part of social choice theory which is most rele-vant for social ethics, in general, and for welfare economics, more specifically.",
+        "bibliography": "A reading list will be distributed at the beginning of the course.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2500",
+        "title": "Mathematics and Statistics for Economics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Oikonomou Rigas",
+            "Van Bellegem Sébastien"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Formation de base en mathématiques.",
+        "topics_covered": "Pour la partie de mathématiques, algèbre matricielle, fonctions, optimisation, équations en différences et différentielles. Pour la partie statistique: distributions multivariantes et sujets proches. Les deux parties sont liées en particulier par l’algèbre matricielle.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L’objectif principal est d’apprendre aux etudiants les utiles mathématiques et statistiques les plus importants pour suivre les cours approfondis en macroéconomie, microéconomie  et économietrie. Le cours permet aux étudiants de rafraichir leurs connaissances de certains sujets, et garantit que tous les étudiants auront le même niveau en mathématiques et statistique pour les cours approfondis.",
+        "content": "MATHEMATICS Matrix algebra (inverse, rank, derivatives, eigenvalues, diagonalization and factorization, quadratic forms). Met-ric and topological spaces, vector spaces. Real functions on Rn (continuity, concavity, differentiability, Taylor expansion, mean value theorem, implicit function theorem). Static optimization (constrained and uncon-strained). Difference and differential equations (steady states, stability). STATISTICS 1. Data analysis What is a data ? Fundamental concepts to describe data : distribution, empirical probability, random vector, law of total probability, law of iterated expactation, marginalization, conditionning, independence, missing data What is a parameter ? 2. Geometry of data Vectorial and Hilbert space The projection theorem Mean, variance, covariance, correlation, partial correlation (marginal and conditional) Consistency (Fisher) 3. Assumption : the Normal world Continuous random vector, expectation and conditional expectation Normality : marginal, conditional Chi2 : Cochran theorem 4. Contingency table (Pearson) Data homogeneity Variable association 5. Simplification : the asymptotic world Weak law of large numbers Central limit theorem (iid)",
+        "teaching_methods": "Cours magistraux et devoirs",
+        "other_info": "Examen écrit.",
+        "course_materials": "STATISTICS : Lecture notes by S. Van Bellegem",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1217",
+        "title": "History of Economic Theory",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Pensieroso Luca"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "L'économie comme science autonome. L'évolution de la théorie économique et de sa méthode d'analyse. Les implications politiques de l'analyse économique.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le cours d'histoire des théories économiques poursuit un double objectif. D'une part, il vise à donner aux étudiants une perception de l'évolution des théories économiques, depuis la naissance de l'économie politique jusqu'à la période récente. Ceci devrait permettre aux étudiants de resituer l'enseignement reçus dans leurs cours de base dans un cadre plus large et le rattacher aux questions posées par les économistes des générations antérieures. D'autre part, cette étude historique servira aussi de prétexte à une réflexion critique sur la science économique, ses objectifs et ses méthodes. A la fin de l'activité, les étudiants seront capables de 1) comparer les analyses des différentes auteurs et en apprécier le points de force et de faiblesse, à la fois en termes de théorie et de méthodologie ; 2) développer une vision personnelle et critique des concepts et méthodes en sciences économiques et des ses applications aux débats contemporains, grâce notamment à l'étude des divergences entre les grands économistes du passé.",
+        "bibliography": "A. Roncaglia, A Brief History of Economic Thought , Cambridge University Press, Cambridge, UK, 2017. R. Heilbroner, Teachings from the Wordly Philosophers , Norton, New York, 1996. R. Heilbroner, The Worldy Philosophers , 7th edition, Touchstone, New York, 1999. Additional readings M. Blaug, Economic Theory in Retrospect , 5th edition, Cambridge University Press, 1996. T. G. Buchholz, New Ideas from Dead Economists , Plume, New York, 2007. J. K. Galbraith, Economics in Perspective: A Critical History, Houghton Mifflin, 1987. A. Roncaglia, The Wealth of Ideas , Cambridge University Press, Cambridge, UK, 2005.",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2602",
+        "title": "Advanced Econometrics II - Microeconometrics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Parienté William"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "The course proposes an up-to-date presentation of methods to model, analyse and test continuous, discrete and partially observed (censored or truncated) cross section and panel data models.  For panel data models, both static and dynamic approaches are considered. The course includes an introduction to the treatment of sample selection and attrition. If time permits, some variable open topics such as multinomial and ordered response models, semi-parametric approaches to static models and non-stationary panels can be included in the course according.\r\tEconometric modelling and statistical inference are presented at an advanced level. The course also includes an introduction to an econometric software (such as Stata®), which is used to illustrate all methods through applications.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 This course focuses on the analysis of cross section and panel data. Cross section data refer to a large number of sample units (individuals, firms, ...) at a given instant of time. Panel data refer to the repeated observation of sample units over time. In this course we limit the analysis to panels with a large number of sample units that are followed over a limited number of time periods. \rThe objective of the course is to give the student a firm understanding of the workings of certain methods and a background for developing new methods. In addition, students should learn to implement certain methods by running econometric software programmes on data sets coming from published work. As such, the course in-tends to provide the necessary background both for the applied researcher who wants to uncover some causal relationship between two variables and for the theoretical researcher aiming at the development of new estima-tion methods.",
+        "content": "Contents:\r1)\tIntroduction. The nature of panel data.\r\r2)\tLinear, static model for panel data. Estimating System of Equations by OLS and GLS. Modelling individual heterogeneity. Fixed effect, Random effect models. Specification test. First difference meth-ods. Random effect with correlated unobserved effect. The approach of Mundlak and Chamberlain. The GMM approach (Haussman and Taylor types of estimator) \r3)\tLinear, dynamic model for panel data. The  bias of usual estimators. Estimator of Anderson-Hsiao, estimator of Arellano-Bond, estimator of Blundell-Bond.\r4)\tDiscrete panel data. Refreshing on multiple response model. Random effect models for a binary de-pendent variable.Fixed effect models. Incidental parameter problem.\r5)\tLimited dependent variable and selection models. Truncated/censored data. Tobit I, II and III models. Attrition and selection bias. Random effect Tobit model. Fixed effect in truncated regression",
+        "other_info": "Advanced econometrics I\r\r\rA take home exam consisting of an empirical implementation of methods covered during the lec-tures, and an oral exam.\r\r \r\rNo specific support. Some mandatory readings from the literature in microeconometrics.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2655",
+        "title": "Population and Family Economics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Mariani Fabio"
+        ],
+        "teaching_language": "Anglais",
+        "bibliography": "No book is strictly required. Some material will be taken from: • Browning, M., P.-A. Chiappori and Y. Weiss (2014): Economics of the Family, Cambridge University Press. • Doepke, M. and M. Tertilt (2016): “Families in Macroeconomics”, in Taylor, J.B. and H. Uhlig (eds.): Handbook of Macroeconomics (vol. 2), Elsevier. Further references (mostly to selected research papers) will be provided throughoutthe course.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1316",
+        "title": "Econométrie",
+        "credits": "5.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Dejemeppe Muriel",
+            "Parienté William"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "Le cours couvre les outils de base de l'économétrie à un niveau introductif. Des exemples d'application des méthodes à des problèmes d'économie et de gestion sont inclus.\rUn aspect important du cours est l'apprentissage de la modélisation économétrique : comment passer d'une relation théorique, abstraite et générale entre des variables économiques, à la formulation et à l'estimation d'une forme particulière de cette relation dans un contexte donné. L'apprentissage d'un logiciel économétrique est inclus dans le cours.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le cours est une introduction à la théorie et à la pratique de l'économétrie. L'accent est mis sur la compréhension des méthodes et sur leur pertinence pour la résolution de problèmes d'économie et de gestion. In fine, l'étudiant doit être capable d'utiliser les méthodes enseignées pour la résolution de questions simples, et d'interpréter les résultats d'une analyse économétrique tout en étant conscient des limites des méthodes.",
+        "content": "Analyse de la régression linéaire sur données transversales Chapitre 1. Introduction générale Chapitre 2. Le modèle de régression linéaire simple Chapitre 3. Le modèle de régression linéaire multiple : Estimation Chapitre 4. Le modèle de régression linéaire multiple : Test d’hypothèse Chapitre 5. Le modèle de régression linéaire multiple : Propriétés asymptotiques Chapitre 6. Le modèle de régression linéaire multiple : Questions avancées Chapitre 7. Le modèle de régression linéaire multiple avec information qualitative Chapitre 8. Le modèle de régression linéaire multiple : Hétéroscédasticité Chapitre 9. Le modèle de régression linéaire multiple : Spécification et problèmes liés aux données + Introduction au logiciel d'analyse statistique STATA",
+        "teaching_methods": "Le cours comprend des exposés magistraux de l'enseignant en auditoire ainsi que des séances de travaux pratiques sur ordinateur qui sont organisées par les assistants. Lors du cours magistral, l'enseignant explique la théorie sur base de transparents. Les méthodes d'estimation sont chaque fois illustrées par des exemples d'application dans divers domaines de l'économie et de la gestion. Pendant le cours, des séances de questions/réponses avec les étudiants sont organisées. L'étudiant complète sa compréhension du cours sur base d'un livre de référence. Lors des séances de travaux pratiques, les étudiants apprennent à mettre en oeuvre les méthodes d'estimation vues au cours sur des données réelles. Cette apprentissage se réalise sur ordinateur avec le logiciel STATA. Au début du quadrimestre, les étudiants sont invités à s'initier au logiciel STATA via une formation en ligne.",
+        "assessment_methods": "L’examen consiste en un examen écrit en français sur 20 points et peut être présenté à la session de janvier et/ou à la session d'août.",
+        "other_info": "Pré-requis : 1) LECGE 1112 A ou B - Mathématiques en économie et gestion 2) LECGE 1114 A ou B - Statistique en économie et gestion",
+        "online_resources": "Slides du cours mis en ligne au fur et à mesure de l’avancée dans la matière, voir Moodle UCL ( http://moodleucl.uclouvain.be/ ).",
+        "bibliography": "Livre de référence (reference book) : Jeffrey Wooldridge (2016), Introductory Econometrics: A Modern Approach , 6th Edition , Cengage Learning.",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2161",
+        "title": "Advanced macroeconomics III",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Baudin Thomas",
+            "De la Croix David"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "A few topics (around three), in continuation of the macroeconomic courses, will be selected at the beginning of the course. The first lectures will consist in ex-catedra expositions by the professor(s) to introduce to the topics, with the associated advanced literature,key issues and open questions and recommended readings. These lec-tures will be followed by students' seminars. These seminars will consist of reading reports of one of two re-lated seminal contributions, plus a discussion and eventually an extension proposal.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 The seminar aims at bringing students to the frontiers of research in a particular field, and to train them in defin-ing and conducting a research topic. The focus is on using tools to answer a research questions and to read  \"be-tween the lines\" some of the main contributions to the topics considered.",
+        "content": "The course is divided into two parts. Part 1 introduces the students to the basics of overlapping generations model: the competitive equilibrium, the planner allocation, decentralization a planner allocation, the second best problem Part 2 presents key models to understand the growth process. It includes Malthusian models, Solow's model, from Malthus to Solow, Models with human capital, Unified growth theory",
+        "teaching_methods": "Lectures ex catedra with a maximum of interactions with the students. Focus on understanding mechanisms.",
+        "assessment_methods": "Depending on the number of students, the final exam will be written or oral.",
+        "bibliography": "Part 1: de la Croix and Michel (2002), A Theory of Economic Growth, Cambridge University Press",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2620",
+        "title": "Advanced Environmental and Transportation - KU Leuven",
+        "credits": "5.00",
+        "hours": "",
+        "quadrimester": "> Horaire",
+        "teaching_language": "Français",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-letri2900",
+        "title": "Thesis",
+        "credits": "20.00",
+        "hours": "",
+        "quadrimester": "> Horaire",
+        "teaching_language": "Anglais",
+        "topics_covered": "Le mémoire est un travail approfondi sur une question ouverte en économie quantitative. En se fondant sur les acquis de l'Essay Paper, le travail de mémoire doit consacrer une large part au contenu scientifique original produit par l'étudiant. Le contenu scientifique du mémoire doit être équivalent au niveau requis pour une publication scientifique dans un journal international en économie. La question traitée dans ces deux activités peut être différente ou dans une continuité.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1330",
+        "title": "Industrial organization",
+        "credits": "5.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Belleflamme Paul"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "L'économie industrielle couvre l'étude des marchés en concurrence imparfaite. Le programme est repris ci-dessous. Chaque question théorique est illustrée par des exemples concrets. Ces exemples concernent notamment la contri-bution des fusions à l'efficience économique, l'importance des politiques de prédation par les prix, les effets sur les consommateurs des restrictions verticales imposées par les producteurs à leurs distributeurs, les effets sur le bien-être des consommateurs d'une meilleure information sur les prix ou sur la qualité des produits, les effets de la pu-blicité, l'efficacité des joint venture comme moyen de stimuler la recherche, l'impact de la politique de la concur-rence sur le bien-être et la concurrence.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif de ce cours est de fournir aux étudiants les connaissances de base de l'économie industrielle (analyse des marchés en concurrence imparfaite).",
+        "content": "Ce cours est enseigné en anglais. Course description Industrial organization is the study of firms and markets. It focuses on firms’ behavior in imperfectly competitive markets. Such markets appear to be far more common than the perfectly competitive markets that were the focus of your basic microeconomics course. Imperfectly competitive markets are characterized by strategic interaction among firms: firms’ profits depend on the combination of the decisions taken by all firms on the market. Therefore, firms must take this interdependence into account when they make their decisions. In such contexts, we want to understand how firms acquire and use market power. We also want to shed light on government competition policy. This subject will be approached from both theoretical and applied perspectives. Learning objectives/outcomes At the end of the course, students should have a deep knowledge of the basic models of oligopoly theory, understand how or why oligopolistic firms manage to exert market power, understand how governments design and apply competition policy, be able to apply all these concepts to real-life situations.",
+        "teaching_methods": "Teaching is done through a mix of lectures (2 hours every week) and tutorials (in small groups; 1 hour every other week). Note that classes will be organized in strict accordance with the health rules and special provisions that will be in force at the time.",
+        "assessment_methods": "The assessment of this course is based on a final exam, which covers the entirety of the course. It is organized in the January and September exam sessions. It aims at testing the student’s knowledge of the main concepts and their ability to apply these concepts through (i) the solution of numerical problems and (ii) the discussion of a real-life case study. The exact format of the exam will be decided in due time, in strict accordance with the health rules and special provisions that will be in force.",
+        "other_info": "It is assumed that the student has taken 'ECGE1222 - Microéconomie' (or equivalent). The student should be comfortable with applying calculus and should have a rudimentary knowledge of game theory, as is introduced in 'ECGE1222 - Microéconomie' or as is further covered in 'ECGE1333 - Théorie des jeux et économie de l'information'. For those who have not taken a course in game theory, we will have a review of important concepts as well as one class dedicated to solving game theory problems.",
+        "online_resources": "A Moodle website is dedicated to the course. The slides, most of the readings, and supplementary material are made available on the site. The site is also be used to send course related information.",
+        "bibliography": "The course will rely heavily on the required textbook by Paul Belleflamme and Martin Peitz, Industrial Organization: Markets and Strategies (Cambridge: Cambridge University Press, 2015; 1st edition, 2010). Additional readings (typically news articles) may be posted on the Moodle website. Students are encouraged to scan the business sections of magazines and newspapers such as The Economist , Wall Street Journal , and Financial Times for articles relevant to the course topics.",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1227",
+        "title": "Séminaire : Enjeux macroéconomiques européens",
+        "credits": "5.00",
+        "hours": "30.0 h + 10.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Bodart Vincent"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Le séminaire « Enjeux macroéconomiques européens » s’intéresse à la situation macro-économique des pays de la zone euro.  Plusieurs aspects du contexte macro-économique d’un pays seront abordés : la croissance économique, l’emploi et le chômage, l’inflation, la politique budgétaire et la situation des finances publiques, les conditions financières et la politique monétaire. Le séminaire met l’accent sur l’application et l’analyse de données.  Le contexte macro-économique de chaque pays sera ainsi abordé directement à partir de données statistiques, que les étudiants auront à traiter et à analyser afin de produire une évaluation complète de la situation macro-économique des pays de la zone euro au cours des cinq dernières années. Les évaluations obtenues pour les différents pays permettront de mettre en lumière les différences et les similitudes macro-économiques qui existent entre les pays de la zone euro.",
+        "content": "Le séminaire \"Enjeux macroéconomiques européens\" est consacré à l’élaboration d’un diagnostic macroéconomique général pour différents pays européens. Concrètement, il s’agira, à partir de l’analyse de séries statistiques historiques, de relever pour chaque pays l’évolution d’un certain nombre d’indicateurs macroéconomiques importants et d’interpréter les faits observés à l’aide de la théorie macroéconomique. Le diagnostic macroéconomique à réaliser s’articulera autour de quatre thèmes : (1) la croissance économique et l’emploi; (2) l’inflation; (3) les finances publiques; (4) le rôle des politiques économiques. Le séminaire prendra la forme de travaux de groupe . Le travail à réaliser comprendra deux parties. La première partie du travail sera consacrée avant tout à la collecte de données statistiques et à la construction d’un certain nombre de variables économiques ayant trait aux quatre domaines présentés ci-dessus. La deuxième partie portera sur le diagnostic proprement dit. Il s’agira d’utiliser les éléments de la première partie pour construire un raisonnement économique. Dans le cadre du travail de groupe à réaliser, l’étudiant sera amené à mettre en œuvre différents types de compétence : Recherche de données statistiques Traitement statistique de données Utilisation d’outils bureautiques Analyse économique de données Construction d’un raisonnement économique",
+        "teaching_methods": "Les étudiants sont répartis en groupes, chaque groupe ayant à réaliser le diagnostic macroéconomique d'un pays européen donné.  La taille des groupes est fonction du nombre d'étudiants.  Idéalement, on travaillera avec des groupes de max. 4 étudiants. Deux séances générales de présentation du travail à réaliser sont organisées.  Par la suite, des séances de questions/réponses visant à aider les étudiants dans la réalisation de leur travail sont organisées.   Le travail à réaliser comprend plusieurs étapes qui, chacune, donnera lieu à la production d'un rapport.  Un rapport final sera également à produire.  Un feed-back sur les rapports intermédiaire sera donné à chaque groupe.  Deux présentations orales sont prévues, l'une portant sur l'un des rapports intermédiares et l'autre sur le rapport final. La présence aux séances organisées en salle (présentation du travail de séminaire, questions-responses, feed-backs, présentations orales) est obligatoire .",
+        "assessment_methods": "Dans le cadre du séminaire, chaque groupe aura à produire plusieurs rapports intermédiaires relatifs à l'état d'avancement du travail et un rapport final.  Chaque rapport fera l'objet d'une cotation, qui interviendra dans la note d'évaluation globale du séminaire.  Le poids de chaque rapport dans l'évaluation finale sera précisé dans la note de présentation du séminaire qui sera mise à disposition au début du séminaire.  Les principaux éléments qui seront pris en compte pour l'évaluation sont les suivants: respect des instructions données dans la note de présentation du séminaire; exactitude du travail; cohérence, pertinence, profondeur et originaliré de l'analyse.  La présentation orale donnera lieu à un bonus/malus.  Fixée avant la remise du rapport final, elle doit permettre à chaque groupe de recevoir des commentaires utiles pour améliorer la qualité du rapport final. L'évaluation individuelle porte sur 20 points et est réalisée à la session de juin . Tout étudiant qui aura été absent de manière injustifiée à plus de 2 séances obligatoires obtient une cote de présence (0/20). S'il apparaît une différence évidente d'implication entre les membres d’un même groupe pour la réalisation du travail et en terme de présence aux séances obligatoires du séminaire, une évaluation différenciée au sein du groupe sera appliquée. Tout étudiant qui échoue lors de la première inscription aux examens et qui s'inscrit à la deuxième inscription à l'examen de la même année académique devra refaire individuellement le rapport final . Les cotes obtenues pour les rapports intermédiaires seront reportées, sans aucune modification possible. Le poids de chaque rapport dans l'évaluation finale sera également inchangé. Tout étudiant qui aura été absent de manière injustifiée à plus de 2 séances obligatoires ne sera pas autorisé à présenter le travail de séminaire en seconde session (deuxième inscription à l'examen de la même année académique). L'utilisation des intelligences artificielles lors des épreuves d'évaluation de ce cours est balisée par les règles mentionnées dans la note facultaire à ce sujet et disponible sur le site intranet de la faculté dans les informations à destination des étudiants. En complément de ces règles générales et de manière plus spécifique, l'utilisation de l'IA est interdite pour la production du travail demandé dans le cadre du séminaire, d'une part, et pour la rédaction des différents rapports d'évaluation, d'autre part.",
+        "other_info": "Pré-requis: cours de macroéconomie générale",
+        "online_resources": "Note de présentation du séminaire  - rapports divers",
+        "course_materials": "Séminaire \"Enjeux macroéconomiques européens\" - Note de présentation - 2023-2024",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1323",
+        "title": "Séminaire : économie et climat",
+        "credits": "5.00",
+        "hours": "30.0 h + 10.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Perilleux Anaïs"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Les enjeux environnementaux, et en particulier le changement climatique, viennent questionner la soutenabilité écologique et sociale de notre système économique. Ce séminaire propose de réfléchir aux tensions qui existent entre la croissance économique et les limites finies de la planète et à la nécessité de mobiliser de nouvelles grilles d’analyse, boussoles et indicateurs pour penser un développement soutenable de nos sociétés. L’objectif du séminaire est d'amener les étudiant.e.s à réfléchir de façon argumentée sur une problématique d’actualité en lien avec les enjeux climatiques et la soutenabilité de notre modèle économique. Le contenu précis de chaque séminaire peut changer d'une année à l'autre. A titre d'exemples, ce séminaire typiquement : aborde des thèmes tels que les promesses et limites de nouveaux systèmes de production et d’échange comme l’économie circulaire, l’économie de la fonctionnalité ou l’économie du partage, ainsi que de nouveaux instruments de régulation tels que le marché des droits à polluer (système d’échanges de quotas d’émission) ou la taxe carbone, discute de concepts tels que le découplage, l’effet rebond, ou l’exnovations, vise la mobilisation de nouveaux cadres théoriques et grilles d’analyse pour appréhender la question de la soutenabilité de notre modèle économique tels que : la théorie du donut, les théories de la transition ou le cadre conceptuel des communs.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le séminaire a comme objectif de faire travailler les étudiant.e.s sur des thèmes précis en lien avec les enjeux environnementaux, et en particulier climatiques, actuels et la façon dont ils questionnent la soutenabilité écologique et sociale de notre modèle économique. Les étudiant.e.s apprennent à appréhender la complexité que représente les enjeux de soutenabilité. Ils développeront leur capacité (1) d’analyse d’un problème économico-environnemental complexe, (2) de synthèse et d’argumentation économique cohérente, (3) de présentation orale (4) de travail en groupe.",
+        "content": "L’objectif du séminaire est d'amener les étudiant.e.s à réfléchir de façon argumentée sur une problématique d’actualité en lien avec les enjeux climatiques et la soutenabilité écologique et sociale de notre modèle économique. Par groupe, les étudiant.e.s réalisent les productions suivantes : Une présentation orale d'un article scientifique. Un travail écrit : Par groupe, les étudiant.e.s se voient attribuer un acteur économique (ou un acteur politique dans le cadre de son rôle de régulateur d’un secteur économique). En utilisant les grilles d’analyse et les concepts vus dans le cadre du séminaire, les étudiant.e.s analysent et discutent les actions actuelles (et potentielles) de cet acteur pour lutter contre le changement climatique et répondre aux enjeux écologiques et sociaux. Le travail est nourri par des lectures et références à des articles publiés dans la littérature scientifique, par des documents spécifiques liés au terrain étudié et éventuellement par des interviews avec l’acteur dont l’action est étudiée (et/ou d’autres acteurs de terrain pertinents). Une présentation orale du travail écrit qui prend la forme d’une audience du tribunal des générations futures.",
+        "teaching_methods": "Le seminaire débute par quelques cours magistraux. Différents concepts, cadres théoriques et grilles d’analyse sont présentés par le biais d’exposés ex-cathedra et de lectures assurées par les étudiant.e.s en amont et discutées ensemble lors des séances du séminaire. Les étudiants se voient ensuite attribuer par groupe un acteur économique (ou un acteur politique dans le cadre de son rôle de régulateur d’un secteur économique) en vue de discuter ses actions actuelles et potentielles pour lutter contre le changement climatique et répondre aux enjeux écologiques et sociaux. Lors des séances du séminaire, l’enseignante commente également des notes intermédiaires obligatoires réalisées par le groupe. Des échanges entre les groupes peuvent aussi être prévus. La (les deux) dernière(s) séances du séminaire sont consacrées aux présentations orales qui prennent la forme d’audiences du tribunal des générations futures.",
+        "assessment_methods": "L’évaluation de chaque étudiant.e est basée principalement sur la qualité du travail écrit de son groupe (qui vaut pour 50% de la note finale) et sur la qualité des exposés oraux de son groupe (qui valent chacun pour 25% de la note finale). Ainsi, la répartition des points alloués aux trois productions attendues (réalisées par groupes) est la suivante : La présentation orale d'un article scientifique vaut pour 25% de la note finale. Le travail écrit vaut pour 50% de la note finale. La présentation orale du travail écrit qui prend la forme d’une audience du tribunal des générations futures vaut pour 25% de la note finale. La présence et la participation active au séminaire sont obligatoires et peuvent influencer la note finale de chaque étudiant.e. Des précisions sur les modalités d’évaluation sont présentées en début de cours et reprises dans des slides postés sur Moodle. Dans le cadre de l’évaluation de cette unité d’enseignement, le recours à de l’intelligence artificielle est interdite que ce soit comme assistant linguistique, outil d’exploration et d’idéation ou comme outil de rédaction.",
+        "other_info": "Un nombre maximum de participants (en fonction du nombre total d'étudiants inscrits en approfondissement en économie) est accepté.",
+        "online_resources": "La communication entre les élèves et l'enseignante passe par la plate-forme électronique Moodle. Vous devez vous inscrire au cours sur Moodle pour avoir accès aux documents en ligne, comme les diapositives ou tout matériel additionnel.",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2131",
+        "title": "Advanced Econometrics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Van Bellegem Sébastien"
+        ],
+        "teaching_language": "Anglais",
+        "prerequisites": "Mathematics and Statistics for Economists",
+        "topics_covered": "The course must cover the basic most important topics of econometric theory at an advanced level. These themes concern econometric model formulation, estimation and testing. Teaching is at an advanced level. Proofs of important results are covered, though not systematically. Applications are also used so that students learn how to carry applications in their own research. Contents Linear regression : exact finite sample theory of ordinary and generalized least squares Large-sample theory: convergence  concepts, stochastic processes (stationarity and ergodicitys, IID and white noise, martingales, martingale difference sequences) and limit theorems for IID and MDS). Application to large sample theory of least-squares estimation. GMM and the method of instrumental variables The method of maximum likelihood: (estimation and testing) and its application to linear regression and non-linear regression models. Empirical applications. Use of an econometric and simulation/computational software.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 The purpose is that students acquire the basic tools of econometric research which are of general use in more specialized fields of research and which are covered in subsequent courses (Microeconometrics and  Econometrics of Time-Series). An example of such a tool is the method of estimation by maximum likelihood.",
+        "content": "1 Linear regression 1.1 Before modeling 1.2 Modeling by regression 1.2.1 Conditional distribution 1.2.2 Exogeneity 1.2.3 Regression 1.2.4 Linear regression 1.2.5 Identification 1.3 Statistical model 1.3.1 What is a statistical model? 1.3.2 Marginal-Conditional decomposition 1.4 Ordinary Least Squares 1.4.1 Definitions 1.4.2 Geometry of Least Squares 1.4.3 Gauss-Markov Theorem 1.4.4 Testing 1.5 Regression with instrumental variables 1.5.1 Statistical model with instrumental variables 1.5.2 Identification 1.5.3 Estimation by projection 2 Convergence results in linear regression 2.1 Asymptotic properties of Projection estimators 2.1.1 Introduction 2.1.2 Consistency 2.1.3 Asymptotic Normality 2.2 Inference under heteroskedasticity 2.3 Generalized Method of Moments (GMM) 2.3.1 Optimal GMM 2.3.2 Testing for overidentifying restrictions 3 Likelihood 3.1 Extremum estimators 3.1.1 Consistency 3.1.2 Asymptotic Normality 3.2 Maximum likelihood estimation 3.2.1 Definition and consistency 3.2.2 Asymptotic distribution of MLE 3.2.3 Cramer-Rao inequality and asymptotic efficiency",
+        "teaching_methods": "Lectures",
+        "assessment_methods": "A written exam and an oral exam..",
+        "other_info": "Support: lecture notes by S. Van Bellegem",
+        "bibliography": "",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2607",
+        "title": "Public Economics",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Hindriks Jean"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Part 1 Political economy and public sector\r1.\tVoting\r2.\tRent seeking and lobbying\rPart 2 Equity and Redistribution \r3.\tInequality and poverty\rPart 3 Taxation\r4.\tCommodity taxation\r5.\tIncome taxation\rPart 4 Multiple jurisdictions\r6.\tFiscal federalism\r7.\ttax competition\rPart 5 Issue of time\r8.\tIntertemporal efficiency\r9.\tSocial security and pension crisis",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 This course is essentially an evaluation of the role of the public sector in a market economy.  The course will use the most recent economic analysis to (re)consider the efficiency and distributive ef-fects of government intervention.  The optimal design of government  intervention both in terms of public expenditures and tax collection is also studied.  The main objective of the course is to strike a balance between political and market failures in determining the form and the extent of government intervention.  Students taking this course will acquire:\r1\tAn understanding of the design of public spending and tax collection;\r2\tAn understanding of the tradeoff between equity and efficiency\r3\tThe skill to apply economic analysis to the public sector",
+        "bibliography": "Public economics : Hindriks and Myles \" Intermediate Public Economics (2nd edition) \" MIT Press 2013 Hashimzade, Hindriks, and  Myles \"Solutions manual to Accompany Intermediate Public Economics (2nd edition)\" MIT press 2013. Political economy : Bueno de Mesquita, Political Economy for Public Policy, Princeton University Press 2016 General interest : Banerjee and Duflo, “Good Economics for Hard Times” Public affairs, November 2019.",
+        "course_materials": "J.G. Hindriks & G.D. Myles, 2013, Intermediate Public Economics (2nd edition), The MIT Press",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2702",
+        "title": "Advanced course in economics II",
+        "credits": "5.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Panin Amma"
+        ],
+        "teaching_language": "Anglais",
+        "content": "Social Preferences and Economics Decision makers care about their own outcomes as well as the outcomes of other people. The question is how to incorporate these preferences into economic models. There is a risk that simply adding ad-hoc preferences for others' incomes will result in economic theories that “explain everything, and therefore, nothing” (Carpenter, 2010). This seminar will focus on advances in economics to measure and model social preferences, with applications to labour contracts, political participation, and public policy nudges based on social motivations.",
+        "teaching_methods": "Seminar-based discussions of frontier research. Readings to be discussed will be assigned ahead of time.",
+        "assessment_methods": "The structure of evaluations may change according to the health situation, but will likely consist of oral presentations and a written project.",
+        "online_resources": "Slides, homeworks, exercises, compulsory readings will be available on the course webpage on Moodle UCL (http://moodleucl.uclouvain.be/).",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2604",
+        "title": "Advanced International Trade",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Gomes Joseph",
+            "Vannoorenberghe Gonzague"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "The purpose of the course is to equip students with the necessary tools to conduct solid theoretical, quantitative and empirical research in the field of international trade. The theoretical part of the class covers the main models commonly used by practitioners and researchers in international trade. An in-depth study of the different building blocks will bring students to the frontier of modeling in international trade. The empirical component of the course will examine the most recent evidence on the socio-economic and political impacts of increasing trade integration and globalization. Empirical topics will include the effects of China’s entry into the global market, the consequences of trade on political polarization, violent conflict, and various forms of inequality.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 At the end of this learning unit, the student is able to : Understand the key elements of the recent quantitative trade models used both in research and policy work. Apply the main theoretical intuitions developed in class to analyse relevant policy questions in international trade. Understand the econometric methods and datasets used in the latest empirical papers on international trade. Get acquainted with the latest empirical research on international trade with a particular focus on the political economy of trade.",
+        "content": "The course aims to provide students with a comprehensive understanding of recent trade theories and to address some of the most salient empirical questions in international trade. At the end of this course, students should have a good understanding of some of the main questions related to international trade, such as: (i) why do nations/firms trade and what do they trade? (ii) how to quantify the welfare gains from trade? (ii) who benefits and who loses from trade? Under which conditions? A good understanding of these questions is essential to reflect on the contemporary debates linked to globalization and protectionism.",
+        "teaching_methods": "The course consists of interactive lectures.",
+        "assessment_methods": "Oral examination at the end of the course. Note: Students are discouraged from using generative artificial intelligence (AI) systems in this course. However, if AI systems are used during assessments or class activities, they must adhere to the rules outlined in the faculty memorandum on this subject, which is available on the faculty’s intranet site: Note sur l’utilisation responsable des IA — Juillet 2024 .",
+        "other_info": "Students should have a solid background in microeconomics, mathematics, and econometrics.",
+        "bibliography": "We will discuss a number of recent academic papers. The list will be announced at the beginning of the semester.",
+        "course_materials": "Detailed Lecture notes and/or slides.",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1335",
+        "title": "Data Analysis : modélisation et outils d'analyse de données",
+        "credits": "5.00",
+        "hours": "30.0 h + 15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Maystadt Jean-François"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Le cours part de l'application des outils de base de l'économétrie avec des exemples pratiques de modèles écono-miques les plus courants. L'étudiant verra ensuite, à travers l'application des approches diverses à la modélisation de séries temporelles, les problèmes liés à la reconnaissance de résultats apparemment significatifs mais sans contenu réel. Certains outils plus avancés mais essentiels seront aussi abordés. La connaissance de base d'un logi-ciel économétrique est un pré-requis de ce cours. Mais l'étudiant continuera l'apprentissage des méthodes spécifi-quement liées au contenu de ce cours à travers des travaux pratiques.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le cours est un prolongement naturel du cours \"Économétrie : ECGE1316\". L'objectif principal est d'approfondir et d'étendre la formation dans des domaines de la modélisation économétrique. Un accent particulier est mis sur les problèmes spécifiques à la modélisation des séries temporelles, en partant des méthodes enseignées dans le cours \"Économétrie\".",
+        "content": "Le cours est une approche pratique des méthodes économétriques. Après un cours introductif sur « l'inférence causale », le cours sera organisé autour de 4 questions : 1) Pourquoi certains pays sont riches et d'autres pauvres ? 2) Les reources naturelles: Bénédiction ou malédiction? 3) L'instauration d'un salaire minimum est-elle préjudiciable à l'emploi ? 4) Faut-il imposer un âge minimum légal pour la consommation d'alcool? Chaque cours thématique commencera par introduire brièvement l'une des questions économiques ci-dessus et quelques données disponibles pour répondre à cette question. À partir de discussions interactives avec les étudiants, nous utiliserons chaque question pour comprendre les principaux défis d'identification et apprendre à appliquer les méthodes économétriques appropriées. L’objectif n’est pas de donner une réponse définitive à ces questions. A travers ce processus, le cours initiera les étudiants aux méthodes économétriques de base : la méthode des moindres carrés ordinaires, l'approche des variables instrumentales, les méthodes de données de panel avec un accent particulier, sur les méthodes d'estimation par différences-en-différences. Chaque cours thématique se terminera par un rappel de la méthode utilisée.",
+        "teaching_methods": "Les questions économiques proposées nous donnent l'occasion de présenter aux étudiants les méthodes économétriques de base : les moindres carrés ordinaires, l'approche des variables instrumentales, les méthodes de données de panel avec un accent particulier, sur les méthodes d'estimation par différences-en-différences. Le cours est organisé de façon à guider l'apprentissage personnel des élèves (y compris avec un logiciel). Les élèves préparent chaque cours par des lectures préalables, guidées par des questions sur une problématique économique. Chaque séance de cours a pour but de discuter la matière, mais aussi toute autre question, et de synthétiser la matière. A la fin de ce cours, l'étudiant sera en mesure de : • Comprendre les méthodes économétriques standards et leur application aux données économiques • Interpréter les résultats des modèles de régression et définir leurs limites (identifier les hypothèses) • Comprendre l'intuition principale derrière des méthodes plus avancées pour tirer une inférence causale (panel, différence en différence, variables instrumentales, …) • Effectuer des applications pratiques à l'aide des logiciels statistiques disponibles",
+        "assessment_methods": "L'évaluation sera basée sur la remise d'un travail écrit et d'une évaluation orale. La note finale est la moyenne arithmétique des notes reçues pour le travail écrit et l'évaluation orale. L'évaluation orale consistera à mesurer l'atteinte des acquis d'apprentissage à la fois sur base du travail écrit et sur base du cours. Les critères pour le travail écrit sont les suivants: Capacité STATA (appliquer des méthodes au delà de simples OLS) Compréhension des méthodes mises en pratique Originalité Justification de la question de recherche Capacité de construire une base de données Présentation et soin général du travail Point Bonus : Utilisation de Latex Les critères pour la présentation orale sont: Capacité d’expliquer le travail Capacité de réflexion Compréhension des méthodes mises en pratique et celles vues au cours La participation des élèves à la préparation des séances hebdomadaires ainsi qu'aux travaux pratiques auront permis aux étudiants de se préparer à l'évaluation, via des exercises réguliers réalisés en classe. Ces exercises compteront pour 5 points de pourcentage de l'évaluation orale (avec 1 point bonus). Les étudiants qui ne rendent pas les exercices en classe ou qui jugent leur cote insuffisante, ont la possibilité de répondre à une question de substitution sur le cours lors de l’examen orale (pour une même évaluation de 5 points de pourcentage). Les étudiants qui choisissent de conserver leur cote pourront être interrogés sur le cours mais ne devront pas répondre à cette question supplémentaire. Lors de la seconde session, le travail et la présentation se feront sur une base individuelle mais les critères d'évaluation restent identiques. L’utilisation des intelligences artificielles lors des épreuves d’évaluation de ce cours est balisée par les règles mentionnées dans la note facultaire à ce sujet et disponible sur le site intranet de la faculté dans les informations à destination des étudiant.es.",
+        "other_info": "Il est vivement souhaité (bien que pas obligatoire) d’avoir suivi un cours d'économétrie",
+        "online_resources": "Les étudiants seront invités à suivre quelques tutoriels sur l'utilisation de Stata par eux-mêmes.",
+        "bibliography": "Il n'y aura pas de manuel à proprement parler pour ce cours. Des papiers académiques seront donnés pour chaque question économique. Cependant, l'introduction aux méthodes économétriques s'appuiera sur : Angrist and Pischke (2015) Mastering Metrics. Angrist and Pischke (2009) Harmless Econometrics. Wooldridge. Introductory Econometrics",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2067",
+        "title": "Critical Analysis of Market Economies",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teaching_language": "Anglais",
+        "prerequisites": "No prior knowledge of environmental economics is required. Understanding of the basics of microeconomic theory is useful, as well as awareness about contemporary environmental issues.",
+        "topics_covered": "L'idéal, pour un cours de ce niveau Master est d'être modulable, au moins en partie, selon les intérêts de l'enseignant et/ou les éventuelles demandes étudiantes (à condition qu'elles soient exprimées de façon récur-rente et qu'elles puissent être intégrées dans une structuration durable de l'enseignement). Les seules contraintes sont que l'approche du cours soit critique, c'est-à-dire qu'elle fasse droit à un réel débat conceptuel contradic-toire, et que par conséquent il y ait autant que possible une pluralité de points de vue. Un cours exclusivement centré sur les résultats de la théorie standard n'est pas admissible ; une place importante donnée à des visions alternatives, notamment marxistes, ainsi qu'une ouverture interdisciplinaire vers la sociologie et la théorie poli-tique est essentielle. Voici une suggestion de thèmes qui seront jugés compatibles avec ces impératifs : - Are markets compatible with freedom ? - To what extent does capitalism further self-realization or, on the contrary, generate alienation ? - Is the capitalist labor market inherently exploitative ? - Is the allocation of resources through markets compatible with democracy ? - Is competition a fair mechanism ?",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 L'objectif de ce cours est de rendre accessible aux étudiants d'économie avancés un bagage de réflexion critique sur les aspects positifs et négatifs de l'organisation des activités économiques par les mécanismes de marché et, plus largement, par la logique capitaliste : accumulation'profit'concurrence. Le terme \" critique \" signifie ici une attitude de recul réflexif permettant à l'étudiant de clarifier pour lui-même sa position normative à l'égard de l'économie de marché et du capitalisme. Il ne s'agit donc ni d'un cours d'apologie de \" l'efficacité du mar-ché \", ni d'une série de séances de militance \" altermondialiste \" ou autre. Le but est de travailler un ensemble de textes et/ou de structurer un cours magistral qui fournit des outils conceptuels issus aussi bien du mainstream que des approches dites hétérodoxes. Ces outils doivent permettre à l'étudiant, à l'issue de ce cours, de partici-per à la fois à des débats publics dans la société civile et à des échanges au sein du milieu académique.",
+        "content": "Cette année, le cours traitera le sujet suivant : « Economies de marché et problématiques écologiques ». Nous partirons des crises écologiques (et sociales) auxquelles l'humanité est actuellement confrontée. Nous nous interrogerons sur la place et/ou le rôle du marché vis-à-vis de ces crises ; nous aborderons le marché en tant qu'institution centrale des économies contemporaines, en tant qu'horizon normatif de l'analyse économique mainstream, et en tant qu'outil mobilisé pour faire face aux enjeux environnementaux. Les marchés peuvent-ils contribuer à limiter la pollution ? La discipline économique, qui place le marché au c'ur de ses raisonnements, est-elle adéquatement outillée pour s'attaquer aux problèmes écologiques ? Dans quelle mesure les crises socio-écologiques remettent-elles en cause les fondements de l'économie comme discipline ? Notre objectif dans ce cours est d'évaluer de manière systématique la portée et les limites du marché dans la gestion environnementale, à la fois comme outil et comme cadre d'analyse. A la fin du cours, les étudiants seront capables d'évaluer de manière critique la portée et les limites des solutions et visions de marché relatives aux problématiques environnementales.",
+        "teaching_methods": "Les séances sont basées en grande partie sur les lectures. Elles alternent enseignements magistraux et discussion collective des articles. Le cours peut donc être vu comme un séminaire de lecture dans lequel les étudiants jouissent d'un espace de participation substantiel. L'enseignant organise la discussion, apporte des clarifications lorsque c'est nécessaire et propose une synthèse des idées-clés. Le cours exige un important investissement personnel en matière de lectures (2 articles académiques/de recherche par semaine, la plupart en anglais). Les étudiants devront avoir effectué les lectures requises et préparé les questions de discussion à l'amont de chaque séance. Nous nous efforcerons d'équilibrer les éléments théoriques et empiriques de la discussion. Le cours sera donné en anglais.",
+        "assessment_methods": "Examen oral (50%) Essai court (50%)",
+        "bibliography": "Lectures indicatives Une liste détaillée des lectures à faire pour le cours sera distribuée au début du cours. Il s'agit essentiellement d'articles académiques. Reference textbook : Perman, R., Ma, Y., McGilvray, J. and Common, M. (2003), Natural Resources and Environmental Economics, Essex: Pearson Education Limited. Briscoe, J., Anguita Salas, P., Peña, H. T. (1998). Managing Water as an Economic Resource: Reflections on the Chilean Experience. World Bank Environment Department Paper, n°62. Farley, J., Schmitt, A., Burke, M., & Farr, M. (2015). Extending market allocation to ecosystem services: Moral and practical implications on a full and unequal planet. Ecological Economics, 117, 244'252. (I)",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2705",
+        "title": "Advanced Course in Economics V",
+        "credits": "5.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q2",
+        "teaching_language": "Anglais",
+        "content": "Given the intertemporal nature of most economic decisions, the role of expectations is central to macroeconomics. Until recently modern macroeconomic analysis typically relied heavily upon the full-information rational expectations paradigm, which assumes that economic agents are fully informed about their environment, and that they act on expectations that are rational given the available information. With the increased availability of well-designed survey data, a growing body of empirical work has questioned both these hypotheses, and a number of alternative models for expectations formation and equilibrium have been put forward. The aim of this course is to discuss with the students some of the recent evidence on deviations from the full expectations rational expectations hypothesis. We will then talk about some of the recently proposed alternative models for expectations formation and equilibrium, focusing on work that relaxes rational expectations (rather than relaxing full information). For example, we will look at : Models that introduce cognitive discounting of the future (e.g. McKay, Nakamura and Steinsson, 2017 and Gabaix, 2019). Diagnostic expectations, which overweigh more “representative” information (Bordalo, Gennaioli, and Shleifer, 2018, Bianchi, Ilut and Saijo, 2021). Models in which economic agents maintain as possible many models, but are unable to assign exact probabilities to any of these models (e.g. Ilut and Schneider, 2014). Models that relax the idea of common knowledge, introducing k-level thinking, (Garcıa-Schmidt and Woodford, 2019; Farhi and Werning, 2019)",
+        "teaching_methods": "This is an advanced class based mostly on the papers listed below. Students are expected to engage actively in the class, read the material ahead and participate in discussions. The expectation is that the class will be taught in person, subject to the evolving situation with Covid-19.",
+        "assessment_methods": "For the evaluation students will prepare and present in class an extended \"discussion\" of a relevant paper to be chosen in agreement with the teacher of the course. The final grade is awarded based on the presentation. What does \"discussion\" mean exactly? Academic conferences often feature a discussant, who speaks after the presenter of a paper. They generally summarise the paper and provide in depth comments on the paper being presented, highlighting the key contributions as well as the drawbacks and issues with the paper.",
+        "online_resources": "Slides and other relevant materials are available on Moodle.",
+        "bibliography": "This class is based on the following papers, and other relevant ones that might appear between now and then. Angeletos, George-Marios, and Zhen Huo. 2021. \"Myopia and Anchoring.\" American Economic Review , 111 (4): 1166-1200. Bianchi, F., C. Ilut and H. Saijo (2021), Diagnostic Business Cycles, mimeo https://drive.google.com/file/d/1Wr_apT8fyJqtQvTzUGzJGxkyfIUDsDuK/view Bordalo, P., N. Gennaioli, Y, Ma and A. Shleifer,« Overreaction in Macroeconomic Expectations », AMERICAN ECONOMIC REVIEW, VOL. 110, NO. 9, SEPTEMBER 2020 Bordalo, P. Nicola Gennaioli, and Andrei Shleifer, “Diagnostic expectations and credit cycles,” The Journal of Finance, 2018, 73 (1), 199–227. Coibion, O. Y Gorodnichenko, S Kumar, M Pedemonte 2020. Inflation expectations as a policy tool? Journal of International Economics 124, Coibion, O. and Y. Gorodnichenko, « Information Rigidity and the Expectations Formation Process: A Simple Framework and New Facts » 2015. American Economic Review 105(8), 2644-2678. Farhi, Emmanuel, and Iván Werning. 2019. \"Monetary Policy, Bounded Rationality, and Incomplete Markets.\" American Economic Review, 109 (11): 3887-3928. Gabaix, Xavier. 2019. “Behavioral Inattention.” Handbook of Behavioral Economics, 2: 261–344. https://scholar.harvard.edu/files/xgabaix/files/behavioral_inattention_02.pdf Gabaix X. A Behavioral New Keynesian Model . American Economic Review. 2020;110 (8) :2271-2327. https://scholar.harvard.edu/files/xgabaix/files/behavioral_new_keynesian_model.pdf García-Schmidt, Mariana, and Michael Woodford. 2019. \"Are Low Interest Rates Deflationary? A Paradox of Perfect-Foresight Analysis.\" American Economic Review, 109 (1): 86-120. Ilut, Cosmin L., and Martin Schneider. 2014. \"Ambiguous Business Cycles.\" American Economic Review , 104 (8): 2368-99. Masolo, R.M. and F. Monti, « Ambiguity, Monetary Policy and Trend Inflation, » Journal of the European Economic Association, Volume 19, Issue 2, April 2021, Pages 839–871, McKay, A., E. Nakamura and Jón Steinsson (2017) : The Discounted Euler Equation: A Note, Economica, 84, 820-831, October 2017 https://eml.berkeley.edu/~enakamura/papers/discountedEuler.pdf",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1230",
+        "title": "Mathématiques en économie et gestion  II",
+        "credits": "6.00",
+        "hours": "45.0 h + 30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Klaessens Pieter"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "L'enseignement met l'accent sur la démarche de modélisation, et sur la résolution d'applications ou pro-blèmes en sciences économiques, politiques et sociales à l'aide de méthodes mathématiques ou de logique formelle. Il vise à développer une démarche systématique d'analyse et de résolution.\rPartie 1 : Algèbre Linéaire.\rIndépendance linéaire, bases, espaces vectoriels. Théorème fondamental de l'algèbre linéaire. Valeurs et vecteurs propres. Diagonalisation.  Systèmes dynamiques. Formes quadratiques. \r\rPartie 2 : Analyse et Optimisation des fonctions à plusieurs variables\rThéorème des fonctions implicites, dérivées partielles d'ordre supérieur, matrice Hessienne. Optimisation libre et Optimisation sous contraintes (égalités et inégalités). Applications.\r\rPartie 3 : Introduction à la programmation linéaire.\rModélisation et formulation mathématique de problèmes d'aide à la décision et d'optimisation. Primal simplexe, Dual simplexe, interprétation économique du dual, Analyse de sensibilité.\r\r\r\r\rChaque thème est abordé à l'aide d'exemples et d'illustrations en sciences économiques et de gestion.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Ce second cours de mathématiques est la suite du cours   Mathématiques 1 et est consacré principalement à l'algèbre et au calcul matriciel, à la programmation linéaire et à l'optimisation des fonctions de plusieurs variables. On peut résumer les objectifs généraux et finalités du cours à deux dimensions essentielles :\r- L'apprentissage de l'outil mathématique (ce qui vise directement un ensemble de savoirs). L'acquis devrait être une capacité raisonnable à manipuler les notions étudiées dans le cours, qui sont les notions fondamenta-les utilisées dans les modèles et méthodes quantitatifs en sciences sociales.\r-\tL'apprentissage d'un raisonnement formalisé et rigoureux (ce qui est plus difficile à atteindre et vise da-vantage des \" savoir faire \" de modélisation mathématique)",
+        "content": "Algèbre linéaire : partie libre, partie génératrice, base et dimension d'un espace vectoriel. Sous-espace vectoriel d'un espace vectoriel. Applications linéaires, noyau et image d'une application linéaire. Valeurs propres, vecteurs propres d'une matrice. Formes quadratiques et signe d'une forme quadratique. Calcul différentiel à plusieurs variables. Optimisation libre. Optimisation sous contraintes d'égalités (Lagrangien), optimisation sous contraintes d'inégalités (Kuhn-Tucker). Programmation linéaire (Primal-dual). Le théorème de l'enveloppe, analyse de sensibilité. Interprétation des multiplicateurs.",
+        "teaching_methods": "Cours magistraux et seances de travaux pratiques",
+        "assessment_methods": "La note est établie par un examen écrit final. Un test intermediaire pourrait être organisé également.",
+        "other_info": "Pré-requis : cours de Mathématiques en économie et gestion I",
+        "online_resources": "Notes de cours et exercices pour les travaux pratiques disponibles sur Moodle",
+        "course_materials": "Mathématiques pour économistes de Simon & Blume, éditions de boeck (non obligatoire).",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2704",
+        "title": "Advanced Course in Economics IV",
+        "credits": "5.00",
+        "hours": "15.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            "Panin Amma"
+        ],
+        "teaching_language": "Anglais",
+        "content": "Experimental Economics Experiments are increasingly ubiquitous in economics — in the lab, in the field, on the internet, in government. This seminar will focus on the design of experiments and the interpretation of the data that they produce. The discussions will pay particular attention to the role experiments play in advancing theory, and the different econometric framing that may be desirable when researchers design their own data generating processes.",
+        "teaching_methods": "Seminar-based discussions of frontier research. Papers to be discussed will be assigned ahead of time.",
+        "assessment_methods": "The structure of evaluations may change according to the health situation, but will likely consist of oral presentations and a written project.",
+        "online_resources": "Slides, homeworks, exercises, compulsory readings will be available on the course webpage on Moodle UCL (http://moodleucl.uclouvain.be/).",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2622",
+        "title": "Advanced Intern Monetary Eco - KU Leuven",
+        "credits": "5.00",
+        "hours": "",
+        "quadrimester": "> Horaire",
+        "teaching_language": "Français",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2065",
+        "title": "History of Economic Thought",
+        "credits": "5.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Pensieroso Luca"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "It is supposed that graduate students have already had some general introduction to the history of economic theories. Therefore this course will rather deal with special topics to be studied in depth. Possible topics are: the evolution of the meaning of equilibrium in economic theory; evolving conceptions of rationality in economic theory; the history of macroeconomics; controversies over involuntary unemployment in economic theory., the history of welfare theory, etc.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 This course belongs to the group of critical courses aiming at complementing the technical education offered to our master students with a more philosophical, methodological and historical reflection. It should help students to get a broader per-spective in an age of specialization and emphasis on technical skills. Moreover, it should also alert them to the fact that pro-gress in economic theory, however elusive it may be, goes along with controversies and scientific revolutions.",
+        "bibliography": "Galì J. (2002), “New Perspective on Monetary Policy, Inflation and the Business Cycle”, Discussion Paper 3210 , CEPR. Friedman M. (1968), “The Role of Monetary Policy”, American Economic Review , Vol. 58, pp. 1-17. Hicks J. R. (1936), “Mr Keynes and the “Classics”: A Suggested Interpretation”, Econometrica , Vol. 5, pp. 147-159. Keynes J. M. (1936), The General Theory of Employment, Interest, and Money , Palgrave Macmillan, London. Lucas R. E. Jr. (1980), “Methods and Problems in Business Cycle Theory”, Journal of Money, Credit and Banking , Vol. 12, pp. 696-715. Lucas R. E. Jr. (1978), “Unemployment Policy”, American Economic Review , Vol. 68, pp. 353-357. Lucas R. E. Jr. (1977), “Understanding Business Cycles”, in Studies in Business Cycle Theory , pg. 215-239, the MIT Press. McCallum B. T. and E. Nelson (1999), “An Optimizing IS-LM Specification for Monetary Policy and Business Cycle Analysis”, Journal of Money, Credit and Banaking , vol. 31, pp. 296-316. Modigliani F. (1944), “Liquidity Preference and the Theory of Interest and Money”, Econometrica , Vol. 12, pp. 45-88. Prescott E. C. (1986), “Theory Ahead of Measurement”, Federal Reserve Bank of Minneapolis Quarterly Review , Vol. 10, pp. 9-22. Prescott E. C. (1986), “Response to a Skeptic”, Federal Reserve Bank of Minneapolis Quarterly Review , Vol. 10, pp. 28-33. Solow R. M. (1956), “A Contribution to the Theory of Economic Growth”, Quarterly Journal of Economics , Vol. 70, pp. 65-94. Summers L. H. (1986), “Some Skeptical Observation on Real Business Cycle Theory”, Federal Reserve Bank of Minneapolis Quarterly Review , Vol. 10, pp. 23-37. Tobin J. (1969), “A General Equilibrium Approach to Monetary Theory”, Journal of Money, Credit and Banking , Vol. 1, pp. 15-29. Wicksell K. (1898), Interest and Prices , Macmillan, London 1936. (You can also download a free pdf file here: http://archive.org/details/interestandprice033322mbp ) Wicksell K. (1907), “The Influence of the Rate of Interest on Prices”, Economic Journal , 17, 213-220. Athreya, K. B. (2013), Big Ideas in Macroeconomics , MIT Press. Barnett W. A. and R. Solow (2000), “An Interview with Franco Modigliani”, Macroeconomic Dynamics , Vol. 4, pp. 222-256. Blanchard, O. J. (2008), “The State of Macro”, Working Paper 14259 , National Bureau of Economic Research. Chari V. V., P. J. Kehoe and E. R. McGrattan (2009), “New Keynesian Models: Not Yet Useful for Policy Analysis”, American Economic Journal: Macroeconomics , Vol. 1, pp. 242-266. Chari V. V. and P. J. Kehoe (2008), “Response to Solow”, Journal of Economic Perspectives , Vol. 22, pp. 247-250. Chari V. V. and P. J. Kehoe (2006), “Modern Macroeconomics in Practice: How Theory is Shaping Policy”, Journal of Economic Perspectives , Vol. 20, pp. 3-28. Christiano L. J., M. Eichenbaum and C. L. Evans (2005), “Nominal Rigidities and the Dynamic Effects of a Shock to Monetary Policy”, Journal of Political Economy , Vol. 113, pp. 1-45. Christiano L. J., M. Eichenbaum and M. Trabandt, “On DSGE Models”, Journal of Economic Perspectives , Vol. 32, pp. 113-140. Colander, D. (1999), “Conversations with James Tobin and Robert Schiller on the “Yale Tradition” in Macroeconomics”, Macroeconomic Dynamics , Vol. 3, pp. 116-143. De Vroey M. (2016), A History of Macroeconomics, from Keynes to Lucas and beyond , Cambridge University Press, Cambridge, UK. De Vroey M. (2004), Involuntary Unemployment, the Elusive Quest for a Theory , Routledge, London. De Vroey M. (2000), “IS-LM à la Hicks versus IS-LM à la Modigliani”, History of Political Economy , Vol. 32, pg. 293-317. De Vroey M. and P. Malgrange, “The History of Macroeconomics from Keynes’s General Theory to the Present”, Discussion Paper 2011-28 , IRES, Université catholique de Louvain. Garegnani P. (1978), “Notes on Consumption, Investment and Effective Demand: I”, Cambridge Journal of Economics , Vol. 2, pg. 335-353. Garegnani P. (1979), “Notes on Consumption, Investment and Effective Demand: II”, Cambridge Journal of Economics , Vol. 3, pg. 63-82. Goodfriend M. and R. G. King (1997), “The New Neoclassical Synthesis and the Role of Monetary Policy”, in NBER Macroeconomics Annual 1997 , Vol. 12 pp. 231-296. Hansen A. H. (1953), A Guide to Keynes , McGraw-Hill. Harrod R. F. (1939), “An Essay in Dynamic Theory”, Economic Journal , Vol. 49, pp. 14-33. Keynes J. M. (1937), “The General Theory of Employment”, Quarterly Journal of Economics , Vol. 51, pp. 209-223. Solow R. M. (2008), “The State of Macroeconomics”, Journal of Economic Perspectives , Vol. 22, pp. 243-246. Solow R. M. (2002), “From Neoclassical Growth Theory to New Classical Macroeconomics”, in Advances in Macroeconomic Theory , edited by Jacques Drèze, Palgrave Macmillan, London, 2003. Smets F. and R. Wouters (2003), “An Estimated Dynamic Stochastic General Equilibrium Model of the Euro Area”, Journal of the European Economic Association , vol. 1, pp. 1123-1175. Stiglitz J.E. (2018), “Where Modern Macroeconomics Went Wrong”, Oxford Review of Economic Policy , Vol 34, pp. 70-106. Woodford M. (1999), “Revolution and Evolution in Twentieth-Century Macroeconomics”, mimeo (downloaded on June 13th 2012 from Woodford’s homepage at Columbia, http://www.columbia.edu/~mw2230/ )",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2625",
+        "title": "Fixed Income Securities - KU Leuven",
+        "credits": "5.00",
+        "hours": "",
+        "quadrimester": "> Horaire",
+        "teaching_language": "Français",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1121",
+        "title": "Histoire économique et sociale",
+        "credits": "4.00",
+        "hours": "30.0 h",
+        "quadrimester": "Q1",
+        "teachers": [
+            "Debruyne Emmanuel"
+        ],
+        "teaching_language": "Français",
+        "topics_covered": "Le cours porte essentiellement sur la période qui débute à la fin du 19ème siècle et se poursuit jusqu'à nos jours en abordant, d'une part, les sources rapprochées de l'histoire du 20ème siècle (révolutions industrielles, démographiques et du rapport à l'espace), et, d'autre part, les sphères économique, sociale, politique et culturelle et leur évolution de la Belle époque à la crise de la fin du 20ème siècle. Dans ce contexte, trois objectifs sont poursuivis. Le premier est l'information : le cours fournit un certain nombre d'éléments de base du point de vue événementiel ou indique les moyens de les obtenir via différentes références bibliographiques. Le second est la compréhension. Au-delà des événements, se laissent percevoir des mouvements, des évolutions, dont le cours tente de démontrer la signification ou les sens qui peuvent leur être donnés. D'un point de vue pédagogique, cette préoccupation se marque plus particulièrement par l'analyse de dossiers traitant des grandes crises du 20ème siècle : les grandes guerres, la crise de 1921, la crise de 1929, la crise des démocraties, la crise de la fin du 20ème siècle. Le troisième objectif est fondamentalement critique et vise à mettre en évidence la nature multiple et le caractère relatif des informations disponibles et les précautions indispensables à prendre dans l'utilisation de ces informations",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Prenant comme point de départ la société d'aujourd'hui marquée par une mutation technologique, sociale et économique, l'objectif du cours est, en s'inscrivant dans la durée du temps historique, de chercher à prendre distance. Le cours vise ainsi à procurer une lecture historique de la période contemporaine, et particulièrement du 20ème siècle, dont les racines sont à retrouver dans la rupture avec l'Ancien régime à partir de 1750 et dans la deuxième révolution industrielle après les années 1880. Il s'agit de contribuer à fournir aux étudiants de meilleurs instruments de lecture du présent par une compréhension du passé qui doit les aider à une réflexion sur l'élaboration de l'avenir.",
+        "content": "Le cours porte sur l'histoire économique et sociale de l'Europe (en interaction constante avec le reste du monde), durant la période s'étendant du milieu du 18e siècle à nos jours. Il aborde les grandes transformations des sociétés et des économies occidentales sous l'effet de la dynamique de la modernité et du capitalisme, à la fois au travers de phénomènes de fond (Révolution industrielle, révolution des transports, etc.) et au travers d'une périodisation permettant de dégager les principales évolutions économiques et sociales, en rapport également avec les principaux changements culturels, idéologiques et politiques. Le cours est construit autour de chapitres chronologiques qui permettent de séquencer l'évolution des sociétés. Son successivement abordés les sociétés européennes vers 1750, la Première Révolution industrielle, l'essor du capitalisme industriel, la Seconde Révolution industrielle, l'« Âge des catastrophes » (1914-1945), et les évolutions les plus récentes (1945-). Ces chapitres font également intervenir un certain nombre de focus dépassant les limites chronologiques inhérentes à chaque chapitre et qui portent sur des phénomènes (disparition de l'esclavage, crises économiques, etc.) ou de concepts (cycles économiques, économie-monde, transition démographique, etc.) s'inscrivant dans la durée. Les différentes thématiques abordées sont à plusieurs reprises complétées par des approches offrant un éclairage différent, telles que l'analyse d'une oeuvre d'art pour faire ressortir certains traits saillants d'évolutions socio-économiques majeures et de les mettre en lien avec l'histoire culturelle des sociétés, ou la mise en lumière de débats historiographiques concernant le sens donné à certains phénomènes.",
+        "teaching_methods": "Le cours consistera en une série d'exposés magistraux, appuyés par un PowerPoint et par une bibliographie. . Trois titres de la bibliographie sont particulièrement conseillés aux étudiants, qui doivent choisir d'en lire au moins un. Une ou plusieurs questions de l'examen porteront sur l'ouvrage choisi individuellement.",
+        "assessment_methods": "La matière du cours porte sur le contenu abordé en séance ainsi que sur une lecture au choix. L'examen de janvier se basera sur un questionnaire à choix multiples (QCM), ainsi que sur une question ouverte. La forme de l'examen est identique pour chacune des sessions. Les intelligences artificielles (IA) génératives doivent être utilisées de manière responsable et conformément aux pratiques de l’intégrité académique et scientifique. L'intégrité scientifique impliquant que l'on cite ses sources, l'usage d'une IA doit toujours être signalé. L'utilisation des intelligences artificielles pour les tâches où celles-ci sont explicitement interdites sera considérée comme un cas de tricherie.",
+        "other_info": "Les séances de cours commencent dès la première semaine. Un chapitre du cours ne se donnera pas en séance, mais sera accessible en ligne.",
+        "online_resources": "Les projections powerpoint relatives aux séances de cours, la présentation du premier chapitre, ainsi que des documents supplémentaires, seront disponibles via la plateforme Moodle sur le site du cours. L'évaluation intermédiaire aura lieu en ligne sur Moodle. Si les circonstances sanitaires l'exigent, il en ira de même des examens des différentes sessions.",
+        "bibliography": "Une bibliographie est fournie aux étudiants. Au sein de celle-ci, trois ouvrages sont particulièrement conseillés aux étudiants pour l'appropriation de la matière: Patrick Verley, La Révolution industrielle , Paris, Gallimard, 2013 (1ère éd. 1997). Ivan T. Berend , Histoire économique de l’Europe du XXe siècle , 2e éd., Louvain-la-Neuve, De Boeck, 2018 (1ère éd. 2008). Sven Beckert, Empire of Cotton. A Global History , New York, Alfred A. Knopf, 2015..",
+        "course_materials": "PowerPoint du cours et bibliographie, accessibles sur Moodle.",
+        "responsible_entity": "ESPO"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecon2112",
+        "title": "Advanced Microeconomics II: game theory and information economics",
+        "credits": "5.00",
+        "hours": "30.0 h + 6.0 h",
+        "quadrimester": "Q2",
+        "teachers": [
+            ". SOMEBODY",
+            "Maniquet François"
+        ],
+        "teaching_language": "Anglais",
+        "topics_covered": "Building upon the tools of decision and game theory acquired in Advanced Microeconomics I, the course is divided in two main sections. In the first section, General Competittive Analysis is developed both in its positive and normative dimensions.  In the second section, the problem of designing efficient allocation mechanisms is studied in a general perspective. Incomplete information and incentives issues are introduced. The design of auctions and public good mechanisms is included.",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 The objective of the course is to provide the basic microeconomic  tools to be used in the analysis of problems of resource allocation by economists working in research, in businees or in various organisations. The course adopts both a positive and a normative approach. It includes recent advances of the theory and aims at develop-ing the capacity to apply economic concepts to real-world problems.",
+        "other_info": "",
+        "responsible_entity": "ECON"
+    },
+    {
+        "url": "https://uclouvain.be/cours-2024-lecge1222",
+        "title": "Microéconomie",
+        "credits": "5.00",
+        "hours": "45.0 h + 15.0 h",
+        "quadrimester": "Q1 ou Q2",
+        "teachers": [
+            "Johnen Johannes",
+            "Khatibi Arastou",
+            "Khatibi Arastou",
+            "Khatibi Arastou",
+            "Maniquet François"
+        ],
+        "teaching_language": "Français",
+        "prerequisites": "Le(s) prérequis de cette Unité d’enseignement (UE) sont précisés \n                à la fin de cette fiche, en regard des programmes/formations qui \n                proposent cette UE.",
+        "topics_covered": "Le cours suit une approche classique, partant de l'analyse du problème du consommateur, poursuivant avec le problème du producteur et débouchant enfin sur l'analyse de l'équilibre général, du bien-être social et des externalités. Les raisonnements utilisés sont de trois types : discursif, graphique, et mathématique. Un accent tout particulier est mis sur le passage au raisonnement formel et sur l'interprétation des résultats obtenus avec son aide, ainsi que sur les applications des outils théoriques à travers de multiples exercices",
+        "learning_outcomes": "A la fin de cette unité d’enseignement, l’étudiant est capable de : 1 Le cours de microéconomie vise, au travers de l'étude d'une série de thèmes importants, l'acquisition par les étudiants des outils d'analyse micro-économique dans le but de leur permettre d'utiliser ces outils dans les divers cours d'application ultérieurs. Il permet aussi aux étudiants d'utiliser les outils d'analyse afin d'interpréter des cas concrets dans le domaine de l'économie industrielle et de la régulation des marchés par les pouvoirs publics.",
+        "content": "Le cours couvre les matières classiques d'un premier cours en microéconomie ainsi que quelques sujets plus avancés en fonction des années. Les matières classiques sont la théorie du consommateur, la théorie du producteur, la théorie de l'équilibre général et l'économie de l'information. L'objectif d'un premier cours de microéconomie dans un cursus d'économiste ou de gestionnaire est de commencer à voir comment les outils de l'analyse formelle peuvent être mobilisés pour comprendre le fonctionnement de la société, avec une attention particulière au fonctionnement des marchés.",
+        "teaching_methods": "Pour cette année 2022-2023, le cours se donnera selon la séquence suivante. Pour chaque partie de la matière, - les étudiants commencent par aborder la matière par eux-mêmes à l'aide de capsules vidéo; les étudiants essayent de comprendre et d'assimiler la matière; - les enseignants du cours répondent aux questions des étudiants sur la matière lors de séances fréquentes de Q/R (de l'ordre d'une séance par semaine, sauf exception); lors de ces séances, les étudiants sont amenés à résoudre des exercices; ces exercices sont corrigés pendant le cours; - les étudiants ont des séances de TP en petits groupes; il y a un total de 5 séances de TP sur tout le quadrimestre; les étudiants reçoivent les exercices à résoudre par eux-mêmes avant les séances de TP; lors des séances de TP, les assistants répondent aux questions des étudiants sur ces exercices et aident ceux-ci à les résoudre.",
+        "assessment_methods": "L'évaluation des acquis d'apprentissage des étudiants se fait de deux manières. 1) Évaluation continue: durant le quadrimestre, à la fin de chaque grande partie du cours, il y aura un test. La matière du test sera précisée par l'enseignant dans les jours qui précéderont le test. Chacun des deux tests vaudra pour 2 points sur 20. Il s'agit donc de questions à résoudre pendant le cours, les étudiants pouvant disposer de leurs notes de cours ou pas selon les précisions données par l'enseignant, sur la matière contenue dans les capsules vidéo que les étudiants doivent avoir étudié par eux-mêmes. Les notes obtenues à ces deux tests, pour un total de 4 points compteront également pour la session d'août. 2) Examen écrit: l'examen final est un examen écrit à livre fermé qui vaut pour 16 points sur les 20 du total. Il est important que les étudiants soient capables de restituer la matière et de l'appliquer sans se référer aux supports du cours. Pour les étudiants qui auront des absences justifiées aux tests, la somme des notes obtenues aux tests et à l'examen final sera adaptée proportionnellement pour finir par être une note sur 20. Toute note finale qui n'est pas un nombre entier est arrondie à l'entier le plus proche, une note de n.5 étant arrondie à n+1.",
+        "other_info": "Les enseignants de ce cours mettent à disposition des étudiants des documents succincts reprenant le coeur de la matière. De nombreux ouvrages de référence existent, avec une mention particulière pour le manuel de H. Varian, disponible en bibliothèque en de nombreux exemplaires (la matière vue au cours est couverte par toutes les éditions du livres disponible en BESPO).",
+        "bibliography": "Hal Varian, Introduction à la microéconomie, De Boeck Supérieur, 4è Edition ou une édition plus récente.",
+        "course_materials": "Les slides \"powerpoint\" du cours sont disponibles via moodle.",
+        "responsible_entity": "ESPO"
+    }
+]
