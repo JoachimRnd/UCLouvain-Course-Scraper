@@ -258,10 +258,8 @@ class UCLouvainCourseScraper:
 
         # Decide if the course matches
         if include_keywords and not include_match:
-            print("include_keywords", course['title'])
             match = False
         if exclude_keywords and exclude_match:
-            print("exclude_keywords", course['title'])
             match = False
 
         return course if match else None
